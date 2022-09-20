@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "6589 E 700 N, Windfall, IN 46076, USA",
+      "300 S 460 E, Kokomo, IN 46902, USA",
+      "6001-6965 300 S, Kokomo, IN 46902, USA",
+      "8752-8248 300 S, Greentown, IN 46936, USA",
+      "1065 300 S, Greentown, IN 46936, USA",
+      "3340 1250 E, Greentown, IN 46936, USA"
+   ],
+   "origin_addresses" : [ "210 S Independence St, Windfall, IN 46076, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9828
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 598
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15164
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 708
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12049
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 7991
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 489
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9793
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 549
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13392
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 642
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

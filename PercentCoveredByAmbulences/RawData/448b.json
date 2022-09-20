@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "Lake County, IN, USA",
+      "Unnamed Road, Hammond, IN 46320, USA",
+      "Lake County, IN, USA",
+      "Unnamed Road, East Chicago, IN 46312, USA",
+      "Lake County, IN, USA",
+      "Lake County, IN, USA"
+   ],
+   "origin_addresses" : [ "2301 E Columbus Dr, East Chicago, IN 46312, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7175
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 614
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12517
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1133
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8444
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 720
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9508
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1080
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10157
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1186
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8453
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

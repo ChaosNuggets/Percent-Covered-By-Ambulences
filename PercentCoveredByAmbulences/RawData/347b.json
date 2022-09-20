@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2321 N 400 E, Winchester, IN 47394, USA",
+      "3346 W 400 N, Winchester, IN 47394, USA",
+      "4001-4755 County Rd 200 W, Winchester, IN 47394, USA",
+      "4470-4200 US-27, Winchester, IN 47394, USA",
+      "4998-4000 County Rd 250 E, Winchester, IN 47394, USA",
+      "4472 N 400 E, Winchester, IN 47394, USA"
+   ],
+   "origin_addresses" : [ "100 E South St, Winchester, IN 47394, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9881
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 619
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11325
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 627
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8827
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 595
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6510
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 445
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9252
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 667
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13097
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

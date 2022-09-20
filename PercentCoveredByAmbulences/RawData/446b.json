@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "8035 Underwood Dr, Hobart, IN 46342, USA",
+      "1118 S Cline Ave, Schererville, IN 46375, USA",
+      "Turkey Creek Trail, Schererville, IN 46375, USA",
+      "6408 Arthur St, Merrillville, IN 46410, USA",
+      "6400 Kentucky Pl, Merrillville, IN 46410, USA",
+      "6550 Clay St, Merrillville, IN 46410, USA"
+   ],
+   "origin_addresses" : [ "2293 N Main St, Crown Point, IN 46307, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10028
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 876
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10222
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 836
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8046
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 738
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7666
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 673
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11706
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 898
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13341
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 987
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

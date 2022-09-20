@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2225 Locust St, Portage, IN 46368, USA",
+      "300 N Buchanan St, Gary, IN 46402, USA",
+      "200 Martin Luther King Dr, Gary, IN 46402, USA",
+      "Unnamed Road, Gary, IN 46403, USA",
+      "7330-34 Indian Boundary, Gary, IN 46403, USA",
+      "W Beach Rd, Gary, IN 46403, USA"
+   ],
+   "origin_addresses" : [ "122 Huber Blvd, New Chicago, IN 46342, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7795
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.7 mi",
+                  "value" : 18898
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1561
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11177
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 931
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13538
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1266
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9130
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 869
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10992
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 940
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

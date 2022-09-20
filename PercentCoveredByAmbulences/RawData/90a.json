@@ -1,123 +1,29 @@
 {
    "destination_addresses" : [
-      "12845 S County Rd 775 W, Center Point, IN 47840, USA",
-      "12711 S County Rd 575 W, Poland, IN 47868, USA",
-      "12782 S County Rd 375 W, Poland, IN 47868, USA",
-      "Lieber Rd, Cloverdale, IN 46120, USA",
-      "E County Rd 1275 S, Cloverdale, IN 46120, USA",
-      "12999-12701 N County Rd 200 E, Cloverdale, IN 46120, USA",
-      "12728 S Co Rd 450 E, Cloverdale, IN 46120, USA",
-      "7859 W County Rd 1100 S, Reelsville, IN 46171, USA",
       "10773 S 600 W, Center Point, IN 47840, USA",
       "3897-4199 W County Rd 1075 S, Reelsville, IN 46171, USA",
       "2061-1071 W County Rd 1050 S, Cloverdale, IN 46120, USA",
       "10497 S Co Rd 10 E, Cloverdale, IN 46120, USA",
       "2510 E County Rd 1050 S, Cloverdale, IN 46120, USA",
-      "4399-3839 IN-42, Cloverdale, IN 46120, USA",
-      "8128-8060 800 W, Reelsville, IN 46171, USA",
       "8888-9298 S County Rd 550 W, Reelsville, IN 46171, USA",
       "8886 S Co Rd 350 W, Reelsville, IN 46171, USA",
       "8950 S St Rd 243, Cloverdale, IN 46120, USA",
       "Dwight D. Eisenhower Hwy, Cloverdale, IN 46120, USA",
       "Dwight D. Eisenhower Hwy, Cloverdale, IN 46120, USA",
-      "8763 S Co Rd 450 E, Cloverdale, IN 46120, USA",
-      "6831 S County Rd 800 W, Reelsville, IN 46171, USA",
       "6477 S County Rd 625 W, Reelsville, IN 46171, USA",
       "6979 S County Rd 445 W, Greencastle, IN 46135, USA",
-      "Unnamed Road, Greencastle, IN 46135, USA"
+      "Unnamed Road, Greencastle, IN 46135, USA",
+      "483 700 S, Cloverdale, IN 46120, USA",
+      "6933-6001 N County Rd 250 E, Greencastle, IN 46135, USA",
+      "4950 S County Rd 600 W, Greencastle, IN 46135, USA",
+      "5000-5222 Manhattan Rd, Greencastle, IN 46135, USA",
+      "200 W, Greencastle, IN 46135, USA",
+      "4701-5399 S Meridian Line Rd, Cloverdale, IN 46120, USA"
    ],
    "origin_addresses" : [ "1927 US-40, Greencastle, IN 46135, USA" ],
    "rows" : [
       {
          "elements" : [
-            {
-               "distance" : {
-                  "text" : "11.8 mi",
-                  "value" : 18928
-               },
-               "duration" : {
-                  "text" : "18 mins",
-                  "value" : 1065
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.7 mi",
-                  "value" : 13966
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 823
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.8 mi",
-                  "value" : 15844
-               },
-               "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1008
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.5 mi",
-                  "value" : 15302
-               },
-               "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1020
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.9 mi",
-                  "value" : 14374
-               },
-               "duration" : {
-                  "text" : "15 mins",
-                  "value" : 912
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "13.2 mi",
-                  "value" : 21307
-               },
-               "duration" : {
-                  "text" : "19 mins",
-                  "value" : 1155
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "12.8 mi",
-                  "value" : 20627
-               },
-               "duration" : {
-                  "text" : "18 mins",
-                  "value" : 1076
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.8 mi",
-                  "value" : 15710
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 857
-               },
-               "status" : "OK"
-            },
             {
                "distance" : {
                   "text" : "9.7 mi",
@@ -170,28 +76,6 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 919
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "10.9 mi",
-                  "value" : 17484
-               },
-               "duration" : {
-                  "text" : "15 mins",
-                  "value" : 892
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.3 mi",
-                  "value" : 11735
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 576
                },
                "status" : "OK"
             },
@@ -252,28 +136,6 @@
             },
             {
                "distance" : {
-                  "text" : "9.7 mi",
-                  "value" : 15624
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 804
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.9 mi",
-                  "value" : 11058
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 499
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
                   "text" : "6.1 mi",
                   "value" : 9862
                },
@@ -302,6 +164,72 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 178
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5429
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 337
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10534
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 515
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8257
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 557
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4836
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 340
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3195
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 405
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5400
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 389
                },
                "status" : "OK"
             }

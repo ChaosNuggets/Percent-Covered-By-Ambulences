@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "6225 E Collins Ln, Bloomington, IN 47408, USA",
+      "4360 N Castlewood Ct, Bloomington, IN 47404, USA",
+      "I-69, Bloomington, IN 47404, USA",
+      "1812 E Bethel Ln, Bloomington, IN 47408, USA",
+      "4127 E Bethel Ln, Bloomington, IN 47408, USA",
+      "4600 N Benton Dr, Bloomington, IN 47408, USA"
+   ],
+   "origin_addresses" : [ "220 E 3rd St, Bloomington, IN 47401, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10022
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 924
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9093
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7329
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 589
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7256
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 661
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10652
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 865
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12932
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1065
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

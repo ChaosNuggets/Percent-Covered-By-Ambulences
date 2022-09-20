@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "11194 S 200 W, Bunker Hill, IN 46914, USA",
+      "6096 E 900 E, Walton, IN 46994, USA",
+      "7977 E Co Rd 900 S, Galveston, IN 46932, USA",
+      "9499-9001 S County Rd 1000 E, Galveston, IN 46932, USA",
+      "S 400 W, Bunker Hill, IN 46914, USA",
+      "9178 S 200 W, Bunker Hill, IN 46914, USA"
+   ],
+   "origin_addresses" : [ "110 Sycamore St, Galveston, IN 46932, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9172
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 482
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10001
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 514
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7486
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 396
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6373
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 323
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9257
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12915
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 603
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

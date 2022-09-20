@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "801-1099 E 900 S, Kingman, IN 47952, USA",
+      "2170-2398 W Snoddy Rd, Covington, IN 47932, USA",
+      "1287 W 700 S, Veedersburg, IN 47987, USA",
+      "524 W 700 S, Kingman, IN 47952, USA",
+      "2764 US Hwy 41, Veedersburg, IN 47987, USA",
+      "2840 S 270 E, Kingman, IN 47952, USA"
+   ],
+   "origin_addresses" : [ "118 E State St, Kingman, IN 47952, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8864
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 421
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17399
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 938
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10563
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 587
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7436
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 432
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10066
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 480
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12158
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

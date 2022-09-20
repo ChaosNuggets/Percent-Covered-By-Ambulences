@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "68001-68443 Dogwood Rd, Nappanee, IN 46550, USA",
+      "66293 Kenilworth Rd, Lakeville, IN 46536, USA",
+      "18266 Pierce Rd, Lakeville, IN 46536, USA",
+      "66361 Gumwood Rd, Bremen, IN 46506, USA",
+      "14498 Pierce Rd, Wakarusa, IN 46573, USA",
+      "12586 Pierce Rd, Wakarusa, IN 46573, USA"
+   ],
+   "origin_addresses" : [ "1249 Miami Rd, Bremen, IN 46506, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11783
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 511
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12821
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 657
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9792
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 538
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11245
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13484
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 606
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16197
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 721
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

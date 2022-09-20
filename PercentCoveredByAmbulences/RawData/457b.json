@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "200 Martin Luther King Dr, Gary, IN 46402, USA",
+      "3601 Canal St, East Chicago, IN 46312, USA",
+      "IN-912, East Chicago, IN 46312, USA",
+      "Carmeuse Ln, Gary, IN 46406, USA",
+      "Lake County, IN, USA",
+      "Lake County, IN, USA"
+   ],
+   "origin_addresses" : [ "4491 W 5th Ave, Gary, IN 46406, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7502
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10828
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 887
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9518
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 758
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6218
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 867
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7259
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8252
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

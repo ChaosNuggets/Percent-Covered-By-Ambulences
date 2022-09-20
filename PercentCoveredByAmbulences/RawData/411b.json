@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "10001-10999 W 200 N, Wolcott, IN 47995, USA",
+      "14000-14328 County Rd 880 W, Remington, IN 47977, USA",
+      "14724 S 680 W, Remington, IN 47977, USA",
+      "4811 W County Rd 1400 S, Remington, IN 47977, USA",
+      "S 280 W, Remington, IN 47977, USA",
+      "3001-3999 N 1000 W, Wolcott, IN 47995, USA"
+   ],
+   "origin_addresses" : [ "1 N Ohio St, Remington, IN 47977, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9403
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 585
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10205
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 599
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7762
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 493
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8054
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 483
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10438
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13711
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 790
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

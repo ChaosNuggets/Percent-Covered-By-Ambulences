@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "60 Carmen Dr, Valparaiso, IN 46385, USA",
+      "8035 Underwood Dr, Hobart, IN 46342, USA",
+      "7200 W Lincoln Hwy, Crown Point, IN 46307, USA",
+      "760 Joliet Rd, Valparaiso, IN 46385, USA",
+      "262 N 550 W, Valparaiso, IN 46385, USA",
+      "262 N 375 W, Valparaiso, IN 46385, USA"
+   ],
+   "origin_addresses" : [ "1048 N Lakeshore Dr, Crown Point, IN 46307, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12097
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11718
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 832
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8470
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 628
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7712
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 553
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11140
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 753
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13599
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

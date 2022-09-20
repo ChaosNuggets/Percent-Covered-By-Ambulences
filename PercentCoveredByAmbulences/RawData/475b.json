@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "W 300 N, Winamac, IN 46996, USA",
+      "County Rd 500 W, Winamac, IN 46996, USA",
+      "4839 N 300 W, Winamac, IN 46996, USA",
+      "N 100 W, Winamac, IN 46996, USA",
+      "Unnamed Road, Winamac, IN 46996, USA",
+      "500 S 300 E, Winamac, IN 46996, USA"
+   ],
+   "origin_addresses" : [ "623 W 11th St, Winamac, IN 46996, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9839
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 554
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14928
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 787
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11833
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 609
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10703
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 582
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10585
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14224
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 882
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

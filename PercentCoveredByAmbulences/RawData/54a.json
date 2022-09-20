@@ -1,30 +1,24 @@
 {
    "destination_addresses" : [
-      "6589 S 900 W, Lexington, IN 47138, USA",
-      "6864 IN-62, Lexington, IN 47138, USA",
-      "5815 W 750 South Paynesville Rd, Lexington, IN 47138, USA",
-      "6939 S Majors Rd, Hanover, IN 47243, USA",
-      "4408 Corn Creek Rd, Bedford, KY 40006, USA",
-      "3670 New Hope Rd, Bedford, KY 40006, USA",
-      "919 Watson Ln, Bedford, KY 40006, USA",
-      "4600-5552 S Adler Rd, Lexington, IN 47138, USA",
       "7199-7047 County Rd 500 S, Lexington, IN 47138, USA",
       "4000 S Hanover Saluda Rd, Hanover, IN 47243, USA",
       "3457 W 10 Cent Rd, Nabb, IN 47147, USA",
       "464 Buchanan Ln, Milton, KY 40045, USA",
       "1786-2304 Leeport Rd, Milton, KY 40045, USA",
-      "1382 Milton-Bedford Pike, Milton, KY 40045, USA",
-      "3000 S Sharon Hill Rd, Lexington, IN 47138, USA",
       "3023 IN-62, Hanover, IN 47243, USA",
       "3199-3033 S Hanover Saluda Rd, Hanover, IN 47243, USA",
       "Burkhardt Bottom Rd, Milton, KY 40045, USA",
       "Unnamed Road, Locust, KY 40045, USA",
       "298-200 Topper Ln, Milton, KY 40045, USA",
-      "344 Ashtin Ln, Milton, KY 40045, USA",
-      "9260 W Polk Rd, Lexington, IN 47138, USA",
       "7388 W Polk Rd, Lexington, IN 47138, USA",
       "5253 W Greenbriar Rd, Hanover, IN 47243, USA",
-      "1121 S River Bottom Rd, Hanover, IN 47243, USA"
+      "1121 S River Bottom Rd, Hanover, IN 47243, USA",
+      "299-297 Race Track Rd, Milton, KY 40045, USA",
+      "749 Riverview Dr, Milton, KY 40045, USA",
+      "7317 W Interstate Block Rd, Madison, IN 47250, USA",
+      "5398 W Interstate Block Rd, Madison, IN 47250, USA",
+      "455 Meadow Ln, Madison, IN 47250, USA",
+      "Cfp New Rd, Madison, IN 47250, USA"
    ],
    "origin_addresses" : [ "11 N Madison Ave, Hanover, IN 47243, USA" ],
    "rows" : [
@@ -32,96 +26,8 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "10.3 mi",
-                  "value" : 16539
-               },
-               "duration" : {
-                  "text" : "15 mins",
-                  "value" : 923
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.4 mi",
-                  "value" : 13551
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 646
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.7 mi",
-                  "value" : 10856
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 719
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.3 mi",
-                  "value" : 11771
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 840
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "15.4 mi",
-                  "value" : 24790
-               },
-               "duration" : {
-                  "text" : "26 mins",
-                  "value" : 1553
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "19.5 mi",
-                  "value" : 31382
-               },
-               "duration" : {
-                  "text" : "30 mins",
-                  "value" : 1824
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "17.1 mi",
-                  "value" : 27578
-               },
-               "duration" : {
-                  "text" : "27 mins",
-                  "value" : 1646
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "10.4 mi",
-                  "value" : 16793
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 980
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
                   "text" : "6.5 mi",
-                  "value" : 10524
+                  "value" : 10525
                },
                "duration" : {
                   "text" : "10 mins",
@@ -132,7 +38,7 @@
             {
                "distance" : {
                   "text" : "4.1 mi",
-                  "value" : 6562
+                  "value" : 6563
                },
                "duration" : {
                   "text" : "7 mins",
@@ -143,7 +49,7 @@
             {
                "distance" : {
                   "text" : "6.1 mi",
-                  "value" : 9752
+                  "value" : 9753
                },
                "duration" : {
                   "text" : "11 mins",
@@ -170,28 +76,6 @@
                "duration" : {
                   "text" : "29 mins",
                   "value" : 1713
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "13.3 mi",
-                  "value" : 21404
-               },
-               "duration" : {
-                  "text" : "24 mins",
-                  "value" : 1429
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.2 mi",
-                  "value" : 10036
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 602
                },
                "status" : "OK"
             },
@@ -252,28 +136,6 @@
             },
             {
                "distance" : {
-                  "text" : "12.4 mi",
-                  "value" : 19957
-               },
-               "duration" : {
-                  "text" : "22 mins",
-                  "value" : 1333
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.1 mi",
-                  "value" : 9843
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 565
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
                   "text" : "3.8 mi",
                   "value" : 6107
                },
@@ -286,7 +148,7 @@
             {
                "distance" : {
                   "text" : "1.7 mi",
-                  "value" : 2716
+                  "value" : 2715
                },
                "duration" : {
                   "text" : "4 mins",
@@ -302,6 +164,72 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 229
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.7 mi",
+                  "value" : 18779
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1265
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12586
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 884
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9353
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5857
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 450
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4985
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 289
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9336
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 657
                },
                "status" : "OK"
             }

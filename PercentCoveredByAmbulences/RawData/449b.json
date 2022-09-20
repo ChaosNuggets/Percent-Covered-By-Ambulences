@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "3601 Canal St, East Chicago, IN 46312, USA",
+      "IN-912, East Chicago, IN 46312, USA",
+      "223 E 120th Pl, Chicago, IL 60628, USA",
+      "12100 S Stony Is Ave, Chicago, IL 60633, USA",
+      "11841 S Burley Ave, Chicago, IL 60633, USA",
+      "2108 Stanton Ave, Whiting, IN 46394, USA",
+      "Access Rd, Whiting, IN 46394, USA",
+      "Rt 54, East Chicago, IN 46312, USA"
+   ],
+   "origin_addresses" : [ "232 Russell St, Hammond, IN 46320, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9548
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1056
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15468
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1237
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14683
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1178
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11112
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1129
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8564
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 809
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8287
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 759
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11308
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 990
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16087
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1425
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

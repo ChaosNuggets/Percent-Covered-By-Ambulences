@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "464 N 400 E, Valparaiso, IN 46383, USA",
+      "652 Dearborn Rd, Valparaiso, IN 46385, USA",
+      "669 N 202 W, Valparaiso, IN 46385, USA",
+      "665 E 656 N, Valparaiso, IN 46383, USA",
+      "683n N 200 E, Valparaiso, IN 46383, USA",
+      "668 N 400 E, Valparaiso, IN 46383, USA"
+   ],
+   "origin_addresses" : [ "355 S Washington St, Valparaiso, IN 46383, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9350
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 808
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 12993
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 868
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13724
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 915
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7815
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13408
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 733
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17429
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1016
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

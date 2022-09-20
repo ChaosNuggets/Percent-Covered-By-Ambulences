@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "189 IN-245, Dale, IN 47523, USA",
+      "7468-2 Lauderdale Rd, Dale, IN 47523, USA",
+      "9633 Tuley Rd, Dale, IN 47523, USA",
+      "969 County Rd 1125 E, Dale, IN 47523, USA",
+      "310 N Washington St, Dale, IN 47523, USA",
+      "5412 IN-62, Dale, IN 47523, USA"
+   ],
+   "origin_addresses" : [ "7733St.Rd161N, Gentryville, IN 47537, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11334
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 666
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15981
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 841
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12951
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10042
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 510
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9952
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 577
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13434
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

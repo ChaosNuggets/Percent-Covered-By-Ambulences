@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "587-501 E 550 S, Kouts, IN 46347, USA",
+      "330 S 200 W, Valparaiso, IN 46385, USA",
+      "300-394 Smoke Rd, Valparaiso, IN 46385, USA",
+      "334 IN-49, Valparaiso, IN 46383, USA",
+      "372-388 E 300 S, Valparaiso, IN 46383, USA",
+      "600 E 300 S, Valparaiso, IN 46383, USA"
+   ],
+   "origin_addresses" : [ "210 S Main St, Kouts, IN 46347, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11192
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14117
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 738
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10911
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 556
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7699
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 431
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11507
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 604
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14641
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 750
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

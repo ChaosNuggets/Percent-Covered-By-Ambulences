@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "7215 E Co Rd 275 N, Muncie, IN 47303, USA",
+      "7839-6773 N Morrison Rd, Muncie, IN 47304, USA",
+      "2420 W Co Rd 450 N, Muncie, IN 47303, USA",
+      "1031 E Royerton Rd, Muncie, IN 47303, USA",
+      "4108 450 N, Muncie, IN 47303, USA",
+      "7298-6726 E Co Rd 481 N, Albany, IN 47320, USA"
+   ],
+   "origin_addresses" : [ "904 N Walnut St, Muncie, IN 47305, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9334
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 654
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9796
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 732
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8088
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 551
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7384
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 565
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7254
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11816
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 857
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

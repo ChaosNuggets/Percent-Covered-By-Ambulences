@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "5943 Coxville Rd, Montezuma, IN 47862, USA",
+      "2661 E 1700 S, Clinton, IN 47842, USA",
+      "S County Rd 150 E, Clinton, IN 47842, USA",
+      "12296 IN-63, Clinton, IN 47842, USA",
+      "600 W, Montezuma, IN 47862, USA",
+      "US Hwy 41, Mecca, IN 47860, USA"
+   ],
+   "origin_addresses" : [ "259 Vine St, Clinton, IN 47842, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12308
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 667
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11555
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8384
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 586
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5330
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 328
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8700
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 507
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10029
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

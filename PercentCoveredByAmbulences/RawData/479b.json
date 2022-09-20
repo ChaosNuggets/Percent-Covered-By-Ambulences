@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2741 E 100 N, Tipton, IN 46072, USA",
+      "2872 N 500 W, Sharpsville, IN 46068, USA",
+      "2998-2748 N 300 W, Tipton, IN 46072, USA",
+      "1363-1171 W 300 N, Tipton, IN 46072, USA",
+      "E 250 N, Tipton, IN 46072, USA",
+      "2998-2000 E 300 N, Windfall, IN 46076, USA"
+   ],
+   "origin_addresses" : [ "225 E Jefferson St, Tipton, IN 46072, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11534
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 622
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12810
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9554
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 600
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8259
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 434
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9682
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 548
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14632
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 669
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "7104 Oxford Pike, Brookville, IN 47012, USA",
+      "16196 McGuire Ridge Rd, Laurel, IN 47024, USA",
+      "14192 E Roberts Rd, Brookville, IN 47012, USA",
+      "12034 Keeler Rd, Brookville, IN 47012, USA",
+      "Scenic Dr, Brookville, IN 47012, USA",
+      "12127 Whitcomb Rd, Brookville, IN 47012, USA"
+   ],
+   "origin_addresses" : [ "371 Main St, Brookville, IN 47012, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9959
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 549
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11794
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 690
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8043
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 467
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6668
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 567
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 11010
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 650
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10467
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 591
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

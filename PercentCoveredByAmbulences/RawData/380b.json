@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "8901 N 350, Royal Center, IN 46978, USA",
+      "1156 W County Rd 900 N, Lucerne, IN 46950, USA",
+      "521 County Rd 900 S, Star City, IN 46985, USA",
+      "2698-2222 E 900 S, Star City, IN 46985, USA",
+      "8998-8382 County Rd 440 E, Star City, IN 46985, USA",
+      "900 E 675 S, Star City, IN 46985, USA",
+      "W 900 S, Kewanna, IN 46939, USA",
+      "8722 W 950 S, Kewanna, IN 46939, USA"
+   ],
+   "origin_addresses" : [ "104 E N St, Royal Center, IN 46978, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7936
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 392
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11243
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 583
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12205
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 581
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9123
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 451
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8377
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8259
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 404
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11255
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 655
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15850
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 928
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

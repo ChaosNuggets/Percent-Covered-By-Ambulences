@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "Unnamed Road, East Chicago, IN 46312, USA",
+      "Lake County, IN, USA",
+      "8901 S Cregier Ave, Chicago, IL 60617, USA",
+      "8916 S Mackinaw Ave, Chicago, IL 60617, USA",
+      "S Walton Dr, Chicago, IL 60617, USA",
+      "Lake County, IN, USA",
+      "Lake County, IN, USA",
+      "41.73321,-87.396399999999971"
+   ],
+   "origin_addresses" : [ "1914 Schrage Ave, Whiting, IN 46394, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12554
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1392
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13203
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1498
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10885
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 984
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8081
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 887
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8342
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1087
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8342
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1087
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12543
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1390
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

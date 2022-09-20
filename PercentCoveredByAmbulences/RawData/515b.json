@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "373 W 550 S, Valparaiso, IN 46385, USA",
+      "4023-4777 E 129th Ave, Winfield, IN 46307, USA",
+      "6720 E 129th Ave, Crown Point, IN 46307, USA",
+      "761 W 350 S, Hebron, IN 46341, USA",
+      "579 W 350 S, Hebron, IN 46341, USA",
+      "339-337 S 350 W, Valparaiso, IN 46385, USA"
+   ],
+   "origin_addresses" : [ "106 E Sigler St, Hebron, IN 46341, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9399
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12325
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 695
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10780
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 634
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8580
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9250
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 547
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13192
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 693
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

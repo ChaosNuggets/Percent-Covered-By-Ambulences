@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "512-424 Beech Rd, Bremen, IN 46506, USA",
+      "18282 Riley Rd, Bremen, IN 46506, USA",
+      "16001-16519 Riley Rd, Bremen, IN 46506, USA",
+      "14956-14358 Riley Rd, Bremen, IN 46506, USA",
+      "68001-68443 Dogwood Rd, Nappanee, IN 46550, USA",
+      "68998-68000 S Beech Rd, Nappanee, IN 46550, USA"
+   ],
+   "origin_addresses" : [ "123 S Center St, Bremen, IN 46506, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8000
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 499
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12213
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 842
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9892
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 550
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8815
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 498
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8595
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 478
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11355
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

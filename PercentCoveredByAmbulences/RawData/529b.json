@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "52347 Silverleaf Ct, Granger, IN 46530, USA" ],
+   "origin_addresses" : [ "200 Independence Dr, Roseland, IN 46637, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8007
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

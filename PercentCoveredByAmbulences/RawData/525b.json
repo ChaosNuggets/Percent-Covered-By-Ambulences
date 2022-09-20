@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "Unnamed Road, Porter, IN 46304, USA",
+      "Beverly Dr, Chesterton, IN 46304, USA",
+      "41.70427,-87.176009999999991",
+      "41.70427,-87.139279999999985",
+      "41.70427,-87.102549999999979",
+      "Porter County, IN, USA",
+      "Porter County, IN, USA",
+      "632-328 E Lake Front Dr, Michigan City, IN 46360, USA"
+   ],
+   "origin_addresses" : [ "1618 N Mineral Springs Rd, Dune Acres, IN 46304, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10001
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 588
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12121
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 712
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5941
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10625
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 650
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13662
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 881
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

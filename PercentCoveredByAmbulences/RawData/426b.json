@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "9998-9208 S 100 E, Claypool, IN 46510, USA",
+      "7256 S 700 W, Claypool, IN 46510, USA",
+      "5335 W 700 S, Claypool, IN 46510, USA",
+      "7344 IN-15, Claypool, IN 46510, USA",
+      "7473 S 100 W, Claypool, IN 46510, USA",
+      "7636-7000 S 100 E, Claypool, IN 46510, USA"
+   ],
+   "origin_addresses" : [ "604 N Jefferson St, Silver Lake, IN 46982, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9670
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12491
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 639
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8297
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 475
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5552
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 319
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8485
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11730
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 669
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

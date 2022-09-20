@@ -1,29 +1,11 @@
 {
    "destination_addresses" : [
-      "10510 N County Rd 900 E, Hope, IN 47246, USA",
-      "20598-19200 E County Rd 700 N, Hope, IN 47246, USA",
-      "10499-8501 W County Rd 200 S, Greensburg, IN 47240, USA",
-      "14125 N 100 E, Edinburgh, IN 46124, USA",
-      "N County Rd 300 E, Hope, IN 47246, USA",
-      "13875 N 500, Hope, IN 47246, USA",
-      "13198-13182 N County Rd 670 E, Hope, IN 47246, USA",
-      "14005 N County Rd 900 E, Hope, IN 47246, USA",
       "15262-13500 N Co Rd 1075 E, Hope, IN 47246, USA",
-      "10300-10998 W Co Rd 50 S, Hope, IN 47246, USA",
-      "11498-11370 S 600 W, Edinburgh, IN 46124, USA",
       "3646-3784 Old State Rd 252, Flat Rock, IN 47234, USA",
       "11167-11329 S 200 W, Flat Rock, IN 47234, USA",
       "11882-11568 S 25 W, Flat Rock, IN 47234, USA",
       "11243 S 200 E, Flat Rock, IN 47234, USA",
-      "11802-11000 S 400 E, Flat Rock, IN 47234, USA",
-      "600 E, Greensburg, IN 47240, USA",
-      "9384-9152 S 600 W, Edinburgh, IN 46124, USA",
-      "9437 S 375 W, Edinburgh, IN 46124, USA",
-      "2163-1919 W 900 S, Flat Rock, IN 47234, USA",
-      "9586-9324 25 W, Flat Rock, IN 47234, USA",
-      "2096 E 950 S, Flat Rock, IN 47234, USA",
-      "3757 E Vandalia Rd, Flat Rock, IN 47234, USA",
-      "9217 S 600 E, St Paul, IN 47272, USA"
+      "11802-11000 S 400 E, Flat Rock, IN 47234, USA"
    ],
    "origin_addresses" : [ "711 Harrison St, Hope, IN 47246, USA" ],
    "rows" : [
@@ -31,122 +13,12 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "2.2 mi",
-                  "value" : 3588
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 303
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.7 mi",
-                  "value" : 9128
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 504
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.9 mi",
-                  "value" : 12657
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 709
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.6 mi",
-                  "value" : 13810
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 721
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.6 mi",
-                  "value" : 10681
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 566
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.5 mi",
-                  "value" : 7234
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 385
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "2.7 mi",
-                  "value" : 4323
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 276
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.4 mi",
-                  "value" : 5527
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 332
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
                   "text" : "5.2 mi",
-                  "value" : 8415
+                  "value" : 8416
                },
                "duration" : {
                   "text" : "8 mins",
                   "value" : 453
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.8 mi",
-                  "value" : 10961
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 601
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "11.2 mi",
-                  "value" : 18028
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 836
                },
                "status" : "OK"
             },
@@ -175,7 +47,7 @@
             {
                "distance" : {
                   "text" : "4.7 mi",
-                  "value" : 7509
+                  "value" : 7510
                },
                "duration" : {
                   "text" : "7 mins",
@@ -186,7 +58,7 @@
             {
                "distance" : {
                   "text" : "5.4 mi",
-                  "value" : 8758
+                  "value" : 8759
                },
                "duration" : {
                   "text" : "8 mins",
@@ -197,99 +69,11 @@
             {
                "distance" : {
                   "text" : "8.0 mi",
-                  "value" : 12938
+                  "value" : 12937
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 644
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.3 mi",
-                  "value" : 14992
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 731
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "12.7 mi",
-                  "value" : 20484
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 948
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "11.3 mi",
-                  "value" : 18118
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 947
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.6 mi",
-                  "value" : 13899
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 788
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.1 mi",
-                  "value" : 11414
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 642
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.0 mi",
-                  "value" : 11291
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 590
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.2 mi",
-                  "value" : 14804
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 736
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "11.5 mi",
-                  "value" : 18579
-               },
-               "duration" : {
-                  "text" : "15 mins",
-                  "value" : 905
                },
                "status" : "OK"
             }

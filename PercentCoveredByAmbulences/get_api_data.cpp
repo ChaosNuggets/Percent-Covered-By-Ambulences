@@ -13,7 +13,6 @@ void promptForAPIKey(std::string& apiKey)
 
 static std::string encode(const double number)
 {
-    //std::cout << number << ' ';
     // Take the decimal value and multiply it by 1e5, rounding the result:
     int intCoord = round(number * 1e5);
 
@@ -65,8 +64,6 @@ static std::string encode(const double number)
         // Convert each value to its ASCII equivalent and append it to the string:
         returnString.push_back(chunk);
     }
-
-    //std::cout << number << ' ';
 
     return returnString;
 }

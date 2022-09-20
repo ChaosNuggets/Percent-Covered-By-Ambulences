@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "1500 N Main St, Crown Point, IN 46307, USA",
+      "11206 Calumet Ave, Dyer, IN 46311, USA",
+      "12285 Wicker Ave, Cedar Lake, IN 46303, USA",
+      "11214 S Cline Ave, Crown Point, IN 46307, USA",
+      "5205 W 112th Ave, Crown Point, IN 46307, USA",
+      "234 Pettibone Ave, Crown Point, IN 46307, USA"
+   ],
+   "origin_addresses" : [ "7408 Constitution Ave, Cedar Lake, IN 46303, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7898
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 696
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13214
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1003
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9264
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 758
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6354
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 606
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7680
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 735
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9907
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 874
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

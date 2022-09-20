@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "8822 Woodford Drive, Charlestown, IN 47111, USA",
+      "Carr Township, IN, USA",
+      "1126 Weaver Rd, Memphis, IN 47143, USA",
+      "1410 Stricker Rd, Memphis, IN 47143, USA",
+      "2617 Charlestown Memphis Rd, Charlestown, IN 47111, USA",
+      "1508 Market St, Charlestown, IN 47111, USA"
+   ],
+   "origin_addresses" : [ "101 S New Albany St, Sellersburg, IN 47172, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11779
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 737
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12165
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 819
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9688
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 646
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9847
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 615
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12290
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 815
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10878
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

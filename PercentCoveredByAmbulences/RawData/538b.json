@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "27852 Westwood Dr, Elkhart, IN 46514, USA",
+      "3221 Beacon Pkwy, Granger, IN 46530, USA",
+      "12522 Glen Oak Ct, Granger, IN 46530, USA",
+      "10650 Brummitt Rd, Granger, IN 46530, USA",
+      "Indiana Toll Rd, Elkhart, IN 46514, USA",
+      "52361 Iris Ct, Elkhart, IN 46514, USA"
+   ],
+   "origin_addresses" : [ "850 Lincolnway W Hwy, Osceola, IN 46561, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11120
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 746
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12911
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 830
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10221
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 678
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10526
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 728
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.1 mi",
+                  "value" : 22704
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1242
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15708
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1023
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

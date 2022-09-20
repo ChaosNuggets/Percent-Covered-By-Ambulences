@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "68 Commercial Rd, Huntington, IN 46750, USA",
+      "6503-6593 N 650 E, North Manchester, IN 46962, USA",
+      "9999-9001 W 700 N, Huntington, IN 46750, USA",
+      "6696 N 750 W, Huntington, IN 46750, USA",
+      "6600 N 530 W, Huntington, IN 46750, USA",
+      "6474 N Clear Creek Rd, Huntington, IN 46750, USA"
+   ],
+   "origin_addresses" : [ "Andrews Town Hall, 66 N Main St, Andrews, IN 46702, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10285
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 572
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14216
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 689
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11728
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 604
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 7974
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 502
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11236
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 696
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14557
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 830
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

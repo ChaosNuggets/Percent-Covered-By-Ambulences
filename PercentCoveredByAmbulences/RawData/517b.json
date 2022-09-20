@@ -1,0 +1,76 @@
+{
+   "destination_addresses" : [
+      "Waverly Rd, Porter, IN 46304, USA",
+      "41.67532,-87.21274",
+      "Porter County, IN, USA",
+      "Porter County, IN, USA",
+      "Porter County, IN, USA",
+      "Trail 8, Chesterton, IN 46304, USA"
+   ],
+   "origin_addresses" : [ "1240 W North Boo Rd, Chesterton, IN 46304, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7010
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 392
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 6028
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 471
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7202
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 628
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7315
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 550
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9179
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 660
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

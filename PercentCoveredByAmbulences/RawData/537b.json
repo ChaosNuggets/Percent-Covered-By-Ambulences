@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "5225 Edison Lakes Pkwy, Mishawaka, IN 46545, USA",
+      "4444 Ameritech Dr, South Bend, IN 46628, USA",
+      "3315 William Richardson Dr, South Bend, IN 46628, USA",
+      "52260 Oakland Ave, South Bend, IN 46637, USA",
+      "52536 Heatherfield Dr, South Bend, IN 46637, USA",
+      "52347 Silverleaf Ct, Granger, IN 46530, USA"
+   ],
+   "origin_addresses" : [ "701 W Sample St, South Bend, IN 46601, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10216
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16113
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 998
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10715
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 962
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9151
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 915
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10778
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1050
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11603
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1042
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

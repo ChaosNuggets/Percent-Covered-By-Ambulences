@@ -1,46 +1,29 @@
 {
    "destination_addresses" : [
-      "2477 County Rd 600 W, Newburgh, IN 47630, USA",
       "2698-1700 IN-61, Boonville, IN 47601, USA",
       "2355 S Yankeetown Rd, Boonville, IN 47601, USA",
       "1-23 Pelier Rd, Boonville, IN 47601, USA",
       "2455 Brown Chapel Rd, Boonville, IN 47601, USA",
       "6468 West 775, North, IN 47601, USA",
-      "4395 W County Rd 725 N, Richland City, IN 47634, USA",
-      "6022 Gardner Rd, Chandler, IN 47610, USA",
       "411 S Baker Rd, Boonville, IN 47601, USA",
       "311 S Yankeetown Rd, Boonville, IN 47601, USA",
       "257 N Rockport Rd, Boonville, IN 47601, USA",
       "1530 County Rd 25 S, Boonville, IN 47601, USA",
       "155 S Campbell Rd, Boonville, IN 47601, USA",
-      "W County Rd 975 N, Chrisney, IN 47611, USA",
-      "1477 Hewins Rd, Boonville, IN 47601, USA",
       "1399-1151 John Bull Rd, Boonville, IN 47601, USA",
       "1104 Ratliff Ct, Boonville, IN 47601, USA",
       "1700 Bawel Rd, Boonville, IN 47601, USA",
       "1999-1601 County Rd 150 E, Boonville, IN 47601, USA",
       "County Rd 375 E, Boonville, IN 47601, USA",
-      "5835-5999 IN-161, Tennyson, IN 47637, USA",
-      "3522 N State St, Chandler, IN 47610, USA",
       "5022-5522 New Harmony Rd, Boonville, IN 47601, USA",
       "3533 IN-61, Boonville, IN 47601, USA",
-      "3600 Crowville Rd, Boonville, IN 47601, USA"
+      "3600 Crowville Rd, Boonville, IN 47601, USA",
+      "3644 Polk Rd, Boonville, IN 47601, USA"
    ],
    "origin_addresses" : [ "100 IN-62, Boonville, IN 47601, USA" ],
    "rows" : [
       {
          "elements" : [
-            {
-               "distance" : {
-                  "text" : "10.3 mi",
-                  "value" : 16502
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 953
-               },
-               "status" : "OK"
-            },
             {
                "distance" : {
                   "text" : "6.5 mi",
@@ -93,28 +76,6 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 688
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.5 mi",
-                  "value" : 13658
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 730
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.0 mi",
-                  "value" : 11232
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 724
                },
                "status" : "OK"
             },
@@ -175,28 +136,6 @@
             },
             {
                "distance" : {
-                  "text" : "6.9 mi",
-                  "value" : 11039
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 593
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.0 mi",
-                  "value" : 11223
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 821
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
                   "text" : "4.9 mi",
                   "value" : 7830
                },
@@ -252,28 +191,6 @@
             },
             {
                "distance" : {
-                  "text" : "7.4 mi",
-                  "value" : 11865
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 557
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.2 mi",
-                  "value" : 14821
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 966
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
                   "text" : "7.0 mi",
                   "value" : 11265
                },
@@ -302,6 +219,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 536
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8830
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
                },
                "status" : "OK"
             }

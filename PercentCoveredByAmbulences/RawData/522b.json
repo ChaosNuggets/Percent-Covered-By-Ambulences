@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "I-94, Michigan City, IN 46360, USA",
+      "Porter County, IN, USA",
+      "Porter County, IN, USA",
+      "Trail 8, Chesterton, IN 46304, USA",
+      "Unnamed Road, Porter, IN 46304, USA",
+      "Beverly Dr, Chesterton, IN 46304, USA"
+   ],
+   "origin_addresses" : [ "50 Francis St, Porter, IN 46304, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "17.2 mi",
+                  "value" : 27613
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1200
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9109
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6358
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5802
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10196
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 674
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12172
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 787
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

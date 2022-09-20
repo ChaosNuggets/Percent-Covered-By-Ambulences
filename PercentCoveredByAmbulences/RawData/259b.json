@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "5075-6103 E 300 N, Rochester, IN 46975, USA",
+      "300 N 500 E, Rochester, IN 46975, USA",
+      "4867 N 100 W, Rochester, IN 46975, USA",
+      "4909 N Old US Hwy 31, Rochester, IN 46975, USA",
+      "3285 E 500 N, Rochester, IN 46975, USA",
+      "4960-4618 N 500 E, Rochester, IN 46975, USA"
+   ],
+   "origin_addresses" : [ "815 Madison St, Rochester, IN 46975, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8903
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 585
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13613
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 791
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10514
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 608
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7007
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 433
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9389
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 11009
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 594
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

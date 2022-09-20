@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "4800 W 15th Ave, Gary, IN 46406, USA",
+      "1901 W 14th Ave, Gary, IN 46404, USA",
+      "620 Buffalo Ave, Calumet City, IL 60409, USA",
+      "855 Truman St, Hammond, IN 46320, USA",
+      "2400-27 Michigan St, East Chicago, IN 46312, USA",
+      "2829 Gary Rd, East Chicago, IN 46312, USA",
+      "120 N Clark Rd, Gary, IN 46406, USA",
+      "300 N Buchanan St, Gary, IN 46402, USA"
+   ],
+   "origin_addresses" : [ "3309 Ridge Rd, Highland, IN 46322, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8631
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12386
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 967
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16889
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1230
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10352
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 934
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10178
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1062
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14045
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 879
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12255
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 925
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16563
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1452
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

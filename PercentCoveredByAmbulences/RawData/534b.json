@@ -1,0 +1,36 @@
+{
+   "destination_addresses" : [
+      "52260 Oakland Ave, South Bend, IN 46637, USA",
+      "52536 Heatherfield Dr, South Bend, IN 46637, USA"
+   ],
+   "origin_addresses" : [ "4817 Lincoln Way W, South Bend, IN 46628, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8951
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11932
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1113
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

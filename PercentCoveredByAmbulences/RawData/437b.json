@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "8005 Pine Island Dr, Crown Point, IN 46307, USA",
+      "3275 Lincoln Hwy, Lynwood, IL 60411, USA",
+      "Dyer Dog Park, 900 Central Pk Blvd, Dyer, IN 46311, USA",
+      "1133 US Hwy 41, Schererville, IN 46375, USA",
+      "1118 S Cline Ave, Schererville, IN 46375, USA",
+      "Turkey Creek Trail, Schererville, IN 46375, USA"
+   ],
+   "origin_addresses" : [ "11033 W 93rd Ave, St John, IN 46373, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8859
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 728
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14553
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1135
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8427
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 795
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6326
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9146
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 746
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11320
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 918
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

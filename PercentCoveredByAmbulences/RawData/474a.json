@@ -1,0 +1,276 @@
+{
+   "destination_addresses" : [
+      "500 County Rd 500 W, Winamac, IN 46996, USA",
+      "Co Rd W 560 S, Winamac, IN 46996, USA",
+      "119 S 100 E, Star City, IN 46985, USA",
+      "County Rd 500 S, Star City, IN 46985, USA",
+      "5162 S 250 E, Star City, IN 46985, USA",
+      "4982-4492 Kewanna Blacktop, Star City, IN 46985, USA",
+      "500 S 275 W, Winamac, IN 46996, USA",
+      "3501 County Rd S 300 W, Winamac, IN 46996, USA",
+      "1211 W 300 S, Winamac, IN 46996, USA",
+      "287-283 County Rd 350 S, Star City, IN 46985, USA",
+      "County Rd 325 S, Star City, IN 46985, USA",
+      "4635 E 325, Winamac, IN 46996, USA",
+      "1059 S 500 W, Winamac, IN 46996, USA",
+      "100 E 300 N, Winamac, IN 46996, USA",
+      "1118-1100 S 75 W, Winamac, IN 46996, USA",
+      "628 E Braun Ln, Winamac, IN 46996, USA",
+      "E 125 S, Winamac, IN 46996, USA",
+      "S 450 E, Kewanna, IN 46939, USA",
+      "500 W 100 N, Winamac, IN 46996, USA",
+      "County Rd 300 W, Winamac, IN 46996, USA",
+      "100 16th St, Winamac, IN 46996, USA",
+      "50 N 71 Mi E Of US 35, Winamac, IN 46996, USA"
+   ],
+   "origin_addresses" : [ "110 E Meridian St, Winamac, IN 46996, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15817
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12482
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 630
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9457
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 596
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8745
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 501
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10162
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 561
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12787
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 631
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12358
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 732
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9477
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 507
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6264
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 339
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6345
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 367
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7242
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 491
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10768
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 661
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10474
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 578
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5837
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 412
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3383
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 267
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2232
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 305
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5742
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 465
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9764
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 588
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9954
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6676
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 389
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3575
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 272
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 3032
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 278
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

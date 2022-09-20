@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "County Rd 80 N, Kingman, IN 47952, USA",
+      "15-423 E County Rd 175 N, Cayuga, IN 47928, USA",
+      "1998-1566 E County Rd 200 N, Cayuga, IN 47928, USA",
+      "County Rd 249, Kingman, IN 47952, USA",
+      "9812 Tow Path Rd, Kingman, IN 47952, USA",
+      "Co Rd 425W, Kingman, IN 47952, USA"
+   ],
+   "origin_addresses" : [ "1888 IN-63, Hillsdale, IN 47854, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "16.5 mi",
+                  "value" : 26632
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1557
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10368
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8543
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 387
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.7 mi",
+                  "value" : 22105
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1243
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "15.2 mi",
+                  "value" : 24521
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1282
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17.7 mi",
+                  "value" : 28425
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1515
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

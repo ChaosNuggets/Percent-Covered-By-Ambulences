@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "16001-16749 Quince Rd, Culver, IN 46511, USA",
+      "12630 State Rd 17, Plymouth, IN 46563, USA",
+      "9420 E 225 S, Knox, IN 46534, USA",
+      "11498-11000 E 250 S, Culver, IN 46511, USA",
+      "14174 Union Rd, Culver, IN 46511, USA",
+      "17928 14b Rd, Culver, IN 46511, USA",
+      "16070 14b Rd, Plymouth, IN 46563, USA",
+      "14B Crest Ln, Plymouth, IN 46563, USA"
+   ],
+   "origin_addresses" : [ "200 E Washington St, Culver, IN 46511, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6753
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 566
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10961
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 737
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14953
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 847
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9874
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 673
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8804
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 614
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7635
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11214
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 792
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12947
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

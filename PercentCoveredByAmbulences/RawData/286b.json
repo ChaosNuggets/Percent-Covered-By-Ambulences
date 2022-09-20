@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "4610-4852 Utica Pike, Jeffersonville, IN 47130, USA",
+      "4308 IN-111, New Albany, IN 47150, USA",
+      "4242 Payne Koehler Rd, New Albany, IN 47150, USA",
+      "5606 Hamburg Pike, Jeffersonville, IN 47130, USA",
+      "4611 IN-62, Jeffersonville, IN 47130, USA",
+      "IN-265, Jeffersonville, IN 47130, USA"
+   ],
+   "origin_addresses" : [ "230 E Montgomery Ave, Clarksville, IN 47129, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10806
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 892
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16644
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11731
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 992
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17378
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 822
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14767
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 778
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16708
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

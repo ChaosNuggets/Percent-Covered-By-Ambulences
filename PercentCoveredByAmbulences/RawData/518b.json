@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "262-236 N 600 E, Valparaiso, IN 46383, USA",
+      "3701 Brigata Dr, Valparaiso, IN 46385, USA",
+      "356 Meadow Ln Dr, Valparaiso, IN 46383, USA",
+      "2501 Country Club Rd, Valparaiso, IN 46383, USA",
+      "464 N 400 E, Valparaiso, IN 46383, USA",
+      "459-499 N 575 E, Valparaiso, IN 46383, USA"
+   ],
+   "origin_addresses" : [ "2755 IN-49, Valparaiso, IN 46383, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11721
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 686
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16756
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1129
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12137
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 771
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8030
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 503
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9260
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 623
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10801
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "64454 Miami Rd, Bremen, IN 46506, USA",
+      "16589 Nicar Rd, Bremen, IN 46506, USA",
+      "25836 Roosevelt Rd, South Bend, IN 46614, USA",
+      "62172 Oak Rd, South Bend, IN 46614, USA",
+      "22100 Roosevelt Rd, South Bend, IN 46614, USA",
+      "62300 IN-931, South Bend, IN 46614, USA",
+      "18340 Roosevelt Rd, South Bend, IN 46614, USA",
+      "16677 Layton Rd, South Bend, IN 46614, USA"
+   ],
+   "origin_addresses" : [ "209 S Michigan St, Lakeville, IN 46536, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8492
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 457
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12238
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 690
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15809
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12271
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11223
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9454
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 407
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11774
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 692
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13877
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 766
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

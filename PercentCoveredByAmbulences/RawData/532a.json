@@ -1,0 +1,276 @@
+{
+   "destination_addresses" : [
+      "25855 Northwood Dr, South Bend, IN 46619, USA",
+      "24000 Railroad Trail, South Bend, IN 46619, USA",
+      "22027 IN-23, South Bend, IN 46614, USA",
+      "2500 Green Tech Dr, South Bend, IN 46613, USA",
+      "2740 Southeast Dr, South Bend, IN 46614, USA",
+      "1615 S Spring St, Mishawaka, IN 46544, USA",
+      "25879 Lakeview Dr, South Bend, IN 46619, USA",
+      "56249 Oak Rd, South Bend, IN 46619, USA",
+      "18 100 Blk Iowa, South Bend, IN 46619, USA",
+      "620 W Washington St, South Bend, IN 46601, USA",
+      "216 S Greenlawn Ave, South Bend, IN 46617, USA",
+      "1615 N Main St, Mishawaka, IN 46545, USA",
+      "25825 Longwood Ct, South Bend, IN 46628, USA",
+      "24045 US-20, South Bend, IN 46628, USA",
+      "1976-2298 N Bendix Dr, South Bend, IN 46628, USA",
+      "1891 Riverside Dr, South Bend, IN 46616, USA",
+      "18223 Bulla Rd, South Bend, IN 46637, USA",
+      "5225 Edison Lakes Pkwy, Mishawaka, IN 46545, USA",
+      "52280 Primrose Rd, South Bend, IN 46628, USA",
+      "4444 Ameritech Dr, South Bend, IN 46628, USA",
+      "3315 William Richardson Dr, South Bend, IN 46628, USA",
+      "52260 Oakland Ave, South Bend, IN 46637, USA"
+   ],
+   "origin_addresses" : [ "2801 Riverside Dr, South Bend, IN 46616, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15824
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1120
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13713
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1075
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10353
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 941
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9508
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 985
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11313
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1058
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14250
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1229
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17049
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1070
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10419
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 766
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7278
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 686
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5407
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8700
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 832
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12396
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1163
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13405
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1044
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8855
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 662
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 3948
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 305
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5458
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 463
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8517
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 694
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10442
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 879
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10281
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6540
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4864
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 435
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3365
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 280
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "175 W 1050 N, Chesterton, IN 46304, USA",
+      "7330-34 Indian Boundary, Gary, IN 46403, USA",
+      "W Beach Rd, Gary, IN 46403, USA",
+      "6159 S Dune Harbor Dr, Portage, IN 46368, USA",
+      "361 Shadyside Rd, Chesterton, IN 46304, USA",
+      "1803 W Beam St, Porter, IN 46304, USA"
+   ],
+   "origin_addresses" : [ "2693 Irving St, Portage, IN 46368, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8174
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 697
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10896
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 974
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8406
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 796
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5706
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8213
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 686
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11720
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 897
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,48 +1,6 @@
 {
-   "destination_addresses" : [
-      "3522 N State St, Chandler, IN 47610, USA",
-      "5022-5522 New Harmony Rd, Boonville, IN 47601, USA",
-      "3533 IN-61, Boonville, IN 47601, USA"
-   ],
-   "origin_addresses" : [ "527 State St, Newburgh, IN 47630, USA" ],
-   "rows" : [
-      {
-         "elements" : [
-            {
-               "distance" : {
-                  "text" : "10.4 mi",
-                  "value" : 16759
-               },
-               "duration" : {
-                  "text" : "20 mins",
-                  "value" : 1196
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "14.2 mi",
-                  "value" : 22842
-               },
-               "duration" : {
-                  "text" : "21 mins",
-                  "value" : 1285
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "14.3 mi",
-                  "value" : 22990
-               },
-               "duration" : {
-                  "text" : "22 mins",
-                  "value" : 1291
-               },
-               "status" : "OK"
-            }
-         ]
-      }
-   ],
-   "status" : "OK"
+   "destination_addresses" : [],
+   "origin_addresses" : [],
+   "rows" : [],
+   "status" : "INVALID_REQUEST"
 }

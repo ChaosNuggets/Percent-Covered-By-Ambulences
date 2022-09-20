@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "1779 E 1300 S, Kentland, IN 47951, USA",
+      "5892 W 1125 S, Kentland, IN 47951, USA",
+      "4897-4001 W 1125 S, Kentland, IN 47951, USA",
+      "US Hwy 41, Kentland, IN 47951, USA",
+      "11248-11018 S 50 W, Brook, IN 47922, USA",
+      "1681 E 1100 S, Brook, IN 47922, USA"
+   ],
+   "origin_addresses" : [ "304 E Seymour St, Kentland, IN 47951, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12182
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 646
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12577
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 808
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9099
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 617
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8081
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 405
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10808
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 608
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14917
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 832
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

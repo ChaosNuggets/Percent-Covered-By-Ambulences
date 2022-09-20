@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "E 600 S, Lynn, IN 47355, USA",
+      "1941-1585 W 400 S, Winchester, IN 47394, USA",
+      "3707-3475 S Base Rd, Winchester, IN 47394, USA",
+      "3000-3866 S 200 E, Winchester, IN 47394, USA",
+      "3519 S 400 E, Winchester, IN 47394, USA",
+      "375 South St, Union City, IN 47390, USA"
+   ],
+   "origin_addresses" : [ "101 S Main St, Lynn, IN 47355, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10007
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14406
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 652
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11055
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 517
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7100
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 383
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10647
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12952
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 614
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2534-2150 N 150 E, La Porte, IN 46350, USA",
+      "4691 N Maplewood Dr, La Porte, IN 46350, USA",
+      "3641 W 450 Rd N, La Porte, IN 46350, USA",
+      "4727 IN-39, La Porte, IN 46350, USA",
+      "4755 N Range Rd, La Porte, IN 46350, USA",
+      "4783 N 175 E, La Porte, IN 46350, USA"
+   ],
+   "origin_addresses" : [ "809 State St, La Porte, IN 46350, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6958
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 572
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11514
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 718
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8989
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 534
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7695
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 442
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "47.2 mi",
+                  "value" : 75985
+               },
+               "duration" : {
+                  "text" : "52 mins",
+                  "value" : 3093
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11317
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

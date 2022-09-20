@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "4600 N Benton Dr, Bloomington, IN 47408, USA",
+      "3951 W Maple Grove Rd, Bloomington, IN 47404, USA",
+      "5564-5854 N Bottom Rd, Bloomington, IN 47404, USA",
+      "2150 E Dolan Rd, Bloomington, IN 47408, USA",
+      "4288 E Robinson Rd, Bloomington, IN 47408, USA",
+      "6699 N Utt Dr, Bloomington, IN 47408, USA"
+   ],
+   "origin_addresses" : [ "801 N Jordan Ave, Bloomington, IN 47405, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10690
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 811
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13230
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 909
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10846
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10628
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 953
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11259
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 859
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13986
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1043
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "18282 Riley Rd, Bremen, IN 46506, USA",
+      "25838 IN-4, North Liberty, IN 46554, USA",
+      "66412-66000 Oak Rd, Lakeville, IN 46536, USA",
+      "22001-22137 Pierce Rd, Lakeville, IN 46536, USA",
+      "66293 Kenilworth Rd, Lakeville, IN 46536, USA",
+      "18266 Pierce Rd, Lakeville, IN 46536, USA"
+   ],
+   "origin_addresses" : [ "108 E Randolph St, La Paz, IN 46537, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11827
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 825
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14906
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 843
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11678
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 631
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11169
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11369
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 575
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13770
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 720
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

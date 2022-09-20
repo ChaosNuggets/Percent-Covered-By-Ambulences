@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "2290 N Russell Rd, Bloomington, IN 47408, USA",
+      "6225 E Collins Ln, Bloomington, IN 47408, USA",
+      "4560 Sapphire Dr, Bloomington, IN 47404, USA",
+      "4360 N Castlewood Ct, Bloomington, IN 47404, USA",
+      "I-69, Bloomington, IN 47404, USA",
+      "1812 E Bethel Ln, Bloomington, IN 47408, USA",
+      "4127 E Bethel Ln, Bloomington, IN 47408, USA",
+      "4600 N Benton Dr, Bloomington, IN 47408, USA"
+   ],
+   "origin_addresses" : [ "122 S Walnut St, Bloomington, IN 47404, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6996
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9809
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 969
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12902
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1006
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8781
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 693
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7017
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6944
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 594
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10340
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12718
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1110
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

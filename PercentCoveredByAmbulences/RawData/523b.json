@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "I-94, Michigan City, IN 46360, USA",
+      "Porter County, IN, USA",
+      "Porter County, IN, USA",
+      "Trail 8, Chesterton, IN 46304, USA",
+      "Unnamed Road, Porter, IN 46304, USA",
+      "Beverly Dr, Chesterton, IN 46304, USA"
+   ],
+   "origin_addresses" : [ "790 Broadway Ave, Chesterton, IN 46304, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "16.3 mi",
+                  "value" : 26219
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1191
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10335
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 919
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7584
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6384
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 665
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10777
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 704
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12754
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 817
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

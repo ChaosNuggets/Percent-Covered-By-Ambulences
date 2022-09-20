@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "Unnamed Road, South Bend, IN 46614, USA",
+      "64998-64000 Oak Rd, South Bend, IN 46614, USA",
+      "S 950 E, North Liberty, IN 46554, USA",
+      "1102-1112 S Willow Rd E, North Liberty, IN 46554, USA",
+      "Smilax Rd, North Liberty, IN 46554, USA",
+      "27750 IN-23, North Liberty, IN 46554, USA",
+      "25836 Roosevelt Rd, South Bend, IN 46614, USA",
+      "62172 Oak Rd, South Bend, IN 46614, USA"
+   ],
+   "origin_addresses" : [ "116 N Main St, North Liberty, IN 46554, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12306
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1007
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10767
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 537
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13464
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 900
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16326
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 905
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8072
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 576
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7291
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 357
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10411
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13985
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 708
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

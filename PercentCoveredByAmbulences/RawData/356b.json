@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2100-2398 County Rd 300 S, Covington, IN 47932, USA",
+      "1846-2010 E County Rd 1550 N, Covington, IN 47932, USA",
+      "15855-15501 N Meridian Rd, Covington, IN 47932, USA",
+      "1974 E 1550 N, Covington, IN 47932, USA",
+      "375 S River Rd, Covington, IN 47932, USA",
+      "1952-2126 W Dixie Bee Rd, Covington, IN 47932, USA"
+   ],
+   "origin_addresses" : [ "496 W Walnut St, Cayuga, IN 47928, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11407
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 724
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12753
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9924
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 542
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6644
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 363
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9852
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 671
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17791
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1034
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

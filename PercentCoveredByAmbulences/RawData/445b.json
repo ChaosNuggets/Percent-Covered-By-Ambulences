@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "6182 Oglethorpe Ave, Portage, IN 46368, USA",
+      "1137 Central Ave, Gary, IN 46407, USA",
+      "4045 E 14th Pl, Gary, IN 46403, USA",
+      "7000 Old Hobart Rd, Lake Station, IN 46405, USA",
+      "2225 Locust St, Portage, IN 46368, USA",
+      "6196 Federal Ave, Portage, IN 46368, USA"
+   ],
+   "origin_addresses" : [ "200 Main St, Hobart, IN 46342, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9658
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 800
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10207
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 833
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8853
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 765
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8040
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 669
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9499
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 848
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14194
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 996
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

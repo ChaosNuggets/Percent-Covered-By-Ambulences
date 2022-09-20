@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2741 E 100 N, Tipton, IN 46072, USA",
+      "2872 N 500 W, Sharpsville, IN 46068, USA",
+      "2998-2748 N 300 W, Tipton, IN 46072, USA",
+      "1363-1171 W 300 N, Tipton, IN 46072, USA",
+      "E 250 N, Tipton, IN 46072, USA",
+      "2998-2000 E 300 N, Windfall, IN 46076, USA"
+   ],
+   "origin_addresses" : [ "121 W Madison St A, Tipton, IN 46072, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12005
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 716
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12821
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9565
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 636
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8730
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10153
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15104
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 764
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

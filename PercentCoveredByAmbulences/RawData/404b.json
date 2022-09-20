@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "6335 200 E, Huntington, IN 46750, USA",
+      "8492 N Goshen Rd, Huntington, IN 46750, USA",
+      "8001-8845 N County Rd 400 W, Huntington, IN 46750, USA",
+      "1656 W 800 N, Huntington, IN 46750, USA",
+      "8385 N Meridian Rd, Huntington, IN 46750, USA",
+      "8001-8499 N Old Fort Wayne Rd, Roanoke, IN 46783, USA"
+   ],
+   "origin_addresses" : [ "300 Cherry St, Huntington, IN 46750, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10285
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10479
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 723
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9743
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 735
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8427
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 591
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10494
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 618
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12339
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 739
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

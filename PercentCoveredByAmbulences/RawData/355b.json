@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "3984-4308 S Coffing Brothers Rd, Kingman, IN 47952, USA",
+      "8557-8699 County Rd 2100 E, Georgetown, IL 61846, USA",
+      "2160 West 800, North, IN 47928, USA",
+      "7762 N Meridian Rd, Perrysville, IN 47974, USA",
+      "3232-3738 S Silver Island Rd, Kingman, IN 47952, USA",
+      "3651 S Coffing Brothers Rd, Covington, IN 47932, USA"
+   ],
+   "origin_addresses" : [ "204 E Curtis St, Cayuga, IN 47928, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11403
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 819
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12657
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8919
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 641
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6223
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9591
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10990
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

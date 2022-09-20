@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2532 N Messick Rd, New Castle, IN 47362, USA",
+      "4447 N County Rd 300 W, Middletown, IN 47356, USA",
+      "4487 N County Rd 125 W, New Castle, IN 47362, USA",
+      "IN-3, New Castle, IN 47362, USA",
+      "4400 IN-103, New Castle, IN 47362, USA",
+      "4999-4251 N Messick Rd, Mooreland, IN 47360, USA"
+   ],
+   "origin_addresses" : [ "127 N 12th St, New Castle, IN 47362, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9579
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 714
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12501
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 799
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10175
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8230
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 424
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13024
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 644
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16272
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 777
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "5498-4818 E County Rd 100 S, Seymour, IN 47274, USA",
+      "1500-2482 W County Rd 100 N, Freetown, IN 47235, USA",
+      "28 E County Rd 100 N, Brownstown, IN 47220, USA",
+      "1945 US-50, Brownstown, IN 47220, USA",
+      "967 400 E, Seymour, IN 47274, USA",
+      "1072 N County Rd 600 E, Seymour, IN 47274, USA"
+   ],
+   "origin_addresses" : [ "3029 S County Rd 150 E, Brownstown, IN 47220, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11074
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 525
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9323
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 578
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8122
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11277
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10932
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14274
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 656
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

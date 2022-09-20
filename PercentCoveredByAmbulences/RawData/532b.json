@@ -1,0 +1,36 @@
+{
+   "destination_addresses" : [
+      "52536 Heatherfield Dr, South Bend, IN 46637, USA",
+      "52347 Silverleaf Ct, Granger, IN 46530, USA"
+   ],
+   "origin_addresses" : [ "2801 Riverside Dr, South Bend, IN 46616, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6289
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 556
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9412
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 797
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

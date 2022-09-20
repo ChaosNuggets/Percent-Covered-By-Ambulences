@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "11699 E Boonville-New Harmony Rd, Elberfeld, IN 47613, USA" ],
+   "origin_addresses" : [ "6011 US Hwy 41, Evansville, IN 47725, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10944
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 646
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "4817 Ross Rd, Griffith, IN 46319, USA",
+      "18455 Chicago Ave, Lansing, IL 60438, USA",
+      "910 Ridge Rd, Munster, IN 46321, USA",
+      "8345 Indianapolis Blvd, Highland, IN 46322, USA",
+      "IN-912, Hammond, IN 46323, USA",
+      "4800 W 33rd Appr Ave, Gary, IN 46406, USA"
+   ],
+   "origin_addresses" : [ "1534 Indianapolis Blvd, Schererville, IN 46375, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10664
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 973
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13062
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1010
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11628
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 987
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8249
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 807
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15150
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1209
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14010
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1264
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

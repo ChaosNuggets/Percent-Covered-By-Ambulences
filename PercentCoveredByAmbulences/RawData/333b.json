@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "200 E Washington St, Edwardsport, IN 47528, USA",
+      "N Risley Rd, Oaktown, IN 47561, USA",
+      "9735 E Pepmeier Rd, Oaktown, IN 47561, USA",
+      "11875 E Dick Rd, Bicknell, IN 47512, USA",
+      "11080 N Pine Bluff Rd, Bicknell, IN 47512, USA",
+      "15895 E Farmstead Rd, Edwardsport, IN 47528, USA"
+   ],
+   "origin_addresses" : [ "119 E 2nd St, Bicknell, IN 47512, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7194
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 458
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11833
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 694
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10897
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 689
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8137
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 534
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9523
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 657
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 11012
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 596
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

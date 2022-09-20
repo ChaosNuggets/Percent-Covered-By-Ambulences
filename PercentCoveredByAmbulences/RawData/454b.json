@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "Lake County, IN, USA",
+      "Unnamed Road, Hammond, IN 46320, USA",
+      "Lake County, IN, USA",
+      "Unnamed Road, East Chicago, IN 46312, USA",
+      "Lake County, IN, USA",
+      "Lake County, IN, USA"
+   ],
+   "origin_addresses" : [ "3711 Main St, East Chicago, IN 46312, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5720
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 561
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13275
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1212
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6813
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 690
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8053
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1026
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8702
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1132
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6998
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 695
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

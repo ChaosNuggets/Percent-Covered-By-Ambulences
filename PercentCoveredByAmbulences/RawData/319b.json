@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2672 County Rd 100 S, Bloomfield, IN 47424, USA",
+      "46 Meadowbrook, Linton, IN 47441, USA",
+      "1299 County Rd 850 W, Switz City, IN 47465, USA",
+      "323 Main St, Switz City, IN 47465, USA",
+      "4660 W 100 N, Switz City, IN 47465, USA",
+      "County Rd 260 W, Switz City, IN 47465, USA"
+   ],
+   "origin_addresses" : [ "150 Broad St, Lyons, IN 47443, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9947
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 572
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13329
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 691
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9756
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 458
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7102
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 460
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9141
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 527
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13230
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 724
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

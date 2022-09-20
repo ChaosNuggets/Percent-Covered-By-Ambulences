@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "2727 Williams Rd, Bloomington, IN 47404, USA",
+      "768 Concord Rd, Gosport, IN 47433, USA",
+      "8999-8801 N Little Wolf Mountain Rd, Gosport, IN 47433, USA",
+      "8592 N Mt Tabor Rd, Ellettsville, IN 47429, USA",
+      "4400 W Prather Rd, Ellettsville, IN 47429, USA",
+      "8687 N Buskirk Rd, Gosport, IN 47433, USA"
+   ],
+   "origin_addresses" : [ "1406 W Temperance St, Ellettsville, IN 47429, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12940
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 936
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10335
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 562
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9072
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8480
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 560
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14974
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15871
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1112
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

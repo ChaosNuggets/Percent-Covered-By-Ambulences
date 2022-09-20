@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "4435 N 500 W, Shipshewana, IN 46565, USA",
+      "3155 W 450 N, Shipshewana, IN 46565, USA",
+      "11130-10150 Co Rd 4, Middlebury, IN 46540, USA",
+      "10726-10520 IN-120, Shipshewana, IN 46565, USA",
+      "6410-6314 N 900 W, Shipshewana, IN 46565, USA",
+      "6855 W 650 N, Shipshewana, IN 46565, USA",
+      "Van Buren Township, IN, USA",
+      "3030 W 650 N, Howe, IN 46746, USA"
+   ],
+   "origin_addresses" : [ "330 Morton St, Shipshewana, IN 46565, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8283
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 533
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9676
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 694
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17184
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1011
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10824
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11937
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 718
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8832
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 588
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11988
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14306
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

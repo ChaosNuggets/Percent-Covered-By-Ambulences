@@ -1,60 +1,6 @@
 {
-   "destination_addresses" : [
-      "1426 Lake Shore Dr, Michigan City, IN 46360, USA",
-      "276 Twin Rd, Michigan City, IN 46360, USA",
-      "5371-5939 W 900 N, Michigan City, IN 46360, USA",
-      "8998-8000 N 400 W, Michigan City, IN 46360, USA"
-   ],
-   "origin_addresses" : [ "300 Washington St, Michigan City, IN 46360, USA" ],
-   "rows" : [
-      {
-         "elements" : [
-            {
-               "distance" : {
-                  "text" : "1.7 mi",
-                  "value" : 2780
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 323
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.4 mi",
-                  "value" : 5432
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 381
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.2 mi",
-                  "value" : 8413
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 565
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.2 mi",
-                  "value" : 11550
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 757
-               },
-               "status" : "OK"
-            }
-         ]
-      }
-   ],
-   "status" : "OK"
+   "destination_addresses" : [],
+   "origin_addresses" : [],
+   "rows" : [],
+   "status" : "INVALID_REQUEST"
 }

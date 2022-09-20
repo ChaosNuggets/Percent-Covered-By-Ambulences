@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "W Salem Church Rd, Covington, IN 47932, USA",
+      "7750-8998 W 850 S, Covington, IN 47932, USA",
+      "15314 N 300 W, Covington, IN 47932, USA",
+      "7598-7248 S Old State Hwy 63, Williamsport, IN 47993, USA",
+      "1990 450 N, Covington, IN 47932, USA",
+      "1351 W 450 N, Covington, IN 47932, USA"
+   ],
+   "origin_addresses" : [ "1329 2nd St, Covington, IN 47932, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9904
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 806
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12468
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 805
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14003
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 796
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13376
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 706
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9966
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 778
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12571
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 909
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

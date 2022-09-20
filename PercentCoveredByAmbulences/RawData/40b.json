@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "10516 N 200 W, Alexandria, IN 46001, USA",
+      "1208 N 8th St, Elwood, IN 46036, USA",
+      "12300-13718 County Rd 800 W, Elwood, IN 46036, USA",
+      "12591-12035 Rangeline Rd, Elwood, IN 46036, USA",
+      "12552 400 W, Alexandria, IN 46001, USA",
+      "12622 N Cord 200, Alexandria, IN 46001, USA"
+   ],
+   "origin_addresses" : [ "103 Church St, Frankton, IN 46044, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10280
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 572
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14368
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 964
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10865
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 739
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7810
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9748
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 597
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 12969
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 720
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

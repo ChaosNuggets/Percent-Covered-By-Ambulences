@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "967 400 E, Seymour, IN 47274, USA",
+      "3287 IN-135, Freetown, IN 47235, USA",
+      "2000 W Block Co Rd 300 N, Seymour, IN 47274, USA",
+      "100 E County Rd 300 N, Seymour, IN 47274, USA",
+      "County Rd 300 N, Seymour, IN 47274, USA",
+      "4040 US-50, Seymour, IN 47274, USA"
+   ],
+   "origin_addresses" : [ "210 W Walnut St, Brownstown, IN 47220, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8965
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 477
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11145
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 600
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6735
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 465
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5810
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 384
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8007
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 479
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9178
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,122 +1,16 @@
 {
    "destination_addresses" : [
-      "930 E Chestnut Dr, English, IN 47118, USA",
-      "E Temple Rd, English, IN 47118, USA",
-      "5030 Breeding Ln, Marengo, IN 47140, USA",
-      "2 Churches Rd, Taswell, IN 47175, USA",
-      "2634 Red Hill Rd, Taswell, IN 47175, USA",
-      "2097 Belcher Rd, Taswell, IN 47175, USA",
-      "Co Rd 161, English, IN 47118, USA",
-      "2570 N Bean Ln, English, IN 47118, USA",
       "2960 E Bacon Ridge Rd, Marengo, IN 47140, USA",
-      "4966 E Bacon Hollow Rd, Marengo, IN 47140, USA",
-      "6890-7122 W Newton Stewart Rd, Taswell, IN 47175, USA",
       "3787 510 W, Taswell, IN 47175, USA",
       "3899-2501 1050 S, English, IN 47118, USA",
       "1220 W Co Rd 1050 S, Paoli, IN 47454, USA",
       "798-746 E Co Rd 1025 S, English, IN 47118, USA",
-      "3164-3100 E Co Rd 1050 S, Marengo, IN 47140, USA",
-      "10501-10999 S County Rd 375 E, Marengo, IN 47140, USA",
-      "6538 W County Rd 825 S, English, IN 47118, USA",
-      "8487 S Co Rd 500 W, English, IN 47118, USA",
-      "County Rd 350 W, English, IN 47118, USA",
-      "1075 W Co Rd 840 S, Paoli, IN 47454, USA",
-      "645 E Owl Hollow Rd, Paoli, IN 47454, USA",
-      "2864 E County Rd 840 S, Marengo, IN 47140, USA",
-      "7998-7800 S Co Rd 425 E, Marengo, IN 47140, USA"
+      "3164-3100 E Co Rd 1050 S, Marengo, IN 47140, USA"
    ],
    "origin_addresses" : [ "4 Main St, English, IN 47118, USA" ],
    "rows" : [
       {
          "elements" : [
-            {
-               "distance" : {
-                  "text" : "1.8 mi",
-                  "value" : 2949
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 289
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6060
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 493
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.5 mi",
-                  "value" : 12142
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 591
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.2 mi",
-                  "value" : 14812
-               },
-               "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1021
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.9 mi",
-                  "value" : 12761
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 819
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.1 mi",
-                  "value" : 8285
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 547
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.4 mi",
-                  "value" : 13569
-               },
-               "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1017
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6058
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 434
-               },
-               "status" : "OK"
-            },
             {
                "distance" : {
                   "text" : "5.4 mi",
@@ -125,28 +19,6 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 460
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.3 mi",
-                  "value" : 15010
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 790
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "10.8 mi",
-                  "value" : 17412
-               },
-               "duration" : {
-                  "text" : "19 mins",
-                  "value" : 1137
                },
                "status" : "OK"
             },
@@ -164,7 +36,7 @@
             {
                "distance" : {
                   "text" : "7.4 mi",
-                  "value" : 11942
+                  "value" : 11941
                },
                "duration" : {
                   "text" : "13 mins",
@@ -175,7 +47,7 @@
             {
                "distance" : {
                   "text" : "6.3 mi",
-                  "value" : 10090
+                  "value" : 10091
                },
                "duration" : {
                   "text" : "13 mins",
@@ -186,7 +58,7 @@
             {
                "distance" : {
                   "text" : "7.7 mi",
-                  "value" : 12410
+                  "value" : 12411
                },
                "duration" : {
                   "text" : "14 mins",
@@ -202,94 +74,6 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 921
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "10.8 mi",
-                  "value" : 17324
-               },
-               "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1012
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "17.4 mi",
-                  "value" : 28051
-               },
-               "duration" : {
-                  "text" : "21 mins",
-                  "value" : 1269
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "11.8 mi",
-                  "value" : 18912
-               },
-               "duration" : {
-                  "text" : "21 mins",
-                  "value" : 1283
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "13.7 mi",
-                  "value" : 22023
-               },
-               "duration" : {
-                  "text" : "27 mins",
-                  "value" : 1631
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.3 mi",
-                  "value" : 14986
-               },
-               "duration" : {
-                  "text" : "19 mins",
-                  "value" : 1156
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "10.1 mi",
-                  "value" : 16268
-               },
-               "duration" : {
-                  "text" : "18 mins",
-                  "value" : 1075
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.9 mi",
-                  "value" : 15882
-               },
-               "duration" : {
-                  "text" : "19 mins",
-                  "value" : 1140
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "13.2 mi",
-                  "value" : 21211
-               },
-               "duration" : {
-                  "text" : "20 mins",
-                  "value" : 1200
                },
                "status" : "OK"
             }

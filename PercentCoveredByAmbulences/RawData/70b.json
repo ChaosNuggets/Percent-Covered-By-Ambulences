@@ -1,22 +1,6 @@
 {
-   "destination_addresses" : [ "8991 Austin Rd, Montgomery, MI 49255, USA" ],
-   "origin_addresses" : [ "122 Outer Dr Clear Lake, Fremont, IN 46737, USA" ],
-   "rows" : [
-      {
-         "elements" : [
-            {
-               "distance" : {
-                  "text" : "5.5 mi",
-                  "value" : 8924
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 481
-               },
-               "status" : "OK"
-            }
-         ]
-      }
-   ],
-   "status" : "OK"
+   "destination_addresses" : [],
+   "origin_addresses" : [],
+   "rows" : [],
+   "status" : "INVALID_REQUEST"
 }

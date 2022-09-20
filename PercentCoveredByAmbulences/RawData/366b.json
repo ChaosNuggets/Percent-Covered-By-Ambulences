@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "9160 W Base Rd, Seymour, IN 47274, USA",
+      "6006 E County Rd 900 N, Seymour, IN 47274, USA",
+      "2514-2544 Hwy 11, Seymour, IN 47274, USA",
+      "10000 E County Rd 900 N, Seymour, IN 47274, USA",
+      "11967 E 900, Seymour, IN 47274, USA",
+      "9135 W County Rd 200 N, Seymour, IN 47274, USA"
+   ],
+   "origin_addresses" : [ "651 S Commerce Dr, Seymour, IN 47274, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7777
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 473
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15919
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 819
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12071
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 542
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8467
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 471
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8486
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 476
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10826
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 664
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

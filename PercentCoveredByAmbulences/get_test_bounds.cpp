@@ -45,8 +45,8 @@ std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std
     const auto [lowCorner, highCorner] = getTestCoordinateBounds(stationCoordinate, radiusOfCircles);
 
     //Calculate the index bounds
-    auto [lowLat, lowLong] = coordToIndex(lowCorner, floor);
-    auto [highLat, highLong] = coordToIndex(highCorner, ceil);
+    auto [lowLat, lowLong] = coordToIndex(lowCorner, ceil);
+    auto [highLat, highLong] = coordToIndex(highCorner, floor);
 
     // Don't test indexes that are out of bounds of the points matrix
     if (lowLat < 0) lowLat = 0;

@@ -36,6 +36,11 @@ std::vector<std::pair<double, double>> getDestinations(const int stationNum, con
                     firstIteration = false;
                     i = lowLatIndex + 3;
                     j = lowLongIndex + 4;
+                    if (i > highLatIndex || j > highLongIndex)
+                    {
+                        shouldBreak = true;
+                        break;
+                    }
                 }
             }
             else if (i == lowLatIndex + 3 && j == lowLongIndex + 4)
@@ -67,10 +72,8 @@ bool downloadFirstHalf(const std::string& apiKey, const int stationNum, const in
     const std::vector<std::pair<double, double>> destinations = getDestinations(stationNum, circleRadius, firstHalf);
     
     std::string destinationsStr = destinationsToString(destinations);
-    
     std::string originStr = originsToString({ stationCoordinates[stationNum] });
     std::string URL = generateURL(destinationsStr, originStr, apiKey);
-
     
     std::string filePath = generateFilePath(stationNum, firstHalf);
     bool curlSuccess = doCurlStuff(URL, filePath);
@@ -106,6 +109,6 @@ int main(void)
             return 1;
         }
         std::this_thread::sleep_for(std::chrono::milliseconds(200));
-    }    
+    }
     return 0;
 }

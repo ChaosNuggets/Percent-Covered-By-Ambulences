@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "IN-912, Hammond, IN 46323, USA",
+      "15246 Harper Ave, Dolton, IL 60419, USA",
+      "620 Buffalo Ave, Calumet City, IL 60409, USA",
+      "855 Truman St, Hammond, IN 46320, USA",
+      "2400-27 Michigan St, East Chicago, IN 46312, USA",
+      "2829 Gary Rd, East Chicago, IN 46312, USA"
+   ],
+   "origin_addresses" : [ "1001 Ridge Rd, Munster, IN 46321, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17299
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1164
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14182
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 920
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9477
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 972
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6991
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 674
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9251
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1029
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13969
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1210
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

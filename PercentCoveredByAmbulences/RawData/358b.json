@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "US Hwy 41, Mecca, IN 47860, USA",
+      "10109 S Rangeline Rd, Clinton, IN 47842, USA",
+      "1783 E 1050, Hillsdale, IN 47854, USA",
+      "10500 IN-63, Clinton, IN 47842, USA",
+      "600 W, Montezuma, IN 47862, USA",
+      "2309 McAdams Rd, Rockville, IN 47872, USA"
+   ],
+   "origin_addresses" : [ "383 S Jackson St, Clinton, IN 47842, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12706
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 714
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12871
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 738
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9505
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6791
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14511
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 836
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16365
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1027
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
