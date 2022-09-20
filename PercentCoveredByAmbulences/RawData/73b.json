@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8600 Effinger Rd, Wadesville, IN 47638, USA" ],
+   "origin_addresses" : [ "1201 Brittle Bank Rd, Mt Vernon, IN 47620, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "18.9 mi",
+                  "value" : 30355
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1731
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

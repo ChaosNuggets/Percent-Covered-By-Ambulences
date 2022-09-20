@@ -4,10 +4,13 @@
 #include <utility>
 #include <vector>
 
+typedef double (*funcPtr)(double);
+
 extern std::vector<std::vector<bool>> points;
 extern int totalPoints;
-void fillPoints();
-std::pair<int, int> coordToIndex(const std::pair<float, float>& coordinate);
-std::pair<float, float> indexToCoord(const std::pair<int, int>& index);
+
+std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, funcPtr roundFunc);
+std::pair<double, double> indexToCoord(const std::pair<int, int>& index);
+void fillPoints(bool countPoints);
 
 #endif

@@ -1,0 +1,216 @@
+{
+   "destination_addresses" : [
+      "2125 Toledo Rd, Elkhart, IN 46516, USA",
+      "5150 Verdant St, Elkhart, IN 46516, USA",
+      "56421 Co Rd 21, Bristol, IN 46507, USA",
+      "54380 Adrian Ct, Osceola, IN 46561, USA",
+      "29746 Roscommon Dr, Elkhart, IN 46514, USA",
+      "27852 Westwood Dr, Elkhart, IN 46514, USA",
+      "54397 Conn Ave, Elkhart, IN 46514, USA",
+      "1534 Jeanwood Dr, Elkhart, IN 46514, USA",
+      "22114 Sunset Ln, Elkhart, IN 46516, USA",
+      "54098-53996 Co Rd 21, Bristol, IN 46507, USA",
+      "10650 Brummitt Rd, Granger, IN 46530, USA",
+      "Indiana Toll Rd, Elkhart, IN 46514, USA",
+      "52361 Iris Ct, Elkhart, IN 46514, USA",
+      "52292 Co Rd 9, Elkhart, IN 46514, USA",
+      "52352 Co Rd 13, Elkhart, IN 46514, USA",
+      "52491 County Rd 17, Bristol, IN 46507, USA",
+      "I-90, Bristol, IN 46507, USA"
+   ],
+   "origin_addresses" : [ "175 Waterfall Dr, Elkhart, IN 46516, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4250
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 415
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7870
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10912
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 845
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10787
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 918
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7777
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4137
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 470
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2694
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 361
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5253
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 506
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8524
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 757
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11501
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 856
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11690
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 970
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17.2 mi",
+                  "value" : 27630
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1679
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8698
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 781
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6787
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 675
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8471
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 750
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12824
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 975
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.1 mi",
+                  "value" : 22682
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1392
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -139,9 +139,17 @@
     <ClCompile Include="get_api_data.cpp" />
     <ClCompile Include="points.cpp" />
     <ClCompile Include="constants.cpp" />
+    <ClCompile Include="main_download_data.cpp" />
+    <ClCompile Include="get_test_bounds.cpp" />
+    <ClCompile Include="angle_conversions.cpp" />
+    <ClCompile Include="station_coordinates.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h" />
+    <ClInclude Include="get_api_data.h" />
+    <ClInclude Include="get_test_bounds.h" />
+    <ClInclude Include="angle_conversions.h" />
+    <ClInclude Include="station_coordinates.h" />
     <ClInclude Include="points.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

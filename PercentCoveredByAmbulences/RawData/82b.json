@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "8600 Effinger Rd, Wadesville, IN 47638, USA" ],
+   "origin_addresses" : [ "526 Main St, Mt Vernon, IN 47620, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "18.1 mi",
+                  "value" : 29177
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1617
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

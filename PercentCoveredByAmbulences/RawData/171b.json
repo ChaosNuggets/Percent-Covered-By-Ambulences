@@ -1,0 +1,48 @@
+{
+   "destination_addresses" : [
+      "5371-5939 W 900 N, Michigan City, IN 46360, USA",
+      "8998-8000 N 400 W, Michigan City, IN 46360, USA",
+      "8555 IN-39, Michigan City, IN 46360, USA"
+   ],
+   "origin_addresses" : [ "2400 Oriole Trail, Long Beach, IN 46360, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4637
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 469
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7773
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 661
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13995
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 844
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

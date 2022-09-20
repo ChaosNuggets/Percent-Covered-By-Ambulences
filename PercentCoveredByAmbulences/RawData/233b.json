@@ -1,0 +1,48 @@
+{
+   "destination_addresses" : [
+      "5077-5285 IN-120, Fremont, IN 46737, USA",
+      "6125 N 700 E, Fremont, IN 46737, USA",
+      "616 E Clear Lake Dr, Fremont, IN 46737, USA"
+   ],
+   "origin_addresses" : [ "200 Michael St, Fremont, IN 46737, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3499
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 304
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6899
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 377
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11090
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 619
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

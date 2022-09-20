@@ -1,0 +1,48 @@
+{
+   "destination_addresses" : [
+      "6068 St Joe Cemetery Rd, Tell City, IN 47586, USA",
+      "7282-7174 Liberty Rd, Tell City, IN 47586, USA",
+      "Locust Rd, Tell City, IN 47586, USA"
+   ],
+   "origin_addresses" : [ "720 S 7th St, Cannelton, IN 47520, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "14.8 mi",
+                  "value" : 23876
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1139
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "19.3 mi",
+                  "value" : 31065
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1551
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "16.8 mi",
+                  "value" : 27033
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1145
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
