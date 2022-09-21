@@ -142,6 +142,7 @@
     <ClCompile Include="main_download_data.cpp" />
     <ClCompile Include="get_test_bounds.cpp" />
     <ClCompile Include="angle_conversions.cpp" />
+    <ClCompile Include="main_organize_data.cpp" />
     <ClCompile Include="station_coordinates.cpp" />
   </ItemGroup>
   <ItemGroup>

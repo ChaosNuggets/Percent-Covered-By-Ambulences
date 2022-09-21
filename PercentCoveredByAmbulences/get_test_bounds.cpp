@@ -51,8 +51,8 @@ std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std
     // Don't test indexes that are out of bounds of the points matrix
     if (lowLat < 0) lowLat = 0;
     if (lowLong < 0) lowLong = 0;
-    if (highLat >= LATSIZE) highLat = LATSIZE - 1;
-    if (highLong >= LONGSIZE) highLong = LONGSIZE - 1;
+    if (highLat >= LAT_SIZE) highLat = LAT_SIZE - 1;
+    if (highLong >= LONG_SIZE) highLong = LONG_SIZE - 1;
 
     // Make the range a little bigger than it has to be to correct for rounding errors, it's just safer
     return { {lowLat, lowLong}, {highLat, highLong} };

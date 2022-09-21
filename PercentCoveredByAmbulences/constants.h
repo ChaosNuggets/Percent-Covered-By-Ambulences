@@ -9,9 +9,11 @@ const extern double HIGHEST_LONG;
 const extern double LONG_IN_1_MILE;
 const extern double LAT_IN_1_MILE;
 const extern double MILES_BETWEEN_POINTS;
-const extern int LATSIZE;
-const extern int LONGSIZE;
+const extern int LAT_SIZE;
+const extern int LONG_SIZE;
 const extern long double MAX_TIME;
 const extern long double MINUTES_IN_1_HOUR;
+const extern int LAT_INDEX_STOP;
+const extern int LONG_INDEX_STOP;
 
 #endif
