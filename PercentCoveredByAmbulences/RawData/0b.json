@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "6450 W Co Rd 550 N, Mulberry, IN 46058, USA",
       "6001-6499 IN-39, Mulberry, IN 46058, USA",
+      "1389-1001 S 750 E, Lafayette, IN 47905, USA",
       "8817 Dewey Dr, Lafayette, IN 47905, USA",
       "10998-10620 E 100 S, Lafayette, IN 47905, USA",
       "8275 W County Rd 800 N, Mulberry, IN 46058, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6548
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 498
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12106
                },
                "duration" : {
                   "text" : "9 mins",
                   "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16658
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 860
                },
                "status" : "OK"
             },

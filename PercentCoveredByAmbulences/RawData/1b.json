@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "3631 N Whittier Pl, Indianapolis, IN 46218, USA",
+      "3691 N Sadlier Dr, Indianapolis, IN 46226, USA",
+      "3532 W 55th St, Indianapolis, IN 46228, USA",
+      "1050 52nd St, Indianapolis, IN 46228, USA",
+      "5425 Broadway St, Indianapolis, IN 46220, USA",
+      "5400 Allisonville Rd, Indianapolis, IN 46220, USA",
+      "5520 Roxbury Terrace, Indianapolis, IN 46226, USA",
       "5450 N Richardt Ave, Indianapolis, IN 46226, USA",
+      "6901 Starkey Ridge Ln, Indianapolis, IN 46268, USA",
       "1403 Shawnee Rd, Indianapolis, IN 46260, USA",
       "6933 N Park Ave, Indianapolis, IN 46220, USA",
       "3319 E 69th St, Indianapolis, IN 46220, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5113
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8631
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 762
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13484
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1208
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11086
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1048
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7455
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 805
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5468
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 507
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9155
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 790
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.4 mi",
-                  "value" : 11866
+                  "value" : 11867
                },
                "duration" : {
                   "text" : "16 mins",
                   "value" : 946
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15669
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1419
                },
                "status" : "OK"
             },
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.7 mi",
-                  "value" : 13995
+                  "value" : 13994
                },
                "duration" : {
                   "text" : "18 mins",

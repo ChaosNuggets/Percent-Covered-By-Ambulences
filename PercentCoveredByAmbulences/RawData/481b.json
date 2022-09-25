@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "1333 N 700 E, Kokomo, IN 46902, USA",
       "6607 N 50 E, Sharpsville, IN 46068, USA",
+      "300 300 S, Kokomo, IN 46902, USA",
       "3040 Crooked Stick Dr, Kokomo, IN 46902, USA",
       "3150 Springwater Ct, Kokomo, IN 46902, USA",
       "2977-3089 E Center Rd, Kokomo, IN 46902, USA",
       "300 S 460 E, Kokomo, IN 46902, USA",
-      "6001-6965 300 S, Kokomo, IN 46902, USA"
+      "6001-6965 300 S, Kokomo, IN 46902, USA",
+      "2878 Bridgestone Cir, Kokomo, IN 46902, USA",
+      "1325 Avalon Ct, Kokomo, IN 46902, USA",
+      "2401 S Reed Rd, Kokomo, IN 46902, USA",
+      "1237 S 300 E, Kokomo, IN 46902, USA",
+      "4998-4500 County Rd E 100 S, Kokomo, IN 46902, USA",
+      "142 S 700 E, Greentown, IN 46936, USA"
    ],
    "origin_addresses" : [ "124 S Main St, Sharpsville, IN 46068, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7032
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 432
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.4 mi",
@@ -24,12 +43,23 @@
             },
             {
                "distance" : {
-                  "text" : "6.9 mi",
-                  "value" : 11062
+                  "text" : "8.9 mi",
+                  "value" : 14384
                },
                "duration" : {
-                  "text" : "12 mins",
-                  "value" : 703
+                  "text" : "14 mins",
+                  "value" : 837
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11681
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 826
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17411
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1022
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14254
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1021
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13188
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 775
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11314
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 591
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13686
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 699
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17868
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 946
                },
                "status" : "OK"
             }

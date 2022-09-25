@@ -5,16 +5,19 @@
       "750 E, Greensburg, IN 47240, USA",
       "5931 W County Rd 240 NW, Greensburg, IN 47240, USA",
       "1999-1463 N Co Rd 400 W, Greensburg, IN 47240, USA",
+      "1920 W Co Rd 100 N, Greensburg, IN 47240, USA",
       "3757 E Vandalia Rd, Flat Rock, IN 47234, USA",
       "9217 S 600 E, St Paul, IN 47272, USA",
       "950 East St, St Paul, IN 47272, USA",
       "3552 N Co Rd 650 W, Greensburg, IN 47240, USA",
       "3632 N Co Rd 420 W, Greensburg, IN 47240, USA",
+      "3410 N County Rd 250 W, Greensburg, IN 47240, USA",
       "7417 S 400 E, Waldron, IN 46182, USA",
       "7306 S 600 E, St Paul, IN 47272, USA",
       "7180 S 750 E, St Paul, IN 47272, USA",
       "6250 W Co Rd 550 N, St Paul, IN 47272, USA",
       "5588 N Co Rd 420 W, Greensburg, IN 47240, USA",
+      "2122-2776 W Co Rd 600 N, Greensburg, IN 47240, USA",
       "3751-3899 W 500 S, Waldron, IN 46182, USA",
       "5499 S 600 E, Waldron, IN 46182, USA",
       "7185-7903 E 550 S, Waldron, IN 46182, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14851
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.2 mi",
                   "value" : 13122
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15701
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 919
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8801
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 699
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14732
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 927
                },
                "status" : "OK"
             },

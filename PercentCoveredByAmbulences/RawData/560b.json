@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "2215 E Cider Mill Rd, Columbia City, IN 46725, USA",
       "4000-4498 IN-205, Columbia City, IN 46725, USA",
+      "3370 County Rd 550 W, Columbia City, IN 46725, USA",
       "3349 N 350 W, Columbia City, IN 46725, USA",
       "3455 N 150 W, Columbia City, IN 46725, USA",
       "3425 N Airport Rd, Columbia City, IN 46725, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5639
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 498
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7410
                },
                "duration" : {
                   "text" : "8 mins",
                   "value" : 464
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13446
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 696
                },
                "status" : "OK"
             },

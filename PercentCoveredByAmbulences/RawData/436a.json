@@ -2,19 +2,22 @@
    "destination_addresses" : [
       "IL-394, Ford Heights, IL 60411, USA",
       "3275 Lincoln Hwy, Lynwood, IL 60411, USA",
-      "Dyer Dog Park, 900 Central Pk Blvd, Dyer, IN 46311, USA",
+      "900 Central Pk Blvd, Dyer, IN 46311, USA",
       "1133 US Hwy 41, Schererville, IN 46375, USA",
       "1118 S Cline Ave, Schererville, IN 46375, USA",
+      "Turkey Creek Trail, Schererville, IN 46375, USA",
       "20061 Blackstone Ave, Lynwood, IL 60411, USA",
       "20114 Catalpa Ave, Lynwood, IL 60411, USA",
       "10010 Calumet Ave, Munster, IN 46321, USA",
       "10101 Indianapolis Blvd, Highland, IN 46322, USA",
       "512 Cline Ave, Griffith, IN 46319, USA",
+      "4817 Ross Rd, Griffith, IN 46319, USA",
       "18450 Dorchester Ave, Lansing, IL 60438, USA",
       "18455 Chicago Ave, Lansing, IL 60438, USA",
       "910 Ridge Rd, Munster, IN 46321, USA",
       "8345 Indianapolis Blvd, Highland, IN 46322, USA",
       "IN-912, Hammond, IN 46323, USA",
+      "4800 W 33rd Appr Ave, Gary, IN 46406, USA",
       "14122 Chicago St, South Holland, IL 60473, USA",
       "16895 Chicago Ave, Lansing, IL 60438, USA",
       "903 169th St, Hammond, IN 46324, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15188
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1299
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.7 mi",
                   "value" : 13974
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10834
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 995
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7532
                },
@@ -181,11 +206,22 @@
             {
                "distance" : {
                   "text" : "5.7 mi",
-                  "value" : 9220
+                  "value" : 9150
                },
                "duration" : {
-                  "text" : "12 mins",
-                  "value" : 725
+                  "text" : "10 mins",
+                  "value" : 576
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12119
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 792
                },
                "status" : "OK"
             },

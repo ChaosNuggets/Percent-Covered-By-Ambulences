@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "16575 Elm Rd, Lawrenceville, IL 62439, USA",
       "County Rd 600 N, Oaktown, IN 47561, USA",
       "9154 N Schulze Rd, Oaktown, IN 47561, USA",
       "E Springtown Rd, Bruceville, IN 47516, USA",
       "8899-8801 Price Rd, Bicknell, IN 47512, USA",
       "Rod and Gun Club Rd, Bicknell, IN 47512, USA",
+      "17972-18398 Taylor Rd, Flat Rock, IL 62427, USA",
       "County Rd 225 W, Oaktown, IN 47561, USA",
       "11583 Bob Wolfe Rd, Oaktown, IN 47561, USA",
       "11299-11083 N Ross Rd, Oaktown, IN 47561, USA",
       "N Risley Rd, Oaktown, IN 47561, USA",
       "9735 E Pepmeier Rd, Oaktown, IN 47561, USA",
+      "County Rd 950 N, Oaktown, IN 47561, USA",
       "E Twin Washouts Rd, Oaktown, IN 47561, USA",
       "12620-13600 N Texas Gas Rd, Oaktown, IN 47561, USA",
       "US Hwy 41, Oaktown, IN 47561, USA",
       "13293 N Risley Rd, Oaktown, IN 47561, USA",
       "12601-13645 Perkins Rd, Oaktown, IN 47561, USA",
+      "E 275th St, Flat Rock, IL 62427, USA",
       "E Oil Fld Rd, Oaktown, IN 47561, USA",
       "15213 N Mouzin Rd, Oaktown, IN 47561, USA",
-      "15236 Old 41 N, Oaktown, IN 47561, USA",
-      "7718 E Moody Rd, Oaktown, IN 47561, USA"
+      "15236 Old 41 N, Oaktown, IN 47561, USA"
    ],
    "origin_addresses" : [ "100 Broadway St, Oaktown, IN 47561, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "24.7 mi",
+                  "value" : 39694
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1635
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 777
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "28.3 mi",
+                  "value" : 45573
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1939
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10830
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 915
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7018
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "33.9 mi",
+                  "value" : 54588
+               },
+               "duration" : {
+                  "text" : "39 mins",
+                  "value" : 2331
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8350
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 298
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.0 mi",
-                  "value" : 6445
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 497
                },
                "status" : "OK"
             }

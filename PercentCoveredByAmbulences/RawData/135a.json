@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6935 Old State Rd 25, Lafayette, IN 47905, USA",
       "6810 N 900 E, Lafayette, IN 47905, USA",
       "10617 E 700 N, Lafayette, IN 47905, USA",
       "750 W S Rd, Delphi, IN 46923, USA",
       "1999-1695 S Prince William Rd, Delphi, IN 46923, USA",
       "3101-3499 W 200 S, Bringhurst, IN 46913, USA",
+      "6904 Indian Bluff Rd, Battle Ground, IN 47920, USA",
       "9598-9064 E 950 N, Delphi, IN 46923, USA",
       "10801 E 900 N, Lafayette, IN 47905, USA",
       "7182 W Division Line Rd, Delphi, IN 46923, USA",
       "5151 IN-18, Delphi, IN 46923, USA",
       "3087 IN-18, Flora, IN 46929, USA",
+      "1898-1500 N 1275 W, Battle Ground, IN 47920, USA",
       "11220 W 200 N, Delphi, IN 46923, USA",
       "9162 W 225 N, Delphi, IN 46923, USA",
       "7154 W Crestwood Dr, Delphi, IN 46923, USA",
       "5240 W 200 N, Delphi, IN 46923, USA",
       "3499-3401 W 200 N, Flora, IN 46929, USA",
+      "10000-10248 S Springboro Rd, Brookston, IN 47923, USA",
       "11050 W 400 N, Delphi, IN 46923, USA",
       "4248-3350 N 900 W, Delphi, IN 46923, USA",
-      "7373 W Milkhouse Rd, Delphi, IN 46923, USA",
-      "3911 N 525 W, Delphi, IN 46923, USA"
+      "7373 W Milkhouse Rd, Delphi, IN 46923, USA"
    ],
    "origin_addresses" : [ "224 E Main St, Delphi, IN 46923, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11901
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 656
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12916
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 867
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8894
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.6 mi",
                   "value" : 5842
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10239
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 624
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.3 mi",
                   "value" : 6980
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 253
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5678
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 322
                },
                "status" : "OK"
             }

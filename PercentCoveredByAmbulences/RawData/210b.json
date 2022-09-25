@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "1952 Lasalle St, Indianapolis, IN 46218, USA",
       "5441 E 19th Pl, Indianapolis, IN 46218, USA",
+      "Unnamed Road, Indianapolis, IN 46224, USA",
       "3542 Sherburne Ln, Indianapolis, IN 46222, USA",
       "1212 Golden Hill Dr, Indianapolis, IN 46208, USA",
       "555 E 37th St, Indianapolis, IN 46205, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7201
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 939
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.8 mi",
                   "value" : 10936
                },
                "duration" : {
                   "text" : "15 mins",
                   "value" : 922
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14306
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1215
                },
                "status" : "OK"
             },

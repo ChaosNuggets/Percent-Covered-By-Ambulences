@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6790 175 N, Nebraska, IN 47223, USA",
       "K Rd, Butlerville, IN 47223, USA",
       "Bombfield Rd, Holton, IN 47023, USA",
       "Unnamed Road, Holton, IN 47023, USA",
       "4424 W County Rd 450 S, Versailles, IN 47042, USA",
       "3501-4499 S County Rd 250 W, Versailles, IN 47042, USA",
+      "6735 E County Rd 400 N, Butlerville, IN 47223, USA",
       "Unnamed Road, Butlerville, IN 47223, USA",
       "Unnamed Road, Holton, IN 47023, USA",
       "W County Rd 200 S, Holton, IN 47023, USA",
       "4162 W County Rd 250 S, Holton, IN 47023, USA",
       "2268-2334 W County Rd 250 S, Versailles, IN 47042, USA",
+      "5999-5787 N County Rd 675 E, Butlerville, IN 47223, USA",
       "8740 E 575, Nebraska, IN 47223, USA",
       "Unnamed Road, Holton, IN 47023, USA",
       "6610-6622 Indiana's Historic Pathways - North Spur, Holton, IN 47023, USA",
       "288 S County Rd 400 W, Holton, IN 47023, USA",
       "2258 US-50, Versailles, IN 47042, USA",
+      "6029-6199 E County Rd 800 N, North Vernon, IN 47265, USA",
       "7500 N County Rd 850 E, Butlerville, IN 47223, USA",
       "1693 N County Rd 850 W, Holton, IN 47023, USA",
-      "6554 W Hopewell Rd, Holton, IN 47023, USA",
-      "4141 W Railroad Rd, Holton, IN 47023, USA"
+      "6554 W Hopewell Rd, Holton, IN 47023, USA"
    ],
    "origin_addresses" : [ "7044 W Versailles St, Holton, IN 47023, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17202
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 865
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "11.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 801
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10826
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 538
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10596
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 540
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6484
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17568
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1363
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.7 mi",
                   "value" : 10862
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 370
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.9 mi",
-                  "value" : 6333
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 328
                },
                "status" : "OK"
             }

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "5600 W Raymond St, Indianapolis, IN 46241, USA",
       "2205 S Holt Rd, Indianapolis, IN 46241, USA",
       "Eagle Creek Greenway, Indianapolis, IN 46221, USA",
       "Ellis Shelter, 2231-2249,2230, 2248 S Garfield Dr, Indianapolis, IN 46203, USA",
       "3103 E Tabor St, Indianapolis, IN 46203, USA",
       "2340 S Ritter Ave, Indianapolis, IN 46203, USA",
+      "5553 Rockville Rd, Indianapolis, IN 46224, USA",
       "3512 Rockville Rd, Indianapolis, IN 46222, USA",
       "135 S Harding St, Indianapolis, IN 46222, USA",
       "117 Pope St, Indianapolis, IN 46202, USA",
       "3124 Newton Ave, Indianapolis, IN 46201, USA",
       "310 S Ritter Ave, Indianapolis, IN 46219, USA",
+      "5702 Speedway Dr, Speedway, IN 46224, USA",
       "2027 N Rochester Ave, Indianapolis, IN 46222, USA",
       "1232 W 19th St, Indianapolis, IN 46202, USA",
       "547 E 20th St, Indianapolis, IN 46202, USA",
       "1952 Lasalle St, Indianapolis, IN 46218, USA",
       "5441 E 19th Pl, Indianapolis, IN 46218, USA",
+      "Unnamed Road, Indianapolis, IN 46224, USA",
       "3542 Sherburne Ln, Indianapolis, IN 46222, USA",
       "1212 Golden Hill Dr, Indianapolis, IN 46208, USA",
-      "555 E 37th St, Indianapolis, IN 46205, USA",
-      "3123 E 37th St, Indianapolis, IN 46218, USA"
+      "555 E 37th St, Indianapolis, IN 46205, USA"
    ],
    "origin_addresses" : [ "2420 Central Ave, Indianapolis, IN 46205, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.0 mi",
+                  "value" : 17783
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1243
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "20 mins",
                   "value" : 1180
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13949
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1280
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11722
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1093
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 8981
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10957
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1028
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8779
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 324
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.3 mi",
-                  "value" : 5256
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 581
                },
                "status" : "OK"
             }

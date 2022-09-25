@@ -7,7 +7,13 @@
       "62396 Co Rd 1, Elkhart, IN 46517, USA",
       "62365 Nappanee St, Elkhart, IN 46517, USA",
       "62480 Co Rd 9, Goshen, IN 46526, USA",
-      "62422-62000 Co Rd 13, Goshen, IN 46526, USA"
+      "62422-62000 Co Rd 13, Goshen, IN 46526, USA",
+      "60350 Dogwood Rd, Mishawaka, IN 46544, USA",
+      "Lincoln Hwy, Mishawaka, IN 46544, USA",
+      "US-20, Elkhart, IN 46517, USA",
+      "60248 State Rte 19, Elkhart, IN 46517, USA",
+      "25789 Co Rd 28, Goshen, IN 46526, USA",
+      "24064 Co Rd 126, Goshen, IN 46526, USA"
    ],
    "origin_addresses" : [ "102 S Spring St, Wakarusa, IN 46573, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.8 mi",
+                  "value" : 22209
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1109
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.5 mi",
+                  "value" : 18582
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 874
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11040
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 663
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10431
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 517
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13578
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 711
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16427
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 904
                },
                "status" : "OK"
             }

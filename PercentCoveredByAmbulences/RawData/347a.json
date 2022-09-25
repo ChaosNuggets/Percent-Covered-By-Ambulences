@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "Unnamed Road, Farmland, IN 47340, USA",
       "Unnamed Road, Winchester, IN 47394, USA",
       "1941-1585 W 400 S, Winchester, IN 47394, USA",
       "3707-3475 S Base Rd, Winchester, IN 47394, USA",
       "3000-3866 S 200 E, Winchester, IN 47394, USA",
       "3519 S 400 E, Winchester, IN 47394, USA",
+      "5390 W 150 S, Winchester, IN 47394, USA",
       "150 W South St, Winchester, IN 47394, USA",
       "1587 W 150 S, Winchester, IN 47394, USA",
       "1830 S Old Hwy 27, Winchester, IN 47394, USA",
-      "1691-1533 S 250 E, Winchester, IN 47394, USA",
+      "1691-1533 County Rd 250 E, Winchester, IN 47394, USA",
       "1627 S 400 E, Union City, IN 47390, USA",
+      "5880 IN-32, Winchester, IN 47394, USA",
       "3508 IN-32, Winchester, IN 47394, USA",
       "1735 IN-32, Winchester, IN 47394, USA",
       "361 SE Greenville Ave, Winchester, IN 47394, USA",
       "305 N 200 E, Winchester, IN 47394, USA",
       "434 N 400 E, Union City, IN 47390, USA",
+      "5302-5998 County Rd 250 N, Winchester, IN 47394, USA",
       "3635-3473 W 200 N, Winchester, IN 47394, USA",
       "250 W North St, Winchester, IN 47394, USA",
-      "175 E 225 N, Winchester, IN 47394, USA",
-      "200 W North St, Winchester, IN 47394, USA"
+      "175 E 225 N, Winchester, IN 47394, USA"
    ],
    "origin_addresses" : [ "100 E South St, Winchester, IN 47394, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13427
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 935
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.1 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 642
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11921
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 682
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8847
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 440
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.6 mi",
                   "value" : 5726
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12031
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 674
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8374
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 350
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6917
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 533
                },
                "status" : "OK"
             }

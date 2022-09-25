@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "619 N 13th 1/2 St, Terre Haute, IN 47807, USA",
+      "103 N Fruitridge Ave, Terre Haute, IN 47803, USA",
+      "1751 N 2250th St, Paris, IL 61944, USA",
+      "3098 Lower Sandford Rd, West Terre Haute, IN 47885, USA",
+      "3163 N Howe Pl, West Terre Haute, IN 47885, USA",
+      "3090 Barnhardt Rd, West Terre Haute, IN 47885, USA",
+      "3105 N 13th 1/2 St, Terre Haute, IN 47804, USA",
       "3181 N Fruitridge Ave, Terre Haute, IN 47804, USA",
+      "22458-22498 E 425th Rd, Paris, IL 61944, USA",
       "5298-5146 N Porter Pl, West Terre Haute, IN 47885, USA",
       "6171-5199 N Regan Pl, West Terre Haute, IN 47885, USA",
       "IN-63, West Terre Haute, IN 47885, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5784
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 541
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8363
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11688
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 704
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8618
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 584
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5909
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 428
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5341
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 351
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9087
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12084
                },
                "duration" : {
                   "text" : "16 mins",
                   "value" : 968
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16520
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
                },
                "status" : "OK"
             },

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "700 N 1400 W, San Pierre, IN 46374, USA",
       "12413 W 700 N, North Judson, IN 46366, USA",
       "1100 S 600 W, North Judson, IN 46366, USA",
       "6086 IN-39, Winamac, IN 46996, USA",
       "7013 W 700 N, Winamac, IN 46996, USA",
       "700 N 450 E, Winamac, IN 46996, USA",
+      "8276-8028 US-421, San Pierre, IN 46374, USA",
       "7515 W 800 S, San Pierre, IN 46374, USA",
       "5999-5001 W 800 S, North Judson, IN 46366, USA",
       "3735 W 800 S, North Judson, IN 46366, USA",
       "1500-1998 W 800 S, North Judson, IN 46366, USA",
       "8756-8140 S Range Rd, North Judson, IN 46366, USA",
+      "9488-9784 W 600 S, San Pierre, IN 46374, USA",
       "6220 S 775 W, San Pierre, IN 46374, USA",
       "5668-5998 W State Rd 10, North Judson, IN 46366, USA",
       "309 E Weninger St, North Judson, IN 46366, USA",
       "N Jusdon Erie Trail, North Judson, IN 46366, USA",
       "6215 S Range Rd, North Judson, IN 46366, USA",
+      "400 US-421, San Pierre, IN 46374, USA",
       "400 S 750 W, San Pierre, IN 46374, USA",
       "600 S 400 W, North Judson, IN 46366, USA",
-      "3899 W 400 S, North Judson, IN 46366, USA",
-      "4236 S State Rd 39, North Judson, IN 46366, USA"
+      "3899 W 400 S, North Judson, IN 46366, USA"
    ],
    "origin_addresses" : [ "206 Keller Ave, North Judson, IN 46366, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15369
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 741
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.6 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 656
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13682
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8991
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 428
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6456
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13636
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 662
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8612
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 331
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.9 mi",
-                  "value" : 6294
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 350
                },
                "status" : "OK"
             }

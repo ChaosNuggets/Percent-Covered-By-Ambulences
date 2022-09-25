@@ -5,16 +5,19 @@
       "Unnamed Road, Salem, IN 47167, USA",
       "3590 S Blue River Church Rd, Salem, IN 47167, USA",
       "3606 IN-60, Salem, IN 47167, USA",
+      "4432 E Motsinger Rd, Salem, IN 47167, USA",
       "1636-1308 S Dog Trot Rd, Salem, IN 47167, USA",
       "2671-2849 W Fort Hill Rd, Salem, IN 47167, USA",
       "1646 W Becks Mill Rd, Salem, IN 47167, USA",
       "1837 Martinsburg Rd, Salem, IN 47167, USA",
       "1098 S Long Dr, Salem, IN 47167, USA",
+      "6008-5580 IN-160, Salem, IN 47167, USA",
       "5370 W Bee Line Rd, Salem, IN 47167, USA",
       "3226 W Bee Line Rd, Salem, IN 47167, USA",
       "205 Lockwood St, Salem, IN 47167, USA",
       "1898-1608 E Old 160, Salem, IN 47167, USA",
       "410 Canton Rd S, Salem, IN 47167, USA",
+      "5882 E Canton South Boston Rd, Salem, IN 47167, USA",
       "2502-2066 S Dog Trot Rd, Salem, IN 47167, USA",
       "2287 N Cox Ferry Rd, Salem, IN 47167, USA",
       "2159 N Sparks Ferry Rd, Salem, IN 47167, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13351
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 811
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.1 mi",
                   "value" : 9886
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10327
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 697
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8178
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 569
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10728
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 784
                },
                "status" : "OK"
             },

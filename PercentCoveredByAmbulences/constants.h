@@ -15,5 +15,7 @@ const extern long double MAX_TIME;
 const extern long double MINUTES_IN_1_HOUR;
 const extern int LAT_INDEX_STOP;
 const extern int LONG_INDEX_STOP;
+const extern int MAX_SPEED;
+const extern double BOX_RADIUS;
 
 #endif

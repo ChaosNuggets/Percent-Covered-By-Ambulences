@@ -5,16 +5,19 @@
       "5381 Braysville Rd, Spencer, IN 47460, USA",
       "5158 IN-43, Spencer, IN 47460, USA",
       "3703 White Rd, Spencer, IN 47460, USA",
+      "4491 N Starnes Rd, Bloomington, IN 47404, USA",
       "3933 Goose Creek Rd, Freedom, IN 47431, USA",
       "2071-2117 County Rd 255 N, Freedom, IN 47431, USA",
       "2872 Braysville Rd, Spencer, IN 47460, USA",
       "Unnamed Road, Spencer, IN 47460, USA",
       "3725 Hardscrabble Rd, Spencer, IN 47460, USA",
+      "6291 N Starnes Rd, Gosport, IN 47433, USA",
       "3789 Hyden Rd, Spencer, IN 47460, USA",
       "County Rd 200 W, Spencer, IN 47460, USA",
       "1187-1299 IN-67, Spencer, IN 47460, USA",
       "Elliston Creek Dr, Spencer, IN 47460, USA",
       "1084 W Flatwoods Rd, Spencer, IN 47460, USA",
+      "7746 N Stinesville Rd, Ellettsville, IN 47429, USA",
       "4246 Sun Valley Dr, Spencer, IN 47460, USA",
       "837 W Phillips Rd, Spencer, IN 47460, USA",
       "1006-1274 Rocky Hill Rd, Spencer, IN 47460, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16105
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 894
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10368
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12773
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7086
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 371
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10427
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 567
                },
                "status" : "OK"
             },

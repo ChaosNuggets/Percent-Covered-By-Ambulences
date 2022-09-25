@@ -5,16 +5,19 @@
       "213-445 S County Rd 25 W, Dana, IN 47847, USA",
       "2002-2006 E Potter Ln, Cayuga, IN 47928, USA",
       "915 Sheet St, Hillsdale, IN 47854, USA",
+      "Tow Path Rd, Kingman, IN 47952, USA",
       "N 2100 East Rd, Ridge Farm, IL 61870, USA",
       "2000-2450 W County Rd 200 N, Dana, IN 47847, USA",
       "15-423 E County Rd 175 N, Cayuga, IN 47928, USA",
       "1998-1566 E County Rd 200 N, Cayuga, IN 47928, USA",
       "County Rd 249, Kingman, IN 47952, USA",
+      "9812 Tow Path Rd, Kingman, IN 47952, USA",
       "500 N, Georgetown, IL 61846, USA",
       "3440-3998 N County Rd 225 W, Cayuga, IN 47928, USA",
       "735 S 8th St, Cayuga, IN 47928, USA",
       "3372 IN-63, Cayuga, IN 47928, USA",
       "County Rd 1200 N, Kingman, IN 47952, USA",
+      "W 1200 N, Kingman, IN 47952, USA",
       "County Rd 700 N, Georgetown, IL 61846, USA",
       "2400 West 600, North, IN 47928, USA",
       "100 W Franklin St, Cayuga, IN 47928, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16133
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1193
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11675
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12815
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 935
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 9079
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 515
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9577
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 738
                },
                "status" : "OK"
             },

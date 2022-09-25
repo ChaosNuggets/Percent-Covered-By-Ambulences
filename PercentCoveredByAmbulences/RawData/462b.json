@@ -7,7 +7,13 @@
       "Lake County, IN, USA",
       "Lake County, IN, USA",
       "Lake County, IN, USA",
-      "Lake County, IN, USA"
+      "Lake County, IN, USA",
+      "Rt 54, East Chicago, IN 46312, USA",
+      "Unnamed Road, East Chicago, IN 46312, USA",
+      "Lake County, IN, USA",
+      "41.67532,-87.322929999999943",
+      "41.67532,-87.286199999999937",
+      "41.67532,-87.249469999999931"
    ],
    "origin_addresses" : [ "900 Madison St, Gary, IN 46402, USA" ],
    "rows" : [
@@ -100,6 +106,48 @@
                   "value" : 1084
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16171
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1375
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17091
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1270
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16077
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1168
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
             }
          ]
       }

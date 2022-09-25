@@ -5,16 +5,19 @@
       "4476 S 875 W, French Lick, IN 47432, USA",
       "7082 W Co Rd 450 S, French Lick, IN 47432, USA",
       "4211-3941 S County Rd 550 W, Paoli, IN 47454, USA",
+      "4457 S County Rd 325 W, English, IN 47118, USA",
       "9570 N Co Rd 1100 E, French Lick, IN 47432, USA",
       "10853 IN-56, French Lick, IN 47432, USA",
       "2567-2001 Old State Rd 145, French Lick, IN 47432, USA",
       "6980 W County Rd 275 S, French Lick, IN 47432, USA",
       "2301-2897 S Co Rd 500 W, Paoli, IN 47454, USA",
+      "3009 S Log Creek Rd, Paoli, IN 47454, USA",
       "3319 Emmons Ridge Rd, French Lick, IN 47432, USA",
       "10902 W County Rd 50 S, French Lick, IN 47432, USA",
       "514 S Hancock St, French Lick, IN 47432, USA",
       "6985 County Rd 25 S, French Lick, IN 47432, USA",
       "W Co Rd 50 S, Paoli, IN 47454, USA",
+      "999-201 S Co Rd 275 W, Paoli, IN 47454, USA",
       "Roland Ln, Shoals, IN 47581, USA",
       "11279 US-150, French Lick, IN 47432, USA",
       "Unnamed Road, West Baden Springs, IN 47469, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14572
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 958
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9287
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14373
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 985
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.5 mi",
                   "value" : 13676
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 727
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12188
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 934
                },
                "status" : "OK"
             },

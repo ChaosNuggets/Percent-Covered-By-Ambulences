@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "9546 S 400 E, Warren, IN 46792, USA",
+      "9404-9506 S 600 West -35, Warren, IN 46792, USA",
+      "7763-7001 S 350 W, Warren, IN 46792, USA",
+      "7250 S 200 W, Warren, IN 46792, USA",
+      "84-498 W 700 S, Warren, IN 46792, USA",
+      "7413 S 200 E, Warren, IN 46792, USA",
+      "7493 S 400 E, Warren, IN 46792, USA",
       "7022-7584 S 600 E, Liberty Center, IN 46766, USA",
+      "W 543 S, Huntington, IN 46750, USA",
       "1914 W 550 S, Warren, IN 46792, USA",
       "5510 S Warren Rd, Warren, IN 46792, USA",
       "5531 S 200 E, Warren, IN 46792, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5519
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 376
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8728
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11557
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9098
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 489
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6213
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 363
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4510
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 296
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7663
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 484
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.7 mi",
-                  "value" : 10858
+                  "value" : 10857
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14444
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 908
                },
                "status" : "OK"
             },
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "4.8 mi",
-                  "value" : 7711
+                  "value" : 7710
                },
                "duration" : {
                   "text" : "7 mins",
@@ -47,18 +143,18 @@
             {
                "distance" : {
                   "text" : "5.5 mi",
-                  "value" : 8782
+                  "value" : 8781
                },
                "duration" : {
                   "text" : "9 mins",
-                  "value" : 514
+                  "value" : 513
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "6.8 mi",
-                  "value" : 10903
+                  "value" : 10902
                },
                "duration" : {
                   "text" : "10 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.8 mi",
-                  "value" : 14117
+                  "value" : 14116
                },
                "duration" : {
                   "text" : "13 mins",

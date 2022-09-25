@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "13090 275 S, Oakland City, IN 47660, USA",
       "S Meridian Rd, Oakland City, IN 47660, USA",
       "7035 IN-61, Winslow, IN 47598, USA",
       "Co Rd 725, Winslow, IN 47598, USA",
       "Old State Rd 64, Winslow, IN 47598, USA",
       "7298 E County Rd 700 S, Velpen, IN 47590, USA",
+      "620 S 1300 E, Oakland City, IN 47660, USA",
       "262-494 IN-64, Oakland City, IN 47660, USA",
       "5082 S County Rd 150 E, Winslow, IN 47598, USA",
       "5322-5720 Old State Rd 64, Winslow, IN 47598, USA",
       "Unnamed Road, Winslow, IN 47598, USA",
       "Unnamed Road, Winslow, IN 47598, USA",
+      "County Rd 75 N, Petersburg, IN 47567, USA",
       "S Meridian Rd, Winslow, IN 47598, USA",
       "3501 S County Rd 150 E, Winslow, IN 47598, USA",
       "3312 S Co Rd 350 E, Winslow, IN 47598, USA",
       "Pike Forest Horse Trail, Winslow, IN 47598, USA",
       "County Rd 325 S, Winslow, IN 47598, USA",
+      "1109 S Co Rd 250 W, Petersburg, IN 47567, USA",
       "1139 S County Rd 50 W, Winslow, IN 47598, USA",
       "918-998 County Rd 175 E, Winslow, IN 47598, USA",
-      "County Rd 165 S, Winslow, IN 47598, USA",
-      "Austin Arnold Rd, Winslow, IN 47598, USA"
+      "County Rd 165 S, Winslow, IN 47598, USA"
    ],
    "origin_addresses" : [ "301 N Main St, Winslow, IN 47598, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18351
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1016
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 797
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14253
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 727
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16071
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 981
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7531
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11377
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 695
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8159
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 328
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5645
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 537
                },
                "status" : "OK"
             }

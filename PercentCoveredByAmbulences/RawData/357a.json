@@ -5,16 +5,19 @@
       "2000-2726 County Rd 1050 S, Clinton, IN 47842, USA",
       "10109 S Rangeline Rd, Clinton, IN 47842, USA",
       "1783 E 1050, Hillsdale, IN 47854, USA",
+      "10500 IN-63, Clinton, IN 47842, USA",
       "20509 Watertown Rd, Chrisman, IL 61924, USA",
       "22898 2000 N, Chrisman, IL 61924, USA",
       "8207 IN-71, Dana, IN 47847, USA",
       "6913 S 50 W, Dana, IN 47847, USA",
       "2028-1592 E County Rd 800 S, Hillsdale, IN 47854, USA",
+      "Unnamed Road, Hillsdale, IN 47854, USA",
       "US-36, Chrisman, IL 61924, USA",
       "US-36, Chrisman, IL 61924, USA",
       "County Rd 225 W, Dana, IN 47847, USA",
       "499-1 County Rd 600 S, Dana, IN 47847, USA",
       "1846-1998 500 S, Dana, IN 47847, USA",
+      "3575 E 600 S, Hillsdale, IN 47854, USA",
       "23957 N 2100th St, Chrisman, IL 61924, USA",
       "23802 2300 E, Chrisman, IL 61924, USA",
       "4998-4160 250 W, Dana, IN 47847, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15467
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 770
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.8 mi",
                   "value" : 12586
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13599
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8175
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 438
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10548
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 600
                },
                "status" : "OK"
             },

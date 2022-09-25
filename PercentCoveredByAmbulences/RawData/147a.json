@@ -5,16 +5,19 @@
       "3600 S 380 E, Anderson, IN 46017, USA",
       "8496 N Mechanicsburg Rd, Middletown, IN 47356, USA",
       "7557-7001 W County Rd 850 N, Middletown, IN 47356, USA",
+      "5185 W County Rd 850 N, Middletown, IN 47356, USA",
       "703 E 32nd St, Anderson, IN 46016, USA",
       "3324 S Rangeline Rd, Anderson, IN 46017, USA",
       "3997 County Rd 150 S, Chesterfield, IN 46017, USA",
       "14720 W County Rd 768 S, Daleville, IN 47334, USA",
       "11301-12899 S Co Rd 700 W, Daleville, IN 47334, USA",
+      "12501 S County Rd 500 W, Daleville, IN 47334, USA",
       "330 Central Ave, Anderson, IN 46012, USA",
       "324 S Rangeline Rd, Anderson, IN 46012, USA",
       "112 S Washington St, Anderson, IN 46017, USA",
       "9010 S Walnut St, Daleville, IN 47334, USA",
       "11909-11491 W County Rd 550 S, Daleville, IN 47334, USA",
+      "8709 W County Rd 550 S, Daleville, IN 47334, USA",
       "705 E School St, Anderson, IN 46012, USA",
       "1947 E Cord 240, Anderson, IN 46012, USA",
       "4026 E 250 N, Anderson, IN 46012, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15687
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 930
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9169
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13849
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 851
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.2 mi",
                   "value" : 6682
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 423
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9224
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 539
                },
                "status" : "OK"
             },

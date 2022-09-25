@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "9136-9706 Waggoner Rd, La Fontaine, IN 46940, USA",
       "900 S 35, La Fontaine, IN 46940, USA",
+      "1236-1998 W 700 S, Wabash, IN 46992, USA",
       "7697-7069 S 50 E, Wabash, IN 46992, USA",
       "7337-7205 S Old Indiana 15, La Fontaine, IN 46940, USA",
       "7640 S America Rd, Wabash, IN 46992, USA",
       "6318 White Rd, La Fontaine, IN 46940, USA",
-      "7394-7450 County Rd 800 E, La Fontaine, IN 46940, USA"
+      "7394-7450 County Rd 800 E, La Fontaine, IN 46940, USA",
+      "5233 County Rd 150 S, Wabash, IN 46992, USA",
+      "500 S 50 E, Wabash, IN 46992, USA",
+      "2629-2847 E 500 S, Wabash, IN 46992, USA",
+      "4245 E 500 S, Wabash, IN 46992, USA",
+      "6463 E 500 S, Lagro, IN 46941, USA",
+      "5338-5482 S 800 E, Andrews, IN 46702, USA"
    ],
    "origin_addresses" : [ "22 W Branson St, La Fontaine, IN 46940, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5742
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 389
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.1 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 637
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10622
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 549
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13075
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10656
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 571
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10831
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 599
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9574
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 565
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13305
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 771
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15117
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 778
                },
                "status" : "OK"
             }

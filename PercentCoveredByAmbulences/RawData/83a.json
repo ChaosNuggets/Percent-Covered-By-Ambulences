@@ -5,16 +5,19 @@
       "I-69, Pendleton, IN 46064, USA",
       "7349 County Rd 750 W, Pendleton, IN 46064, USA",
       "I-69, Pendleton, IN 46064, USA",
+      "213 E Madison Ave, Pendleton, IN 46064, USA",
       "13798-13178 E 166th St, Noblesville, IN 46060, USA",
       "15465 IN-38, Noblesville, IN 46060, USA",
       "9999-9365 W State Rd 38, Lapel, IN 46051, USA",
       "5745-5325 County Rd 800 W, Pendleton, IN 46064, USA",
       "5659 Old Indiana 132, Pendleton, IN 46064, USA",
+      "5671-5103 S 360 W, Pendleton, IN 46064, USA",
       "18280 Pennington Rd, Noblesville, IN 46060, USA",
       "15295 Middletown Ave, Noblesville, IN 46060, USA",
       "3998-3382 County Rd 950 W, Lapel, IN 46051, USA",
       "7445 W 300 S, Lapel, IN 46051, USA",
       "3001-3999 S 600 W, Anderson, IN 46011, USA",
+      "3988-3398 S 400 Rd, Anderson, IN 46011, USA",
       "20540 Victory Chapel Rd, Noblesville, IN 46060, USA",
       "15309-15567 E 206th St, Noblesville, IN 46060, USA",
       "1298-1000 County Rd 925 W, Lapel, IN 46051, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12328
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11092
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12426
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 699
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8151
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 357
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9409
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 525
                },
                "status" : "OK"
             },

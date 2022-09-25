@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "4769 Rohr Rd, Montezuma, IN 47862, USA",
       "2663 Co Rd 202, Bloomingdale, IN 47832, USA",
+      "20th St, Hillsdale, IN 47854, USA",
       "11th St, Hillsdale, IN 47854, USA",
       "3280 250 S, Hillsdale, IN 47854, USA",
       "250 S, Montezuma, IN 47862, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7107
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 484
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.7 mi",
                   "value" : 12399
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 854
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.6 mi",
+                  "value" : 18661
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1037
                },
                "status" : "OK"
             },

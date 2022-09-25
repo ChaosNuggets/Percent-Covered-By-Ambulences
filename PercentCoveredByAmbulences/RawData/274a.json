@@ -4,7 +4,12 @@
       "114 IN-66, Troy, IN 47588, USA",
       "County Rd 900 N, Tell City, IN 47586, USA",
       "Academy Rd, Tell City, IN 47586, USA",
-      "11020 Old State Rd 37, Tell City, IN 47586, USA"
+      "11020 Old State Rd 37, Tell City, IN 47586, USA",
+      "11352 County Rd 1000 N, Evanston, IN 47531, USA",
+      "12655-12699 970 N, Evanston, IN 47531, USA",
+      "12910-12998 County Rd 13, Tell City, IN 47586, USA",
+      "12990 Atlanta Rd, Tell City, IN 47586, USA",
+      "12993-12999 Atwood Rd, Tell City, IN 47586, USA"
    ],
    "origin_addresses" : [ "707 Mozart St, Tell City, IN 47586, USA" ],
    "rows" : [
@@ -62,6 +67,61 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 551
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13699
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 844
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11958
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 881
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13286
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 824
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10859
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 866
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13867
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 858
                },
                "status" : "OK"
             }

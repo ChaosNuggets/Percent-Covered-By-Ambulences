@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
       "5359 W 450 S, Portland, IN 47371, USA",
+      "4777-4577 S Mt Pleasant Rd, Portland, IN 47371, USA",
       "7001-7611 County Rd 300 S, Hartford City, IN 47348, USA",
       "2000-2586 S 1100 W, Dunkirk, IN 47336, USA",
       "2999-2101 IN-1, Dunkirk, IN 47336, USA",
       "2000-2598 S 700 W, Portland, IN 47371, USA",
-      "2999-2001 S 500 W, Portland, IN 47371, USA"
+      "2999-2001 S 500 W, Portland, IN 47371, USA",
+      "2000-2998 125 S, Portland, IN 47371, USA",
+      "7350-7692 E 100 S, Hartford City, IN 47348, USA",
+      "11379 W Division Rd, Dunkirk, IN 47336, USA",
+      "9515 W Division Rd, Dunkirk, IN 47336, USA",
+      "2-350 S Como Rd, Portland, IN 47371, USA",
+      "5493-5001 W 50 S, Portland, IN 47371, USA",
+      "300 S 75 E, Portland, IN 47371, USA"
    ],
    "origin_addresses" : [ "26 S Oak St, Redkey, IN 47373, USA" ],
    "rows" : [
@@ -19,6 +27,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 525
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10521
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
                },
                "status" : "OK"
             },
@@ -74,6 +93,83 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 564
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13111
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 663
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16820
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 898
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13857
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 705
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9417
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 477
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13144
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 705
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14990
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 806
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17029
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 833
                },
                "status" : "OK"
             }

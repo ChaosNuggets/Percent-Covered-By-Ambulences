@@ -5,16 +5,19 @@
       "8998-8504 County Rd 900 W, Farmland, IN 47340, USA",
       "8425 N 750 W, Ridgeville, IN 47380, USA",
       "County Rd 500 W, Ridgeville, IN 47380, USA",
+      "3362-3620 IN-28, Ridgeville, IN 47380, USA",
       "825 E Crystal Ct, Albany, IN 47320, USA",
       "8000-8998 S 1150 W, Redkey, IN 47373, USA",
       "8605-8247 IN-1, Redkey, IN 47373, USA",
       "8999-8261 S 700 W, Redkey, IN 47373, USA",
       "5796-5884 W 1000 N, Ridgeville, IN 47380, USA",
+      "8743-8453 S Como Rd, Ridgeville, IN 47380, USA",
       "17101 IN-167, Albany, IN 47320, USA",
       "6589 S 1150 W, Redkey, IN 47373, USA",
       "Logan St, Redkey, IN 47373, USA",
       "6652 S 700 W, Redkey, IN 47373, USA",
       "5016-5434 W 650 S, Portland, IN 47371, USA",
+      "3941-3251 W 650 S, Portland, IN 47371, USA",
       "13411-13735 E County Rd 500 S, Dunkirk, IN 47336, USA",
       "11340 W 450 S, Dunkirk, IN 47336, USA",
       "4000-4598 IN-1, Redkey, IN 47373, USA",
@@ -31,7 +34,7 @@
                },
                "duration" : {
                   "text" : "12 mins",
-                  "value" : 718
+                  "value" : 719
                },
                "status" : "OK"
             },
@@ -76,6 +79,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 863
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15495
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
                },
                "status" : "OK"
             },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13067
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 666
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7083
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 515
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10328
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 686
                },
                "status" : "OK"
             },

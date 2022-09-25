@@ -5,16 +5,19 @@
       "13922-14760 County Rd 500 N, Linton, IN 47441, USA",
       "5049 N 1250, Linton, IN 47441, USA",
       "10900 County Rd 550 N, Jasonville, IN 47438, USA",
+      "500 N, Switz City, IN 47465, USA",
       "Unnamed Road, Sullivan, IN 47882, USA",
       "County Rd 825 E, Sullivan, IN 47882, USA",
       "14579 County Rd 700 N, Jasonville, IN 47438, USA",
       "County Rd 700 N, Jasonville, IN 47438, USA",
       "County Rd 700 N, Worthington, IN 47471, USA",
+      "8662 W Terre Haute Rd, Jasonville, IN 47438, USA",
       "6250-6636 E County Rd 500 N, Jasonville, IN 47438, USA",
       "County Rd 500 N, Shelburn, IN 47879, USA",
       "14534 County Rd 900 N, Jasonville, IN 47438, USA",
       "900 N, Jasonville, IN 47438, USA",
       "10686 IN-48, Jasonville, IN 47438, USA",
+      "8846 W Terre Haute Rd, Jasonville, IN 47438, USA",
       "6506 IN-48, Shelburn, IN 47879, USA",
       "7018 N County Rd 850 E, Sullivan, IN 47882, USA",
       "13856 S County Rd 550 W, Jasonville, IN 47438, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15487
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 875
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11753
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12237
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8395
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 312
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10632
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 542
                },
                "status" : "OK"
             },

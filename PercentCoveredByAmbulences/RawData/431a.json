@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3680 S 500 W, Topeka, IN 46571, USA",
       "3910 S 300 W, LaGrange, IN 46761, USA",
       "3575 S 150 W, LaGrange, IN 46761, USA",
       "3500-4056 S 100 E, LaGrange, IN 46761, USA",
       "2649-2401 E 400 S, LaGrange, IN 46761, USA",
       "3999-3495 S 500 E, Wolcottville, IN 46795, USA",
+      "1500-1998 S 500 W, LaGrange, IN 46761, USA",
       "1610 S 300 W, LaGrange, IN 46761, USA",
       "1255 W 200 S, LaGrange, IN 46761, USA",
       "1630 IN-9, LaGrange, IN 46761, USA",
       "2318-2998 E 200 S, LaGrange, IN 46761, USA",
       "4450 E 160 S, LaGrange, IN 46761, USA",
+      "5001-5925 US-20, LaGrange, IN 46761, USA",
       "3000 W 050 N, LaGrange, IN 46761, USA",
       "1215 W 050 N, LaGrange, IN 46761, USA",
       "311 N Canal St, LaGrange, IN 46761, USA",
       "3003-2427 E 050 N, LaGrange, IN 46761, USA",
       "300 N 450 E, LaGrange, IN 46761, USA",
+      "2400 N 500 W, Shipshewana, IN 46565, USA",
       "2001-2731 N 300 W, LaGrange, IN 46761, USA",
       "2099-2399 N 100 W, LaGrange, IN 46761, USA",
-      "2310 N 100 E, LaGrange, IN 46761, USA",
-      "2560 E 250 N, LaGrange, IN 46761, USA"
+      "2310 N 100 E, LaGrange, IN 46761, USA"
    ],
    "origin_addresses" : [ "414 W Spring St, LaGrange, IN 46761, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14117
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 801
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.9 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 728
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10942
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 576
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8486
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 376
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.4 mi",
                   "value" : 5503
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11638
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8337
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 309
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.5 mi",
-                  "value" : 7309
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 510
                },
                "status" : "OK"
             }

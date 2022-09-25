@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "3465 E Co Rd 650 N, Petersburg, IN 47567, USA",
+      "5509 E Co Rd 650 N, Petersburg, IN 47567, USA",
       "9740 E Riverview Rd, Monroe City, IN 47557, USA",
       "E Cowpath Rd, Monroe City, IN 47557, USA",
       "8752 S Noble Rd, Monroe City, IN 47557, USA",
       "E Saints Church Rd, Monroe City, IN 47557, USA",
-      "County Rd 700 S, Washington, IN 47501, USA"
+      "County Rd 700 S, Washington, IN 47501, USA",
+      "S 25 W, Washington, IN 47501, USA"
    ],
    "origin_addresses" : [ "100 S 4th St, Petersburg, IN 47567, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11508
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.0 mi",
+                  "value" : 19294
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1378
                },
                "status" : "OK"
             }

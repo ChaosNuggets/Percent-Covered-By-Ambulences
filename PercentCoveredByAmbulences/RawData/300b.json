@@ -5,7 +5,12 @@
       "Goose Run Rd, Aurora, IN 47001, USA",
       "4097 Tower Rd, Lawrenceburg, IN 47025, USA",
       "7 Ridge Ave, Greendale, IN 47025, USA",
-      "I-275, Kentucky 41080, USA"
+      "I-275, Kentucky 41080, USA",
+      "17594 Possum Ridge Rd, Aurora, IN 47001, USA",
+      "6118 IN-48, Lawrenceburg, IN 47025, USA",
+      "4304 IN-48, Lawrenceburg, IN 47025, USA",
+      "1530 Nowlin Ave, Greendale, IN 47025, USA",
+      "Action Ln, Greendale, IN 47025, USA"
    ],
    "origin_addresses" : [ "233 Main St, Aurora, IN 47001, USA" ],
    "rows" : [
@@ -74,6 +79,61 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 900
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12834
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 881
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10083
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 799
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9221
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 769
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12317
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1021
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14725
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1118
                },
                "status" : "OK"
             }

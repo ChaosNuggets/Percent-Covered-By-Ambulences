@@ -7,7 +7,13 @@
       "Indiana Toll Rd, Westville, IN 46391, USA",
       "9255 W 125 S, La Porte, IN 46350, USA",
       "1201 S Wozniak Rd, La Porte, IN 46350, USA",
-      "5998-5754 Lincoln Hwy, La Porte, IN 46350, USA"
+      "5998-5754 Lincoln Hwy, La Porte, IN 46350, USA",
+      "N 375 E, Porter, IN 46304, USA",
+      "Unnamed Road, Porter, IN 46304, USA",
+      "705 N 1150 W, Michigan City, IN 46360, USA",
+      "988-414 N Holmesville Rd, Michigan City, IN 46360, USA",
+      "Coolspring Township, IN, USA",
+      "756 N Goldring Rd, La Porte, IN 46350, USA"
    ],
    "origin_addresses" : [ "106 Ridge St, Westville, IN 46391, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 527
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17335
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1136
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13376
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12116
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10279
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 586
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12449
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 682
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15486
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
                },
                "status" : "OK"
             }

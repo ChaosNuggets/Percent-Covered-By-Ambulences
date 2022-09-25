@@ -5,16 +5,19 @@
       "4202 N 400 E, Huntington, IN 46750, USA",
       "4896-4000 N 600 E, Markle, IN 46770, USA",
       "10346 N Marzane Rd, Markle, IN 46770, USA",
+      "10001-10999 200 W, Markle, IN 46770, USA",
       "6001-6793 N Meridian Rd, Huntington, IN 46750, USA",
       "6335 200 E, Huntington, IN 46750, USA",
       "Ginger Rd, Huntington, IN 46750, USA",
       "6376 N 600 E, Roanoke, IN 46783, USA",
       "17430 Zubrick Rd, Roanoke, IN 46783, USA",
+      "9614 S County Line Rd W, Yoder, IN 46798, USA",
       "8385 N Meridian Rd, Huntington, IN 46750, USA",
       "8001-8499 N Old Fort Wayne Rd, Roanoke, IN 46783, USA",
       "847 S Main St, Roanoke, IN 46783, USA",
       "E County Line Rd, Roanoke, IN 46783, USA",
       "14312 Zubrick Rd, Roanoke, IN 46783, USA",
+      "9500 Hamilton Rd, Yoder, IN 46798, USA",
       "10443 N Meridian Rd, Roanoke, IN 46783, USA",
       "2022 E Saddle Creek Dr, Roanoke, IN 46783, USA",
       "10352 N 400 E, Roanoke, IN 46783, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16804
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 973
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.8 mi",
                   "value" : 10999
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13570
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 764
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7784
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 468
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10392
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 548
                },
                "status" : "OK"
             },

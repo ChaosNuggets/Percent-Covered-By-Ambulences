@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "1800 S 200 W, Clinton, IN 47842, USA",
       "445 W 1800 S, Clinton, IN 47842, USA",
       "11 Timberline Rd, Clinton, IN 47842, USA",
       "350 W South St, Clinton, IN 47842, USA",
       "10200 South 625, West, IN 47874, USA",
       "4441 1000 S, Rosedale, IN 47874, USA",
+      "250 W Vacant Frm Grd 22-14-10, Clinton, IN 47842, USA",
       "Unnamed Road, Clinton, IN 47842, USA",
       "1978-1800 E Hazel Bluff Rd, Clinton, IN 47842, USA",
       "1123 S Main St, Clinton, IN 47842, USA",
       "County Rd 625 W, Rosedale, IN 47874, USA",
       "8514 450 W, Rosedale, IN 47874, USA",
+      "14046 South 200, West, IN 47842, USA",
       "14498-14128 County Rd 00, Clinton, IN 47842, USA",
       "1632 E 1425 S, Clinton, IN 47842, USA",
       "1701 N Main St, Clinton, IN 47842, USA",
       "6224 US Hwy 41, Rosedale, IN 47874, USA",
       "5943 Coxville Rd, Montezuma, IN 47862, USA",
+      "290 RR 3, Clinton, IN 47842, USA",
       "2661 E 1700 S, Clinton, IN 47842, USA",
       "S County Rd 150 E, Clinton, IN 47842, USA",
-      "12296 IN-63, Clinton, IN 47842, USA",
-      "600 W, Montezuma, IN 47862, USA"
+      "12296 IN-63, Clinton, IN 47842, USA"
    ],
    "origin_addresses" : [ "383 S Jackson St, Clinton, IN 47842, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14502
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 917
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 916
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12478
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 745
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11873
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8682
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11582
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 753
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8731
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 212
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.1 mi",
-                  "value" : 11376
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 686
                },
                "status" : "OK"
             }

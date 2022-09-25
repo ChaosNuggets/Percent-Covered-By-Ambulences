@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "10108 IN-101, Brookville, IN 47012, USA",
       "7104 Oxford Pike, Brookville, IN 47012, USA",
+      "18069 Duck Creek Rd, Laurel, IN 47024, USA",
       "16196 McGuire Ridge Rd, Laurel, IN 47024, USA",
       "14192 E Roberts Rd, Brookville, IN 47012, USA",
       "12034 Keeler Rd, Brookville, IN 47012, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5327
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 437
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8421
                },
                "duration" : {
                   "text" : "9 mins",
                   "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13960
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 789
                },
                "status" : "OK"
             },

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3830 Hanna Cir # E, Indianapolis, IN 46241, USA",
       "3825 Foltz St, Indianapolis, IN 46221, USA",
       "1405 W Hanna Ave, Indianapolis, IN 46217, USA",
       "4015 S East St, Indianapolis, IN 46227, USA",
       "4000 Creek Way, Indianapolis, IN 46227, USA",
       "4133 Cashard Ave, Indianapolis, IN 46203, USA",
+      "5600 W Raymond St, Indianapolis, IN 46241, USA",
       "2205 S Holt Rd, Indianapolis, IN 46241, USA",
       "Eagle Creek Greenway, Indianapolis, IN 46221, USA",
       "Ellis Shelter, 2231-2249,2230, 2248 S Garfield Dr, Indianapolis, IN 46203, USA",
       "3103 E Tabor St, Indianapolis, IN 46203, USA",
       "2340 S Ritter Ave, Indianapolis, IN 46203, USA",
+      "5553 Rockville Rd, Indianapolis, IN 46224, USA",
       "3512 Rockville Rd, Indianapolis, IN 46222, USA",
       "135 S Harding St, Indianapolis, IN 46222, USA",
       "117 Pope St, Indianapolis, IN 46202, USA",
       "3124 Newton Ave, Indianapolis, IN 46201, USA",
       "310 S Ritter Ave, Indianapolis, IN 46219, USA",
+      "5702 Speedway Dr, Speedway, IN 46224, USA",
       "2027 N Rochester Ave, Indianapolis, IN 46222, USA",
       "1232 W 19th St, Indianapolis, IN 46202, USA",
-      "547 E 20th St, Indianapolis, IN 46202, USA",
-      "1952 Lasalle St, Indianapolis, IN 46218, USA"
+      "547 E 20th St, Indianapolis, IN 46202, USA"
    ],
    "origin_addresses" : [ "50 Alabama St, Indianapolis, IN 46204, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15206
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1133
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.7 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12813
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 940
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9444
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1007
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.9 mi",
                   "value" : 6301
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11592
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1231
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8850
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 563
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6549
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 796
                },
                "status" : "OK"
             }

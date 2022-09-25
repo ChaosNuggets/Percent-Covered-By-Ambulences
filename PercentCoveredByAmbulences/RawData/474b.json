@@ -7,7 +7,13 @@
       "300 N 100 W, Winamac, IN 46996, USA",
       "2988 N 125 E, Winamac, IN 46996, USA",
       "W 300 N, Winamac, IN 46996, USA",
-      "4601-4699 E 300 N, Monterey, IN 46960, USA"
+      "4601-4699 E 300 N, Monterey, IN 46960, USA",
+      "County Rd 500 W, Winamac, IN 46996, USA",
+      "4839 N 300 W, Winamac, IN 46996, USA",
+      "N 100 W, Winamac, IN 46996, USA",
+      "Unnamed Road, Winamac, IN 46996, USA",
+      "500 S 300 E, Winamac, IN 46996, USA",
+      "500 N 400 E, Monterey, IN 46960, USA"
    ],
    "origin_addresses" : [ "110 E Meridian St, Winamac, IN 46996, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17225
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 932
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13985
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 766
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10736
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 624
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10616
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14256
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 924
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16385
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 972
                },
                "status" : "OK"
             }

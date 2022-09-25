@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "315 N 250 E, Veedersburg, IN 47987, USA",
       "421 N Dry Run Rd, Veedersburg, IN 47987, USA",
+      "2035 W Salem Church Rd, Covington, IN 47932, USA",
       "W Salem Church Rd, Covington, IN 47932, USA",
       "1180 N 140 W, Veedersburg, IN 47987, USA",
       "242 E Stone Bluff Rd, Veedersburg, IN 47987, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6819
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.1 mi",
                   "value" : 11462
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 855
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16587
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 978
                },
                "status" : "OK"
             },

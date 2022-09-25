@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "14440 W State Rd 54, Linton, IN 47441, USA",
+      "12424 W 300 N, Linton, IN 47441, USA",
+      "E Co Rd 50 N, Sullivan, IN 47882, USA",
+      "411 S State St, Sullivan, IN 47882, USA",
+      "E Co Rd 100 N, Sullivan, IN 47882, USA",
+      "8000-8586 County Rd 100 N, Sullivan, IN 47882, USA",
+      "13922-14760 County Rd 500 N, Linton, IN 47441, USA",
       "5049 N 1250, Linton, IN 47441, USA",
+      "3115-2549 E County Rd 300 N, Sullivan, IN 47882, USA",
       "E County Rd 300 N, Sullivan, IN 47882, USA",
       "Unnamed Road, Sullivan, IN 47882, USA",
       "County Rd 825 E, Sullivan, IN 47882, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4599
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 276
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7483
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 388
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10878
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 606
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8483
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 537
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6130
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 470
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4320
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 338
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7776
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 539
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.2 mi",
                   "value" : 11548
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 594
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14871
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 826
                },
                "status" : "OK"
             },

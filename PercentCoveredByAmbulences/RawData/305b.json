@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "14083 Jim Run Rd, Laurel, IN 47024, USA",
+      "16606-15188 Stone Church Rd, Brookville, IN 47012, USA",
+      "6753 W Johnson School Rd, Connersville, IN 47331, USA",
+      "4891 W Allentown Rd, Connersville, IN 47331, USA",
+      "6501-7295 S Twin Dryford Rd, Connersville, IN 47331, USA",
+      "7384 S Ott Rd, Connersville, IN 47331, USA",
       "1998-500 E Big Bear Rd, Connersville, IN 47331, USA",
+      "7534 S St Rd, Connersville, IN 47331, USA",
       "5458 S Beaver Rd, Glenwood, IN 46133, USA",
       "5100 S Co Rd 460 W, Connersville, IN 47331, USA",
       "5784 S Co Rd 290 W, Connersville, IN 47331, USA",
       "825 W River Dr, Connersville, IN 47331, USA",
-      "5436 S Co Rd 100 E, Connersville, IN 47331, USA"
+      "5436 S Co Rd 100 E, Connersville, IN 47331, USA",
+      "3009 E Everton Rd, Connersville, IN 47331, USA"
    ],
    "origin_addresses" : [ "110 Pearl St, Laurel, IN 47024, USA" ],
    "rows" : [
@@ -13,19 +21,96 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7746
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 598
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11362
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 822
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8763
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 576
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5867
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 500
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5502
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 351
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6076
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 532
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9203
                },
                "duration" : {
                   "text" : "11 mins",
-                  "value" : 634
+                  "value" : 633
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12438
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 753
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "7.5 mi",
-                  "value" : 12114
+                  "value" : 12113
                },
                "duration" : {
                   "text" : "14 mins",
@@ -69,11 +154,22 @@
             {
                "distance" : {
                   "text" : "8.7 mi",
-                  "value" : 13935
+                  "value" : 13936
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 821
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16353
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 953
                },
                "status" : "OK"
             }

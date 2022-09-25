@@ -7,7 +7,13 @@
       "3635 S 700 W, Topeka, IN 46571, USA",
       "3680 S 500 W, Topeka, IN 46571, USA",
       "3910 S 300 W, LaGrange, IN 46761, USA",
-      "3575 S 150 W, LaGrange, IN 46761, USA"
+      "3575 S 150 W, LaGrange, IN 46761, USA",
+      "10645 W 200 S, Middlebury, IN 46540, USA",
+      "1555 S 900 W, Shipshewana, IN 46565, USA",
+      "1525 S 700 W, Topeka, IN 46571, USA",
+      "1500-1998 S 500 W, LaGrange, IN 46761, USA",
+      "1610 S 300 W, LaGrange, IN 46761, USA",
+      "1255 W 200 S, LaGrange, IN 46761, USA"
    ],
    "origin_addresses" : [ "101 S Main St, Topeka, IN 46571, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 739
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16860
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 866
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13606
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 713
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10448
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10436
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 607
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13457
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 750
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16587
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 896
                },
                "status" : "OK"
             }

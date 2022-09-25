@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "9628 S Co Rd 550 W, Stilesville, IN 46180, USA",
       "9652 S 350, Stilesville, IN 46180, USA",
       "1999-1377 W Co Rd 1000 S, Clayton, IN 46118, USA",
       "286 E 951, Clayton, IN 46118, USA",
       "9635 S 39, Mooresville, IN 46158, USA",
       "854 W Greencastle Rd, Mooresville, IN 46158, USA",
+      "7586 S County Rd 550 W, Stilesville, IN 46180, USA",
       "3867 US-40, Stilesville, IN 46180, USA",
       "1300-1998 W County Rd 750 S, Clayton, IN 46118, USA",
       "7661 S County Rd 0, Clayton, IN 46118, USA",
       "2075 E County Rd 750 S, Clayton, IN 46118, USA",
       "4976-2 Oakridge Dr, Mooresville, IN 46158, USA",
+      "5575 W County Rd 550 S, Coatesville, IN 46121, USA",
       "3500-3898 County Rd 600 S, Coatesville, IN 46121, USA",
       "1750 W County Rd 571 S, Clayton, IN 46118, USA",
       "5622-5898 S County Rd 0, Clayton, IN 46118, USA",
       "2261 US-40, Clayton, IN 46118, USA",
       "5676 Miles Rd, Clayton, IN 46118, USA",
+      "3765 S County Rd 550 W, Coatesville, IN 46121, USA",
       "3652 S County Rd 350 W, Danville, IN 46122, USA",
       "1208-1998 W County Rd 350 S, Danville, IN 46122, USA",
-      "3718 S 101, Clayton, IN 46118, USA",
-      "3550 Cartersburg Rd, Danville, IN 46122, USA"
+      "3718 S 101, Clayton, IN 46118, USA"
    ],
    "origin_addresses" : [ "111 Kentucky St, Clayton, IN 46118, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14906
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 689
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 912
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13288
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9811
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8602
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11377
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 636
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7506
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 336
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.9 mi",
-                  "value" : 6325
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 382
                },
                "status" : "OK"
             }

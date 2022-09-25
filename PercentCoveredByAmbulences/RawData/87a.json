@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "4701-5399 S Meridian Line Rd, Cloverdale, IN 46120, USA",
+      "2202 Deer Creek Dr, Greencastle, IN 46135, USA",
+      "4999-4355 S County Rd 475 E, Greencastle, IN 46135, USA",
+      "N County Rd 600 E, Greencastle, IN 46135, USA",
+      "8000-8528 E Co Rd 500 S, Fillmore, IN 46128, USA",
+      "10467-10001 E Co Rd 450 S, Coatesville, IN 46121, USA",
       "1556 S Bloomington St, Greencastle, IN 46135, USA",
       "E CR-225 S, Greencastle, IN 46135, USA",
       "W County Rd 300 S, Greencastle, IN 46135, USA",
@@ -15,18 +21,78 @@
       "1385 N County Rd 25 E, Greencastle, IN 46135, USA",
       "2332 E Co Rd 125 N, Fillmore, IN 46128, USA",
       "4100-4598 E County Rd 75 N, Fillmore, IN 46128, USA",
-      "1798-1000 N Co Rd 625 E, Coatesville, IN 46121, USA",
-      "8279 E Co Rd 100 N, Coatesville, IN 46121, USA",
-      "7495 W County Rd 550 S, Coatesville, IN 46121, USA",
-      "3144 N County Rd 50 E, Greencastle, IN 46135, USA",
-      "3237 N Co Rd 210, Greencastle, IN 46135, USA",
-      "4981-3921 E County Rd 300 N, Fillmore, IN 46128, USA",
-      "3311 N Co Rd 650 E, Fillmore, IN 46128, USA"
+      "1798-1000 N Co Rd 625 E, Coatesville, IN 46121, USA"
    ],
    "origin_addresses" : [ "2 N Main St, Fillmore, IN 46128, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.9 mi",
+                  "value" : 19100
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1168
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15093
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1048
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11089
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 836
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11896
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 858
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15081
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1001
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17531
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 998
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.3 mi",
@@ -200,72 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 246
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.2 mi",
-                  "value" : 5145
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 340
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.7 mi",
-                  "value" : 9108
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 545
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "11.2 mi",
-                  "value" : 18083
-               },
-               "duration" : {
-                  "text" : "21 mins",
-                  "value" : 1263
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "12.4 mi",
-                  "value" : 19913
-               },
-               "duration" : {
-                  "text" : "23 mins",
-                  "value" : 1389
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.3 mi",
-                  "value" : 5244
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 442
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6091
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 513
                },
                "status" : "OK"
             }

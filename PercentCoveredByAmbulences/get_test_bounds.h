@@ -3,6 +3,6 @@
 
 #include <utility>
 
-std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std::pair<double, double>& stationCoordinate, const double radiusOfCircles);
+std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std::pair<double, double>& stationCoordinate, const double boxRadius);
 
 #endif

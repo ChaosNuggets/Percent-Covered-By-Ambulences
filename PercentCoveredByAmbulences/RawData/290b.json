@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "6020 High Jackson Rd, Charlestown, IN 47111, USA",
+      "303 Lentz Ave, Charlestown, IN 47111, USA",
+      "2018 Southern Hills Dr, Borden, IN 47106, USA",
+      "12704 IN-60, Memphis, IN 47143, USA",
+      "5200 Perry Crossing Rd, Sellersburg, IN 47172, USA",
+      "5410-5834 Brick Church Rd, Sellersburg, IN 47172, USA",
+      "7126 County Rd 403, Charlestown, IN 47111, USA",
       "8822 Woodford Drive, Charlestown, IN 47111, USA",
+      "4308 Wilson Switch Rd, Borden, IN 47106, USA",
       "Carr Township, IN, USA",
       "1126 Weaver Rd, Memphis, IN 47143, USA",
       "1410 Stricker Rd, Memphis, IN 47143, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7203
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11877
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 753
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15655
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1022
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8745
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 644
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6952
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 456
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4977
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 430
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5974
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 347
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11779
                },
                "duration" : {
                   "text" : "12 mins",
                   "value" : 737
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14795
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 971
                },
                "status" : "OK"
             },

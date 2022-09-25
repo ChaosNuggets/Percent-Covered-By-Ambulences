@@ -7,7 +7,13 @@
       "Smilax Rd, North Liberty, IN 46554, USA",
       "27750 IN-23, North Liberty, IN 46554, USA",
       "25836 Roosevelt Rd, South Bend, IN 46614, USA",
-      "62172 Oak Rd, South Bend, IN 46614, USA"
+      "62172 Oak Rd, South Bend, IN 46614, USA",
+      "9601 E 50 N, Mill Creek, IN 46365, USA",
+      "31666-31044 Johnson Rd, North Liberty, IN 46554, USA",
+      "29691 Johnson Rd, North Liberty, IN 46554, USA",
+      "60250 Crumstown Hwy, North Liberty, IN 46554, USA",
+      "60001 Peach Rd, North Liberty, IN 46614, USA",
+      "24360 IN-23, South Bend, IN 46614, USA"
    ],
    "origin_addresses" : [ "116 N Main St, North Liberty, IN 46554, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 708
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.7 mi",
+                  "value" : 18854
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 947
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15801
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 782
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12748
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 625
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9997
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 477
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12261
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 579
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15274
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
                },
                "status" : "OK"
             }

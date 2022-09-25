@@ -5,16 +5,19 @@
       "Abel Hill Rd, Shoals, IN 47581, USA",
       "7751-7944 Coal Hollow Rd, Shoals, IN 47581, USA",
       "Creek 49, Shoals, IN 47581, USA",
+      "12307 US-150, Shoals, IN 47581, USA",
       "9316 Wininger Rd, Shoals, IN 47581, USA",
       "4161 IN-550, Shoals, IN 47581, USA",
       "6088 IN-550, Shoals, IN 47581, USA",
       "7994 Indiana's Historic Pathways - South Spur, Shoals, IN 47581, USA",
       "10084 Mill Rd, Shoals, IN 47581, USA",
+      "Old Natchez Church Rd, Shoals, IN 47581, USA",
       "11075 Hart St, Loogootee, IN 47553, USA",
       "11511 Tedrow Ln, Shoals, IN 47581, USA",
       "S Railroad St, Shoals, IN 47581, USA",
       "11464 Ironton Rd, Shoals, IN 47581, USA",
       "10799-10533 Baxter Cemetery Rd, Shoals, IN 47581, USA",
+      "Co Rd 58, Shoals, IN 47581, USA",
       "Cherry Rd, Loogootee, IN 47553, USA",
       "Co Rd 129, Shoals, IN 47581, USA",
       "13242-13418 IN-450, Shoals, IN 47581, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "16.1 mi",
+                  "value" : 25924
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1723
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.1 mi",
                   "value" : 11359
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18149
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1421
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.8 mi",
                   "value" : 11003
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 567
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11979
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 799
                },
                "status" : "OK"
             },

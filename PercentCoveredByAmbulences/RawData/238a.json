@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3718 S 101, Clayton, IN 46118, USA",
       "3550 Cartersburg Rd, Danville, IN 46122, USA",
       "3717 Liberty Meadows Rd, Plainfield, IN 46168, USA",
       "216 Lincoln St, Plainfield, IN 46168, USA",
       "1915 Gladden Rd, Plainfield, IN 46168, USA",
       "3875 Plainfield Rd, Indianapolis, IN 46231, USA",
+      "472-24 County Rd 200 S, Danville, IN 46122, USA",
       "1717 S County Rd 225 E, Danville, IN 46122, USA",
       "1784 Ginseng Trail, Avon, IN 46123, USA",
       "6710 Meadow View Ct, Avon, IN 46123, USA",
       "1858 Wedgewood Pl, Avon, IN 46123, USA",
       "10757 Emery Dr, Indianapolis, IN 46231, USA",
+      "2 Danridge Dr, Danville, IN 46122, USA",
       "2304 E Main St, Danville, IN 46122, USA",
       "220 N 500, Avon, IN 46123, USA",
       "161 County Rd 671 E, Avon, IN 46123, USA",
       "111 Lincoln Dr, Avon, IN 46123, USA",
       "10787 Melissa Ann Dr, Indianapolis, IN 46234, USA",
+      "Center Township, IN, USA",
       "2197 N County Rd 225 E, Danville, IN 46122, USA",
       "2379 N County Rd 500 E, Avon, IN 46123, USA",
-      "6756 E County Rd 200 N, Avon, IN 46123, USA",
-      "2087 Autumn Faith Way, Avon, IN 46123, USA"
+      "6756 E County Rd 200 N, Avon, IN 46123, USA"
    ],
    "origin_addresses" : [ "Avon Town Hall Park, 6570 E US Hwy 36, Avon, IN 46123, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15529
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1007
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1119
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12894
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 870
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11111
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 764
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6518
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13682
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 907
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.7 mi",
                   "value" : 10857
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 516
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.4 mi",
-                  "value" : 7059
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 601
                },
                "status" : "OK"
             }

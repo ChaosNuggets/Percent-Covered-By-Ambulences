@@ -7,7 +7,13 @@
       "3865 N Morton St, Franklin, IN 46131, USA",
       "3886 N 350 E, Franklin, IN 46131, USA",
       "3713 525 E, Franklin, IN 46131, USA",
-      "7378 E 350 N, Needham, IN 46162, USA"
+      "7378 E 350 N, Needham, IN 46162, USA",
+      "1344 W Smokey Row Rd, Greenwood, IN 46143, USA",
+      "973 Nicole Way, New Whiteland, IN 46184, USA",
+      "1501 County Rd 600 N, Whiteland, IN 46184, USA",
+      "3197-3745 Tracy Rd, Whiteland, IN 46184, USA",
+      "5679 525 E, Franklin, IN 46131, USA",
+      "6340-5500 County Rd 750 E, Needham, IN 46162, USA"
    ],
    "origin_addresses" : [ "2 E Jefferson St, Franklin, IN 46131, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 843
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16129
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 976
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11656
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 929
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11596
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11924
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 781
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13052
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 827
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15964
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 998
                },
                "status" : "OK"
             }

@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "I-74, Hillsboro, IN 47949, USA",
+      "W 500 N, Waynetown, IN 47990, USA",
+      "1-175 E 100 N, Veedersburg, IN 47987, USA",
+      "315 N 250 E, Veedersburg, IN 47987, USA",
+      "421 N Dry Run Rd, Veedersburg, IN 47987, USA",
+      "2585 E Short Rd, Veedersburg, IN 47987, USA",
       "3376 E Short Rd, Waynetown, IN 47990, USA",
+      "7377-7001 IN-25, Wingate, IN 47994, USA",
       "242 E Stone Bluff Rd, Veedersburg, IN 47987, USA",
       "1067 E 300 N, Veedersburg, IN 47987, USA",
       "1898-1600 E 300 N, Veedersburg, IN 47987, USA",
       "2590 E 300 N, Veedersburg, IN 47987, USA",
-      "E 300 N, Wingate, IN 47994, USA"
+      "E 300 N, Wingate, IN 47994, USA",
+      "8864 IN-55, Wingate, IN 47994, USA"
    ],
    "origin_addresses" : [ "100 W Main St, Hillsboro, IN 47949, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13372
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 609
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11299
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 559
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11861
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 569
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7926
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 501
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7429
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 507
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5786
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 293
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.5 mi",
@@ -19,6 +93,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 435
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11905
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 579
                },
                "status" : "OK"
             },
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15612
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 770
                },
                "status" : "OK"
             }

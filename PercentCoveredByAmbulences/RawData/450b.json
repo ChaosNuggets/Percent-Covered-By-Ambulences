@@ -7,7 +7,13 @@
       "11581 W 206th Ave, Lowell, IN 46356, USA",
       "9100 W 205th Ave, Lowell, IN 46356, USA",
       "5000-5696 W 205th Ave, Lowell, IN 46356, USA",
-      "2191-1979 W 203rd Ave, Lowell, IN 46356, USA"
+      "2191-1979 W 203rd Ave, Lowell, IN 46356, USA",
+      "9967 N 17500E Rd, Grant Park, IL 60940, USA",
+      "19202 Calumet Ave, Lowell, IN 46356, USA",
+      "19201 Wicker Ave, Lowell, IN 46356, USA",
+      "19106 Cline Ave, Lowell, IN 46356, USA",
+      "19026 Ralston Ct, Lowell, IN 46356, USA",
+      "19006 Grant St, Lowell, IN 46356, USA"
    ],
    "origin_addresses" : [ "23800 Parrish Ave, Schneider, IN 46376, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 938
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17211
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 851
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13301
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 668
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10290
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 530
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11087
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 753
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12871
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 788
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.5 mi",
+                  "value" : 18501
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1161
                },
                "status" : "OK"
             }

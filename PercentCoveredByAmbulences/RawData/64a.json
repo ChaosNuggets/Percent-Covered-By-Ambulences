@@ -5,16 +5,19 @@
       "11202 Marlin Rd, Indianapolis, IN 46239, USA",
       "5380 S 675W, New Palestine, IN 46163, USA",
       "5201 S 500 W, New Palestine, IN 46163, USA",
+      "5799-5351 300W, New Palestine, IN 46163, USA",
       "7421 E Raymond St, Indianapolis, IN 46239, USA",
       "9545 E Raymond St, Indianapolis, IN 46239, USA",
       "11220 Brookville Rd, Indianapolis, IN 46239, USA",
       "6710 W Suncloud Dr, New Palestine, IN 46163, USA",
       "3444 S Bennett Dr, New Palestine, IN 46163, USA",
+      "3481 300W, Greenfield, IN 46140, USA",
       "7401 Forest Lake Rd, Indianapolis, IN 46219, USA",
       "415 Rawles Ct, Indianapolis, IN 46229, USA",
       "11323 Clearspring Way, Indianapolis, IN 46239, USA",
       "6725 Lana Ct W, New Palestine, IN 46163, USA",
       "4762 W Oak Dr, New Palestine, IN 46163, USA",
+      "250 Catalina S Dr, New Palestine, IN 46163, USA",
       "1917 Arlene Dr, Indianapolis, IN 46219, USA",
       "1919 Shenandoah Pl, Indianapolis, IN 46229, USA",
       "11377 Shady Hollow Ln, Indianapolis, IN 46229, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14713
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 895
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.0 mi",
                   "value" : 11294
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13700
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.9 mi",
                   "value" : 7942
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 467
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10604
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 597
                },
                "status" : "OK"
             },

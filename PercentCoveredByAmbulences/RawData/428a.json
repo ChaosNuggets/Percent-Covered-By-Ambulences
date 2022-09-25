@@ -1,29 +1,46 @@
 {
    "destination_addresses" : [
+      "7636-7000 S 100 E, Claypool, IN 46510, USA",
       "7410 S 300 E, Claypool, IN 46510, USA",
       "7400 S State Rd 13, Pierceton, IN 46562, USA",
       "6998 E 750 S, Pierceton, IN 46562, USA",
       "950 W 270 S-57, Larwill, IN 46764, USA",
       "2571 IN-5, Larwill, IN 46764, USA",
+      "2515 N 575 W, South Whitley, IN 46787, USA",
+      "4501-5499 S Country Club Rd, Warsaw, IN 46580, USA",
       "5322 S 300 E, Warsaw, IN 46580, USA",
       "5469 S 525 E, Pierceton, IN 46562, USA",
       "5503 S 700 E, Pierceton, IN 46562, USA",
       "493 S 950 W, Larwill, IN 46764, USA",
       "431 IN-5, Larwill, IN 46764, USA",
+      "5479-5159 County Rd 50 S, Larwill, IN 46764, USA",
+      "3496 S Country Club Rd, Warsaw, IN 46580, USA",
       "3481 S 350 E, Warsaw, IN 46580, USA",
       "3566 S 500 E, Pierceton, IN 46562, USA",
       "3615 S 750 E, Pierceton, IN 46562, USA",
       "3770 S 900 E, Pierceton, IN 46562, USA",
       "7400 US-30, Larwill, IN 46764, USA",
+      "1400 County Rd 550 W, Columbia City, IN 46725, USA",
+      "2496 Marjorie St, Winona Lake, IN 46590, USA",
       "1602 St Andrews Rd E, Warsaw, IN 46580, USA",
       "5206 US-30, Pierceton, IN 46562, USA",
-      "1581 S State Rd 13, Pierceton, IN 46562, USA",
-      "2236-1500 S 900 E, Pierceton, IN 46562, USA"
+      "1581 S State Rd 13, Pierceton, IN 46562, USA"
    ],
    "origin_addresses" : [ "205 S 1st St, Pierceton, IN 46562, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15909
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 804
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.1 mi",
@@ -76,6 +93,28 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 715
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16554
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 858
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14200
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 690
                },
                "status" : "OK"
             },
@@ -136,6 +175,28 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12407
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 692
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12058
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 747
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8493
                },
@@ -169,12 +230,12 @@
             },
             {
                "distance" : {
-                  "text" : "2.7 mi",
-                  "value" : 4370
+                  "text" : "3.1 mi",
+                  "value" : 4943
                },
                "duration" : {
-                  "text" : "4 mins",
-                  "value" : 256
+                  "text" : "5 mins",
+                  "value" : 274
                },
                "status" : "OK"
             },
@@ -186,6 +247,28 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 371
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10509
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 483
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11390
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 724
                },
                "status" : "OK"
             },
@@ -219,17 +302,6 @@
                "duration" : {
                   "text" : "2 mins",
                   "value" : 146
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "2.8 mi",
-                  "value" : 4533
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 321
                },
                "status" : "OK"
             }

@@ -1,29 +1,46 @@
 {
    "destination_addresses" : [
+      "1472-1000 E Offner Rd, Crete, IL 60417, USA",
       "27861 S Klemme Rd, Beecher, IL 60401, USA",
       "Lake County, 12949 Calumet Ave, Cedar Lake, IN 46303, USA",
       "12815 Wicker Ave, Cedar Lake, IN 46303, USA",
       "12809 Foster St, Cedar Lake, IN 46303, USA",
       "12710 Clark St, Crown Point, IN 46307, USA",
+      "1500 N Main St, Crown Point, IN 46307, USA",
+      "Unnamed Road, Crete, IL 60417, USA",
       "2957 Water Tower Dr, Crete, IL 60417, USA",
       "11206 Calumet Ave, Dyer, IN 46311, USA",
       "12285 Wicker Ave, Cedar Lake, IN 46303, USA",
       "11214 S Cline Ave, Crown Point, IN 46307, USA",
       "5205 W 112th Ave, Crown Point, IN 46307, USA",
+      "234 Pettibone Ave, Crown Point, IN 46307, USA",
+      "1336 E Exchange St, Crete, IL 60417, USA",
       "2901 Pine Ct, Crete, IL 60417, USA",
       "9645 Genevieve Dr, St John, IN 46373, USA",
-      "000, St John, IN 46373, USA",
+      "9623 Wicker Ave, St John, IN 46373, USA",
       "9632 Dewey Pl, St John, IN 46373, USA",
       "9730 Clark Rd, Crown Point, IN 46307, USA",
+      "9544 Cleveland St, Crown Point, IN 46307, USA",
+      "1521 E Steger Rd, Steger, IL 60475, USA",
       "3105 231st St, Sauk Village, IL 60411, USA",
       "8060 Rhode Ct, Dyer, IN 46311, USA",
-      "8051 Wicker Ave, St John, IN 46373, USA",
-      "Cemetery Dr, Crown Point, IN 46307, USA"
+      "8051 Wicker Ave, St John, IN 46373, USA"
    ],
    "origin_addresses" : [ "11033 W 93rd Ave, St John, IN 46373, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16883
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1130
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.8 mi",
@@ -76,6 +93,28 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 922
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14956
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1140
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 15045
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1205
                },
                "status" : "OK"
             },
@@ -136,6 +175,28 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12000
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 918
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11602
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 859
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9303
                },
@@ -191,6 +252,28 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10340
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 897
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11376
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 944
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8305
                },
@@ -219,17 +302,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 268
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6135
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 560
                },
                "status" : "OK"
             }

@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "56426 45th St, Elkhart, IN 46516, USA",
+      "1411 Waurika St, Elkhart, IN 46516, USA",
+      "5225 Edison Lakes Pkwy, Mishawaka, IN 46545, USA",
+      "14432 Phoenix Dr, Mishawaka, IN 46545, USA",
+      "54394 Bittersweet Rd, Mishawaka, IN 46545, USA",
+      "54380 Adrian Ct, Osceola, IN 46561, USA",
+      "29746 Roscommon Dr, Elkhart, IN 46514, USA",
       "27852 Westwood Dr, Elkhart, IN 46514, USA",
+      "52347 Silverleaf Ct, Granger, IN 46530, USA",
       "3221 Beacon Pkwy, Granger, IN 46530, USA",
       "12522 Glen Oak Ct, Granger, IN 46530, USA",
       "10650 Brummitt Rd, Granger, IN 46530, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4608
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 350
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7207
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 484
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13948
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1016
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10269
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 739
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6989
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 489
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7090
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 560
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8414
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11120
                },
                "duration" : {
                   "text" : "12 mins",
                   "value" : 746
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17408
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1211
                },
                "status" : "OK"
             },

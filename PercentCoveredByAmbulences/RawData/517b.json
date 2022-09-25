@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "100 Woodlawn Ave, Porter, IN 46304, USA",
+      "1569 Indian Boundary Rd, Chesterton, IN 46304, USA",
+      "Porter County, IN, USA",
+      "Midwest Steel Hwy, Portage, IN 46368, USA",
+      "Mittal Steel, Burns Harbor, IN, USA",
+      "23 Summit Dr, Porter, IN 46304, USA",
       "Waverly Rd, Porter, IN 46304, USA",
-      "41.67532,-87.21274",
+      "1465 N 200 E, Chesterton, IN 46304, USA",
+      "41.67532,-87.212739999999968",
       "Porter County, IN, USA",
       "Porter County, IN, USA",
       "Porter County, IN, USA",
-      "Trail 8, Chesterton, IN 46304, USA"
+      "Trail 8, Chesterton, IN 46304, USA",
+      "Unnamed Road, Porter, IN 46304, USA"
    ],
    "origin_addresses" : [ "1240 W North Boo Rd, Chesterton, IN 46304, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7695
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 549
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11501
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 722
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8231
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7121
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 579
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7340
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 654
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8018
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 697
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "4.4 mi",
@@ -19,6 +93,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 392
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10487
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 590
                },
                "status" : "OK"
             },
@@ -66,6 +151,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 660
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13227
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 712
                },
                "status" : "OK"
             }

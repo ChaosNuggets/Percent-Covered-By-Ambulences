@@ -5,16 +5,19 @@
       "7601 E 300 S, Glenwood, IN 46133, USA",
       "5458 S Beaver Rd, Glenwood, IN 46133, USA",
       "5100 S Co Rd 460 W, Connersville, IN 47331, USA",
+      "5784 S Co Rd 290 W, Connersville, IN 47331, USA",
       "1998-934 S 350 E, Rushville, IN 46173, USA",
       "5630 E Orange Pike, Rushville, IN 46173, USA",
       "Unnamed Road, Glenwood, IN 46133, USA",
       "6901-6671 W Co Rd 300 S, Glenwood, IN 46133, USA",
       "5299-4651 W Co Rd 300 S, Connersville, IN 47331, USA",
+      "3193-2803 W County Rd 350 S, Connersville, IN 47331, USA",
       "546 N 350 E, Rushville, IN 46173, USA",
       "5881 IN-44, Rushville, IN 46173, USA",
       "301 N 800 E, Glenwood, IN 46133, USA",
       "6100-7254 W Fielding Rd, Glenwood, IN 46133, USA",
       "4746 W Co Rd 150 S, Connersville, IN 47331, USA",
+      "1866 W Williams Rd, Connersville, IN 47331, USA",
       "2797 N 350 E, Rushville, IN 46173, USA",
       "5001 E 250 N, Rushville, IN 46173, USA",
       "7921-7999 E 250 N, Glenwood, IN 46133, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15601
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 952
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.2 mi",
                   "value" : 9964
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13881
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 772
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7644
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 386
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11145
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 546
                },
                "status" : "OK"
             },

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "4241 S 75 W, Chalmers, IN 47929, USA",
       "1514 E 400 S, Chalmers, IN 47929, USA",
       "3220 E 400 S, Monticello, IN 47960, USA",
       "4012 S Freeman Rd, Monticello, IN 47960, USA",
       "10790 W 1000 N, Monticello, IN 47960, USA",
       "9724 N 900 W, Delphi, IN 46923, USA",
+      "545 W Smithson Rd, Reynolds, IN 47980, USA",
       "1325 E Smithson Rd, Chalmers, IN 47929, USA",
       "2425 S 300 E, Monticello, IN 47960, USA",
       "6th St, Monticello, IN 47960, USA",
       "1200 N W Shafer Dr, Monticello, IN 47960, USA",
       "1200 North W, Monticello, IN 47960, USA",
+      "533 US-24, Reynolds, IN 47980, USA",
       "1486 E Division Rd, Reynolds, IN 47980, USA",
       "3317 US-24, Monticello, IN 47960, USA",
       "616 Foster St, Monticello, IN 47960, USA",
       "403 S 700 E, Monticello, IN 47960, USA",
       "E 50 S, Monticello, IN 47960, USA",
+      "332 W 100 N, Reynolds, IN 47980, USA",
       "2098-1352 N 100 E, Reynolds, IN 47980, USA",
       "1867 N 300 E, Monticello, IN 47960, USA",
-      "1801 NW Shafer Dr, Monticello, IN 47960, USA",
-      "6995 E 175 N, Monticello, IN 47960, USA"
+      "1801 NW Shafer Dr, Monticello, IN 47960, USA"
    ],
    "origin_addresses" : [ "915 Hanawalt Rd, Monticello, IN 47960, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15472
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 821
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.8 mi",
@@ -49,11 +63,11 @@
             {
                "distance" : {
                   "text" : "4.4 mi",
-                  "value" : 7078
+                  "value" : 7079
                },
                "duration" : {
-                  "text" : "7 mins",
-                  "value" : 433
+                  "text" : "8 mins",
+                  "value" : 451
                },
                "status" : "OK"
             },
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 745
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12155
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
                },
                "status" : "OK"
             },
@@ -104,11 +129,11 @@
             {
                "distance" : {
                   "text" : "2.4 mi",
-                  "value" : 3862
+                  "value" : 3863
                },
                "duration" : {
                   "text" : "5 mins",
-                  "value" : 290
+                  "value" : 298
                },
                "status" : "OK"
             },
@@ -131,6 +156,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 763
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9792
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 543
                },
                "status" : "OK"
             },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11985
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.9 mi",
                   "value" : 9441
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 348
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.5 mi",
-                  "value" : 7235
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 490
                },
                "status" : "OK"
             }

@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "4127 E Bethel Ln, Bloomington, IN 47408, USA",
       "4600 N Benton Dr, Bloomington, IN 47408, USA",
+      "6818 W Maple Grove Rd, Ellettsville, IN 47429, USA",
       "3951 W Maple Grove Rd, Bloomington, IN 47404, USA",
       "5564-5854 N Bottom Rd, Bloomington, IN 47404, USA",
       "2150 E Dolan Rd, Bloomington, IN 47408, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6736
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 572
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11734
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 774
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13259
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 809
                },
                "status" : "OK"
             },

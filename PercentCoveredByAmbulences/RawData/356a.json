@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "8557-8699 County Rd 2100 E, Georgetown, IL 61846, USA",
       "2160 West 800, North, IN 47928, USA",
       "7762 N Meridian Rd, Perrysville, IN 47974, USA",
       "3232-3738 S Silver Island Rd, Kingman, IN 47952, USA",
       "3651 S Coffing Brothers Rd, Covington, IN 47932, USA",
       "2077 Clark Rd, Kingman, IN 47952, USA",
+      "10929 N 2080 East Rd, Danville, IL 61834, USA",
       "2079 1000 N, Perrysville, IN 47974, USA",
       "9422 N Meridian Rd, Perrysville, IN 47974, USA",
       "E Kizer Ln, Perrysville, IN 47974, USA",
       "2400-2950 W Liberty Church Rd, Covington, IN 47932, USA",
       "2170-2398 W Snoddy Rd, Covington, IN 47932, USA",
+      "20626 County Rd 1280 N, Danville, IL 61834, USA",
       "11682-11998 N County Rd 175 W, Perrysville, IN 47974, USA",
       "11574 N Meridian Rd, Perrysville, IN 47974, USA",
       "441 N Jackson St, Perrysville, IN 47974, USA",
       "2033 S River Rd, Covington, IN 47932, USA",
       "1907 S 540 W, Covington, IN 47932, USA",
+      "14900 Long Rd, Danville, IL 61834, USA",
       "2000-2196 W County Rd 1350 N, Perrysville, IN 47974, USA",
       "1-499 E County Rd 1350 N, Perrysville, IN 47974, USA",
-      "13498-13742 N County Rd 200 E, Perrysville, IN 47974, USA",
-      "2820 W Wabash Chapel Rd, Covington, IN 47932, USA"
+      "13498-13742 N County Rd 200 E, Perrysville, IN 47974, USA"
    ],
    "origin_addresses" : [ "496 W Walnut St, Cayuga, IN 47928, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17543
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1080
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.6 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 844
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14548
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 980
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11663
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 718
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.5 mi",
                   "value" : 7203
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11936
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 729
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.0 mi",
                   "value" : 9599
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 211
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6943
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 539
                },
                "status" : "OK"
             }

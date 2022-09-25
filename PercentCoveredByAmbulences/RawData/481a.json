@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "913 N 900 W, Tipton, IN 46072, USA",
       "720 N 700 W, Tipton, IN 46072, USA",
       "644 N 500 W, Tipton, IN 46072, USA",
       "3342 W 100 N, Tipton, IN 46072, USA",
       "944-528 State Rte 19, Tipton, IN 46072, USA",
       "101-999 E 100 N, Tipton, IN 46072, USA",
+      "2804 N 900 W, Tipton, IN 46072, USA",
       "7017 W 300 N, Sharpsville, IN 46068, USA",
       "2872 N 500 W, Sharpsville, IN 46068, USA",
       "2998-2748 N 300 W, Tipton, IN 46072, USA",
       "1363-1171 W 300 N, Tipton, IN 46072, USA",
       "E 250 N, Tipton, IN 46072, USA",
+      "4843 N 900 W, Sharpsville, IN 46068, USA",
       "4785 N 700 W, Sharpsville, IN 46068, USA",
       "5248-4500 N 550 W, Sharpsville, IN 46068, USA",
       "4001-4999 N 300 W, Sharpsville, IN 46068, USA",
       "1299-1001 W 450 N, Sharpsville, IN 46068, USA",
       "712 E 450 N, Windfall, IN 46076, USA",
+      "9278-6684 N 900 W, Sharpsville, IN 46068, USA",
       "6900 N 700 W, Sharpsville, IN 46068, USA",
       "6920 N 500 W, Sharpsville, IN 46068, USA",
-      "6952 N 300 W, Sharpsville, IN 46068, USA",
-      "1333 N 700 E, Kokomo, IN 46902, USA"
+      "6952 N 300 W, Sharpsville, IN 46068, USA"
    ],
    "origin_addresses" : [ "124 S Main St, Sharpsville, IN 46068, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15417
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 864
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.6 mi",
@@ -71,11 +85,22 @@
             {
                "distance" : {
                   "text" : "8.8 mi",
-                  "value" : 14120
+                  "value" : 14119
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12199
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 719
                },
                "status" : "OK"
             },
@@ -115,7 +140,7 @@
             {
                "distance" : {
                   "text" : "4.8 mi",
-                  "value" : 7733
+                  "value" : 7732
                },
                "duration" : {
                   "text" : "8 mins",
@@ -131,6 +156,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 691
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10146
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
                },
                "status" : "OK"
             },
@@ -170,7 +206,7 @@
             {
                "distance" : {
                   "text" : "3.3 mi",
-                  "value" : 5331
+                  "value" : 5330
                },
                "duration" : {
                   "text" : "7 mins",
@@ -186,6 +222,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 639
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10968
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 647
                },
                "status" : "OK"
             },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 265
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.4 mi",
-                  "value" : 7032
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 432
                },
                "status" : "OK"
             }

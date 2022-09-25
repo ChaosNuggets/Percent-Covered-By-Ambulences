@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "4515 S County Rd 500 W, North Vernon, IN 47265, USA",
       "3145 W County Rd 400 S, North Vernon, IN 47265, USA",
       "1000-1548 W County Rd 400 S, North Vernon, IN 47265, USA",
       "872-654 W County Rd 400 S, North Vernon, IN 47265, USA",
       "4015 State Hwy 7, North Vernon, IN 47265, USA",
       "4125 S 500, Dupont, IN 47231, USA",
+      "5305 W County Rd 200 S, North Vernon, IN 47265, USA",
       "3050 W County Rd 200 S, North Vernon, IN 47265, USA",
       "1820 S 75, North Vernon, IN 47265, USA",
       "1900 IN-3, North Vernon, IN 47265, USA",
       "2165 S County Rd 300 E, North Vernon, IN 47265, USA",
       "County Rd 450 E, North Vernon, IN 47265, USA",
+      "5691-4891 N Base Rd, North Vernon, IN 47265, USA",
       "3045 US-50, North Vernon, IN 47265, USA",
       "1165 W 10 S, North Vernon, IN 47265, USA",
       "160 S County Rd 75 E, North Vernon, IN 47265, USA",
       "3001-3141 E County Rd 20 N, North Vernon, IN 47265, USA",
       "165 S County Rd 500 E, North Vernon, IN 47265, USA",
+      "1800 N County Rd 500 W, North Vernon, IN 47265, USA",
       "3031-2957 E County Rd 200 N, North Vernon, IN 47265, USA",
       "725 N Madison Ave, North Vernon, IN 47265, USA",
-      "1865 75 E, North Vernon, IN 47265, USA",
-      "200 S County Rd, North Vernon, IN 47265, USA"
+      "1865 75 E, North Vernon, IN 47265, USA"
    ],
    "origin_addresses" : [ "200 E Brown St, North Vernon, IN 47265, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14631
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 813
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.1 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11780
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 836
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11603
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 729
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.9 mi",
                   "value" : 7930
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10807
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7383
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 342
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.2 mi",
-                  "value" : 6830
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 460
                },
                "status" : "OK"
             }

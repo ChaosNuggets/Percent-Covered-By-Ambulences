@@ -1,29 +1,98 @@
 {
    "destination_addresses" : [
+      "340 Mill St, Tipton, IN 46072, USA",
+      "500 IN-28, Tipton, IN 46072, USA",
+      "2682 IN-28, Tipton, IN 46072, USA",
+      "4141-4999 IN-28, Tipton, IN 46072, USA",
+      "6001-6707 E 100 S, Windfall, IN 46076, USA",
+      "1208 N 8th St, Elwood, IN 46036, USA",
       "944-528 State Rte 19, Tipton, IN 46072, USA",
       "101-999 E 100 N, Tipton, IN 46072, USA",
       "2741 E 100 N, Tipton, IN 46072, USA",
       "N 450 E, Windfall, IN 46076, USA",
       "6810-6200 E 50 N, Elwood, IN 46036, USA",
+      "9647 W 1500 N, Elwood, IN 46036, USA",
       "1363-1171 W 300 N, Tipton, IN 46072, USA",
       "E 250 N, Tipton, IN 46072, USA",
       "2998-2000 E 300 N, Windfall, IN 46076, USA",
       "2716 N 450 E, Windfall, IN 46076, USA",
       "2643 N 650 E, Elwood, IN 46036, USA",
+      "9102-9998 County Rd 1700 N, Elwood, IN 46036, USA",
       "1299-1001 W 450 N, Sharpsville, IN 46068, USA",
       "712 E 450 N, Windfall, IN 46076, USA",
       "2001-2749 E 500 N, Windfall, IN 46076, USA",
-      "E 500 N, Windfall, IN 46076, USA",
-      "4578 N 650 E, Windfall, IN 46076, USA",
-      "1333 N 700 E, Kokomo, IN 46902, USA",
-      "6607 N 50 E, Sharpsville, IN 46068, USA",
-      "2211-2425 County Rd East 500 S, Greentown, IN 46936, USA",
-      "4001-4999 E 650 N, Windfall, IN 46076, USA"
+      "E 500 N, Windfall, IN 46076, USA"
    ],
    "origin_addresses" : [ "210 S Independence St, Windfall, IN 46076, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15222
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 764
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12766
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 611
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8979
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 406
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11079
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 491
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13529
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 625
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18268
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 924
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.2 mi",
@@ -76,6 +145,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 609
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13421
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
                },
                "status" : "OK"
             },
@@ -136,6 +216,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10574
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 560
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7675
                },
@@ -175,61 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 253
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6879
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 412
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.4 mi",
-                  "value" : 11950
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 593
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.0 mi",
-                  "value" : 9584
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 472
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5733
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 295
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.2 mi",
-                  "value" : 6802
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 414
                },
                "status" : "OK"
             }

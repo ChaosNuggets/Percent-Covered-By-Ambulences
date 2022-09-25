@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "1734 N County Rd 150 E, Greensburg, IN 47240, USA",
       "1799-1601 N Co Rd 80 NE, Greensburg, IN 47240, USA",
+      "3552 N Co Rd 650 W, Greensburg, IN 47240, USA",
       "3632 N Co Rd 420 W, Greensburg, IN 47240, USA",
       "3410 N County Rd 250 W, Greensburg, IN 47240, USA",
       "3598 IN-3, Greensburg, IN 47240, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6982
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 590
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 8039
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 596
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14070
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 967
                },
                "status" : "OK"
             },

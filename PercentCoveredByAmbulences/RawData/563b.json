@@ -5,7 +5,12 @@
       "County Rd 1650 N, Elnora, IN 47529, USA",
       "9157 County Rd 1650 N, Odon, IN 47562, USA",
       "County Rd 1675 N, Odon, IN 47562, USA",
-      "IN-558, Odon, IN 47562, USA"
+      "IN-558, Odon, IN 47562, USA",
+      "County Rd 700 S, Lyons, IN 47443, USA",
+      "W Slinkard Rd, Newberry, IN 47449, USA",
+      "3000 W Borters Rd, Newberry, IN 47449, USA",
+      "772 W Borters Rd, Newberry, IN 47449, USA",
+      "6577 US-231, Bloomfield, IN 47424, USA"
    ],
    "origin_addresses" : [ "102 E Walnut St, Odon, IN 47562, USA" ],
    "rows" : [
@@ -74,6 +79,61 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 578
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16541
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1026
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12065
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 856
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10113
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 729
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12198
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 783
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14893
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 699
                },
                "status" : "OK"
             }

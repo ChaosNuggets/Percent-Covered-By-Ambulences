@@ -5,16 +5,19 @@
       "Camp Otto Rd, Jennings Township, IN, USA",
       "193 N Cataract Rd, Cloverdale, IN 46120, USA",
       "Combes Rd, Quincy, IN 47456, USA",
+      "10800 Front St, Quincy, IN 47456, USA",
       "Lieber Rd, Cloverdale, IN 46120, USA",
       "E County Rd 1275 S, Cloverdale, IN 46120, USA",
       "12999-12701 N County Rd 200 E, Cloverdale, IN 46120, USA",
       "12728 S Co Rd 450 E, Cloverdale, IN 46120, USA",
       "County Rd 675 E, Quincy, IN 47456, USA",
+      "12678 S County Rd 850 E, Cloverdale, IN 46120, USA",
       "2061-1071 W County Rd 1050 S, Cloverdale, IN 46120, USA",
       "10497 S Co Rd 10 E, Cloverdale, IN 46120, USA",
       "2510 E County Rd 1050 S, Cloverdale, IN 46120, USA",
       "4399-3839 IN-42, Cloverdale, IN 46120, USA",
       "10827-10001 N County Rd 675 E, Cloverdale, IN 46120, USA",
+      "10500-10940 S County Rd 850 E, Cloverdale, IN 46120, USA",
       "8950 S St Rd 243, Cloverdale, IN 46120, USA",
       "Dwight D. Eisenhower Hwy, Cloverdale, IN 46120, USA",
       "Dwight D. Eisenhower Hwy, Cloverdale, IN 46120, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14029
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 972
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.7 mi",
                   "value" : 12406
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11525
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 572
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8841
                },
@@ -170,7 +195,7 @@
             {
                "distance" : {
                   "text" : "1.6 mi",
-                  "value" : 2642
+                  "value" : 2640
                },
                "duration" : {
                   "text" : "2 mins",
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 397
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10130
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 485
                },
                "status" : "OK"
             },

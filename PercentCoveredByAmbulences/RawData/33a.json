@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "50 S, Princeton, IN 47670, USA",
       "Unnamed Road, Princeton, IN 47670, USA",
       "588 S Cathy Dr, Princeton, IN 47670, USA",
       "731 W Poplar Ave, Princeton, IN 47670, USA",
       "663 S 150 E, Princeton, IN 47670, USA",
       "587s Curtice Lande Dr, Princeton, IN 47670, USA",
+      "100 County Rd 650 W, Princeton, IN 47670, USA",
       "1377 County Rd 475 W, Princeton, IN 47670, USA",
       "2579 W Gibson Coal Rd, Princeton, IN 47670, USA",
       "1226 N 100 W, Princeton, IN 47670, USA",
       "1161 Carithers Rd, Princeton, IN 47670, USA",
       "100 W 350 S, Princeton, IN 47670, USA",
+      "7005 County Rd 350 N, Decker, IN 47524, USA",
       "County Rd 350 N, Patoka, IN 47666, USA",
       "2729 W 350 N, Patoka, IN 47666, USA",
       "312 Spring St, Patoka, IN 47666, USA",
       "County Rd 350 N, Patoka, IN 47666, USA",
       "County Rd 350 E, Patoka, IN 47666, USA",
+      "S White River Rd, Decker, IN 47524, USA",
       "County Rd 450 W, Decker, IN 47524, USA",
       "350 W 200 W, Patoka, IN 47666, USA",
-      "5386 N Old 41, Patoka, IN 47666, USA",
-      "Co Rd 015, Patoka, IN 47666, USA"
+      "5386 N Old 41, Patoka, IN 47666, USA"
    ],
    "origin_addresses" : [ "104 N Main St, Patoka, IN 47666, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16537
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 766
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.5 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 848
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14481
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9192
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.7 mi",
                   "value" : 5988
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "17.2 mi",
+                  "value" : 27702
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1455
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9107
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 283
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.7 mi",
-                  "value" : 5929
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 462
                },
                "status" : "OK"
             }

@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "3677 E Independence Rd, Attica, IN 47918, USA",
       "1228-1120 E 1400 N, Attica, IN 47918, USA",
+      "4000-4248 W 200 N, Williamsport, IN 47993, USA",
       "2093 W 200 N, Williamsport, IN 47993, USA",
       "78 W Twin Bridges Rd, Williamsport, IN 47993, USA",
       "1780 E 150 N, Attica, IN 47918, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6640
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 411
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9186
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 652
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12465
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 822
                },
                "status" : "OK"
             },

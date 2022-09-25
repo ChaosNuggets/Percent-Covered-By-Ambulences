@@ -5,16 +5,19 @@
       "Logistics Ave, Jeffersonville, IN 47130, USA",
       "Prospect, KY 40059, USA",
       "12820 Crestview Cove, Prospect, KY 40059, USA",
+      "10000 Harrods Creek Dr, Prospect, KY 40059, USA",
       "4601 Commerce Pass, Sellersburg, IN 47172, USA",
       "6020 High Jackson Rd, Charlestown, IN 47111, USA",
       "303 Lentz Ave, Charlestown, IN 47111, USA",
       "Unnamed Road, Charlestown, IN 47111, USA",
       "1004 KY-1793, Goshen, KY 40026, USA",
+      "11008 Bradford Way, Goshen, KY 40026, USA",
       "5410-5834 Brick Church Rd, Sellersburg, IN 47172, USA",
       "7126 County Rd 403, Charlestown, IN 47111, USA",
       "8822 Woodford Drive, Charlestown, IN 47111, USA",
       "Unnamed Road, Charlestown, IN 47111, USA",
       "2216 Cardinal Harbour Rd, Prospect, KY 40059, USA",
+      "3800 Shiloh Ln, Goshen, KY 40026, USA",
       "1410 Stricker Rd, Memphis, IN 47143, USA",
       "2617 Charlestown Memphis Rd, Charlestown, IN 47111, USA",
       "1508 Market St, Charlestown, IN 47111, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "23.7 mi",
+                  "value" : 38081
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1882
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.6 mi",
                   "value" : 10648
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "23.8 mi",
+                  "value" : 38324
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2061
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.0 mi",
                   "value" : 9700
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "36 mins",
                   "value" : 2184
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "26.0 mi",
+                  "value" : 41912
+               },
+               "duration" : {
+                  "text" : "38 mins",
+                  "value" : 2262
                },
                "status" : "OK"
             },

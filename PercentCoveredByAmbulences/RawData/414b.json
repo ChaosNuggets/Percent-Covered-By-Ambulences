@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "7614 IN-252, Edinburgh, IN 46124, USA",
+      "11498-11370 S 600 W, Edinburgh, IN 46124, USA",
+      "1998-1314 E 600 S, Franklin, IN 46131, USA",
+      "Chancellor St, Franklin, IN 46131, USA",
+      "5998 550 E, Franklin, IN 46131, USA",
+      "7520 E 650 S, Edinburgh, IN 46124, USA",
+      "9196 S Edinburgh Rd, Edinburgh, IN 46124, USA",
       "9384-9152 S 600 W, Edinburgh, IN 46124, USA",
+      "4307-3907 200 E, Franklin, IN 46131, USA",
       "4060 S Mauxferry Rd, Franklin, IN 46131, USA",
       "4108 S U.S Hwy 31, Franklin, IN 46131, USA",
       "7359 E 400 S, Franklin, IN 46131, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4250
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 334
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7449
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 466
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16937
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 883
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11075
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 733
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6439
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 696
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5690
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 450
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6657
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 476
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.2 mi",
-                  "value" : 9908
+                  "value" : 9906
                },
                "duration" : {
                   "text" : "10 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15143
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.2 mi",
-                  "value" : 11568
+                  "value" : 11567
                },
                "duration" : {
                   "text" : "10 mins",
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.5 mi",
-                  "value" : 8877
+                  "value" : 8878
                },
                "duration" : {
                   "text" : "8 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "6.2 mi",
-                  "value" : 9932
+                  "value" : 9931
                },
                "duration" : {
                   "text" : "9 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.2 mi",
-                  "value" : 13133
+                  "value" : 13132
                },
                "duration" : {
                   "text" : "12 mins",

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "8509 IN-15, Leesburg, IN 46542, USA",
       "1001-1999 E 900 N, Milford, IN 46542, USA",
       "8480-8594 N 300 E, Syracuse, IN 46567, USA",
       "550 North Dr, Syracuse, IN 46567, USA",
       "Unnamed Road, Syracuse, IN 46567, USA",
       "Hammond Rd, Syracuse, IN 46567, USA",
+      "10682 IN-15, Milford, IN 46542, USA",
       "1574-1000 E Mock Rd, Milford, IN 46542, USA",
       "3471 E 1050 N, Syracuse, IN 46567, USA",
       "5518 E 1050 N, Syracuse, IN 46567, USA",
       "10671 IN-13, Syracuse, IN 46567, USA",
       "9171 E Ross Dr, Syracuse, IN 46567, USA",
+      "501 Kinwood Dr, Milford, IN 46542, USA",
       "12250-12860 N 175 E, Milford, IN 46542, USA",
       "12140-12998 N 300 E, Syracuse, IN 46567, USA",
       "405 E Pickwick Dr, Syracuse, IN 46567, USA",
       "7191 E Eli Lilly Rd, Syracuse, IN 46567, USA",
       "9193 E 1250 N, Syracuse, IN 46567, USA",
+      "20345 Co Rd 21, Milford, IN 46542, USA",
       "72001-72493 Co Rd 25, Syracuse, IN 46567, USA",
       "16998-16264 Co Rd 56, Syracuse, IN 46567, USA",
-      "72471 Co Rd 133, Syracuse, IN 46567, USA",
-      "72801-72999 Co Rd 137, Syracuse, IN 46567, USA"
+      "72471 Co Rd 133, Syracuse, IN 46567, USA"
    ],
    "origin_addresses" : [ "310 N Huntington St, Syracuse, IN 46567, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16395
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 924
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 802
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13177
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10267
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 676
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6624
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11217
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 675
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7748
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 245
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5840
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 410
                },
                "status" : "OK"
             }

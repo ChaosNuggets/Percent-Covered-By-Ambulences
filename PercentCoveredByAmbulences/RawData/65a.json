@@ -1,20 +1,61 @@
 {
    "destination_addresses" : [
+      "437 Old Beech Rd, New Harmony, IN 47631, USA",
+      "1215 Harmony Springfield Rd, New Harmony, IN 47631, USA",
+      "1307 Oliver Rd, Wadesville, IN 47638, USA",
       "Walker Rd, New Harmony, IN 47631, USA",
       "County Rd 250 E, New Harmony, IN 47631, USA",
+      "9382-9300 Harmony Township Rd, Wadesville, IN 47638, USA",
       "5251 Shephard Ln, New Harmony, IN 47631, USA",
       "5211 Harmony Springfield Rd, New Harmony, IN 47631, USA",
+      "4430 Romaine Rd, Poseyville, IN 47633, USA",
       "Griffin Rd, New Harmony, IN 47631, USA",
       "1821-1823 IN-68, New Harmony, IN 47631, USA",
+      "7201 Blaylock Rd, New Harmony, IN 47631, USA",
       "9575-9515 Griffin Rd, Griffin, IN 47616, USA",
       "9012-8900 Somers Rd, New Harmony, IN 47631, USA",
+      "8921 Blaylock Rd, Poseyville, IN 47633, USA",
       "County Rd 1100 N, Griffin, IN 47616, USA",
-      "2045 Overton Rd, New Harmony, IN 47631, USA"
+      "2045 Overton Rd, New Harmony, IN 47631, USA",
+      "11101 Waller Hill Rd, Poseyville, IN 47633, USA"
    ],
    "origin_addresses" : [ "520 Church St, New Harmony, IN 47631, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9034
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 468
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13412
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 725
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16337
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 950
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "4.3 mi",
@@ -34,6 +75,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 557
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13159
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 724
                },
                "status" : "OK"
             },
@@ -61,6 +113,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10126
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 566
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "2.2 mi",
                   "value" : 3532
                },
@@ -78,6 +141,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 347
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10549
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 589
                },
                "status" : "OK"
             },
@@ -105,6 +179,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11497
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.7 mi",
                   "value" : 12328
                },
@@ -122,6 +207,17 @@
                "duration" : {
                   "text" : "17 mins",
                   "value" : 992
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15784
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 943
                },
                "status" : "OK"
             }

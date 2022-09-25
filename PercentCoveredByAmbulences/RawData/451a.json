@@ -1,8 +1,14 @@
 {
    "destination_addresses" : [
+      "2957 Water Tower Dr, Crete, IL 60417, USA",
+      "11206 Calumet Ave, Dyer, IN 46311, USA",
+      "12285 Wicker Ave, Cedar Lake, IN 46303, USA",
+      "11214 S Cline Ave, Crown Point, IN 46307, USA",
+      "5205 W 112th Ave, Crown Point, IN 46307, USA",
+      "234 Pettibone Ave, Crown Point, IN 46307, USA",
       "2901 Pine Ct, Crete, IL 60417, USA",
       "9645 Genevieve Dr, St John, IN 46373, USA",
-      "000, St John, IN 46373, USA",
+      "9623 Wicker Ave, St John, IN 46373, USA",
       "9632 Dewey Pl, St John, IN 46373, USA",
       "9730 Clark Rd, Crown Point, IN 46307, USA",
       "9544 Cleveland St, Crown Point, IN 46307, USA",
@@ -13,20 +19,80 @@
       "8005 Pine Island Dr, Crown Point, IN 46307, USA",
       "2000 W 79th Pl, Merrillville, IN 46410, USA",
       "3275 Lincoln Hwy, Lynwood, IL 60411, USA",
-      "Dyer Dog Park, 900 Central Pk Blvd, Dyer, IN 46311, USA",
+      "900 Central Pk Blvd, Dyer, IN 46311, USA",
       "1133 US Hwy 41, Schererville, IN 46375, USA",
-      "1118 S Cline Ave, Schererville, IN 46375, USA",
-      "Turkey Creek Trail, Schererville, IN 46375, USA",
-      "6408 Arthur St, Merrillville, IN 46410, USA",
-      "20114 Catalpa Ave, Lynwood, IL 60411, USA",
-      "10010 Calumet Ave, Munster, IN 46321, USA",
-      "10101 Indianapolis Blvd, Highland, IN 46322, USA",
-      "512 Cline Ave, Griffith, IN 46319, USA"
+      "1118 S Cline Ave, Schererville, IN 46375, USA"
    ],
    "origin_addresses" : [ "25 E Joliet St, Schererville, IN 46375, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16475
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1286
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13176
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1052
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10023
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 906
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10637
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 867
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13339
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1056
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14583
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1144
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.4 mi",
@@ -200,72 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 281
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.4 mi",
-                  "value" : 5484
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 507
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.2 mi",
-                  "value" : 9960
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 834
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.0 mi",
-                  "value" : 11243
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 946
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.7 mi",
-                  "value" : 9173
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 764
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5755
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 532
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.6 mi",
-                  "value" : 7353
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 618
                },
                "status" : "OK"
             }

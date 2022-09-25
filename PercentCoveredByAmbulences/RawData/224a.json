@@ -5,16 +5,19 @@
       "2231 US-27, Decatur, IN 46733, USA",
       "2191 N 200 E, Decatur, IN 46733, USA",
       "2125 N Salem Rd, Decatur, IN 46733, USA",
+      "5855 E 225 N, Decatur, IN 46733, USA",
       "4474-4108 N 400 W, Decatur, IN 46733, USA",
       "4405 N 200 W, Decatur, IN 46733, USA",
       "4277 US-27, Decatur, IN 46733, USA",
       "4241 N 200 E, Decatur, IN 46733, USA",
       "County Rd 400 E, Decatur, IN 46733, USA",
+      "4080 N 600 E, Decatur, IN 46733, USA",
       "3001-3839 US-224, Decatur, IN 46733, USA",
       "1535 US-224, Decatur, IN 46733, USA",
       "1130 Dayton St, Decatur, IN 46733, USA",
       "1026 Eastridge Dr, Decatur, IN 46733, USA",
       "17 County Rd 400 E, Decatur, IN 46733, USA",
+      "6282 N 600 E, Decatur, IN 46733, USA",
       "8475 N 400 W, Decatur, IN 46733, USA",
       "8101 N 200 W, Decatur, IN 46733, USA",
       "8161 N 000th Rd, Decatur, IN 46733, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12561
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10209
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14138
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 810
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 8069
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 482
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10918
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 606
                },
                "status" : "OK"
             },

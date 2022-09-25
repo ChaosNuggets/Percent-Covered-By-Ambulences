@@ -7,7 +7,13 @@
       "14174 Union Rd, Culver, IN 46511, USA",
       "17928 14b Rd, Culver, IN 46511, USA",
       "16070 14b Rd, Plymouth, IN 46563, USA",
-      "14B Crest Ln, Plymouth, IN 46563, USA"
+      "14B Crest Ln, Plymouth, IN 46563, USA",
+      "9660 E 50 S, Knox, IN 46534, USA",
+      "132 S 1100 E, Knox, IN 46534, USA",
+      "19897 W 12th Rd, Plymouth, IN 46563, USA",
+      "18016 Cherokee Trail, Culver, IN 46511, USA",
+      "15994 Cook Lake Trail, Plymouth, IN 46563, USA",
+      "14198 Lawrence Lake Dr, Plymouth, IN 46563, USA"
    ],
    "origin_addresses" : [ "200 E Washington St, Culver, IN 46511, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 763
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.0 mi",
+                  "value" : 17703
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1072
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15273
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 883
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11061
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 811
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11483
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 729
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15183
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1004
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17013
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
                },
                "status" : "OK"
             }

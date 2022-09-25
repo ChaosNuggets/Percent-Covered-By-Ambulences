@@ -5,16 +5,19 @@
       "4828-4660 175 W, Paoli, IN 47454, USA",
       "668 E County Rd 450 S, Paoli, IN 47454, USA",
       "5999-4001 Grease Gravy Rd, Hardinsburg, IN 47125, USA",
+      "4827-5075 S Co Rd 475 E, Hardinsburg, IN 47125, USA",
       "2301-2897 S Co Rd 500 W, Paoli, IN 47454, USA",
       "3009 S Log Creek Rd, Paoli, IN 47454, USA",
       "2332 S Unionville Rd, Paoli, IN 47454, USA",
       "851 E Co Rd 250 S, Paoli, IN 47454, USA",
       "2999 US-150, Paoli, IN 47454, USA",
+      "2501 S Co Rd 500 E, Paoli, IN 47454, USA",
       "W Co Rd 50 S, Paoli, IN 47454, USA",
       "999-201 S Co Rd 275 W, Paoli, IN 47454, USA",
       "600 S Elm St, Paoli, IN 47454, USA",
       "860 US-150, Paoli, IN 47454, USA",
       "483 S County Rd 300 E, Paoli, IN 47454, USA",
+      "681 S Co Rd 500 E, Paoli, IN 47454, USA",
       "Unnamed Road, West Baden Springs, IN 47469, USA",
       "1453 275 W, Paoli, IN 47454, USA",
       "1112 W County Rd 140 N, Paoli, IN 47454, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12114
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 589
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.8 mi",
                   "value" : 12606
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11911
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8393
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 353
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10253
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 479
                },
                "status" : "OK"
             },

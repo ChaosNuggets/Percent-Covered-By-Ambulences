@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "5713-5201 W 105th Ave, West Terre Haute, IN 47885, USA",
       "10098 US-150, West Terre Haute, IN 47885, USA",
       "10401 Hutchinson Rd, West Terre Haute, IN 47885, USA",
       "E 93rd Ave, Rosedale, IN 47874, USA",
       "10350 N Atherton St, Rosedale, IN 47874, USA",
       "6764-6256 E Swope Ave, Terre Haute, IN 47805, USA",
+      "1800 S 200 W, Clinton, IN 47842, USA",
       "445 W 1800 S, Clinton, IN 47842, USA",
       "11 Timberline Rd, Clinton, IN 47842, USA",
       "350 W South St, Clinton, IN 47842, USA",
       "10200 South 625, West, IN 47874, USA",
       "4441 1000 S, Rosedale, IN 47874, USA",
+      "250 W Vacant Frm Grd 22-14-10, Clinton, IN 47842, USA",
       "Unnamed Road, Clinton, IN 47842, USA",
       "1978-1800 E Hazel Bluff Rd, Clinton, IN 47842, USA",
       "1123 S Main St, Clinton, IN 47842, USA",
       "County Rd 625 W, Rosedale, IN 47874, USA",
       "8514 450 W, Rosedale, IN 47874, USA",
+      "14046 South 200, West, IN 47842, USA",
       "14498-14128 County Rd 00, Clinton, IN 47842, USA",
       "1632 E 1425 S, Clinton, IN 47842, USA",
-      "1701 N Main St, Clinton, IN 47842, USA",
-      "6224 US Hwy 41, Rosedale, IN 47874, USA"
+      "1701 N Main St, Clinton, IN 47842, USA"
    ],
    "origin_addresses" : [ "259 Vine St, Clinton, IN 47842, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15813
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1047
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 935
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12896
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 953
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12095
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 818
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9227
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11490
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 813
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8299
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 162
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.2 mi",
-                  "value" : 5217
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 338
                },
                "status" : "OK"
             }

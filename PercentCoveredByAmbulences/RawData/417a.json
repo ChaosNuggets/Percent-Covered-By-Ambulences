@@ -5,16 +5,19 @@
       "1736 N Centerline Rd, Franklin, IN 46131, USA",
       "1084 Sunmeadow Cir, Franklin, IN 46131, USA",
       "2225 Somerset Dr, Franklin, IN 46131, USA",
+      "5798-4954 E 200 N, Franklin, IN 46131, USA",
       "4353 W Co Rd 144, Bargersville, IN 46106, USA",
       "4000 N 200 W, Franklin, IN 46131, USA",
       "3813 75 W, Franklin, IN 46131, USA",
       "3865 N Morton St, Franklin, IN 46131, USA",
       "3886 N 350 E, Franklin, IN 46131, USA",
+      "3713 525 E, Franklin, IN 46131, USA",
       "4321 W Smokey Row Rd, Greenwood, IN 46143, USA",
       "1344 W Smokey Row Rd, Greenwood, IN 46143, USA",
       "973 Nicole Way, New Whiteland, IN 46184, USA",
       "1501 County Rd 600 N, Whiteland, IN 46184, USA",
       "3197-3745 Tracy Rd, Whiteland, IN 46184, USA",
+      "5679 525 E, Franklin, IN 46131, USA",
       "4328 W Hunters Ridge Ln, Greenwood, IN 46143, USA",
       "1283 Worcester Dr, Greenwood, IN 46143, USA",
       "1820 Westwood Dr, Greenwood, IN 46143, USA",
@@ -81,12 +84,23 @@
             },
             {
                "distance" : {
-                  "text" : "7.7 mi",
-                  "value" : 12406
+                  "text" : "8.3 mi",
+                  "value" : 13329
                },
                "duration" : {
                   "text" : "14 mins",
-                  "value" : 830
+                  "value" : 813
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11551
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 800
                },
                "status" : "OK"
             },
@@ -131,6 +145,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 564
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11623
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 706
                },
                "status" : "OK"
             },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 352
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8350
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 584
                },
                "status" : "OK"
             },

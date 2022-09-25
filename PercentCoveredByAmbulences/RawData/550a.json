@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6190 IN-263, Williamsport, IN 47993, USA",
       "2306 W 650 S, Williamsport, IN 47993, USA",
       "1376-1377 W Covered Bridge Rd, Attica, IN 47918, USA",
       "572 W 650 N, Attica, IN 47918, USA",
       "2728-2588 US Hwy 41, Attica, IN 47918, USA",
       "801-1201 E 650 N, Attica, IN 47918, USA",
+      "4026 W 400 S, Williamsport, IN 47993, USA",
       "2125 W 400 S, Williamsport, IN 47993, USA",
       "4233-4001 S Gillespie Rd, Williamsport, IN 47993, USA",
       "Unnamed Road, Attica, IN 47918, USA",
       "3433 US Hwy 41, Attica, IN 47918, USA",
       "904 E Green Bay Rd, Attica, IN 47918, USA",
+      "4068 IN-28, West Lebanon, IN 47991, USA",
       "2250 IN-28, West Lebanon, IN 47991, USA",
       "358 IN-28, Williamsport, IN 47993, USA",
       "520 North St, Williamsport, IN 47993, USA",
       "703 S McDonald St, Attica, IN 47918, USA",
       "2658 IN-28, Attica, IN 47918, USA",
+      "3978 W Division Rd, Williamsport, IN 47993, USA",
       "2905-2001 W Division Rd, Williamsport, IN 47993, USA",
       "303 W Division Rd, Williamsport, IN 47993, USA",
-      "N Taylor Rd, Attica, IN 47918, USA",
-      "3677 E Independence Rd, Attica, IN 47918, USA"
+      "N Taylor Rd, Attica, IN 47918, USA"
    ],
    "origin_addresses" : [ "101 N Monroe St, Williamsport, IN 47993, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14624
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 776
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.9 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 894
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11683
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9748
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7145
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10499
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 610
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7386
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 343
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6585
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 390
                },
                "status" : "OK"
             }

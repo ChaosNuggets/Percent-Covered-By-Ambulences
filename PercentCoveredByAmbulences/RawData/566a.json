@@ -5,16 +5,19 @@
       "10985 County Rd 400 E, Plainville, IN 47568, USA",
       "I-69, Odon, IN 47562, USA",
       "County Rd 775 E, Odon, IN 47562, USA",
+      "County Rd 1050 N, Odon, IN 47562, USA",
       "Bowman Rd, Sandborn, IN 47578, USA",
       "County Rd 125 E, Sandborn, IN 47578, USA",
       "County Rd 1200 N, Elnora, IN 47529, USA",
       "County Rd 1250 N, Elnora, IN 47529, USA",
       "County Rd 1250 N, Odon, IN 47562, USA",
+      "409 S Grove St, Odon, IN 47562, USA",
       "19595 State Rd 58, Sandborn, IN 47578, USA",
       "Unnamed Road, Sandborn, IN 47578, USA",
       "County Rd 1450 N, Elnora, IN 47529, USA",
       "County Rd 550 E, Elnora, IN 47529, USA",
       "County Rd 1500, Elnora, IN 47529, USA",
+      "14326 900 E, Odon, IN 47562, USA",
       "504 Cemetery Rd, Sandborn, IN 47578, USA",
       "Jericho Rd, Sandborn, IN 47578, USA",
       "400 E, Sandborn, IN 47578, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15567
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 879
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.4 mi",
                   "value" : 13505
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12527
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 8955
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 431
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8858
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 666
                },
                "status" : "OK"
             },

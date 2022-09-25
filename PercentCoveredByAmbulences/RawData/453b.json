@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "6196 Federal Ave, Portage, IN 46368, USA",
+      "Imagination Glen - Outback Trail, 2130 McCool Rd, Portage, IN 46368, USA",
+      "200 Martin Luther King Dr, Gary, IN 46402, USA",
+      "Unnamed Road, Gary, IN 46403, USA",
+      "7330-34 Indian Boundary, Gary, IN 46403, USA",
+      "W Beach Rd, Gary, IN 46403, USA",
       "6159 S Dune Harbor Dr, Portage, IN 46368, USA",
+      "361 Shadyside Rd, Chesterton, IN 46304, USA",
       "Lake County, IN, USA",
       "Lake County, IN, USA",
       "Lake County, IN, USA",
       "Porter County, IN, USA",
-      "Midwest Steel, Portage, IN 46368, USA"
+      "Midwest Steel Hwy, Portage, IN 46368, USA",
+      "Mittal Steel, Burns Harbor, IN, USA"
    ],
    "origin_addresses" : [ "3629 Central Ave, Gary, IN 46405, USA" ],
    "rows" : [
@@ -13,12 +21,89 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "5.7 mi",
-                  "value" : 9197
+                  "text" : "4.1 mi",
+                  "value" : 6578
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 578
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9635
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 852
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15681
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 997
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.2 mi",
+                  "value" : 18042
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1332
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6921
                },
                "duration" : {
                   "text" : "11 mins",
-                  "value" : 631
+                  "value" : 632
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6987
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9196
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 630
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11703
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 669
                },
                "status" : "OK"
             },
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 834
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.0 mi",
+                  "value" : 19321
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1286
                },
                "status" : "OK"
             }

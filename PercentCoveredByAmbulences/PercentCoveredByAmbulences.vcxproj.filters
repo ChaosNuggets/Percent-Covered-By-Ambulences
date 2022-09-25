@@ -39,6 +39,9 @@
     <ClCompile Include="main_organize_data.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main_calculate_coverage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h">

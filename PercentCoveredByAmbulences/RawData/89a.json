@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6477 S County Rd 625 W, Reelsville, IN 46171, USA",
       "6979 S County Rd 445 W, Greencastle, IN 46135, USA",
       "Unnamed Road, Greencastle, IN 46135, USA",
       "483 700 S, Cloverdale, IN 46120, USA",
       "6933-6001 N County Rd 250 E, Greencastle, IN 46135, USA",
       "6526 S County Rd 475 E, Cloverdale, IN 46120, USA",
+      "4950 S County Rd 600 W, Greencastle, IN 46135, USA",
       "5000-5222 Manhattan Rd, Greencastle, IN 46135, USA",
       "200 W, Greencastle, IN 46135, USA",
       "4701-5399 S Meridian Line Rd, Cloverdale, IN 46120, USA",
       "2202 Deer Creek Dr, Greencastle, IN 46135, USA",
       "4999-4355 S County Rd 475 E, Greencastle, IN 46135, USA",
+      "5862 W County Rd 275 S, Greencastle, IN 46135, USA",
       "3921 W Co Rd 300 S, Greencastle, IN 46135, USA",
       "1721 W Co Rd 300 S, Greencastle, IN 46135, USA",
       "1556 S Bloomington St, Greencastle, IN 46135, USA",
       "E CR-225 S, Greencastle, IN 46135, USA",
       "W County Rd 300 S, Greencastle, IN 46135, USA",
+      "5947 W County Rd 100 S, Greencastle, IN 46135, USA",
       "3400-3982 W County Rd 125 S, Greencastle, IN 46135, USA",
       "1886-1396 W Co Rd 100 S, Greencastle, IN 46135, USA",
-      "1038 Shadowlawn Ave, Greencastle, IN 46135, USA",
-      "People Pathways, Fillmore, IN 46128, USA"
+      "1038 Shadowlawn Ave, Greencastle, IN 46135, USA"
    ],
    "origin_addresses" : [ "13 Keightly Rd, Greencastle, IN 46135, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17866
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1119
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.6 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 895
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12692
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 781
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12634
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 954
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.5 mi",
                   "value" : 7301
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10400
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6530
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 369
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "2.9 mi",
-                  "value" : 4619
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 462
                },
                "status" : "OK"
             }

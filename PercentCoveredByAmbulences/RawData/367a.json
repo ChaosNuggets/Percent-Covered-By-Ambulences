@@ -5,16 +5,19 @@
       "1000 Hwy 11, Seymour, IN 47274, USA",
       "1009 N County Rd 950 E, Seymour, IN 47274, USA",
       "900 US-31, Seymour, IN 47274, USA",
+      "5513-5951 900 W, Commiskey, IN 47227, USA",
       "4040 US-50, Seymour, IN 47274, USA",
       "2643-3999 N County Rd 600 E, Seymour, IN 47274, USA",
       "3018 Hwy 11, Seymour, IN 47274, USA",
       "9882 E 300 N, Seymour, IN 47274, USA",
       "2861-2989 US-31, Seymour, IN 47274, USA",
+      "4045 S County Rd 900 W, Seymour, IN 47274, USA",
       "N County Rd 400 E, Seymour, IN 47274, USA",
       "6000 E County Rd 525 N, Seymour, IN 47274, USA",
       "335 S Walnut St, Seymour, IN 47274, USA",
       "1900 E Block Tipton St, Seymour, IN 47274, USA",
       "11298-11000 E County Rd 500 N, Seymour, IN 47274, USA",
+      "W County Rd 200 S, Seymour, IN 47274, USA",
       "7248-7028 N County Rd 400 E, Seymour, IN 47274, USA",
       "6401-7999 S County Rd 550 E, Seymour, IN 47274, USA",
       "300 Enos Rd, Seymour, IN 47274, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17332
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1075
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8557
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14125
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 867
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8618
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 620
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11181
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 722
                },
                "status" : "OK"
             },

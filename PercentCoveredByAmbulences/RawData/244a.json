@@ -5,16 +5,19 @@
       "4185 N Co Rd 700 E, Hope, IN 47246, USA",
       "4215 E Huffer Rd, Hope, IN 47246, USA",
       "County Rd 1000 E, Hartsville, IN 47244, USA",
+      "6381 S Co Rd 1000 W, Hartsville, IN 47244, USA",
       "Unnamed Road, Columbus, IN 47203, USA",
       "Unnamed Road, Columbus, IN 47203, USA",
       "6925 N Co Rd 700 E, Hope, IN 47246, USA",
       "16498-15604 E County Rd 500 N, Hope, IN 47246, USA",
       "500 S West St, Hope, IN 47246, USA",
+      "10116 IN-46, Greensburg, IN 47240, USA",
       "6798-6186 E 700 N, Columbus, IN 47203, USA",
       "County Rd 525 E, Columbus, IN 47203, USA",
       "10750 N Co Rd 700 E, Hope, IN 47246, USA",
       "10510 N County Rd 900 E, Hope, IN 47246, USA",
       "20598-19200 E County Rd 700 N, Hope, IN 47246, USA",
+      "10499-8501 W County Rd 200 S, Greensburg, IN 47240, USA",
       "N County Rd 300 E, Hope, IN 47246, USA",
       "13875 N 500, Hope, IN 47246, USA",
       "13198-13182 N County Rd 670 E, Hope, IN 47246, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "12.2 mi",
+                  "value" : 19702
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1035
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.0 mi",
                   "value" : 11265
                },
@@ -131,6 +145,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 541
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12684
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 745
                },
                "status" : "OK"
             },
@@ -191,12 +216,23 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12657
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 709
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.6 mi",
                   "value" : 10680
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 566
+                  "text" : "10 mins",
+                  "value" : 585
                },
                "status" : "OK"
             },

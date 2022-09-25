@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "1907 S 540 W, Covington, IN 47932, USA",
       "940-998 S Layton Station Rd, Veedersburg, IN 47987, USA",
       "1804-1902 S 100 W, Veedersburg, IN 47987, USA",
       "W 500 S, Veedersburg, IN 47987, USA",
       "1653-1799 S 300 E, Veedersburg, IN 47987, USA",
       "1814 E 500 S, Veedersburg, IN 47987, USA",
+      "2100-2398 County Rd 300 S, Covington, IN 47932, USA",
       "1186 S Layton Station Rd, Veedersburg, IN 47987, USA",
       "506 W Bonebrake Rd, Veedersburg, IN 47987, USA",
       "205 E Bonebrake Rd, Veedersburg, IN 47987, USA",
       "1032 E Bonebrake Rd, Veedersburg, IN 47987, USA",
       "1601-1871 E 250 S, Hillsboro, IN 47949, USA",
+      "1952-2126 W Dixie Bee Rd, Covington, IN 47932, USA",
       "1579-1201 W Dixie Bee Rd, Covington, IN 47932, USA",
       "592 W Dixie Bee Rd, Veedersburg, IN 47987, USA",
       "109 N Sterling Ave, Veedersburg, IN 47987, USA",
       "1298-984 E 50 S, Veedersburg, IN 47987, USA",
       "1912-1702 US Hwy 136, Hillsboro, IN 47949, USA",
+      "2022 W Stone Bluff Rd, Covington, IN 47932, USA",
       "1000-1076 W 100 N, Veedersburg, IN 47987, USA",
       "487 W 100 N, Veedersburg, IN 47987, USA",
-      "1-175 E 100 N, Veedersburg, IN 47987, USA",
-      "315 N 250 E, Veedersburg, IN 47987, USA"
+      "1-175 E 100 N, Veedersburg, IN 47987, USA"
    ],
    "origin_addresses" : [ "100 S Main St, Veedersburg, IN 47987, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14397
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 928
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.9 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 858
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13819
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 831
                },
                "status" : "OK"
             },
@@ -136,12 +161,23 @@
             },
             {
                "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6941
+                  "text" : "5.5 mi",
+                  "value" : 8788
                },
                "duration" : {
-                  "text" : "6 mins",
-                  "value" : 387
+                  "text" : "9 mins",
+                  "value" : 542
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6047
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 411
                },
                "status" : "OK"
             },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11616
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 840
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8488
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 338
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.2 mi",
-                  "value" : 6819
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 535
                },
                "status" : "OK"
             }

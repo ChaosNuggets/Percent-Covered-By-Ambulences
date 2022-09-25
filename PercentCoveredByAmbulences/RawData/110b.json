@@ -7,7 +7,13 @@
       "1405 Lake Shore Dr, Michigan City, IN 46360, USA",
       "276 Twin Rd, Michigan City, IN 46360, USA",
       "5371-5939 W 900 N, Michigan City, IN 46360, USA",
-      "8998-8000 N 400 W, Michigan City, IN 46360, USA"
+      "8998-8000 N 400 W, Michigan City, IN 46360, USA",
+      "41.76215,-86.955629999999971",
+      "Berrien County, MI, USA",
+      "Berrien County, MI, USA",
+      "3001-3099 Lake Shore Dr, Long Beach, IN 46360, USA",
+      "4060 Cherokee Dr, New Buffalo, MI 49117, USA",
+      "19800 Kluver Rd, New Buffalo, MI 49117, USA"
    ],
    "origin_addresses" : [ "1714 US-20, Michigan City, IN 46360, USA" ],
    "rows" : [
@@ -97,7 +103,65 @@
                },
                "duration" : {
                   "text" : "12 mins",
+                  "value" : 705
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7188
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 761
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8594
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 817
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10746
+               },
+               "duration" : {
+                  "text" : "12 mins",
                   "value" : 694
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11540
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 745
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14806
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 839
                },
                "status" : "OK"
             }

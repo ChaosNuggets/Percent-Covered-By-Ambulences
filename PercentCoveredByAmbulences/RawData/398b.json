@@ -7,7 +7,13 @@
       "6455 S E 00 W, Jonesboro, IN 46938, USA",
       "6000-6798 Fairmount Ave, Jonesboro, IN 46938, USA",
       "6336-6798 County Rd 375 E, Jonesboro, IN 46938, USA",
-      "6460 S 600 E, Gas City, IN 46933, USA"
+      "6460 S 600 E, Gas City, IN 46933, USA",
+      "400 W 1200 S 35, Marion, IN 46953, USA",
+      "4999-4201 S Troy Ave, Marion, IN 46953, USA",
+      "6965 S Maple Dr, Marion, IN 46953, USA",
+      "502 James St, Jonesboro, IN 46938, USA",
+      "931 E Main St, Gas City, IN 46933, USA",
+      "4408 S 600 E, Gas City, IN 46933, USA"
    ],
    "origin_addresses" : [ "214 W Washington St, Fairmount, IN 46928, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 888
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16256
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12728
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 719
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9873
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12572
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15876
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 931
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16307
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 984
                },
                "status" : "OK"
             }

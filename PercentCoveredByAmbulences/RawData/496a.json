@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3706-3770 S Eastmont Ave, Bloomington, IN 47403, USA",
       "3500 S Violet Ln, Bloomington, IN 47403, USA",
       "3631 S Glasgow Cir, Bloomington, IN 47403, USA",
       "3825 S Linda's Way, Bloomington, IN 47401, USA",
       "Hughes Ln, Bloomington, IN 47401, USA",
       "3476 S Knightridge Rd, Bloomington, IN 47401, USA",
+      "593 S Cave Rd, Bloomington, IN 47403, USA",
       "1078 S Sugar Maple Pl, Bloomington, IN 47403, USA",
       "708 S Adams St, Bloomington, IN 47403, USA",
       "908 S Sheridan Dr, Bloomington, IN 47401, USA",
       "925 S Brighton Crst Rd, Bloomington, IN 47401, USA",
       "299 Arbutus Rd, Bloomington, IN 47401, USA",
+      "6675 W Vernal Pike, Bloomington, IN 47404, USA",
       "4554 W Vernal Pike, Bloomington, IN 47404, USA",
       "1307 W Gourley Pike, Bloomington, IN 47404, USA",
       "1612 E Matlock Rd, Bloomington, IN 47408, USA",
       "2290 N Russell Rd, Bloomington, IN 47408, USA",
       "6225 E Collins Ln, Bloomington, IN 47408, USA",
+      "4560 Sapphire Dr, Bloomington, IN 47404, USA",
       "4360 N Castlewood Ct, Bloomington, IN 47404, USA",
       "I-69, Bloomington, IN 47404, USA",
-      "1812 E Bethel Ln, Bloomington, IN 47408, USA",
-      "4127 E Bethel Ln, Bloomington, IN 47408, USA"
+      "1812 E Bethel Ln, Bloomington, IN 47408, USA"
    ],
    "origin_addresses" : [ "2130 N Fee Ln, Bloomington, IN 47408, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13896
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 829
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.5 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 766
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12192
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 846
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11477
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8646
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14229
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 876
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.9 mi",
                   "value" : 7850
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 380
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.2 mi",
-                  "value" : 6735
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 572
                },
                "status" : "OK"
             }

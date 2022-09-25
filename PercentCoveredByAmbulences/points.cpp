@@ -3,8 +3,7 @@
 #include "constants.h"
 #include <cmath>
 
-// This convoluted line creates a 2d matrix of points of size latSize by longSize
-std::vector<std::vector<bool>> points(LAT_SIZE, std::vector<bool>(LONG_SIZE, false)); // The point map, true if active and false if not active (all the points in Indiana start as true)
+std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
 int totalPoints; // The total number of points in Indiana
 
 std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, funcPtr roundFunc = round)
@@ -35,6 +34,9 @@ std::pair<double, double> indexToCoord(const std::pair<int, int>& index)
 
 void fillPoints(bool countPoints = false)
 {
+    // Resizes points to be a 2d matrix of points of size latSize by longSize
+    points.resize(LAT_SIZE, std::vector<bool>(LONG_SIZE, false));
+    
     if (countPoints)
     {
         totalPoints = 0;
@@ -62,14 +64,14 @@ void fillPoints(bool countPoints = false)
 
         const auto [lowLatIndex, lowLongIndex] = coordToIndex({ lowLat, lowLong });
         const auto [highLatIndex, highLongIndex] = coordToIndex({ highLat, highLong });
-
-        // Fill the points to be spaced less than milesBetweenPoints apart
+        
+        // Fill the points to be spaced less than MILES_BETWEEN_POINTS apart
         for (int i = lowLatIndex; i <= highLatIndex; i++)
         {
             for (int j = lowLongIndex; j <= highLongIndex; j++)
             {
                 if (countPoints)
-                {
+                {   
                     totalPoints++;
                 }
                 points[i][j] = true;

@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "2395 N Quince Rd, Walkerton, IN 46574, USA",
+      "2327 Oak Rd, Plymouth, IN 46563, USA",
+      "12037 US-6, Plymouth, IN 46563, USA",
+      "2570-2294 Kenilworth Rd, Bremen, IN 46506, USA",
+      "8285 US-6, Bremen, IN 46506, USA",
+      "6324 Plymouth Goshen Trail, Bremen, IN 46506, USA",
       "81-505 N Quince Rd, Walkerton, IN 46574, USA",
       "359 Oak Rd, Plymouth, IN 46563, USA",
       "21815-22265 Tyler Rd, Lakeville, IN 46536, USA",
@@ -13,20 +19,80 @@
       "18282 Riley Rd, Bremen, IN 46506, USA",
       "16001-16519 Riley Rd, Bremen, IN 46506, USA",
       "25838 IN-4, North Liberty, IN 46554, USA",
-      "66412-66000 Oak Rd, Lakeville, IN 46536, USA",
+      "66380-66000 Oak Rd, Lakeville, IN 46536, USA",
       "22001-22137 Pierce Rd, Lakeville, IN 46536, USA",
-      "66293 Kenilworth Rd, Lakeville, IN 46536, USA",
-      "18266 Pierce Rd, Lakeville, IN 46536, USA",
-      "66361 Gumwood Rd, Bremen, IN 46506, USA",
-      "Unnamed Road, South Bend, IN 46614, USA",
-      "64998-64000 Oak Rd, South Bend, IN 46614, USA",
-      "64401 Maple Rd, Lakeville, IN 46536, USA",
-      "64351 Kenilworth Rd, Lakeville, IN 46536, USA"
+      "66293 Kenilworth Rd, Lakeville, IN 46536, USA"
    ],
    "origin_addresses" : [ "209 S Michigan St, Lakeville, IN 46536, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14223
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11108
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 538
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10877
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14285
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16345
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 739
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15195
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 920
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.3 mi",
@@ -177,7 +243,7 @@
                },
                "duration" : {
                   "text" : "6 mins",
-                  "value" : 336
+                  "value" : 361
                },
                "status" : "OK"
             },
@@ -200,72 +266,6 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 198
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.7 mi",
-                  "value" : 5885
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 343
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.0 mi",
-                  "value" : 12822
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 739
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.8 mi",
-                  "value" : 15745
-               },
-               "duration" : {
-                  "text" : "19 mins",
-                  "value" : 1128
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.6 mi",
-                  "value" : 9051
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 450
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5773
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 359
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5619
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 332
                },
                "status" : "OK"
             }

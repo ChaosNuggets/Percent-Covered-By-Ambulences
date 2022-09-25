@@ -5,22 +5,25 @@
       "2258 US-50, Versailles, IN 47042, USA",
       "901 US-50, Versailles, IN 47042, USA",
       "Old Fire Tower Rd, Milan, IN 47031, USA",
+      "322 IN-129, Milan, IN 47031, USA",
       "6554 W Hopewell Rd, Holton, IN 47023, USA",
       "4141 W Railroad Rd, Holton, IN 47023, USA",
       "E County Rd 200 N, Osgood, IN 47037, USA",
       "377 W 175, Osgood, IN 47037, USA",
       "1792 E Country Rd 200 N, Milan, IN 47031, USA",
+      "3689 E 200, Milan, IN 47031, USA",
       "6729-6501 Fairground Rd, Holton, IN 47023, USA",
       "3734 N Old Michigan Rd, Osgood, IN 47037, USA",
       "920 W Eckert St, Osgood, IN 47037, USA",
       "3792 N Finks Rd, Osgood, IN 47037, USA",
       "3517 N Co Rd 150 E, Milan, IN 47031, USA",
+      "3901-3795 IN-129, Milan, IN 47031, USA",
       "5775 Happy Hollow Rd, Osgood, IN 47037, USA",
       "5620 N Old Michigan Rd, Osgood, IN 47037, USA",
       "5510 US-421, Osgood, IN 47037, USA",
       "323 W 600, Osgood, IN 47037, USA"
    ],
-   "origin_addresses" : [ "147 W Ripley St, Osgood, IN 47037, USA" ],
+   "origin_addresses" : [ "osgood community centre, 147 W Ripley St, Osgood, IN 47037, USA" ],
    "rows" : [
       {
          "elements" : [
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14356
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 822
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10223
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15765
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 831
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8353
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11489
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 628
                },
                "status" : "OK"
             },

@@ -5,16 +5,19 @@
       "7637-7805 W County Rd 900 N, Greencastle, IN 46135, USA",
       "8445 N County Rd 625 W, Russellville, IN 46175, USA",
       "9023 N Co Rd 400 W, Roachdale, IN 46172, USA",
+      "1843 W County Rd 900 N, Roachdale, IN 46172, USA",
       "County Rd 900 E, Rockville, IN 47872, USA",
       "County Rd 350 N, Rockville, IN 47872, USA",
       "10301-11155 800 W, Russellville, IN 46175, USA",
       "10957 N Co Rd 600 W, Russellville, IN 46175, USA",
       "3989 W County Rd 1100 N, Roachdale, IN 46172, USA",
+      "4 Winds Aerodrome-IN45, W County Rd 1100 N, Roachdale, IN 46172, USA",
       "County Rd 900 E, Waveland, IN 47989, USA",
       "10777 St Rd 236, Waveland, IN 47989, USA",
       "13068 N Co Rd 800 W, Russellville, IN 46175, USA",
       "County Rd 600 W, Russellville, IN 46175, USA",
       "13370-13100 N County Rd 425 W, Roachdale, IN 46172, USA",
+      "1711 IN-236, Roachdale, IN 46172, USA",
       "11469 IN-47, Waveland, IN 47989, USA",
       "Waveland Rd, Waveland, IN 47989, USA",
       "10956 475 W, Waveland, IN 47989, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16541
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 870
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11040
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12662
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9102
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 492
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12131
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 676
                },
                "status" : "OK"
             },

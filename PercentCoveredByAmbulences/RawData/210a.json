@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3830 Hanna Cir # E, Indianapolis, IN 46241, USA",
       "3825 Foltz St, Indianapolis, IN 46221, USA",
       "1405 W Hanna Ave, Indianapolis, IN 46217, USA",
       "4015 S East St, Indianapolis, IN 46227, USA",
       "4000 Creek Way, Indianapolis, IN 46227, USA",
       "4133 Cashard Ave, Indianapolis, IN 46203, USA",
+      "5600 W Raymond St, Indianapolis, IN 46241, USA",
       "2205 S Holt Rd, Indianapolis, IN 46241, USA",
       "Eagle Creek Greenway, Indianapolis, IN 46221, USA",
       "Ellis Shelter, 2231-2249,2230, 2248 S Garfield Dr, Indianapolis, IN 46203, USA",
       "3103 E Tabor St, Indianapolis, IN 46203, USA",
       "2340 S Ritter Ave, Indianapolis, IN 46203, USA",
+      "5553 Rockville Rd, Indianapolis, IN 46224, USA",
       "3512 Rockville Rd, Indianapolis, IN 46222, USA",
       "135 S Harding St, Indianapolis, IN 46222, USA",
       "117 Pope St, Indianapolis, IN 46202, USA",
       "3124 Newton Ave, Indianapolis, IN 46201, USA",
       "310 S Ritter Ave, Indianapolis, IN 46219, USA",
+      "5702 Speedway Dr, Speedway, IN 46224, USA",
       "2027 N Rochester Ave, Indianapolis, IN 46222, USA",
       "1232 W 19th St, Indianapolis, IN 46202, USA",
-      "547 E 20th St, Indianapolis, IN 46202, USA",
-      "1952 Lasalle St, Indianapolis, IN 46218, USA"
+      "547 E 20th St, Indianapolis, IN 46202, USA"
    ],
    "origin_addresses" : [ "39 W Jackson Pl, Indianapolis, IN 46225, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12410
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1175
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.5 mi",
@@ -37,12 +51,12 @@
             },
             {
                "distance" : {
-                  "text" : "5.6 mi",
-                  "value" : 8935
+                  "text" : "5.5 mi",
+                  "value" : 8922
                },
                "duration" : {
                   "text" : "13 mins",
-                  "value" : 802
+                  "value" : 798
                },
                "status" : "OK"
             },
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 905
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12186
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 890
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9158
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 936
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.7 mi",
                   "value" : 6015
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11306
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1161
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8564
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 679
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.5 mi",
-                  "value" : 7200
-               },
-               "duration" : {
-                  "text" : "16 mins",
-                  "value" : 938
                },
                "status" : "OK"
             }

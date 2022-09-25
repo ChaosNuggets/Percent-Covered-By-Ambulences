@@ -1,7 +1,19 @@
 {
    "destination_addresses" : [
+      "1891 Riverside Dr, South Bend, IN 46616, USA",
+      "18223 Bulla Rd, South Bend, IN 46637, USA",
+      "27947 Darden Rd, New Carlisle, IN 46552, USA",
+      "52280 Primrose Rd, South Bend, IN 46628, USA",
+      "4444 Ameritech Dr, South Bend, IN 46628, USA",
+      "3315 William Richardson Dr, South Bend, IN 46628, USA",
       "52260 Oakland Ave, South Bend, IN 46637, USA",
-      "52536 Heatherfield Dr, South Bend, IN 46637, USA"
+      "52536 Heatherfield Dr, South Bend, IN 46637, USA",
+      "27717-27749 Chicago Trail, New Carlisle, IN 46552, USA",
+      "3210 York Rd, Niles, MI 49120, USA",
+      "US-31, South Bend, IN 46628, USA",
+      "2080 High Meadow S, Niles, MI 49120, USA",
+      "233 Green Gable Rd, Niles, MI 49120, USA",
+      "33712 Stateline Rd, Niles, MI 49120, USA"
    ],
    "origin_addresses" : [ "4817 Lincoln Way W, South Bend, IN 46628, USA" ],
    "rows" : [
@@ -9,8 +21,74 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8844
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10476
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1068
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11214
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 651
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8230
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 539
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 7972
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 528
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7079
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 694
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
-                  "value" : 8951
+                  "value" : 8950
                },
                "duration" : {
                   "text" : "14 mins",
@@ -21,11 +99,77 @@
             {
                "distance" : {
                   "text" : "7.4 mi",
-                  "value" : 11932
+                  "value" : 11931
                },
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1113
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13534
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 814
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14263
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 933
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.8 mi",
+                  "value" : 20658
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 944
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12458
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1219
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12510
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1068
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15341
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1288
                },
                "status" : "OK"
             }

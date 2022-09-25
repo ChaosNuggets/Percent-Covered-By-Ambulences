@@ -5,16 +5,19 @@
       "2197 N County Rd 225 E, Danville, IN 46122, USA",
       "2379 N County Rd 500 E, Avon, IN 46123, USA",
       "6756 E County Rd 200 N, Avon, IN 46123, USA",
+      "2087 Autumn Faith Way, Avon, IN 46123, USA",
       "4776-4538 S State Rd 39, Pittsboro, IN 46167, USA",
       "1-691 E County Rd 450 N, Pittsboro, IN 46167, USA",
       "3198-2500 E County Rd 450 N, Pittsboro, IN 46167, USA",
       "4164 N County Rd 500 E, Danville, IN 46122, USA",
       "1472 Hideaway Cir, Brownsburg, IN 46112, USA",
+      "8820 E County Rd 400 N, Brownsburg, IN 46112, USA",
       "1519 W County Rd 625 N, Lizton, IN 46149, USA",
       "418 E County Rd 600 N, Lizton, IN 46149, USA",
       "2294 East 600, North, IN 46167, USA",
       "4810 Kingsbury Dr, Pittsboro, IN 46167, USA",
       "20 Carnaby Dr, Brownsburg, IN 46112, USA",
+      "640 Settlers Walk, Brownsburg, IN 46112, USA",
       "1502 W County Rd 800 N, Lizton, IN 46149, USA",
       "I-74, Lizton, IN 46149, USA",
       "2400 Commerce Way, Pittsboro, IN 46167, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15258
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 997
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.0 mi",
                   "value" : 12834
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10716
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 789
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10245
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 436
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10111
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 759
                },
                "status" : "OK"
             },

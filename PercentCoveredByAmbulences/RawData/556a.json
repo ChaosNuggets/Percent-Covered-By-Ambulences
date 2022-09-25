@@ -5,16 +5,19 @@
       "506 400 N, Reynolds, IN 47980, USA",
       "1375 E 375 N, Reynolds, IN 47980, USA",
       "3000-3304 E 375 N, Monticello, IN 47960, USA",
+      "3650 N Lazy Acres Ct, Monticello, IN 47960, USA",
       "5842 W 400 N, Wolcott, IN 47995, USA",
       "Unnamed Road, Monon, IN 47959, USA",
       "US-421, Monon, IN 47959, USA",
       "6001-6155 N 150 E, Monon, IN 47959, USA",
       "5691 N Stahl Rd, Monon, IN 47959, USA",
+      "5062 E Shady Point Dr, Monticello, IN 47960, USA",
       "4998-3548 IN-16, Monon, IN 47959, USA",
       "2508 IN-16, Monon, IN 47959, USA",
       "302 W 5th St, Monon, IN 47959, USA",
       "1599-1257 IN-16, Monon, IN 47959, USA",
       "3219 E 750 N, Monon, IN 47959, USA",
+      "7864 N Crow Dr, Monticello, IN 47960, USA",
       "1000 N 400 W, Monon, IN 47959, USA",
       "9660 N 200 W, Monon, IN 47959, USA",
       "10049-10099 US-421, Monon, IN 47959, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17072
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11682
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14142
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 842
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.3 mi",
                   "value" : 6948
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 358
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17792
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 917
                },
                "status" : "OK"
             },

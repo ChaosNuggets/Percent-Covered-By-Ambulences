@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "5342 W 400 S, Bringhurst, IN 46913, USA",
       "3245 W 400 S, Bringhurst, IN 46913, USA",
       "1370 W 400 S, Cutler, IN 46920, USA",
       "4045 S 50 E, Bringhurst, IN 46913, USA",
       "2398 E 400 S, Bringhurst, IN 46913, USA",
       "4482 E 350 S, Bringhurst, IN 46913, USA",
+      "1999-1695 S Prince William Rd, Delphi, IN 46923, USA",
       "3101-3499 W 200 S, Bringhurst, IN 46913, USA",
       "50 E South St, Flora, IN 46929, USA",
       "2136 S 50 E, Bringhurst, IN 46913, USA",
       "2530 E 200 S, Bringhurst, IN 46913, USA",
       "4749-4251 E 200 S, Bringhurst, IN 46913, USA",
+      "5151 IN-18, Delphi, IN 46923, USA",
       "3087 IN-18, Flora, IN 46929, USA",
       "100-528 S 150 W, Flora, IN 46929, USA",
       "705 E Columbia St, Flora, IN 46929, USA",
       "2415 IN-18, Flora, IN 46929, USA",
       "4142-4498 IN-18, Flora, IN 46929, USA",
+      "5240 W 200 N, Delphi, IN 46923, USA",
       "3499-3401 W 200 N, Flora, IN 46929, USA",
       "1271 W 150 N, Flora, IN 46929, USA",
-      "200 Westwood Dr, Flora, IN 46929, USA",
-      "1998-1752 N 250 E, Flora, IN 46929, USA"
+      "200 Westwood Dr, Flora, IN 46929, USA"
    ],
    "origin_addresses" : [ "2 S Center St, Flora, IN 46929, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15086
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 761
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 767
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13944
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8674
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 420
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.5 mi",
                   "value" : 5574
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11885
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9409
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 345
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6959
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 459
                },
                "status" : "OK"
             }

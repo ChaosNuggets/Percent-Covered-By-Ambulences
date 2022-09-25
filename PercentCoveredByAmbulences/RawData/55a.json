@@ -5,16 +5,19 @@
       "427 W Mt Horeb Rd, Orleans, IN 47452, USA",
       "685 E Liberty Rd, Orleans, IN 47452, USA",
       "Unnamed Road, Orleans, IN 47452, USA",
+      "7584 N Co Rd 475 E, Orleans, IN 47452, USA",
       "472-474 Landreth Hollow Rd, Orleans, IN 47452, USA",
       "576-1400 Hidden Valley Rd, Mitchell, IN 47446, USA",
       "504 Clover Ln, Mitchell, IN 47446, USA",
       "325 VFW Rd, Mitchell, IN 47446, USA",
       "1859 County Rd 1150 S, Orleans, IN 47452, USA",
+      "6688 IN-60, Orleans, IN 47452, USA",
       "IN-60, Mitchell, IN 47446, USA",
       "734 Old Hwy 60 W, Mitchell, IN 47446, USA",
       "2759 IN-37, Mitchell, IN 47446, USA",
       "2059 IN-60, Mitchell, IN 47446, USA",
       "450 Lawrenceport Rd, Mitchell, IN 47446, USA",
+      "843-559 County Rd 600 E, Mitchell, IN 47446, USA",
       "801 Clark Smith Rd, Mitchell, IN 47446, USA",
       "WPA Rd, Mitchell, IN 47446, USA",
       "1201 Woodville Rd, Mitchell, IN 47446, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14291
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 801
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.4 mi",
                   "value" : 13570
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10839
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 495
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9094
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 353
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11383
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 604
                },
                "status" : "OK"
             },

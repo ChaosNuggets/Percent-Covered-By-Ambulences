@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "Dwight D. Eisenhower Hwy, Straughn, IN 47387, USA",
       "Dwight D. Eisenhower Hwy, Cambridge City, IN 47327, USA",
       "1494 N Brick Church Rd, Cambridge City, IN 47327, USA",
       "Dwight D. Eisenhower Hwy, Cambridge City, IN 47327, USA",
       "12955 Frontage Rd, Cambridge City, IN 47327, USA",
       "11030 W Kepler Rd, Cambridge City, IN 47327, USA",
+      "Unnamed Road, New Castle, IN 47362, USA",
       "7883-8749 E County Rd 400 S, New Castle, IN 47362, USA",
       "16300-16910 W Jerry Meyers Rd, Cambridge City, IN 47327, USA",
       "3645 Treaty Line Rd, Hagerstown, IN 47346, USA",
       "Ted Davis Rd, Cambridge City, IN 47327, USA",
       "10802 Ted Davis Rd, Greens Fork, IN 47345, USA",
+      "6001-6999 E County Rd 200 S, New Castle, IN 47362, USA",
       "1643 S County Rd 850 E, New Castle, IN 47362, USA",
       "16927 5 Point Rd, Hagerstown, IN 47346, USA",
       "401 E Main St, Hagerstown, IN 47346, USA",
       "13299-12413 Stomm Rd, Hagerstown, IN 47346, USA",
       "4901-5399 Gilmer Rd, Greens Fork, IN 47345, USA",
+      "999-1 N County Rd 600 E, New Castle, IN 47362, USA",
       "999-1 N County Rd 850 E, New Castle, IN 47362, USA",
       "16911 Hoover Rd, Hagerstown, IN 47346, USA",
-      "7506 Lacy Rd, Hagerstown, IN 47346, USA",
-      "13195 Olive Branch Rd, Hagerstown, IN 47346, USA"
+      "7506 Lacy Rd, Hagerstown, IN 47346, USA"
    ],
    "origin_addresses" : [ "49 E College St, Hagerstown, IN 47346, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "25.3 mi",
+                  "value" : 40636
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1913
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "11.9 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 750
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14111
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 800
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10942
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 569
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.2 mi",
                   "value" : 6770
                },
@@ -174,7 +210,7 @@
                },
                "duration" : {
                   "text" : "7 mins",
-                  "value" : 430
+                  "value" : 437
                },
                "status" : "OK"
             },
@@ -186,6 +222,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 624
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12119
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
                },
                "status" : "OK"
             },
@@ -218,18 +265,7 @@
                },
                "duration" : {
                   "text" : "5 mins",
-                  "value" : 283
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.0 mi",
-                  "value" : 6488
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 480
+                  "value" : 290
                },
                "status" : "OK"
             }

@@ -1,25 +1,46 @@
 {
    "destination_addresses" : [
+      "80 Ln 352 Crooked Lk, Angola, IN 46703, USA",
       "2230 N 110 W, Angola, IN 46703, USA",
       "1160 E 200 N, Angola, IN 46703, USA",
       "2180 N 300 E, Fremont, IN 46737, USA",
       "2080 N 475 E, Fremont, IN 46737, USA",
       "2119 N 700 E, Fremont, IN 46737, USA",
+      "2210 N Old State Rd 1, Angola, IN 46703, USA",
+      "355 Lane 470A Lake James, Angola, IN 46703, USA",
       "160 Ln 200 Lake Charles W, Angola, IN 46703, USA",
       "4105 N 100 E, Fremont, IN 46737, USA",
       "400 E North St, Fremont, IN 46737, USA",
       "4823-4999 E 400 N, Fremont, IN 46737, USA",
       "6888 E 400 N, Fremont, IN 46737, USA",
+      "400 E North St, Fremont, IN 46737, USA",
+      "6272 N 300 W, Fremont, IN 46737, USA",
       "6245 Old U.S. 27, Fremont, IN 46737, USA",
       "995 Walton Ln, Fremont, IN 46737, USA",
       "305 Coffin St, Fremont, IN 46737, USA",
       "5077-5285 IN-120, Fremont, IN 46737, USA",
-      "6125 N 700 E, Fremont, IN 46737, USA"
+      "6125 N 700 E, Fremont, IN 46737, USA",
+      "616 E Clear Lake Dr, Fremont, IN 46737, USA",
+      "163 Dust Bowl Rd, Bronson, MI 49028, USA",
+      "383 Kope-Kon Point, Coldwater, MI 49036, USA",
+      "1036 Bordt Rd, Coldwater, MI 49036, USA",
+      "1026 S Fremont Rd, Montgomery, MI 49255, USA"
    ],
    "origin_addresses" : [ "200 Michael St, Fremont, IN 46737, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 16009
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1077
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.1 mi",
@@ -72,6 +93,28 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 665
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15672
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15863
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 988
                },
                "status" : "OK"
             },
@@ -132,6 +175,28 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12764
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 630
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12249
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 699
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6677
                },
@@ -182,6 +247,61 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 377
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11089
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 619
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13293
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10175
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 718
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5862
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 400
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3582
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 251
                },
                "status" : "OK"
             }

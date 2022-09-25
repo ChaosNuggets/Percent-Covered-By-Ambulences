@@ -1,16 +1,115 @@
 {
    "destination_addresses" : [
+      "2400-27 Michigan St, East Chicago, IN 46312, USA",
+      "2829 Gary Rd, East Chicago, IN 46312, USA",
+      "120 N Clark Rd, Gary, IN 46406, USA",
+      "13701 S Indiana Ave, Chicago, IL 60827, USA",
+      "W Doty Ave S, Chicago, IL 60633, USA",
+      "13616 S Brainard Ave, Chicago, IL 60633, USA",
+      "3700 Calumet Ave, Hammond, IN 46320, USA",
+      "3601 Canal St, East Chicago, IN 46312, USA",
       "IN-912, East Chicago, IN 46312, USA",
+      "Carmeuse Ln, Gary, IN 46406, USA",
+      "223 E 120th Pl, Chicago, IL 60628, USA",
       "12100 S Stony Is Ave, Chicago, IL 60633, USA",
       "11841 S Burley Ave, Chicago, IL 60633, USA",
       "2108 Stanton Ave, Whiting, IN 46394, USA",
       "Access Rd, Whiting, IN 46394, USA",
-      "Rt 54, East Chicago, IN 46312, USA"
+      "Rt 54, East Chicago, IN 46312, USA",
+      "Unnamed Road, East Chicago, IN 46312, USA"
    ],
    "origin_addresses" : [ "5925 Calumet Ave, Hammond, IN 46320, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5550
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 710
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9475
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12859
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1039
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11204
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1075
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13481
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 982
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6461
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 580
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4682
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 455
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9188
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 951
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.1 mi",
@@ -19,6 +118,28 @@
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1111
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16290
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1403
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16223
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1296
                },
                "status" : "OK"
             },
@@ -74,6 +195,17 @@
                "duration" : {
                   "text" : "23 mins",
                   "value" : 1358
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16818
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1254
                },
                "status" : "OK"
             }

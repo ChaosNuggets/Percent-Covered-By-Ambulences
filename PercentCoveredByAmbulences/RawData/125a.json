@@ -5,16 +5,19 @@
       "6048-6998 400 W, Frankton, IN 46044, USA",
       "6340 N 200 W, Anderson, IN 46011, USA",
       "6381 IN-9, Alexandria, IN 46001, USA",
+      "6480 N Cord 200, Alexandria, IN 46001, USA",
       "8570 County Rd 750 W, Elwood, IN 46036, USA",
       "8645 County Rd 575 W, Frankton, IN 46044, USA",
       "8626 N Cord 400, Frankton, IN 46044, USA",
       "8492 N 200 W, Alexandria, IN 46001, USA",
       "8641 IN-9, Alexandria, IN 46001, USA",
+      "8600 N Cord 200, Alexandria, IN 46001, USA",
       "10704 County Rd 775 W, Elwood, IN 46036, USA",
       "6297 1100 N, Elwood, IN 46036, USA",
       "10606 400 W, Alexandria, IN 46001, USA",
       "10516 N 200 W, Alexandria, IN 46001, USA",
       "613 S Park Ave, Alexandria, IN 46001, USA",
+      "10653 N 200 E, Alexandria, IN 46001, USA",
       "12300-13718 County Rd 800 W, Elwood, IN 46036, USA",
       "12591-12035 Rangeline Rd, Elwood, IN 46036, USA",
       "12552 400 W, Alexandria, IN 46001, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16074
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 855
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.4 mi",
                   "value" : 11923
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12819
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9093
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 549
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11114
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 630
                },
                "status" : "OK"
             },

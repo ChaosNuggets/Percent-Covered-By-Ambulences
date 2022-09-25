@@ -7,7 +7,13 @@
       "9197 E 300 S, Zionsville, IN 46077, USA",
       "3239 Autumn Ash Dr, Zionsville, IN 46077, USA",
       "14407 Shelborne Rd, Westfield, IN 46074, USA",
-      "14350 Ditch Rd, Westfield, IN 46074, USA"
+      "14350 Ditch Rd, Westfield, IN 46074, USA",
+      "5370 E 100 S, Lebanon, IN 46052, USA",
+      "1202 S 775 E, Whitestown, IN 46075, USA",
+      "9231 Tundra Dr, Zionsville, IN 46077, USA",
+      "1135 1100 E, Zionsville, IN 46077, USA",
+      "4099-3191 W 166th St, Westfield, IN 46074, USA",
+      "16412 Man O'War Ln, Westfield, IN 46074, USA"
    ],
    "origin_addresses" : [ "1075 Parkway Dr, Zionsville, IN 46077, USA" ],
    "rows" : [
@@ -64,7 +70,7 @@
                },
                "duration" : {
                   "text" : "10 mins",
-                  "value" : 596
+                  "value" : 599
                },
                "status" : "OK"
             },
@@ -75,7 +81,7 @@
                },
                "duration" : {
                   "text" : "13 mins",
-                  "value" : 773
+                  "value" : 776
                },
                "status" : "OK"
             },
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "17 mins",
                   "value" : 1021
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16324
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1147
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13198
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1045
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11102
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 895
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12014
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 897
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14864
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1103
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16293
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1197
                },
                "status" : "OK"
             }

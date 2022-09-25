@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "68521 Co Rd 13, Nappanee, IN 46550, USA",
       "67068 County Rd 11, Goshen, IN 46526, USA",
       "20341 Falcon Brook Ct, New Paris, IN 46553, USA",
       "18388 Barrington Dr, New Paris, IN 46553, USA",
       "Canal Dr, New Paris, IN 46553, USA",
       "68530 US-33, Goshen, IN 46526, USA",
+      "24242 Co Rd 40, Goshen, IN 46526, USA",
       "67890 County Rd 17, Goshen, IN 46526, USA",
       "20290 Co Rd 21, Goshen, IN 46526, USA",
       "18453 Northrop Dr, Goshen, IN 46526, USA",
       "66438 US-33, Goshen, IN 46526, USA",
       "66120 County Rd 33, Goshen, IN 46528, USA",
+      "64249 Co Rd 13, Goshen, IN 46526, USA",
       "64775-64795 County Rd 17, Goshen, IN 46526, USA",
       "20360 Co Rd 36, Goshen, IN 46526, USA",
       "1302 Greencroft Dr, Goshen, IN 46526, USA",
       "2408 Century Dr, Goshen, IN 46528, USA",
       "64458 County Rd 33, Goshen, IN 46528, USA",
+      "62422-62000 Co Rd 13, Goshen, IN 46526, USA",
       "62435 Old County Rd 17, Goshen, IN 46526, USA",
       "207 N Riverside Blvd, Goshen, IN 46526, USA",
-      "Abshire Park, 1302 E Lincoln Ave, Goshen, IN 46528, USA",
-      "17580 State Rd 4, Goshen, IN 46528, USA"
+      "Abshire Park, 1302 E Lincoln Ave, Goshen, IN 46528, USA"
    ],
    "origin_addresses" : [ "600 E Jackson St, Goshen, IN 46526, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16403
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 991
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 788
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12821
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 902
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11745
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 767
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.2 mi",
                   "value" : 9946
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10953
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 862
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11796
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 319
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5601
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 424
                },
                "status" : "OK"
             }

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "4755 Rocky Hollow Rd SW, Corydon, IN 47112, USA",
       "4010 S Heidelberg Rd SW, Corydon, IN 47112, USA",
       "3930 IN-135, Corydon, IN 47112, USA",
       "806 Wiseman Rd SW, Corydon, IN 47112, USA",
       "2620 Wiseman Rd SE, Corydon, IN 47112, USA",
       "3485 Payton Rd, Elizabeth, IN 47117, USA",
+      "2075 Dixie Rd SW, Corydon, IN 47112, USA",
       "2950 S Heidelberg Rd SW, Corydon, IN 47112, USA",
       "1770 Shiloh Rd SW, Corydon, IN 47112, USA",
       "815 Shiloh Rd SE, Corydon, IN 47112, USA",
       "2590 Fogel Rd SE, Corydon, IN 47112, USA",
       "1980 St Peters Church Rd SE, Corydon, IN 47112, USA",
+      "2-316 Walnut Valley Rd NW, Corydon, IN 47112, USA",
       "3998-2810 Mathis Rd SW, Corydon, IN 47112, USA",
       "275 IN-135, Corydon, IN 47112, USA",
       "780 Country Club Rd SE, Corydon, IN 47112, USA",
       "2880 IN-62, Corydon, IN 47112, USA",
       "270 New Middletown Rd NE, Corydon, IN 47112, USA",
+      "Harrison Spring Rd, Corydon, IN 47112, USA",
       "1885 S Gethsemane Rd NW, Corydon, IN 47112, USA",
       "1993 Andrew Ct, Corydon, IN 47112, USA",
-      "771 Big Indian Rd NE, Corydon, IN 47112, USA",
-      "2788 Headrick Ln NE, Corydon, IN 47112, USA"
+      "771 Big Indian Rd NE, Corydon, IN 47112, USA"
    ],
    "origin_addresses" : [ "113 N Oak St, Corydon, IN 47112, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14561
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1086
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.7 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 866
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13758
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 999
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10060
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8880
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12497
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7146
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 331
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5747
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 525
                },
                "status" : "OK"
             }

@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "4800 W 33rd Appr Ave, Gary, IN 46406, USA",
+      "Little Calumet River Trail, Gary, IN 46408, USA",
+      "16895 Chicago Ave, Lansing, IL 60438, USA",
+      "903 169th St, Hammond, IN 46324, USA",
+      "2435 169th St, Hammond, IN 46323, USA",
+      "IN-912, Hammond, IN 46323, USA",
       "4800 W 15th Ave, Gary, IN 46406, USA",
       "1901 W 14th Ave, Gary, IN 46404, USA",
       "620 Buffalo Ave, Calumet City, IL 60409, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5812
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 590
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10722
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 738
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13662
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8117
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 702
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5594
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 544
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12621
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 778
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.4 mi",

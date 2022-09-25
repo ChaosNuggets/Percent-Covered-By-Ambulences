@@ -5,7 +5,12 @@
       "2970 W County Rd 325 N, West Baden Springs, IN 47469, USA",
       "1999-1201 W Co Rd 350 N, Paoli, IN 47454, USA",
       "906 E Co Rd 350 N, Orleans, IN 47452, USA",
-      "3433 N County Rd 300 E, Orleans, IN 47452, USA"
+      "3433 N County Rd 300 E, Orleans, IN 47452, USA",
+      "4928 540 N, Orleans, IN 47452, USA",
+      "N Co Rd 300 W, Orleans, IN 47452, USA",
+      "5293 N County Rd 100 W, Orleans, IN 47452, USA",
+      "5462 N 90 E, Orleans, IN 47452, USA",
+      "5200-5614 N County Rd 300 E, Orleans, IN 47452, USA"
    ],
    "origin_addresses" : [ "816 W Main St, Paoli, IN 47454, USA" ],
    "rows" : [
@@ -74,6 +79,61 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 723
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13345
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 843
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12415
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 793
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11672
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 660
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11885
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 677
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15477
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 908
                },
                "status" : "OK"
             }

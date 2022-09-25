@@ -1,8 +1,14 @@
 {
    "destination_addresses" : [
+      "13826 Messenger Bay, Fort Wayne, IN 46845, USA",
+      "4925 Crawford Rd, Fort Wayne, IN 46845, USA",
+      "17009 Wesley Chapel Rd, Churubusco, IN 46723, USA",
+      "16812 Fogel Rd, Huntertown, IN 46748, USA",
+      "3902 Hatch Rd, Huntertown, IN 46748, USA",
+      "1029 Switchfoot Dr, Huntertown, IN 46748, USA",
       "1902 Upland Pass, Fort Wayne, IN 46845, USA",
       "4930 Hollopeter Rd, Leo, IN 46765, USA",
-      "5521 S 800 E, Laotto, IN 46763, USA",
+      "5615 S 800 E, Laotto, IN 46763, USA",
       "5520 S 1000 E-57, Laotto, IN 46763, USA",
       "11968 E 550 S, Laotto, IN 46763, USA",
       "805 Co Rd 70, Garrett, IN 46738, USA",
@@ -15,8 +21,74 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7718
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 580
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10783
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12487
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 778
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10127
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 617
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8098
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 504
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6630
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 463
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
-                  "value" : 8905
+                  "value" : 8906
                },
                "duration" : {
                   "text" : "10 mins",
@@ -38,7 +110,7 @@
             {
                "distance" : {
                   "text" : "9.7 mi",
-                  "value" : 15684
+                  "value" : 15683
                },
                "duration" : {
                   "text" : "14 mins",
@@ -49,7 +121,7 @@
             {
                "distance" : {
                   "text" : "7.8 mi",
-                  "value" : 12506
+                  "value" : 12505
                },
                "duration" : {
                   "text" : "11 mins",
@@ -60,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.5 mi",
-                  "value" : 8931
+                  "value" : 8930
                },
                "duration" : {
                   "text" : "8 mins",

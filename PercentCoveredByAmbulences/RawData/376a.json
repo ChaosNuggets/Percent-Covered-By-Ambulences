@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "10796 County Rd 875 E, Ladoga, IN 47954, USA",
+      "10994 E 1100 S, Ladoga, IN 47954, USA",
+      "8145-8999 N County Rd 725 W, North Salem, IN 46165, USA",
+      "5278 W County Rd 800 N, North Salem, IN 46165, USA",
+      "3999-3201 W County Road-850 N, Lizton, IN 46149, USA",
+      "1502 W County Rd 800 N, Lizton, IN 46149, USA",
       "8831 County Rd 900 S, Ladoga, IN 47954, USA",
       "10743 County Rd 900 S, Ladoga, IN 47954, USA",
       "7287 W 1000, North Salem, IN 46165, USA",
@@ -15,18 +21,78 @@
       "8862 E 500 S, New Ross, IN 47968, USA",
       "10854 E 500 S, New Ross, IN 47968, USA",
       "10052-10212 W 500 S, Jamestown, IN 46147, USA",
-      "8947-8285 W 500 S, Jamestown, IN 46147, USA",
-      "6356 W 500 S, Jamestown, IN 46147, USA",
-      "4502 W 500 S, Jamestown, IN 46147, USA",
-      "8862 E 300 S, Crawfordsville, IN 47933, USA",
-      "10798 E 300 S, Crawfordsville, IN 47933, USA",
-      "10238 W 300 S, Jamestown, IN 46147, USA",
-      "314 W Wall St, Advance, IN 46102, USA"
+      "8947-8285 W 500 S, Jamestown, IN 46147, USA"
    ],
    "origin_addresses" : [ "9200 W 600 S, Jamestown, IN 46147, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16825
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1030
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13665
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10424
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10760
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 709
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12422
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 826
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13375
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 839
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.4 mi",
@@ -151,7 +217,7 @@
             {
                "distance" : {
                   "text" : "9.5 mi",
-                  "value" : 15240
+                  "value" : 15241
                },
                "duration" : {
                   "text" : "17 mins",
@@ -200,72 +266,6 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 444
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.5 mi",
-                  "value" : 10471
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 609
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.5 mi",
-                  "value" : 13652
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 803
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.3 mi",
-                  "value" : 11736
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 787
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.0 mi",
-                  "value" : 9606
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 635
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.6 mi",
-                  "value" : 8988
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 603
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.6 mi",
-                  "value" : 10560
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 703
                },
                "status" : "OK"
             }

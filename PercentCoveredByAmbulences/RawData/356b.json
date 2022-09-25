@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "2820 W Wabash Chapel Rd, Covington, IN 47932, USA",
       "2100-2398 County Rd 300 S, Covington, IN 47932, USA",
+      "1 Customer Pl, Danville, IL 61834, USA",
       "1846-2010 E County Rd 1550 N, Covington, IN 47932, USA",
       "15855-15501 N Meridian Rd, Covington, IN 47932, USA",
       "1974 E 1550 N, Covington, IN 47932, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6801
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.1 mi",
                   "value" : 11407
                },
                "duration" : {
                   "text" : "12 mins",
                   "value" : 724
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15783
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 926
                },
                "status" : "OK"
             },

@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
       "200 Martin Luther King Dr, Gary, IN 46402, USA",
+      "Unnamed Road, Gary, IN 46403, USA",
       "3601 Canal St, East Chicago, IN 46312, USA",
       "IN-912, East Chicago, IN 46312, USA",
       "Carmeuse Ln, Gary, IN 46406, USA",
       "Lake County, IN, USA",
-      "Lake County, IN, USA"
+      "Lake County, IN, USA",
+      "Lake County, IN, USA",
+      "Access Rd, Whiting, IN 46394, USA",
+      "Rt 54, East Chicago, IN 46312, USA",
+      "Unnamed Road, East Chicago, IN 46312, USA",
+      "Lake County, IN, USA",
+      "41.67532,-87.322929999999943",
+      "41.67532,-87.286199999999937"
    ],
    "origin_addresses" : [ "4491 W 5th Ave, Gary, IN 46406, USA" ],
    "rows" : [
@@ -19,6 +27,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9861
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1077
                },
                "status" : "OK"
             },
@@ -76,6 +95,67 @@
                   "value" : 816
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9809
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1065
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15799
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1078
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13231
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1065
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14150
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 961
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13136
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 859
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
             }
          ]
       }

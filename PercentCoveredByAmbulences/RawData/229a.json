@@ -5,16 +5,19 @@
       "380 W County Rd 400 S, Greensburg, IN 47240, USA",
       "4370 S Co Rd 180 E, Greensburg, IN 47240, USA",
       "3837-3101 E Co Rd 400 S, Greensburg, IN 47240, USA",
+      "4333 S Co Rd 550 E, Greensburg, IN 47240, USA",
       "2622 S Co Rd 450 W, Greensburg, IN 47240, USA",
       "2214 W Co Rd 250 S, Greensburg, IN 47240, USA",
       "2504 S Co Rd 60 SW, Greensburg, IN 47240, USA",
       "2349 S Co Rd 180 E, Greensburg, IN 47240, USA",
       "3290 E County Rd 200 S, Greensburg, IN 47240, USA",
+      "2830-2000 S Co Rd 550 E, Greensburg, IN 47240, USA",
       "4499-4001 W Base Rd, Greensburg, IN 47240, USA",
       "2287 W Base Rd, Greensburg, IN 47240, USA",
       "617 S Broadway St, Greensburg, IN 47240, USA",
       "1756 IN-46, Greensburg, IN 47240, USA",
       "512 S Co Rd 350 E, Greensburg, IN 47240, USA",
+      "525 N Co Rd 600 E, Greensburg, IN 47240, USA",
       "1999-1463 N Co Rd 400 W, Greensburg, IN 47240, USA",
       "1920 W Co Rd 100 N, Greensburg, IN 47240, USA",
       "2317 N Broadway St, Greensburg, IN 47240, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12762
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 664
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8619
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11890
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.2 mi",
                   "value" : 6798
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 405
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12632
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 666
                },
                "status" : "OK"
             },

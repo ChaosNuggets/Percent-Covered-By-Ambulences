@@ -7,7 +7,13 @@
       "5050 Value Dr, Fort Wayne, IN 46808, USA",
       "5204 Inland Trail, Fort Wayne, IN 46825, USA",
       "4912 Innsbruck Dr, Fort Wayne, IN 46835, USA",
-      "7521 Parliament Pl, Fort Wayne, IN 46835, USA"
+      "7521 Parliament Pl, Fort Wayne, IN 46835, USA",
+      "6623 Goshen Rd, Fort Wayne, IN 46818, USA",
+      "8201 Huguenard Rd, Fort Wayne, IN 46818, USA",
+      "1105 Oak Bay Run, Fort Wayne, IN 46825, USA",
+      "8109 Becketts Ridge Ln, Fort Wayne, IN 46825, USA",
+      "7436 Clingmans Trail, Fort Wayne, IN 46835, USA",
+      "8200 Young Rd, Fort Wayne, IN 46835, USA"
    ],
    "origin_addresses" : [ "715 Calhoun St # 302, Fort Wayne, IN 46802, USA" ],
    "rows" : [
@@ -92,12 +98,78 @@
             },
             {
                "distance" : {
-                  "text" : "7.2 mi",
-                  "value" : 11538
+                  "text" : "6.9 mi",
+                  "value" : 11148
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1047
+                  "text" : "16 mins",
+                  "value" : 985
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13387
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 918
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11673
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 941
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10175
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 853
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9446
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11600
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 970
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16527
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 971
                },
                "status" : "OK"
             }

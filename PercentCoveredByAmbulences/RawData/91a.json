@@ -5,16 +5,19 @@
       "2499-2059 E County Rd 900 N, Roachdale, IN 46172, USA",
       "4605 E County Rd 900 N, Roachdale, IN 46172, USA",
       "6397 E County Rd 900 N, Roachdale, IN 46172, USA",
+      "9199 N County Rd 825 E, Roachdale, IN 46172, USA",
       "4 Winds Aerodrome-IN45, W County Rd 1100 N, Roachdale, IN 46172, USA",
       "131 E County Rd 1100 N, Roachdale, IN 46172, USA",
       "2153 E County Rd 1100 N, Roachdale, IN 46172, USA",
       "4999-3801 E County Rd 1150 N, Roachdale, IN 46172, USA",
       "11066 N County Rd 650 E, Roachdale, IN 46172, USA",
+      "8391 E County Rd 1100 N, Roachdale, IN 46172, USA",
       "1711 IN-236, Roachdale, IN 46172, USA",
       "141 IN-236, Roachdale, IN 46172, USA",
       "204 Spring Ave, Roachdale, IN 46172, USA",
       "4431 IN-236, Roachdale, IN 46172, USA",
       "13246-13000 N Co Rd 625 E, Roachdale, IN 46172, USA",
+      "13253 N County Rd 825 E, Roachdale, IN 46172, USA",
       "S 75 E, Ladoga, IN 47954, USA",
       "2168 E 1100 S, Ladoga, IN 47954, USA",
       "5122 E 1100 S, Ladoga, IN 47954, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18208
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 951
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10370
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13424
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9144
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 327
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9503
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 481
                },
                "status" : "OK"
             },

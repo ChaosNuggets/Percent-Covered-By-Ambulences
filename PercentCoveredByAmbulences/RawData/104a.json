@@ -5,16 +5,19 @@
       "3732-4498 S Co Rd 50 W, Versailles, IN 47042, USA",
       "Unnamed Road, Versailles, IN 47042, USA",
       "3684-4245 S Cave Hill Rd, Versailles, IN 47042, USA",
+      "5413 E Co Rd 450 S, Versailles, IN 47042, USA",
       "4162 W County Rd 250 S, Holton, IN 47023, USA",
       "2268-2334 W County Rd 250 S, Versailles, IN 47042, USA",
       "2402 US-421, Versailles, IN 47042, USA",
       "1636 E Co Rd 200 S, Versailles, IN 47042, USA",
       "3622 E Co Rd 200 S, Dillsboro, IN 47018, USA",
+      "2259 S Friendship Rd, Milan, IN 47031, USA",
       "288 S County Rd 400 W, Holton, IN 47023, USA",
       "2258 US-50, Versailles, IN 47042, USA",
       "901 US-50, Versailles, IN 47042, USA",
       "Old Fire Tower Rd, Milan, IN 47031, USA",
       "322 IN-129, Milan, IN 47031, USA",
+      "521 525 E, Milan, IN 47031, USA",
       "4141 W Railroad Rd, Holton, IN 47023, USA",
       "E County Rd 200 N, Osgood, IN 47037, USA",
       "377 W 175, Osgood, IN 47037, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15110
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 889
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12107
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10203
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 580
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8342
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 404
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10794
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 614
                },
                "status" : "OK"
             },

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6694 IN-135, Vallonia, IN 47281, USA",
       "6000 S County Rd 200 W, Vallonia, IN 47281, USA",
       "2-268 650 S, Vallonia, IN 47281, USA",
       "1909 E County Rd 700 S, Brownstown, IN 47220, USA",
       "3902 E 700, Crothersville, IN 47229, USA",
       "5908 E County Rd 700 S, Crothersville, IN 47229, USA",
+      "4097-3501 E County Rd 500 S, Vallonia, IN 47281, USA",
       "Unnamed Road, Vallonia, IN 47281, USA",
       "1-135 E County Rd 500 S, Vallonia, IN 47281, USA",
       "4953 200 E, Brownstown, IN 47220, USA",
       "4770 S County Rd 400 E, Brownstown, IN 47220, USA",
       "5998-5658 E County Rd 500 S, Crothersville, IN 47229, USA",
+      "250 S, Vallonia, IN 47281, USA",
       "2000 W 200 S, Vallonia, IN 47281, USA",
       "2000 S Block Base Rd, Brownstown, IN 47220, USA",
       "1792 E County Rd 300 S, Brownstown, IN 47220, USA",
       "3740 E 300 S, Brownstown, IN 47220, USA",
       "5866 E County Rd 300 S, Seymour, IN 47274, USA",
+      "N County Rd 400 W, Freetown, IN 47235, USA",
       "1888 W County Rd 100 S, Brownstown, IN 47220, USA",
       "877 S Base Rd, Brownstown, IN 47220, USA",
-      "Camp Rd, Brownstown, IN 47220, USA",
-      "996 S County Rd 400 E, Seymour, IN 47274, USA"
+      "Camp Rd, Brownstown, IN 47220, USA"
    ],
    "origin_addresses" : [ "3029 S County Rd 150 E, Brownstown, IN 47220, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15279
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 872
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 710
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13124
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 780
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 15033
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 860
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12063
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13427
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 708
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10065
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 344
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.9 mi",
-                  "value" : 7836
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 428
                },
                "status" : "OK"
             }

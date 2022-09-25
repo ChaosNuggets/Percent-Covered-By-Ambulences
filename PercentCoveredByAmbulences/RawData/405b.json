@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "4393 N Meridian Rd, Huntington, IN 46750, USA",
+      "200 E, Huntington, IN 46750, USA",
+      "6696 N 750 W, Huntington, IN 46750, USA",
+      "6600 N 530 W, Huntington, IN 46750, USA",
+      "6474 N Clear Creek Rd, Huntington, IN 46750, USA",
+      "6294-6602 N 200 W, Huntington, IN 46750, USA",
+      "6001-6793 N Meridian Rd, Huntington, IN 46750, USA",
       "6335 200 E, Huntington, IN 46750, USA",
+      "8584 N 750 W, Huntington, IN 46750, USA",
       "8492 N Goshen Rd, Huntington, IN 46750, USA",
       "8001-8845 N County Rd 400 W, Huntington, IN 46750, USA",
       "1656 W 800 N, Huntington, IN 46750, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4183
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 358
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7554
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 541
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11599
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 792
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8037
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5841
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4968
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 437
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7276
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 495
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.2 mi",
-                  "value" : 10040
+                  "value" : 10039
                },
                "duration" : {
                   "text" : "11 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13668
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 910
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
-                  "value" : 10319
+                  "value" : 10318
                },
                "duration" : {
                   "text" : "12 mins",
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "6.0 mi",
-                  "value" : 9583
+                  "value" : 9582
                },
                "duration" : {
                   "text" : "12 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "5.1 mi",
-                  "value" : 8182
+                  "value" : 8181
                },
                "duration" : {
                   "text" : "10 mins",
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "6.4 mi",
-                  "value" : 10249
+                  "value" : 10248
                },
                "duration" : {
                   "text" : "10 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "7.5 mi",
-                  "value" : 12094
+                  "value" : 12093
                },
                "duration" : {
                   "text" : "12 mins",

@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "10581 Hazel Dell Pkwy, Indianapolis, IN 46033, USA",
       "Beech Hollow Trail Loop, Indianapolis, IN 46256, USA",
+      "12415 Shelborne Rd, Carmel, IN 46032, USA",
       "1245 Helford Ln, Carmel, IN 46032, USA",
       "811 W Carmel Dr, Carmel, IN 46032, USA",
       "3314 Eden Way, Carmel, IN 46033, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6073
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 530
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10073
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 856
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16397
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1039
                },
                "status" : "OK"
             },

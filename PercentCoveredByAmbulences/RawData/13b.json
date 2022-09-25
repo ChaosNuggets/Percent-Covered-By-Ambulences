@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "1998-1752 N 250 E, Flora, IN 46929, USA",
       "4418 E 200 N, Flora, IN 46929, USA",
+      "3911 N 525 W, Delphi, IN 46923, USA",
       "3339 IN-218, Delphi, IN 46923, USA",
       "1498-1338 IN-218, Delphi, IN 46923, USA",
       "606 IN-218, Camden, IN 46917, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6960
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 459
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.5 mi",
                   "value" : 10437
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 599
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14916
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 730
                },
                "status" : "OK"
             },

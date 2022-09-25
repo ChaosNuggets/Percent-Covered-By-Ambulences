@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "801-1099 E 900 S, Kingman, IN 47952, USA",
+      "1976-1800 E 900 S, Kingman, IN 47952, USA",
       "2170-2398 W Snoddy Rd, Covington, IN 47932, USA",
       "1287 W 700 S, Veedersburg, IN 47987, USA",
       "524 W 700 S, Kingman, IN 47952, USA",
       "2764 US Hwy 41, Veedersburg, IN 47987, USA",
-      "2840 S 270 E, Kingman, IN 47952, USA"
+      "2840 S 270 E, Kingman, IN 47952, USA",
+      "1858-1600 E 700 S, Veedersburg, IN 47987, USA"
    ],
    "origin_addresses" : [ "118 E State St, Kingman, IN 47952, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 421
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 11993
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 574
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15273
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 781
                },
                "status" : "OK"
             }

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "7226-7998 W 400 N, Converse, IN 46919, USA",
       "5999-5001 County Rd 400 N, Marion, IN 46952, USA",
       "3595 County Rd 325 W, Marion, IN 46952, USA",
       "2738 W Harreld Rd, Marion, IN 46952, USA",
       "3875 N Mayo Rd, Marion, IN 46952, USA",
       "1990 E Bocock Rd, Marion, IN 46952, USA",
+      "7585 W 600 N 27, Converse, IN 46919, USA",
       "5372-5782 W 600 N, Marion, IN 46952, USA",
       "County Rd 380 W, Marion, IN 46952, USA",
       "5491 N Wabash Rd, Marion, IN 46952, USA",
       "322 E 600 N, Marion, IN 46952, USA",
       "5539 N Huntington Rd, Marion, IN 46952, USA",
+      "1320-1396 W Old Slocum Trail, La Fontaine, IN 46940, USA",
       "1-281 E Old Slocum Trail, La Fontaine, IN 46940, USA",
       "11379 S Bruner Rd, La Fontaine, IN 46940, USA",
       "4706-4622 IN-218, La Fontaine, IN 46940, USA",
       "11451 S 600 E, La Fontaine, IN 46940, USA",
       "S 1000 W 35, La Fontaine, IN 46940, USA",
+      "1729-1385 County Rd 925 S, Wabash, IN 46992, USA",
       "9227 S 50 E, La Fontaine, IN 46940, USA",
       "2647 E 900 S, La Fontaine, IN 46940, USA",
-      "9522 S America Rd, La Fontaine, IN 46940, USA",
-      "9136-9706 Waggoner Rd, La Fontaine, IN 46940, USA"
+      "9522 S America Rd, La Fontaine, IN 46940, USA"
    ],
    "origin_addresses" : [ "22 W Branson St, La Fontaine, IN 46940, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17845
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 923
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 799
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16829
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 860
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14202
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 859
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "9.3 mi",
                   "value" : 14973
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9369
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 545
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6430
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 343
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5741
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 389
                },
                "status" : "OK"
             }

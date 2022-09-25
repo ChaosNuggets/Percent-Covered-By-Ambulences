@@ -5,16 +5,19 @@
       "8011 S 100 W, Columbus, IN 47201, USA",
       "Fenceline, Columbus, IN 47201, USA",
       "5983 E 500 S, Columbus, IN 47201, USA",
+      "Sand Creek Township, IN, USA",
       "4500 S 475 W, Columbus, IN 47201, USA",
       "3700 W 300 S, Columbus, IN 47201, USA",
       "335 Dawson St, Columbus, IN 47201, USA",
       "County Rd 300 S, Columbus, IN 47201, USA",
       "4740 S 300 E, Columbus, IN 47201, USA",
+      "4782 S 525 E, Columbus, IN 47203, USA",
       "7063 Stoney Ridge Dr, Columbus, IN 47201, USA",
       "825 Countryside Ln, Columbus, IN 47201, USA",
       "895 Jonesville Rd, Columbus, IN 47201, USA",
       "2840 Roadway Dr, Columbus, IN 47201, USA",
       "100 7th St, Columbus, IN 47201, USA",
+      "100 S 525 E, Columbus, IN 47203, USA",
       "7049-6891 W Georgetown Rd, Columbus, IN 47201, USA",
       "3471 W 100 N, Columbus, IN 47201, USA",
       "100 17th St, Columbus, IN 47201, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13671
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 790
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.4 mi",
                   "value" : 11934
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11479
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8316
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 408
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9608
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 567
                },
                "status" : "OK"
             },

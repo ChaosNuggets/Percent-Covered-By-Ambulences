@@ -5,16 +5,19 @@
       "196 Cottonwood Ln, Vincennes, IN 47591, USA",
       "4878 S Decker Rd, Vincennes, IN 47591, USA",
       "4816 South, Vincennes, IN 47591, USA",
+      "5798-5746 County Rd SE 600 S, Vincennes, IN 47591, USA",
       "4101-4363 Kums Rd, Vincennes, IN 47591, USA",
       "S Big Four Rd, Vincennes, IN 47591, USA",
       "Brookhaven Rd, Vincennes, IN 47591, USA",
       "1673 Henry Sievers Rd, Vincennes, IN 47591, USA",
       "3886 S Hart Street Rd, Vincennes, IN 47591, USA",
+      "2782 S Hickory Corner Rd, Vincennes, IN 47591, USA",
       "17501-15735 Billett Ln, St Francisville, IL 62460, USA",
       "2601-3811 River Rd, Vincennes, IN 47591, USA",
       "592 S 6th Street Rd, Vincennes, IN 47591, USA",
       "2027 College Ave, Vincennes, IN 47591, USA",
       "425 County Rd SE 200 S, Vincennes, IN 47591, USA",
+      "335 Mt Zion Rd, Vincennes, IN 47591, USA",
       "15999-15101 800N, St Francisville, IL 62460, USA",
       "8000-9082 1760 E, Lawrenceville, IL 62439, USA",
       "20014 IL-33, Lawrenceville, IL 62439, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13032
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 889
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.2 mi",
                   "value" : 10024
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10349
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 673
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.1 mi",
                   "value" : 11353
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 525
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10784
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
                },
                "status" : "OK"
             },

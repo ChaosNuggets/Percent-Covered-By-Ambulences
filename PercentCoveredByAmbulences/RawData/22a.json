@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "7210 S 450 E, Star City, IN 46985, USA",
       "5997-6551 E 700 S, Star City, IN 46985, USA",
       "10495 W 700 S, Kewanna, IN 46939, USA",
       "7405 S State Rd 17, Kewanna, IN 46939, USA",
       "6588 W 700 S, Kewanna, IN 46939, USA",
       "4598 County Rd 725 S, Kewanna, IN 46939, USA",
+      "4982-4492 Kewanna Blacktop, Star City, IN 46985, USA",
       "4501-5499 S 650 E, Star City, IN 46985, USA",
       "10516-10610 W 550 S, Kewanna, IN 46939, USA",
       "8547-7501 W 550 S, Kewanna, IN 46939, USA",
       "6935-5945 W 500 S, Kewanna, IN 46939, USA",
       "4763-4417 W 550 S, Kewanna, IN 46939, USA",
+      "4635 E 325, Winamac, IN 46996, USA",
       "2501-3091 S 625 E, Kewanna, IN 46939, USA",
       "300 S 1100 W, Kewanna, IN 46939, USA",
       "3242 S 800 W, Kewanna, IN 46939, USA",
       "6398-6768 County Rd 300 S, Kewanna, IN 46939, USA",
       "4750 W 300 S, Kewanna, IN 46939, USA",
+      "S 450 E, Kewanna, IN 46939, USA",
       "1000-1286 S 650 E, Kewanna, IN 46939, USA",
       "1074 S 1025 W, Kewanna, IN 46939, USA",
-      "1373 S 850 W, Kewanna, IN 46939, USA",
-      "6585 W 100 S, Kewanna, IN 46939, USA"
+      "1373 S 850 W, Kewanna, IN 46939, USA"
    ],
    "origin_addresses" : [ "109 E Aurora St, Kewanna, IN 46939, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16225
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 907
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 849
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13473
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 632
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9491
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 536
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.3 mi",
                   "value" : 6877
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10793
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7652
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 226
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6862
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 401
                },
                "status" : "OK"
             }

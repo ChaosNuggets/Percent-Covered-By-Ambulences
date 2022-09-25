@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "9495 E 600 N, Grovertown, IN 46531, USA",
+      "11335 E 600 N, Grovertown, IN 46531, USA",
+      "200 E 750 N, Hamlet, IN 46532, USA",
+      "7515 US-35, Hamlet, IN 46532, USA",
+      "5998-5494 E 800 N, Hamlet, IN 46532, USA",
+      "7509-7999 E 775 N, Walkerton, IN 46574, USA",
       "7612 N 925 E, Walkerton, IN 46574, USA",
+      "11378 Samual Dr, Walkerton, IN 46574, USA",
       "S 200 E, Hamlet, IN 46532, USA",
       "11136 US-35, Hamlet, IN 46532, USA",
       "5731-5507 E 1100 S, Hamlet, IN 46532, USA",
       "11245 S 750 E, Walkerton, IN 46574, USA",
-      "72043-72463 Poplar Rd, Walkerton, IN 46574, USA"
+      "72043-72463 Poplar Rd, Walkerton, IN 46574, USA",
+      "72335 Walnut Rd, Walkerton, IN 46574, USA"
    ],
    "origin_addresses" : [ "10 S Starke St, Hamlet, IN 46532, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6784
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 438
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11670
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 618
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10701
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 799
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6578
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 352
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4905
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 330
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6552
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 458
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.7 mi",
@@ -24,8 +98,19 @@
             },
             {
                "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14011
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 769
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.1 mi",
-                  "value" : 13001
+                  "value" : 13000
                },
                "duration" : {
                   "text" : "12 mins",
@@ -36,7 +121,7 @@
             {
                "distance" : {
                   "text" : "6.1 mi",
-                  "value" : 9876
+                  "value" : 9875
                },
                "duration" : {
                   "text" : "8 mins",
@@ -69,11 +154,22 @@
             {
                "distance" : {
                   "text" : "8.0 mi",
-                  "value" : 12813
+                  "value" : 12812
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 855
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17444
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 981
                },
                "status" : "OK"
             }

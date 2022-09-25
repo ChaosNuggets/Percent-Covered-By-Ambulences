@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "200 W North St, Winchester, IN 47394, USA",
       "2321 N 400 E, Winchester, IN 47394, USA",
+      "5583 County Rd 400 N, Winchester, IN 47394, USA",
       "3346 W 400 N, Winchester, IN 47394, USA",
       "4001-4755 County Rd 200 W, Winchester, IN 47394, USA",
       "4470-4200 US-27, Winchester, IN 47394, USA",
@@ -11,6 +13,17 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6917
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 533
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.1 mi",
@@ -24,8 +37,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14408
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.0 mi",
-                  "value" : 11325
+                  "value" : 11326
                },
                "duration" : {
                   "text" : "10 mins",
@@ -58,7 +82,7 @@
             {
                "distance" : {
                   "text" : "5.7 mi",
-                  "value" : 9252
+                  "value" : 9253
                },
                "duration" : {
                   "text" : "11 mins",

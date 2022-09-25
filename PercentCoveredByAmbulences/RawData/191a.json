@@ -5,16 +5,19 @@
       "501-899 Leeds Rd, Richmond, IN 47374, USA",
       "4542-4856 Fouts Rd, Richmond, IN 47374, USA",
       "4431 Doren Rd, Richmond, IN 47374, USA",
+      "8537-8599 Weist Rd, Eaton, OH 45320, USA",
       "2713-2165 Airport Rd, Centerville, IN 47330, USA",
       "2584 S Abington Pike, Richmond, IN 47374, USA",
       "2290 US-27, Richmond, IN 47374, USA",
       "2818 Forest Pines Dr, Richmond, IN 47374, USA",
       "5459 Hartman Rd, Richmond, IN 47374, USA",
+      "3388 New Westville Rd, New Paris, OH 45347, USA",
       "4976 US-40, Centerville, IN 47330, USA",
       "515 Meadowbrook Rd, Richmond, IN 47374, USA",
       "227 S D St, Richmond, IN 47374, USA",
       "390 Henley Rd S, Richmond, IN 47374, USA",
       "400 Industrial Pkwy, Richmond, IN 47374, USA",
+      "9977 OH-320, New Paris, OH 45347, USA",
       "5094 Gaar Jackson Rd, Centerville, IN 47330, USA",
       "1723 Salisbury Rd, Richmond, IN 47374, USA",
       "Springwood Park, Waterfall Rd, Richmond, IN 47374, USA",
@@ -75,7 +78,18 @@
                },
                "duration" : {
                   "text" : "12 mins",
-                  "value" : 690
+                  "value" : 691
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16836
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1041
                },
                "status" : "OK"
             },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13450
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1030
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6413
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 666
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10014
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 785
                },
                "status" : "OK"
             },

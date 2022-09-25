@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "899-613 Co Rd 62, Garrett, IN 46738, USA",
       "6390 Co Rd 11A, Garrett, IN 46738, USA",
       "5799 Co Rd 427, Auburn, IN 46706, USA",
       "6378 Co Rd 31, Auburn, IN 46706, USA",
       "3999-3685 Co Rd 64, Auburn, IN 46706, USA",
       "6427 Co Rd 45, St Joe, IN 46785, USA",
+      "824 Co Rd 54, Garrett, IN 46738, USA",
       "1532 Co Rd 54, Garrett, IN 46738, USA",
       "5501 Co Rd 11A, Auburn, IN 46706, USA",
       "3127 Co Rd 56, Auburn, IN 46706, USA",
       "3897 Co Rd 56, Auburn, IN 46706, USA",
       "5584 Co Rd 45, Auburn, IN 46706, USA",
+      "4826 Co Rd 7, Garrett, IN 46738, USA",
       "410 N Taylor Rd, Garrett, IN 46738, USA",
       "1827 Caboose Ln, Auburn, IN 46706, USA",
       "801 Griswold Ct, Auburn, IN 46706, USA",
       "5099-4701 Co Rd 39, Auburn, IN 46706, USA",
       "4813 Co Rd 45, Auburn, IN 46706, USA",
+      "3969 Co Rd 7, Avilla, IN 46710, USA",
       "3956 Co Rd 15, Auburn, IN 46706, USA",
       "2315 Co Rd 40, Auburn, IN 46706, USA",
-      "2003 Approach Dr, Auburn, IN 46706, USA",
-      "3800-4250 Co Rd 39, Auburn, IN 46706, USA"
+      "2003 Approach Dr, Auburn, IN 46706, USA"
    ],
    "origin_addresses" : [ "210 S Cedar St, Auburn, IN 46706, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13420
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 813
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 799
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12321
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 774
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9540
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 769
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7150
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10293
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 708
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7107
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 347
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5564
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 424
                },
                "status" : "OK"
             }

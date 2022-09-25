@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "4680 S 300 W, Marion, IN 46953, USA",
+      "1380 S 400 W, Marion, IN 46953, USA",
+      "4533 N 1100 E, Greentown, IN 46936, USA",
+      "1300 E 470 N, Converse, IN 46919, USA",
+      "409 S 900 W, Swayzee, IN 46986, USA",
+      "7999-7001 W N 00 S, Swayzee, IN 46986, USA",
+      "2176 S 600 W, Marion, IN 46953, USA",
       "958 S 325 W, Marion, IN 46953, USA",
+      "7656-7600 IN-18, Converse, IN 46919, USA",
       "950 E Corner 1310 S, Converse, IN 46919, USA",
       "9437 W Delphi Pike, Converse, IN 46919, USA",
       "7518 W Mier 27, Converse, IN 46919, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4786
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 339
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7597
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 416
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13494
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 634
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11143
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 528
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7226
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 374
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5747
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 260
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7593
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 421
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
-                  "value" : 12123
+                  "value" : 12124
                },
                "duration" : {
                   "text" : "10 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15922
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.3 mi",
-                  "value" : 13303
+                  "value" : 13302
                },
                "duration" : {
                   "text" : "11 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "9.3 mi",
-                  "value" : 15005
+                  "value" : 15004
                },
                "duration" : {
                   "text" : "12 mins",

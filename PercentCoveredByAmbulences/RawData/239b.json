@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "6157 Arctic Cir, Indianapolis, IN 46237, USA",
+      "6291 Five Points Rd, Indianapolis, IN 46259, USA",
+      "3825 Foltz St, Indianapolis, IN 46221, USA",
+      "1405 W Hanna Ave, Indianapolis, IN 46217, USA",
+      "4015 S East St, Indianapolis, IN 46227, USA",
+      "4000 Creek Way, Indianapolis, IN 46227, USA",
+      "4133 Cashard Ave, Indianapolis, IN 46203, USA",
       "7323 E Hanna Ave, Indianapolis, IN 46239, USA",
+      "2205 S Holt Rd, Indianapolis, IN 46241, USA",
       "Eagle Creek Greenway, Indianapolis, IN 46221, USA",
       "Ellis Shelter, 2231-2249,2230, 2248 S Garfield Dr, Indianapolis, IN 46203, USA",
       "3103 E Tabor St, Indianapolis, IN 46203, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5797
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 537
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9830
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 813
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17516
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1190
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10485
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6071
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7286
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 664
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8460
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 802
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.6 mi",
-                  "value" : 12265
+                  "value" : 12267
                },
                "duration" : {
                   "text" : "16 mins",
                   "value" : 966
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14841
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1305
                },
                "status" : "OK"
             },
@@ -36,11 +132,11 @@
             {
                "distance" : {
                   "text" : "5.7 mi",
-                  "value" : 9243
+                  "value" : 9244
                },
                "duration" : {
                   "text" : "15 mins",
-                  "value" : 895
+                  "value" : 896
                },
                "status" : "OK"
             },
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "7.6 mi",
-                  "value" : 12276
+                  "value" : 12277
                },
                "duration" : {
                   "text" : "17 mins",

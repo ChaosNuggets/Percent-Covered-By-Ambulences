@@ -5,16 +5,19 @@
       "50 W 550 S, Fort Branch, IN 47648, USA",
       "County Rd 425 S, Fort Branch, IN 47648, USA",
       "Co Rd 450 S, Francisco, IN 47649, USA",
+      "5388 Co Rd 450 S, Francisco, IN 47649, USA",
       "W 250 S, Owensville, IN 47665, USA",
       "Co Rd 250 W, Princeton, IN 47670, USA",
       "County Rd 100 W, Princeton, IN 47670, USA",
       "1248 Co Rd 250 S, Princeton, IN 47670, USA",
       "3253 Co Rd 250 S, Princeton, IN 47670, USA",
+      "Co Rd 250 S, Francisco, IN 47649, USA",
       "Unnamed Road, Princeton, IN 47670, USA",
       "588 S Cathy Dr, Princeton, IN 47670, USA",
       "731 W Poplar Ave, Princeton, IN 47670, USA",
       "663 S 150 E, Princeton, IN 47670, USA",
       "587s Curtice Lande Dr, Princeton, IN 47670, USA",
+      "5249 E 50 S, Francisco, IN 47649, USA",
       "1377 County Rd 475 W, Princeton, IN 47670, USA",
       "2579 W Gibson Coal Rd, Princeton, IN 47670, USA",
       "1226 N 100 W, Princeton, IN 47670, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14631
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 784
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "11.2 mi",
                   "value" : 18074
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11295
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 607
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 9054
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 415
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9355
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
                },
                "status" : "OK"
             },

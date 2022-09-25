@@ -1,5 +1,10 @@
 {
    "destination_addresses" : [
+      "11007 1600 N, Evanston, IN 47635, USA",
+      "US-231, Dale, IN 47523, USA",
+      "189 IN-245, Dale, IN 47523, USA",
+      "7285 1800 N, Dale, IN 47523, USA",
+      "IN-162, Ferdinand, IN 47532, USA",
       "Unnamed Road, Ferdinand, IN 47532, USA",
       "310 N Washington St, Dale, IN 47523, USA",
       "5412 IN-62, Dale, IN 47523, USA",
@@ -11,6 +16,61 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8013
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 536
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8992
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 467
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5153
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 376
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5416
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 506
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7814
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 663
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.9 mi",
@@ -36,7 +96,7 @@
             {
                "distance" : {
                   "text" : "5.3 mi",
-                  "value" : 8549
+                  "value" : 8548
                },
                "duration" : {
                   "text" : "10 mins",

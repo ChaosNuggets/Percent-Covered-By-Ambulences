@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "3220 E 400 S, Monticello, IN 47960, USA",
+      "4012 S Freeman Rd, Monticello, IN 47960, USA",
       "2180 S 450 W, Reynolds, IN 47980, USA",
       "2371 W Smithson Rd, Reynolds, IN 47980, USA",
       "545 W Smithson Rd, Reynolds, IN 47980, USA",
       "1325 E Smithson Rd, Chalmers, IN 47929, USA",
-      "2425 S 300 E, Monticello, IN 47960, USA"
+      "2425 S 300 E, Monticello, IN 47960, USA",
+      "6th St, Monticello, IN 47960, USA"
    ],
    "origin_addresses" : [ "205 E Walnut St, Chalmers, IN 47929, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 416
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11571
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 586
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14281
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 714
                },
                "status" : "OK"
             }

@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "IN-162, Chrisney, IN 47611, USA",
+      "118 S Birch Dr, Santa Claus, IN 47579, USA",
+      "7788 Taylorville Rd, Tennyson, IN 47637, USA",
+      "Simpson Rd, Gentryville, IN 47537, USA",
+      "7555-7477 N Deer Fly Ln, Gentryville, IN 47537, USA",
+      "8264-8298 County Rd 1125 E, Dale, IN 47523, USA",
+      "US-231, Dale, IN 47523, USA",
       "189 IN-245, Dale, IN 47523, USA",
+      "Coles Creek Rd, Tennyson, IN 47637, USA",
       "7468-2 Lauderdale Rd, Dale, IN 47523, USA",
       "9633 Tuley Rd, Dale, IN 47523, USA",
       "969 County Rd 1125 E, Dale, IN 47523, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4727
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 267
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8207
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.3 mi",
+                  "value" : 19756
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13347
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 918
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7202
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 673
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10085
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 573
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9373
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 468
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.0 mi",
-                  "value" : 11334
+                  "value" : 11333
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 666
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17.7 mi",
+                  "value" : 28412
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1385
                },
                "status" : "OK"
             },
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "8.0 mi",
-                  "value" : 12951
+                  "value" : 12950
                },
                "duration" : {
                   "text" : "12 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "6.2 mi",
-                  "value" : 10042
+                  "value" : 10041
                },
                "duration" : {
                   "text" : "9 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.3 mi",
-                  "value" : 13434
+                  "value" : 13433
                },
                "duration" : {
                   "text" : "12 mins",

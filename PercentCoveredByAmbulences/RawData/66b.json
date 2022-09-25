@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "10134 County Rd 450 W, Cynthiana, IN 47612, USA",
+      "2588 IN-68, Haubstadt, IN 47639, USA",
+      "850 S 1250 W, Owensville, IN 47665, USA",
+      "10688 850 S, Owensville, IN 47665, USA",
+      "8541 850 S, Cynthiana, IN 47612, USA",
+      "IN-65, Owensville, IN 47665, USA",
       "4477 W 850 S, Fort Branch, IN 47648, USA",
       "County Rd 850 S, Fort Branch, IN 47648, USA",
       "650 S 1275 W, Owensville, IN 47665, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6634
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 384
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9202
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 466
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15211
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 796
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10315
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 704
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8721
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5824
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 331
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.5 mi",

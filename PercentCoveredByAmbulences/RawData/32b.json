@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "County Rd 50 S, Oakland City, IN 47660, USA",
+      "11218 E 50 S, Oakland City, IN 47660, USA",
+      "1161 Carithers Rd, Princeton, IN 47670, USA",
+      "100 W 350 S, Princeton, IN 47670, USA",
+      "4161 100 N, Francisco, IN 47649, USA",
+      "County Rd 750 E, Francisco, IN 47649, USA",
+      "150 850 E, Oakland City, IN 47660, USA",
       "E 150 N, Petersburg, IN 47567, USA",
+      "County Rd 350 N, Patoka, IN 47666, USA",
       "County Rd 350 E, Patoka, IN 47666, USA",
       "County Rd 550 E, Patoka, IN 47666, USA",
       "6995 E 350 N, Francisco, IN 47649, USA",
@@ -11,6 +19,83 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7950
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 466
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10075
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 15037
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 981
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10712
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6676
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 475
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6094
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7892
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 640
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.4 mi",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "12.8 mi",
+                  "value" : 20672
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1307
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.2 mi",
-                  "value" : 13164
+                  "value" : 13163
                },
                "duration" : {
                   "text" : "16 mins",
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "6.7 mi",
-                  "value" : 10779
+                  "value" : 10778
                },
                "duration" : {
                   "text" : "12 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "8.9 mi",
-                  "value" : 14286
+                  "value" : 14287
                },
                "duration" : {
                   "text" : "17 mins",
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "8.0 mi",
-                  "value" : 12883
+                  "value" : 12884
                },
                "duration" : {
                   "text" : "17 mins",

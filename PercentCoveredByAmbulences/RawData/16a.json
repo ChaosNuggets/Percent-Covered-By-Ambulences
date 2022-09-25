@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "11991 S County Rd 550 W, Jasonville, IN 47438, USA",
       "3998-2248 W County Rd 1200 S, Jasonville, IN 47438, USA",
       "1800-1094 County Rd 1200 S, Clay City, IN 47841, USA",
       "335 County Rd 1200 S, Clay City, IN 47841, USA",
       "11725 S County Rd 225 E, Coal City, IN 47427, USA",
       "14196 Stantz Rd, Coal City, IN 47427, USA",
+      "9998-9000 S County Rd 550 W, Lewis, IN 47858, USA",
       "3006-3498 W County Rd 1000 S, Lewis, IN 47858, USA",
       "1735-1251 W County Rd 1000 S, Clay City, IN 47841, USA",
       "362-600 County Rd 950 S, Clay City, IN 47841, USA",
       "Unnamed Road, Clay City, IN 47841, USA",
       "3361 County Rd 1375 W, Coal City, IN 47427, USA",
+      "8499-8001 County Rd 500 W, Lewis, IN 47858, USA",
       "3501-3999 W County Rd 750 S, Lewis, IN 47858, USA",
       "7892 S County Rd 150 W, Clay City, IN 47841, USA",
       "606 E 12th St, Clay City, IN 47841, USA",
       "2529 E County Rd 800 S, Clay City, IN 47841, USA",
       "1363 Kelly Rd, Coal City, IN 47427, USA",
+      "W County Rd 600 S, Lewis, IN 47858, USA",
       "5260-5998 S County Rd 350 W, Clay City, IN 47841, USA",
       "1668-1500 W County Rd 600 S, Clay City, IN 47841, USA",
-      "5999-5501 S County Rd 50 E, Clay City, IN 47841, USA",
-      "5500-6032 S County Rd 275 E, Clay City, IN 47841, USA"
+      "5999-5501 S County Rd 50 E, Clay City, IN 47841, USA"
    ],
    "origin_addresses" : [ "111 W 8th St, Clay City, IN 47841, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16201
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 884
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "11.1 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12572
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 719
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10420
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 516
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.4 mi",
                   "value" : 5513
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11491
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 704
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8365
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 318
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.4 mi",
-                  "value" : 7023
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 548
                },
                "status" : "OK"
             }

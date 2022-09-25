@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "4124 Pipe Creek Rd, Batesville, IN 47006, USA",
       "4079 Winn Rd, Brookville, IN 47012, USA",
       "13453-13573 Cane Mill Rd, Brookville, IN 47012, USA",
       "4185-4743 Highland Center Rd, Brookville, IN 47012, USA",
       "9113 Long Hollow Rd, Brookville, IN 47012, USA",
       "203 Hillside St, Cedar Grove, IN 47016, USA",
+      "18060 Streetcar Rd, Batesville, IN 47006, USA",
       "16170 St Marys Rd, Brookville, IN 47012, USA",
       "14472-13512 Wolf Creek Rd, Brookville, IN 47012, USA",
       "6049 Lookout Rd, Brookville, IN 47012, USA",
       "6102 Holland Rd, Brookville, IN 47012, USA",
       "6001-6999 Whitcomb Rd, Brookville, IN 47012, USA",
+      "7255 Pipe Creek Rd, Metamora, IN 47030, USA",
       "16081 Snail Creek Rd, Brookville, IN 47012, USA",
       "14049 Levee Rd, Brookville, IN 47012, USA",
       "319 Mill St, Brookville, IN 47012, USA",
       "9102 IN-252, Brookville, IN 47012, USA",
       "7083 IN-252, Brookville, IN 47012, USA",
+      "10498-10324 Silver Creek Rd, Metamora, IN 47030, USA",
       "16085 US-52, Metamora, IN 47030, USA",
       "9100-9198 Cummins Rd, Metamora, IN 47030, USA",
-      "10119 Reservoir Rd, Brookville, IN 47012, USA",
-      "10108 IN-101, Brookville, IN 47012, USA"
+      "10119 Reservoir Rd, Brookville, IN 47012, USA"
    ],
    "origin_addresses" : [ "462 Main St, Brookville, IN 47012, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15292
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 930
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.5 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 541
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13210
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14644
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1020
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9263
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15223
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1278
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 7967
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 259
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.3 mi",
-                  "value" : 5327
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 437
                },
                "status" : "OK"
             }

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "512 N Merrill St, Fortville, IN 46040, USA",
       "622 W 1050N, Fortville, IN 46040, USA",
       "10562 N Alford Rd, Fortville, IN 46040, USA",
       "3602-3728 E 1100 N, Pendleton, IN 46064, USA",
       "10361-10999 500E, Pendleton, IN 46064, USA",
       "10441 N Nashville Rd, Pendleton, IN 46064, USA",
+      "9530 W Fall Creek Dr, Pendleton, IN 46064, USA",
       "9240 County Rd 750 W, Pendleton, IN 46064, USA",
       "9681 S State Rd 67, Fortville, IN 46040, USA",
       "3674 W Cord 950, Pendleton, IN 46064, USA",
       "1770 W Cord 950, Pendleton, IN 46064, USA",
       "1-205 County Rd 900 S, Pendleton, IN 46064, USA",
+      "I-69, Pendleton, IN 46064, USA",
       "7349 County Rd 750 W, Pendleton, IN 46064, USA",
       "I-69, Pendleton, IN 46064, USA",
       "213 E Madison Ave, Pendleton, IN 46064, USA",
       "109 W Falcon Run, Pendleton, IN 46064, USA",
       "7481 25 E, Pendleton, IN 46064, USA",
+      "9999-9365 W State Rd 38, Lapel, IN 46051, USA",
       "5745-5325 County Rd 800 W, Pendleton, IN 46064, USA",
       "5659 Old Indiana 132, Pendleton, IN 46064, USA",
-      "5671-5103 S 360 W, Pendleton, IN 46064, USA",
-      "1738 W Cord 550, Anderson, IN 46013, USA"
+      "5671-5103 S 360 W, Pendleton, IN 46064, USA"
    ],
    "origin_addresses" : [ "122 E State St, Pendleton, IN 46064, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13201
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 774
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.3 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11114
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10073
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 468
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7387
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9625
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 7988
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 322
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6050
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 457
                },
                "status" : "OK"
             }

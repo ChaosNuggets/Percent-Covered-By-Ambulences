@@ -7,7 +7,13 @@
       "2409 Plum Woods Dr, Sellersburg, IN 47172, USA",
       "3155 Development Way, Sellersburg, IN 47172, USA",
       "5502 Charlestown Pike, Jeffersonville, IN 47130, USA",
-      "Logistics Ave, Jeffersonville, IN 47130, USA"
+      "Logistics Ave, Jeffersonville, IN 47130, USA",
+      "5416 Wieska Knob Rd, Floyds Knobs, IN 47119, USA",
+      "3192-3076 W St Joe Rd, Sellersburg, IN 47172, USA",
+      "1229 E St Joe Rd E, Sellersburg, IN 47172, USA",
+      "4601 Commerce Pass, Sellersburg, IN 47172, USA",
+      "6020 High Jackson Rd, Charlestown, IN 47111, USA",
+      "303 Lentz Ave, Charlestown, IN 47111, USA"
    ],
    "origin_addresses" : [ "1213 Veterans Pkwy, Clarksville, IN 47129, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 808
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16938
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1207
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13472
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 961
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10392
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10894
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 795
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15858
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1024
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15185
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1038
                },
                "status" : "OK"
             }

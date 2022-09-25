@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "4400 W Prather Rd, Ellettsville, IN 47429, USA",
+      "8687 N Buskirk Rd, Gosport, IN 47433, USA",
+      "2760 Country Club Rd, Spencer, IN 47460, USA",
+      "3925 County Rd 250 N, Gosport, IN 47433, USA",
+      "9499-9101 N Texas Ridge Rd, Gosport, IN 47433, USA",
+      "6350 W Brighton Rd, Gosport, IN 47433, USA",
       "9744 N Bowman Rd, Gosport, IN 47433, USA",
+      "1989 W Burma Rd, Gosport, IN 47433, USA",
       "1961 IN-67, Spencer, IN 47460, USA",
       "3880 Hollybrook Rd, Gosport, IN 47433, USA",
       "5760 Lingle Rd, Gosport, IN 47433, USA",
       "4170-4498 S Lingle Rd, Gosport, IN 47433, USA",
-      "5232-5244 Burton Rd, Gosport, IN 47433, USA"
+      "5232-5244 Burton Rd, Gosport, IN 47433, USA",
+      "4550 S Salem Rd, Gosport, IN 47433, USA"
    ],
    "origin_addresses" : [ "8379 Hoadley St, Stinesville, IN 47464, USA" ],
    "rows" : [
@@ -13,8 +21,74 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8172
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 668
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13226
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1044
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.5 mi",
+                  "value" : 18478
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1101
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7242
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 498
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3701
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 253
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6723
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 548
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
-                  "value" : 8346
+                  "value" : 8345
                },
                "duration" : {
                   "text" : "12 mins",
@@ -24,8 +98,19 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12688
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 985
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "9.2 mi",
-                  "value" : 14870
+                  "value" : 14869
                },
                "duration" : {
                   "text" : "15 mins",
@@ -58,7 +143,7 @@
             {
                "distance" : {
                   "text" : "8.2 mi",
-                  "value" : 13249
+                  "value" : 13248
                },
                "duration" : {
                   "text" : "16 mins",
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 972
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14007
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1072
                },
                "status" : "OK"
             }

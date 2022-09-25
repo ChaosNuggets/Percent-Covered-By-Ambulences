@@ -29,20 +29,20 @@ static constexpr double calcCoordLat(const std::pair<double, double>& coordinate
     return latitude + difference;
 }
 
-static std::pair<std::pair<double, double>, std::pair<double, double>> getTestCoordinateBounds(const std::pair<double, double>& stationCoordinate, const double radiusOfCircles)
+static std::pair<std::pair<double, double>, std::pair<double, double>> getTestCoordinateBounds(const std::pair<double, double>& stationCoordinate, const double boxRadius)
 {
-    const double highLat = calcCoordLat(stationCoordinate, radiusOfCircles);
-    const double lowLat = calcCoordLat(stationCoordinate, -radiusOfCircles);
-    const double highLong = calcCoordLong(stationCoordinate, radiusOfCircles);
-    const double lowLong = calcCoordLong(stationCoordinate, -radiusOfCircles);
+    const double highLat = calcCoordLat(stationCoordinate, boxRadius);
+    const double lowLat = calcCoordLat(stationCoordinate, -boxRadius);
+    const double highLong = calcCoordLong(stationCoordinate, boxRadius);
+    const double lowLong = calcCoordLong(stationCoordinate, -boxRadius);
     return { {lowLat, lowLong}, {highLat, highLong} };
 }
 
-// The corners of the rectangles of the indexes you should test
-std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std::pair<double, double>& stationCoordinate, const double radiusOfCircles)
+// Returns the corners of the rectangles of the indexes you should test
+std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std::pair<double, double>& stationCoordinate, const double boxRadius)
 {
     //Extract the corners from the coordinate bounds
-    const auto [lowCorner, highCorner] = getTestCoordinateBounds(stationCoordinate, radiusOfCircles);
+    const auto [lowCorner, highCorner] = getTestCoordinateBounds(stationCoordinate, boxRadius);
 
     //Calculate the index bounds
     auto [lowLat, lowLong] = coordToIndex(lowCorner, ceil);
@@ -54,6 +54,5 @@ std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std
     if (highLat >= LAT_SIZE) highLat = LAT_SIZE - 1;
     if (highLong >= LONG_SIZE) highLong = LONG_SIZE - 1;
 
-    // Make the range a little bigger than it has to be to correct for rounding errors, it's just safer
     return { {lowLat, lowLong}, {highLat, highLong} };
 }

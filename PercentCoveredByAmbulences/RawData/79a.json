@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "8709 W County Rd 550 S, Daleville, IN 47334, USA",
       "9698-8912 S Country Rd 300 W, Muncie, IN 47302, USA",
       "9698-8400 S Co Rd 100 W, Muncie, IN 47302, USA",
       "101-911 E Co Rd 578 S, Muncie, IN 47302, USA",
       "4081 E Co Rd 550 S, Muncie, IN 47302, USA",
       "7101 E Co Rd 550 S, Muncie, IN 47302, USA",
+      "4901-6499 S 550 W Rd, Yorktown, IN 47396, USA",
       "5701 S Co Rd 325 W, Muncie, IN 47302, USA",
       "Muncie Bypass, Muncie, IN 47302, USA",
       "5750 S Walnut St, Muncie, IN 47302, USA",
       "3855 E Co Rd 350 S, Muncie, IN 47302, USA",
       "5701 S 475 E Rd, Selma, IN 47383, USA",
+      "8520 W Cornbread Rd, Yorktown, IN 47396, USA",
       "5670 W Cornbread Rd, Yorktown, IN 47396, USA",
       "2101 W Cornbread Rd, Muncie, IN 47302, USA",
       "921 E 20th St, Muncie, IN 47302, USA",
       "4301 E Maple Manor Pkwy, Muncie, IN 47302, USA",
       "7305 E Smithfield Pike, Muncie, IN 47302, USA",
+      "8604 W Tulip Tree Dr, Muncie, IN 47304, USA",
       "Deerbrook, 5508 W Autumn Springs Ct, Muncie, IN 47304, USA",
       "Central Chilling Plant, 2306 W University Ave, Muncie, IN 47306, USA",
-      "E McCulloch Blvd, Muncie, IN 47303, USA",
-      "607 N Eastwood Ave, Muncie, IN 47303, USA"
+      "E McCulloch Blvd, Muncie, IN 47303, USA"
    ],
    "origin_addresses" : [ "1405 S Walnut St, Muncie, IN 47302, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12756
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 810
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12706
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 806
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9438
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 717
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.9 mi",
                   "value" : 6301
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11383
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 904
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7607
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 287
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5858
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 497
                },
                "status" : "OK"
             }

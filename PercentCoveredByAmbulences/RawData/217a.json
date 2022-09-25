@@ -5,16 +5,19 @@
       "117 Pope St, Indianapolis, IN 46202, USA",
       "3124 Newton Ave, Indianapolis, IN 46201, USA",
       "310 S Ritter Ave, Indianapolis, IN 46219, USA",
+      "7401 Forest Lake Rd, Indianapolis, IN 46219, USA",
       "2027 N Rochester Ave, Indianapolis, IN 46222, USA",
       "1232 W 19th St, Indianapolis, IN 46202, USA",
       "547 E 20th St, Indianapolis, IN 46202, USA",
       "1952 Lasalle St, Indianapolis, IN 46218, USA",
       "5441 E 19th Pl, Indianapolis, IN 46218, USA",
+      "1917 Arlene Dr, Indianapolis, IN 46219, USA",
       "3542 Sherburne Ln, Indianapolis, IN 46222, USA",
       "1212 Golden Hill Dr, Indianapolis, IN 46208, USA",
       "555 E 37th St, Indianapolis, IN 46205, USA",
       "3123 E 37th St, Indianapolis, IN 46218, USA",
       "3613 N Whittier Pl, Indianapolis, IN 46218, USA",
+      "3691 N Sadlier Dr, Indianapolis, IN 46226, USA",
       "3532 W 55th St, Indianapolis, IN 46228, USA",
       "1050 52nd St, Indianapolis, IN 46228, USA",
       "5425 Broadway St, Indianapolis, IN 46220, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18353
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1351
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.5 mi",
                   "value" : 10530
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14199
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1115
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8574
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 819
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11958
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1090
                },
                "status" : "OK"
             },

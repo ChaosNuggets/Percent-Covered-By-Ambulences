@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "729 S 400 W, Hebron, IN 46341, USA",
+      "207 W 750 S, Hebron, IN 46341, USA",
+      "14168-14498 Arizona St, Crown Point, IN 46307, USA",
+      "7010 E 145th Ave, Hebron, IN 46341, USA",
+      "14420-14480 County Line Rd, Hebron, IN 46341, USA",
+      "500-548 S 600 W, Hebron, IN 46341, USA",
       "373 W 550 S, Valparaiso, IN 46385, USA",
+      "531 S 175 W, Valparaiso, IN 46385, USA",
       "4023-4777 E 129th Ave, Winfield, IN 46307, USA",
       "6720 E 129th Ave, Crown Point, IN 46307, USA",
       "761 W 350 S, Hebron, IN 46341, USA",
       "579 W 350 S, Hebron, IN 46341, USA",
-      "339-337 S 350 W, Valparaiso, IN 46385, USA"
+      "339-337 S 350 W, Valparaiso, IN 46385, USA",
+      "330 S 200 W, Valparaiso, IN 46385, USA"
    ],
    "origin_addresses" : [ "106 E Sigler St, Hebron, IN 46341, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6136
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 340
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8967
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 431
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9266
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6458
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 397
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5792
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 426
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6058
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 432
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.8 mi",
@@ -19,6 +93,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12835
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 795
                },
                "status" : "OK"
             },
@@ -47,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.3 mi",
-                  "value" : 8580
+                  "value" : 8579
                },
                "duration" : {
                   "text" : "9 mins",
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 693
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15511
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 794
                },
                "status" : "OK"
             }

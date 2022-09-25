@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "3915-4115 IN-56, Salem, IN 47167, USA",
+      "2162 N Elliott Rd, Salem, IN 47167, USA",
       "4601 N Cox Ferry Rd, Salem, IN 47167, USA",
       "4313 N Highland Rd, Salem, IN 47167, USA",
       "986-694 W Pump Station Rd, Salem, IN 47167, USA",
       "2012 Delaney Park Rd, Salem, IN 47167, USA",
-      "4182 E Broadway Rd, Salem, IN 47167, USA"
+      "4182 E Broadway Rd, Salem, IN 47167, USA",
+      "3894 NW Point Rd, Salem, IN 47167, USA"
    ],
    "origin_addresses" : [ "108 S Main St, Salem, IN 47167, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 396
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10938
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 605
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 689
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14027
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 788
                },
                "status" : "OK"
             }

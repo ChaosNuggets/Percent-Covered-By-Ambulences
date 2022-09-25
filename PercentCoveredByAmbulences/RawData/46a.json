@@ -5,16 +5,19 @@
       "19801 Darmstadt Rd, Evansville, IN 47725, USA",
       "18200 Korff Rd, Evansville, IN 47725, USA",
       "3055 Volkman Rd, Evansville, IN 47725, USA",
+      "6498-6400 7 Hills Rd, Elberfeld, IN 47613, USA",
       "12748 County Rd 450 W, Haubstadt, IN 47639, USA",
       "1300 S 1200 S, Haubstadt, IN 47639, USA",
       "455 County Rd 1250 S, Haubstadt, IN 47639, USA",
       "1388 County Rd 1250 S, Haubstadt, IN 47639, USA",
       "1275 S 350 E, Haubstadt, IN 47639, USA",
+      "5374 E 1250 S, Haubstadt, IN 47639, USA",
       "10134 County Rd 450 W, Cynthiana, IN 47612, USA",
       "2588 IN-68, Haubstadt, IN 47639, USA",
       "502 W Elm St, Haubstadt, IN 47639, USA",
       "1751 E 1025 S, Haubstadt, IN 47639, USA",
       "3357 E 1025 S, Haubstadt, IN 47639, USA",
+      "E 1050 S, Haubstadt, IN 47639, USA",
       "4477 W 850 S, Fort Branch, IN 47648, USA",
       "County Rd 850 S, Fort Branch, IN 47648, USA",
       "025 W, Fort Branch, IN 47648, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "12.2 mi",
+                  "value" : 19576
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1243
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10134
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12215
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.9 mi",
                   "value" : 7860
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 451
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10418
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 615
                },
                "status" : "OK"
             },

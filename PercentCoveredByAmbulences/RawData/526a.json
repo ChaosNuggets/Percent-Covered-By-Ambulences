@@ -5,16 +5,19 @@
       "9302 E 250 N, Mill Creek, IN 46365, USA",
       "31251 Henry Rd, North Liberty, IN 46552, USA",
       "30121 Hurd Rd, New Carlisle, IN 46552, USA",
+      "27760 Harrison Rd, South Bend, IN 46619, USA",
       "5776 E Oak Knoll Rd, Rolling Prairie, IN 46371, USA",
       "7559 IN-2, New Carlisle, IN 46552, USA",
       "33251 IN-2, New Carlisle, IN 46552, USA",
       "31540 Fillmore Rd, New Carlisle, IN 46552, USA",
       "29889 IN-2, New Carlisle, IN 46552, USA",
+      "IN-2, South Bend, IN 46619, USA",
       "5757 E 650 N, Rolling Prairie, IN 46371, USA",
       "7500-8084 Chicago Rd, New Carlisle, IN 46552, USA",
       "418 W Chestnut St, New Carlisle, IN 46552, USA",
       "54301 Walnut Rd, New Carlisle, IN 46552, USA",
       "29538 US-20, New Carlisle, IN 46552, USA",
+      "54101-54499 Rose Rd, South Bend, IN 46628, USA",
       "8191-8637 N 600 E, Rolling Prairie, IN 46371, USA",
       "8501 N 750 E, New Carlisle, IN 46552, USA",
       "33525 Darden Rd, New Carlisle, IN 46552, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 15007
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 777
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7687
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13884
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 806
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 9051
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 426
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10565
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 519
                },
                "status" : "OK"
             },

@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6943 Monroe St, Lafayette, IN 47905, USA",
       "9040 Sagamore Pkwy S, Lafayette, IN 47909, USA",
       "10721 E 900 S, Frankfort, IN 46041, USA",
       "8999-8001 W County Rd 0 N/S, Frankfort, IN 46041, USA",
       "6424 W Newcastle Rd, Frankfort, IN 46041, USA",
       "4440 W County Rd 0 N/S, Frankfort, IN 46041, USA",
+      "7001 E 700 S, Lafayette, IN 47909, USA",
       "7240 S 900 E, Lafayette, IN 47905, USA",
       "10800 E 700 S, Lafayette, IN 47905, USA",
       "8242-8498 W Co Rd 200 N, Mulberry, IN 46058, USA",
       "6291 W Co Rd 200 N, Frankfort, IN 46041, USA",
       "4330 W Co Rd 200 N, Frankfort, IN 46041, USA",
+      "7002 Wyandotte Rd, Lafayette, IN 47905, USA",
       "5520 S 900 E, Lafayette, IN 47905, USA",
       "5097 S 1075 E, Lafayette, IN 47905, USA",
       "119 S Clinton St, Mulberry, IN 46058, USA",
       "6425 IN-38, Frankfort, IN 46041, USA",
       "4437 IN-38, Frankfort, IN 46041, USA",
+      "689 Walnut St, Dayton, IN 47941, USA",
       "8824 IN-38, Lafayette, IN 47905, USA",
       "2999 S 1050 E, Lafayette, IN 47905, USA",
-      "6116-5564 N Co Rd 850 W, Mulberry, IN 46058, USA",
-      "6450 W Co Rd 550 N, Mulberry, IN 46058, USA"
+      "6116-5564 N Co Rd 850 W, Mulberry, IN 46058, USA"
    ],
    "origin_addresses" : [ "130 S Glick St, Mulberry, IN 46058, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.6 mi",
+                  "value" : 18628
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 938
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 617
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16465
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 821
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9437
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 605
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.9 mi",
                   "value" : 6243
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11842
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 771
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.3 mi",
                   "value" : 6888
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 245
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6548
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 498
                },
                "status" : "OK"
             }

@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "4690-4250 E Brown Rd, New Castle, IN 47362, USA",
+      "999-1 N County Rd 600 E, New Castle, IN 47362, USA",
+      "2561 N County Rd 300 W, New Castle, IN 47362, USA",
+      "2999-2237 N County Rd 125 W, New Castle, IN 47362, USA",
+      "2755 N County Rd 50 E, New Castle, IN 47362, USA",
+      "2285 E County Rd 250 N, New Castle, IN 47362, USA",
       "2532 N Messick Rd, New Castle, IN 47362, USA",
+      "2468 N County Rd 600 E, Mooreland, IN 47360, USA",
       "4447 N County Rd 300 W, Middletown, IN 47356, USA",
       "4487 N County Rd 125 W, New Castle, IN 47362, USA",
       "IN-3, New Castle, IN 47362, USA",
       "4400 IN-103, New Castle, IN 47362, USA",
-      "4999-4251 N Messick Rd, Mooreland, IN 47360, USA"
+      "4999-4251 N Messick Rd, Mooreland, IN 47360, USA",
+      "4901-4011 N County Rd 625 E, Mooreland, IN 47360, USA"
    ],
    "origin_addresses" : [ "229 N Main St, New Castle, IN 47362, USA" ],
    "rows" : [
@@ -13,12 +21,89 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6680
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11509
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 745
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9167
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 604
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6755
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 489
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5632
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 409
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7608
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 615
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
-                  "value" : 9386
+                  "value" : 9385
                },
                "duration" : {
                   "text" : "12 mins",
                   "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12435
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 856
                },
                "status" : "OK"
             },
@@ -36,7 +121,7 @@
             {
                "distance" : {
                   "text" : "6.3 mi",
-                  "value" : 10159
+                  "value" : 10158
                },
                "duration" : {
                   "text" : "11 mins",
@@ -47,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.1 mi",
-                  "value" : 8214
+                  "value" : 8213
                },
                "duration" : {
                   "text" : "8 mins",
@@ -58,7 +143,7 @@
             {
                "distance" : {
                   "text" : "8.1 mi",
-                  "value" : 13008
+                  "value" : 13009
                },
                "duration" : {
                   "text" : "11 mins",
@@ -69,11 +154,22 @@
             {
                "distance" : {
                   "text" : "10.1 mi",
-                  "value" : 16256
+                  "value" : 16257
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 805
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.1 mi",
+                  "value" : 19397
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 938
                },
                "status" : "OK"
             }

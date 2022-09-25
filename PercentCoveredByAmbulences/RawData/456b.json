@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "3192 Evelyn St, Portage, IN 46368, USA",
       "6182 Oglethorpe Ave, Portage, IN 46368, USA",
+      "1901 W 14th Ave, Gary, IN 46404, USA",
       "1137 Central Ave, Gary, IN 46407, USA",
       "4045 E 14th Pl, Gary, IN 46403, USA",
       "7000 Old Hobart Rd, Lake Station, IN 46405, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6549
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 645
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.1 mi",
                   "value" : 9752
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 815
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14258
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1150
                },
                "status" : "OK"
             },

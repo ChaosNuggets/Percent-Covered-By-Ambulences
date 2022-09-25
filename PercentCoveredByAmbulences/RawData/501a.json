@@ -5,16 +5,19 @@
       "1141-1063 Hinson Rd, Martinsville, IN 46151, USA",
       "698-688 Catholic Cemetery Rd, Martinsville, IN 46151, USA",
       "4385 Dogan Dr, Martinsville, IN 46151, USA",
+      "E Railroad Rd, Martinsville, IN 46151, USA",
       "1700-1998 County Rd 500 W, Martinsville, IN 46151, USA",
       "2170 Deer Lake Dr, Martinsville, IN 46151, USA",
       "2600 Burton Dr, Martinsville, IN 46151, USA",
       "1578-1526 Mahalasville Rd, Martinsville, IN 46151, USA",
       "3220 Voyles Rd, Martinsville, IN 46151, USA",
+      "Unnamed Road, Martinsville, IN 46151, USA",
       "3563 Buffalo Dr, Martinsville, IN 46151, USA",
       "526 S State Rd 67, Martinsville, IN 46151, USA",
       "Catherine St, Martinsville, IN 46151, USA",
       "410 Grand Valley Blvd, Martinsville, IN 46151, USA",
       "3020 Sand Creek Trail, Martinsville, IN 46151, USA",
+      "5009 Old Morgantown Rd, Martinsville, IN 46151, USA",
       "5566-5526 Parker Rd, Martinsville, IN 46151, USA",
       "1498 Ranch Trail, Martinsville, IN 46151, USA",
       "IN-67, Martinsville, IN 46151, USA",
@@ -71,11 +74,22 @@
             {
                "distance" : {
                   "text" : "6.6 mi",
-                  "value" : 10583
+                  "value" : 10584
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 862
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16630
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 936
                },
                "status" : "OK"
             },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11414
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 716
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10364
                },
@@ -185,7 +210,18 @@
                },
                "duration" : {
                   "text" : "8 mins",
-                  "value" : 456
+                  "value" : 463
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9355
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 717
                },
                "status" : "OK"
             },

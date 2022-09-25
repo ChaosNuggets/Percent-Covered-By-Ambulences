@@ -1,24 +1,27 @@
 {
    "destination_addresses" : [
+      "County Rd 500 W, Lyons, IN 47443, USA",
       "5137 S Buck Run Rd, Newberry, IN 47449, USA",
       "County Rd 100 W, Newberry, IN 47449, USA",
       "4370 S Emery Rd, Bloomfield, IN 47424, USA",
       "County Rd 350 E, Bloomfield, IN 47424, USA",
       "County Rd 450 S, Bloomfield, IN 47424, USA",
+      "County Rd 500 W, Lyons, IN 47443, USA",
       "2617 County Rd 275 S, Bloomfield, IN 47424, USA",
       "Unnamed Road, Bloomfield, IN 47424, USA",
       "300 County Rd, Bloomfield, IN 47424, USA",
       "2669 Fellows Ridge Rd, Bloomfield, IN 47424, USA",
       "E Mineral-Koleen Rd, Bloomfield, IN 47424, USA",
+      "County Rd 100 S, Bloomfield, IN 47424, USA",
       "2672 County Rd 100 S, Bloomfield, IN 47424, USA",
       "937 County Rd 100 S, Bloomfield, IN 47424, USA",
       "1232 E Furnace Rd, Bloomfield, IN 47424, USA",
       "3563-2915 County Rd 50 S, Bloomfield, IN 47424, USA",
       "1043 S Walnut Grove Rd, Bloomfield, IN 47424, USA",
+      "4660 W 100 N, Switz City, IN 47465, USA",
       "County Rd 260 W, Switz City, IN 47465, USA",
       "1759 N Ooley Rd, Bloomfield, IN 47424, USA",
-      "1110 Cold Springs Rd, Bloomfield, IN 47424, USA",
-      "County Rd 275 E, Bloomfield, IN 47424, USA"
+      "1110 Cold Springs Rd, Bloomfield, IN 47424, USA"
    ],
    "origin_addresses" : [ "105 70 E, Bloomfield, IN 47424, USA" ],
    "rows" : [
@@ -26,12 +29,23 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "11.1 mi",
-                  "value" : 17939
+                  "text" : "11.2 mi",
+                  "value" : 18090
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1047
+                  "text" : "21 mins",
+                  "value" : 1267
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15460
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1149
                },
                "status" : "OK"
             },
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1152
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14872
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1042
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12517
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 841
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8151
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10458
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 670
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7066
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 279
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.8 mi",
-                  "value" : 7648
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 472
                },
                "status" : "OK"
             }

@@ -5,16 +5,19 @@
       "62 Hickory Ridge Cir, Cicero, IN 46034, USA",
       "8901-9799 E 221st St, Cicero, IN 46034, USA",
       "11800 Koteewi Dr, Noblesville, IN 46060, USA",
+      "21935 Victory Chapel Rd, Noblesville, IN 46060, USA",
       "3045 E 241st St, Cicero, IN 46034, USA",
       "24252 Devaney Rd, Cicero, IN 46034, USA",
       "24182 Tollgate Rd, Cicero, IN 46034, USA",
       "9619 E 241st St, Cicero, IN 46034, USA",
       "11610 E 241st St, Cicero, IN 46034, USA",
+      "13553 E 246th St, Noblesville, IN 46060, USA",
       "26440 Anthony Rd, Arcadia, IN 46030, USA",
       "26286 Devaney Rd, Arcadia, IN 46030, USA",
       "7550 E 261st St, Arcadia, IN 46030, USA",
       "26330 Mt Pleasant Rd, Arcadia, IN 46030, USA",
       "26598-25976 Lacy Rd, Arcadia, IN 46030, USA",
+      "13420 E 266th St, Arcadia, IN 46030, USA",
       "3289 E 281st St, Atlanta, IN 46031, USA",
       "5798-5200 E 281st St, Atlanta, IN 46031, USA",
       "7301-7699 E 281st St, Atlanta, IN 46031, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14273
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 876
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11045
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12122
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 7978
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 485
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11498
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 686
                },
                "status" : "OK"
             },

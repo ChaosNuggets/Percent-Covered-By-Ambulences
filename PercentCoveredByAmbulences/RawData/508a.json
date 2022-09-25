@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "S 450 W, Kentland, IN 47951, USA",
       "2119 W 1300 S, Kentland, IN 47951, USA",
       "86-498 W 1300 S, Kentland, IN 47951, USA",
       "1779 E 1300 S, Kentland, IN 47951, USA",
       "13000-13454 S 350 E, Goodland, IN 47948, USA",
       "13000-13448 S 550 E, Goodland, IN 47948, USA",
+      "4897-4001 W 1125 S, Kentland, IN 47951, USA",
       "US Hwy 41, Kentland, IN 47951, USA",
       "11248-11018 S 50 W, Brook, IN 47922, USA",
       "1681 E 1100 S, Brook, IN 47922, USA",
       "4373-3501 E 1100 S, Brook, IN 47922, USA",
       "11420-11787 S 550 E, Goodland, IN 47948, USA",
+      "3994-4924 W 900 S, Morocco, IN 47963, USA",
       "2188 W St Rd 16, Brook, IN 47922, USA",
       "256 W St Rd 16, Brook, IN 47922, USA",
       "216 E Broadway St, Brook, IN 47922, USA",
       "3623 IN-16, Brook, IN 47922, USA",
       "S 550 E, Brook, IN 47922, USA",
+      "4101 W 700 S, Morocco, IN 47963, USA",
       "2037 W 700 S, Morocco, IN 47963, USA",
       "159 W 700 S, Brook, IN 47922, USA",
-      "1501-1799 E 700 S, Brook, IN 47922, USA",
-      "3868-3250 E 700 S, Brook, IN 47922, USA"
+      "1501-1799 E 700 S, Brook, IN 47922, USA"
    ],
    "origin_addresses" : [ "155 N Hwy St, Brook, IN 47922, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16565
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 858
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 575
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13468
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 661
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9041
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.7 mi",
                   "value" : 5937
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12266
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 568
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9162
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 196
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6599
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 347
                },
                "status" : "OK"
             }

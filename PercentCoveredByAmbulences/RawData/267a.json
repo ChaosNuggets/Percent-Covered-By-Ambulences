@@ -5,16 +5,19 @@
       "1931 Sugar Grove Ave, Indianapolis, IN 46202, USA",
       "547 E 20th St, Indianapolis, IN 46202, USA",
       "1952 Lasalle St, Indianapolis, IN 46218, USA",
+      "5441 E 19th Pl, Indianapolis, IN 46218, USA",
       "Unnamed Road, Indianapolis, IN 46224, USA",
       "3542 Sherburne Ln, Indianapolis, IN 46222, USA",
       "1212 Golden Hill Dr, Indianapolis, IN 46208, USA",
       "555 E 37th St, Indianapolis, IN 46205, USA",
       "3123 E 37th St, Indianapolis, IN 46218, USA",
+      "3631 N Whittier Pl, Indianapolis, IN 46218, USA",
       "5455 W 56th St, Indianapolis, IN 46254, USA",
       "3532 W 55th St, Indianapolis, IN 46228, USA",
       "1050 52nd St, Indianapolis, IN 46228, USA",
       "5425 Broadway St, Indianapolis, IN 46220, USA",
       "5400 Allisonville Rd, Indianapolis, IN 46220, USA",
+      "5520 Roxbury Terrace, Indianapolis, IN 46226, USA",
       "7001 Zionsville Rd, Indianapolis, IN 46268, USA",
       "6901 Starkey Ridge Ln, Indianapolis, IN 46268, USA",
       "1403 Shawnee Rd, Indianapolis, IN 46260, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15447
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1486
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.6 mi",
                   "value" : 12279
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12371
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1273
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12118
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 747
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10520
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1158
                },
                "status" : "OK"
             },

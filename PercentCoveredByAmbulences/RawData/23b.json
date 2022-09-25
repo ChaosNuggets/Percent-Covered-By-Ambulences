@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "16000-16998 County Rd 400 E, Summitville, IN 46070, USA",
+      "US-35, Gaston, IN 47342, USA",
+      "3646 W 1850 N, Summitville, IN 46070, USA",
+      "1576-1998 County Rd 1850 N, Summitville, IN 46070, USA",
+      "28 County Rd 1850 N, Summitville, IN 46070, USA",
+      "18329 County Rd 250 E, Summitville, IN 46070, USA",
+      "17902-18598 N 450 E, Summitville, IN 46070, USA",
       "20333 N Co Rd 900 W, Gaston, IN 47342, USA",
+      "3640 W 1050 S, Fairmount, IN 46928, USA",
       "1800 W 1050 S, Fairmount, IN 46928, USA",
       "81 E 1050 S, Fairmount, IN 46928, USA",
       "2091 S 1050, Fairmount, IN 46928, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5283
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 430
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "25.6 mi",
+                  "value" : 41120
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2065
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12214
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8822
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 573
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5905
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 380
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5719
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 460
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9228
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 571
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11706
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15095
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 833
                },
                "status" : "OK"
             },

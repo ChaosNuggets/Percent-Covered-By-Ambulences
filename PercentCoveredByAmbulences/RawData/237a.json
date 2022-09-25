@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "7071 S 100 E, Lafayette, IN 47909, USA",
       "3333 Sarah Ann Rd, Lafayette, IN 47909, USA",
       "6960 S 500 E, Lafayette, IN 47909, USA",
       "7001 E 700 S, Lafayette, IN 47909, USA",
       "7240 S 900 E, Lafayette, IN 47905, USA",
       "10800 E 700 S, Lafayette, IN 47905, USA",
+      "1100 E 510 S, Lafayette, IN 47909, USA",
       "3039 E 500 S, Lafayette, IN 47909, USA",
       "5191 S 500 E, Lafayette, IN 47909, USA",
       "7002 Wyandotte Rd, Lafayette, IN 47905, USA",
       "5520 S 900 E, Lafayette, IN 47905, USA",
       "5097 S 1075 E, Lafayette, IN 47905, USA",
+      "3574 Canterbury Dr, Lafayette, IN 47909, USA",
       "3600 Veterans Memorial Pkwy S, Lafayette, IN 47909, USA",
       "3131 Newcastle Rd, Lafayette, IN 47905, USA",
       "689 Walnut St, Dayton, IN 47941, USA",
       "8824 IN-38, Lafayette, IN 47905, USA",
       "2999 S 1050 E, Lafayette, IN 47905, USA",
+      "1220 Potomac Ave, Lafayette, IN 47905, USA",
       "1500 Kepner Dr, Lafayette, IN 47905, USA",
       "5165 McCarty Ln, Lafayette, IN 47905, USA",
-      "1389-1001 S 750 E, Lafayette, IN 47905, USA",
-      "8817 Dewey Dr, Lafayette, IN 47905, USA"
+      "1389-1001 S 750 E, Lafayette, IN 47905, USA"
    ],
    "origin_addresses" : [ "6531 IN-38, Lafayette, IN 47905, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15331
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1079
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12017
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 875
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10455
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 884
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6596
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10545
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7650
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 738
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "8.3 mi",
-                  "value" : 13281
-               },
-               "duration" : {
-                  "text" : "14 mins",
-                  "value" : 848
                },
                "status" : "OK"
             }

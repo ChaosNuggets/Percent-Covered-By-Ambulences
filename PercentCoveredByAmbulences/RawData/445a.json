@@ -1,24 +1,27 @@
 {
    "destination_addresses" : [
+      "2000 W 79th Pl, Merrillville, IN 46410, USA",
       "1307 E 79th Ave, Merrillville, IN 46410, USA",
       "8035 Underwood Dr, Hobart, IN 46342, USA",
       "7200 W Lincoln Hwy, Crown Point, IN 46307, USA",
       "760 Joliet Rd, Valparaiso, IN 46385, USA",
       "262 N 550 W, Valparaiso, IN 46385, USA",
+      "6408 Arthur St, Merrillville, IN 46410, USA",
       "6400 Kentucky Pl, Merrillville, IN 46410, USA",
       "6550 Clay St, Merrillville, IN 46410, USA",
       "7237 Bracken Pkwy, Hobart, IN 46342, USA",
       "759 W 450 N, Hobart, IN 46342, USA",
       "569 W 450 N, Hobart, IN 46342, USA",
+      "4821 Cleveland St, Gary, IN 46408, USA",
       "4831 Vermont Pl, Gary, IN 46409, USA",
       "420 Softwood Dr, Hobart, IN 46342, USA",
       "500 S Linda St, Hobart, IN 46342, USA",
       "Unnamed Road, Hobart, IN 46342, USA",
       "565-599 W 700 N, Hobart, IN 46342, USA",
+      "Little Calumet River Trail, Gary, IN 46408, USA",
       "1101-1119 E 32nd Ct, Gary, IN 46409, USA",
       "3150 Arizona St, Gary, IN 46405, USA",
-      "31 Miami St, Lake Station, IN 46405, USA",
-      "3192 Evelyn St, Portage, IN 46368, USA"
+      "31 Miami St, Lake Station, IN 46405, USA"
    ],
    "origin_addresses" : [ "200 Main St, Hobart, IN 46342, USA" ],
    "rows" : [
@@ -26,12 +29,23 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "8.0 mi",
-                  "value" : 12943
+                  "text" : "10.0 mi",
+                  "value" : 16044
                },
                "duration" : {
-                  "text" : "15 mins",
-                  "value" : 912
+                  "text" : "21 mins",
+                  "value" : 1240
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14892
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1093
                },
                "status" : "OK"
             },
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 965
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13090
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1145
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10144
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 944
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.2 mi",
                   "value" : 6722
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13072
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 981
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7719
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 434
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.0 mi",
-                  "value" : 6453
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 629
                },
                "status" : "OK"
             }

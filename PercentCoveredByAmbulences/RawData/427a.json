@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "4913 W 525 S, Claypool, IN 46510, USA",
       "2844 W 550 S, Claypool, IN 46510, USA",
       "5261 S 50 W, Claypool, IN 46510, USA",
       "4501-5499 S Country Club Rd, Warsaw, IN 46580, USA",
       "5322 S 300 E, Warsaw, IN 46580, USA",
       "5469 S 525 E, Pierceton, IN 46562, USA",
+      "3698-3612 S Bruner Rd, Warsaw, IN 46580, USA",
       "2520 W 350 S, Warsaw, IN 46580, USA",
       "540 W 350 S, Warsaw, IN 46580, USA",
       "3496 S Country Club Rd, Warsaw, IN 46580, USA",
       "3481 S 350 E, Warsaw, IN 46580, USA",
       "3566 S 500 E, Pierceton, IN 46562, USA",
+      "1502-1000 S 400 W, Warsaw, IN 46580, USA",
       "1447 IN-25, Warsaw, IN 46580, USA",
       "1507 S County Farm Rd, Warsaw, IN 46580, USA",
       "2496 Marjorie St, Winona Lake, IN 46590, USA",
       "1602 St Andrews Rd E, Warsaw, IN 46580, USA",
       "5206 US-30, Pierceton, IN 46562, USA",
+      "588 Parks Schram Rd, Warsaw, IN 46580, USA",
       "1812 Indian Trail, Warsaw, IN 46580, USA",
       "225 E Ft Wayne St, Warsaw, IN 46580, USA",
-      "100 Capital Dr, Warsaw, IN 46582, USA",
-      "999-237 N 300 E, Warsaw, IN 46582, USA"
+      "100 Capital Dr, Warsaw, IN 46582, USA"
    ],
    "origin_addresses" : [ "1310 Park Ave, Winona Lake, IN 46590, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16903
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1107
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 864
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15271
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1096
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11543
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 831
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 8950
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11043
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 818
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8413
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 380
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5799
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 516
                },
                "status" : "OK"
             }

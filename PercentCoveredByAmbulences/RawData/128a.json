@@ -5,16 +5,19 @@
       "11416 US-421, Osgood, IN 47037, USA",
       "2414 W 1150, Batesville, IN 47006, USA",
       "11900 N Co Rd 50 W, Batesville, IN 47006, USA",
+      "1878 E 1150, Batesville, IN 47006, USA",
       "3837-3101 E Co Rd 400 S, Greensburg, IN 47240, USA",
       "4333 S Co Rd 550 E, Greensburg, IN 47240, USA",
       "4001-4797 S Co Rd 800 E, Greensburg, IN 47240, USA",
       "4365 County Rd 1500 W, Batesville, IN 47006, USA",
       "13692 N Co Rd 50 W, Batesville, IN 47006, USA",
+      "328 E County Rd 1400 N, Batesville, IN 47006, USA",
       "3290 E County Rd 200 S, Greensburg, IN 47240, USA",
       "2830-2000 S Co Rd 550 E, Greensburg, IN 47240, USA",
       "2473 S Co Rd 800 E, Greensburg, IN 47240, USA",
       "2998-2360 S Co Rd 950 E, Batesville, IN 47006, USA",
       "26091 County Rd 900 S, Batesville, IN 47006, USA",
+      "707 Columbus Ave, Batesville, IN 47006, USA",
       "512 S Co Rd 350 E, Greensburg, IN 47240, USA",
       "525 N Co Rd 600 E, Greensburg, IN 47240, USA",
       "7720 E Base Rd, Greensburg, IN 47240, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "12.0 mi",
+                  "value" : 19289
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1029
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11093
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14300
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 898
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8697
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 489
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9441
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 580
                },
                "status" : "OK"
             },

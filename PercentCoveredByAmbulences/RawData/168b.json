@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "322 IN-68, Lynnville, IN 47619, USA",
+      "I-64, Lynnville, IN 47619, USA",
+      "Co Rd 900, Elberfeld, IN 47613, USA",
+      "1100 E, Oakland City, IN 47660, USA",
+      "13167 County Rd 850 S, Oakland City, IN 47660, USA",
+      "Somerville Rd, Oakland City, IN 47660, USA",
+      "411 Log Creek Rd, Lynnville, IN 47619, USA",
       "Log Crk Rd, Tennyson, IN 47637, USA",
+      "9277 E 650 S, Oakland City, IN 47660, USA",
       "Barton Township, IN, USA",
       "1300 E Barton Twp, Oakland City, IN 47660, USA",
       "Unnamed Road, Oakland City, IN 47660, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4423
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 232
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7952
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 355
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12834
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 741
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9793
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 550
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4929
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 335
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4881
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 240
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8088
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 435
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.0 mi",
                   "value" : 11285
                },
                "duration" : {
                   "text" : "15 mins",
                   "value" : 915
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15143
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 984
                },
                "status" : "OK"
             },

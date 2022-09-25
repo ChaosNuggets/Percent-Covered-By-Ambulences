@@ -7,7 +7,13 @@
       "6410-6314 N 900 W, Shipshewana, IN 46565, USA",
       "6855 W 650 N, Shipshewana, IN 46565, USA",
       "Van Buren Township, IN, USA",
-      "3030 W 650 N, Howe, IN 46746, USA"
+      "3030 W 650 N, Howe, IN 46746, USA",
+      "71049 US-131, White Pigeon, MI 49099, USA",
+      "16530 Lake Rd, White Pigeon, MI 49099, USA",
+      "70774-71498 Sevison Rd, White Pigeon, MI 49099, USA",
+      "20202 Walt Rd, White Pigeon, MI 49099, USA",
+      "71499-71335 Klinger Lake Rd, Sturgis, MI 49091, USA",
+      "71271 Stubey Rd, Sturgis, MI 49091, USA"
    ],
    "origin_addresses" : [ "330 Morton St, Shipshewana, IN 46565, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 823
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.8 mi",
+                  "value" : 18964
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1095
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14269
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 922
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13942
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 872
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12708
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15458
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 917
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17562
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1001
                },
                "status" : "OK"
             }

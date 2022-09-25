@@ -1,7 +1,9 @@
 {
    "destination_addresses" : [
+      "1455 N 200 E, Portland, IN 47371, USA",
       "1508-1000 N 400 E, Portland, IN 47371, USA",
-      "3347 N 350 W, Portland, IN 47371, USA",
+      "3998-3318 N 550 W, Pennville, IN 47369, USA",
+      "3633 N 350 W, Portland, IN 47371, USA",
       "3998-3000 N 125 W, Portland, IN 47371, USA",
       "3233-3623 IN-67, Portland, IN 47371, USA",
       "2157-2627 300 N, Portland, IN 47371, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6735
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 611
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.0 mi",
                   "value" : 9641
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 583
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15370
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 851
                },
                "status" : "OK"
             },
@@ -58,7 +82,7 @@
             {
                "distance" : {
                   "text" : "5.9 mi",
-                  "value" : 9552
+                  "value" : 9551
                },
                "duration" : {
                   "text" : "10 mins",

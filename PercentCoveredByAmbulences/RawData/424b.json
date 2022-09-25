@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "72801-72999 Co Rd 137, Syracuse, IN 46567, USA",
       "72648 Co Rd 43, Syracuse, IN 46567, USA",
+      "20350 Co Rd 50, New Paris, IN 46553, USA",
       "70333 Co Rd 25, New Paris, IN 46553, USA",
       "70402 Co Rd 29, Syracuse, IN 46567, USA",
       "70383 Co Rd 133, Syracuse, IN 46567, USA",
       "70646-70600 Lincoln Hwy, Syracuse, IN 46567, USA",
-      "70998-70394 Co Rd 43, Ligonier, IN 46767, USA"
+      "70998-70394 Co Rd 43, Ligonier, IN 46767, USA",
+      "20341 Falcon Brook Ct, New Paris, IN 46553, USA",
+      "18388 Barrington Dr, New Paris, IN 46553, USA",
+      "Canal Dr, New Paris, IN 46553, USA",
+      "68530 US-33, Goshen, IN 46526, USA",
+      "12516 Co Rd 46, Millersburg, IN 46543, USA",
+      "10810 Co Rd 46, Millersburg, IN 46543, USA"
    ],
    "origin_addresses" : [ "310 N Huntington St, Syracuse, IN 46567, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5840
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 410
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.4 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 491
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13364
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 713
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 634
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13845
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 845
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10929
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 638
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10190
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 665
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9976
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 523
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14393
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 726
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15680
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 796
                },
                "status" : "OK"
             }

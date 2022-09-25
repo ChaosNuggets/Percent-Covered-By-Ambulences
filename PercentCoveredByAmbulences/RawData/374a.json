@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "4502 W 500 S, Jamestown, IN 46147, USA",
       "5499-5177 S State Rd 39, Lebanon, IN 46052, USA",
       "5001 75 W, Lebanon, IN 46052, USA",
       "1575 S Acton Rd, Lebanon, IN 46052, USA",
       "4450 IN-267, Whitestown, IN 46075, USA",
       "5400 E 500 S, Whitestown, IN 46075, USA",
+      "2395 S 500 W, Jamestown, IN 46147, USA",
       "3005 Middle Jamestown Rd, Lebanon, IN 46052, USA",
       "2820 IN-39, Lebanon, IN 46052, USA",
       "2800-3248 S 125 E, Lebanon, IN 46052, USA",
       "3420 E 300 S, Lebanon, IN 46052, USA",
       "5374 E 300 S, Whitestown, IN 46075, USA",
+      "1000 S 400 W, Lebanon, IN 46052, USA",
       "822 S 225 W, Lebanon, IN 46052, USA",
       "906 S State Rd 39, Lebanon, IN 46052, USA",
       "1300 E 100 S, Lebanon, IN 46052, USA",
       "1053 Holmes Rd, Lebanon, IN 46052, USA",
       "5370 E 100 S, Lebanon, IN 46052, USA",
+      "4350 IN-32, Lebanon, IN 46052, USA",
       "1005 N 250 W, Lebanon, IN 46052, USA",
       "1005 Baronne St, Lebanon, IN 46052, USA",
-      "1998-996 E 75 N, Lebanon, IN 46052, USA",
-      "3998-3308 E 100 N, Lebanon, IN 46052, USA"
+      "1998-996 E 75 N, Lebanon, IN 46052, USA"
    ],
    "origin_addresses" : [ "1905 Indianapolis Ave, Lebanon, IN 46052, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14264
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 956
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.1 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 770
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12500
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 837
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11804
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 788
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 9010
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10411
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 618
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8318
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 356
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.6 mi",
-                  "value" : 7455
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 482
                },
                "status" : "OK"
             }

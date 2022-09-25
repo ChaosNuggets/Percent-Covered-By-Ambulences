@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "29496 Barber Rd, West Harrison, IN 47060, USA",
+      "2338 Windy Ridge Ln, West Harrison, IN 47060, USA",
+      "2098 Blue Creek Rd, Brookville, IN 47012, USA",
+      "2101-2447 Highland Center Rd, Brookville, IN 47012, USA",
+      "3350-3000 Wewe Hill Rd, Brookville, IN 47012, USA",
+      "2082 Gobblers Knob Rd, Brookville, IN 47012, USA",
       "2006 Elkhorn Rd, Cedar Grove, IN 47016, USA",
+      "3089 Snow Hill Rd, West Harrison, IN 47060, USA",
       "13450-13318 Cane Mill Rd, Brookville, IN 47012, USA",
       "4185-4743 Highland Center Rd, Brookville, IN 47012, USA",
       "9113 Long Hollow Rd, Brookville, IN 47012, USA",
       "203 Hillside St, Cedar Grove, IN 47016, USA",
-      "5135 English Hill Rd, Cedar Grove, IN 47016, USA"
+      "5135 English Hill Rd, Cedar Grove, IN 47016, USA",
+      "5007 Wesley Chapel Rd, West Harrison, IN 47060, USA"
    ],
    "origin_addresses" : [ "7580 Church Ln, West Harrison, IN 47060, USA" ],
    "rows" : [
@@ -13,12 +21,89 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10227
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 651
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14090
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 991
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14606
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 780
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8469
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 414
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5412
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 323
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5933
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 332
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
-                  "value" : 11103
+                  "value" : 11102
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 623
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16197
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1142
                },
                "status" : "OK"
             },
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18212
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1090
                },
                "status" : "OK"
             }

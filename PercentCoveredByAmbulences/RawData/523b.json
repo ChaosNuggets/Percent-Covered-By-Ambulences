@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "N 375 E, Porter, IN 46304, USA",
+      "Unnamed Road, Porter, IN 46304, USA",
+      "Mittal Steel, Burns Harbor, IN, USA",
+      "23 Summit Dr, Porter, IN 46304, USA",
+      "Waverly Rd, Porter, IN 46304, USA",
+      "1465 N 200 E, Chesterton, IN 46304, USA",
       "I-94, Michigan City, IN 46360, USA",
+      "1498-1426 N 600 E, Michigan City, IN 46360, USA",
       "Porter County, IN, USA",
       "Porter County, IN, USA",
       "Trail 8, Chesterton, IN 46304, USA",
       "Unnamed Road, Porter, IN 46304, USA",
-      "Beverly Dr, Chesterton, IN 46304, USA"
+      "Beverly Dr, Chesterton, IN 46304, USA",
+      "574 Railroad Ave, Michigan City, IN 46360, USA"
    ],
    "origin_addresses" : [ "790 Broadway Ave, Chesterton, IN 46304, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6905
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 695
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12158
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1010
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10473
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 945
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8287
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 849
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4215
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 396
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6735
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 500
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "16.3 mi",
@@ -19,6 +93,17 @@
                "duration" : {
                   "text" : "20 mins",
                   "value" : 1191
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16668
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 947
                },
                "status" : "OK"
             },
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 817
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14018
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 862
                },
                "status" : "OK"
             }

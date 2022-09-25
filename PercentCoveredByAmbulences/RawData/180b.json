@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "607 N Eastwood Ave, Muncie, IN 47303, USA",
+      "700 N Cook Rd, Muncie, IN 47303, USA",
+      "3822-4998 N 500 W Rd, Muncie, IN 47304, USA",
+      "5510 W Bethel Ave, Muncie, IN 47304, USA",
+      "2301 W Sheffield Dr, Muncie, IN 47304, USA",
+      "900 Blk E Riggin Rd, Muncie, IN 47303, USA",
+      "IN-3, Muncie, IN 47303, USA",
       "7215 E Co Rd 275 N, Muncie, IN 47303, USA",
+      "8099-6501 N 500 W Rd, Muncie, IN 47304, USA",
       "7839-6773 N Morrison Rd, Muncie, IN 47304, USA",
       "2420 W Co Rd 450 N, Muncie, IN 47303, USA",
       "1031 E Royerton Rd, Muncie, IN 47303, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5331
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 479
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8153
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 624
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10185
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 790
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6821
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 678
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4496
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 436
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4490
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 500
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6604
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 560
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10195
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 783
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12740
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 915
                },
                "status" : "OK"
             },

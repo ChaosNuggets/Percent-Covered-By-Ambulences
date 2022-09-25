@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "8732 W 300 N, Kokomo, IN 46901, USA",
       "300 N 685 W, Kokomo, IN 46901, USA",
       "5055 W 300 N, Kokomo, IN 46901, USA",
       "300 W 275 N, Kokomo, IN 46901, USA",
       "1159 County Rd 300 N, Kokomo, IN 46901, USA",
       "2336-2964 Busby Rd, Kokomo, IN 46901, USA",
+      "8720 W 500 N, Kokomo, IN 46901, USA",
       "6898 W 500 N, Kokomo, IN 46901, USA",
       "4870 N 500 W, Kokomo, IN 46901, USA",
       "4500-4998 County Rd 300 W, Kokomo, IN 46901, USA",
       "4871 County Rd North 100 W, Kokomo, IN 46901, USA",
       "70 450 N, Kokomo, IN 46901, USA",
+      "4001-4765 IN-18, Galveston, IN 46932, USA",
       "6105 IN-18, Galveston, IN 46932, USA",
       "7958 IN-18, Galveston, IN 46932, USA",
       "402 S Deer Creek St, Galveston, IN 46932, USA",
       "13128 S 400 W, Bunker Hill, IN 46914, USA",
       "13205 S 200 W, Bunker Hill, IN 46914, USA",
+      "4295 E County Rd 1100 S, Galveston, IN 46932, USA",
       "6093 E County Rd 1100 S, Galveston, IN 46932, USA",
       "8104 E 1100 S, Galveston, IN 46932, USA",
-      "11204 S County Rd 1000 E, Galveston, IN 46932, USA",
-      "11152 S 400 W, Bunker Hill, IN 46914, USA"
+      "11204 S County Rd 1000 E, Galveston, IN 46932, USA"
    ],
    "origin_addresses" : [ "110 Sycamore St, Galveston, IN 46932, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15574
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 802
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.7 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 630
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12376
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 670
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9189
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 435
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.8 mi",
                   "value" : 6087
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12502
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 640
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.9 mi",
                   "value" : 9432
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 188
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6037
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 306
                },
                "status" : "OK"
             }

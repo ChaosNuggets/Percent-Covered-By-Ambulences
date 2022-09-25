@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3182 IN-62, Cross Plains, IN 47017, USA",
       "5561 Mexico Ridge Rd, Cross Plains, IN 47017, USA",
       "14085 W Laughery Creek Rd, Dillsboro, IN 47018, USA",
       "5565 Milton Bear Branch Rd, Rising Sun, IN 47040, USA",
       "5650 Downey Ridge Rd, Dillsboro, IN 47018, USA",
       "5657 Woods Ridge Rd, Dillsboro, IN 47018, USA",
+      "6228 S Friendship Rd, Versailles, IN 47042, USA",
       "7553 Grelle Rd, Dillsboro, IN 47018, USA",
       "7838 IN-62, Dillsboro, IN 47018, USA",
       "7367 Martin Rd, Dillsboro, IN 47018, USA",
       "7458 IN-262, Dillsboro, IN 47018, USA",
       "7433-8010 Hartford Pike, Dillsboro, IN 47018, USA",
+      "5413 E Co Rd 450 S, Versailles, IN 47042, USA",
       "9623 Grelle Rd, Dillsboro, IN 47018, USA",
       "9419 Johnson Mukadam Rd, Dillsboro, IN 47018, USA",
       "9679 IN-262, Dillsboro, IN 47018, USA",
       "10442 Texas Gas Rd, Aurora, IN 47001, USA",
       "9970 Mt Tabor Rd, Aurora, IN 47001, USA",
+      "2259 S Friendship Rd, Milan, IN 47031, USA",
       "2221 750 E, Dillsboro, IN 47018, USA",
       "13968 Schmaltz Rd, Moores Hill, IN 47032, USA",
-      "11804 Longbranch Rd, Moores Hill, IN 47032, USA",
-      "10100-10398 S Hogan Rd, Moores Hill, IN 47032, USA"
+      "11804 Longbranch Rd, Moores Hill, IN 47032, USA"
    ],
    "origin_addresses" : [ "13030 Executive Dr, Dillsboro, IN 47018, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13763
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 925
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "11.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 797
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.6 mi",
+                  "value" : 18604
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 932
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16606
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 879
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7087
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10864
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 538
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7411
                },
@@ -214,22 +261,11 @@
             {
                "distance" : {
                   "text" : "4.3 mi",
-                  "value" : 6941
+                  "value" : 6942
                },
                "duration" : {
                   "text" : "9 mins",
                   "value" : 516
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.9 mi",
-                  "value" : 6217
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 443
                },
                "status" : "OK"
             }

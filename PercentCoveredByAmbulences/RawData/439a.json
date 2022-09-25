@@ -5,16 +5,19 @@
       "6550 Clay St, Merrillville, IN 46410, USA",
       "7237 Bracken Pkwy, Hobart, IN 46342, USA",
       "759 W 450 N, Hobart, IN 46342, USA",
+      "569 W 450 N, Hobart, IN 46342, USA",
       "4821 Cleveland St, Gary, IN 46408, USA",
       "4831 Vermont Pl, Gary, IN 46409, USA",
       "420 Softwood Dr, Hobart, IN 46342, USA",
       "500 S Linda St, Hobart, IN 46342, USA",
       "Unnamed Road, Hobart, IN 46342, USA",
+      "565-599 W 700 N, Hobart, IN 46342, USA",
       "Little Calumet River Trail, Gary, IN 46408, USA",
       "1101-1119 E 32nd Ct, Gary, IN 46409, USA",
       "3150 Arizona St, Gary, IN 46405, USA",
       "31 Miami St, Lake Station, IN 46405, USA",
       "3192 Evelyn St, Portage, IN 46368, USA",
+      "6182 Oglethorpe Ave, Portage, IN 46368, USA",
       "1901 W 14th Ave, Gary, IN 46404, USA",
       "1137 Central Ave, Gary, IN 46407, USA",
       "4045 E 14th Pl, Gary, IN 46403, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13800
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1003
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10347
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10683
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 889
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.1 mi",
                   "value" : 9896
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 738
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10235
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 933
                },
                "status" : "OK"
             },

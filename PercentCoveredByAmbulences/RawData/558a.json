@@ -5,16 +5,19 @@
       "695 IN-18, Brookston, IN 47923, USA",
       "E State Rd 18, Brookston, IN 47923, USA",
       "3000-3328 E 1000 S, Brookston, IN 47923, USA",
+      "10000-10248 S Springboro Rd, Brookston, IN 47923, USA",
       "S 450 W, Brookston, IN 47923, USA",
       "2471 W 800 S, Brookston, IN 47923, USA",
       "8222 S Evans Rd, Brookston, IN 47923, USA",
       "8099 S 125 E, Brookston, IN 47923, USA",
       "850 S 300 E, Brookston, IN 47923, USA",
+      "8076 S Springboro Rd, Brookston, IN 47923, USA",
       "5972 S 450 W, Chalmers, IN 47929, USA",
       "2580-1768 W 600 S, Chalmers, IN 47929, USA",
       "646 W 600 S, Chalmers, IN 47929, USA",
       "1270 E Chalmers Rd, Chalmers, IN 47929, USA",
       "6499-6049 S 300 E, Chalmers, IN 47929, USA",
+      "7710 N Springboro Rd, Monticello, IN 47960, USA",
       "4089 S 450 W, Chalmers, IN 47929, USA",
       "4245 S 300 W, Chalmers, IN 47929, USA",
       "4241 S 75 W, Chalmers, IN 47929, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16220
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 786
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.7 mi",
                   "value" : 10737
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11709
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 677
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7519
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 299
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9469
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 544
                },
                "status" : "OK"
             },

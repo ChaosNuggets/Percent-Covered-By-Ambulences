@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "8000-8998 S 1150 W, Redkey, IN 47373, USA",
       "8605-8247 IN-1, Redkey, IN 47373, USA",
+      "16820 N Willman Rd, Eaton, IN 47338, USA",
       "17070 450 E, Eaton, IN 47338, USA",
       "1100 N, Dunkirk, IN 47336, USA",
       "17101 IN-167, Albany, IN 47320, USA",
       "6589 S 1150 W, Redkey, IN 47373, USA",
-      "Logan St, Redkey, IN 47373, USA"
+      "Logan St, Redkey, IN 47373, USA",
+      "20401 N Willman Rd, Eaton, IN 47338, USA",
+      "3465 E Gregory Rd, Eaton, IN 47338, USA",
+      "20207-19301 N Co Rd 700 E, Dunkirk, IN 47336, USA",
+      "13411-13735 E County Rd 500 S, Dunkirk, IN 47336, USA",
+      "11340 W 450 S, Dunkirk, IN 47336, USA",
+      "4000-4598 IN-1, Redkey, IN 47373, USA"
    ],
    "origin_addresses" : [ "212 E State St, Albany, IN 47320, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5043
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 283
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.2 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 438
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12776
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
                },
                "status" : "OK"
             },
@@ -70,6 +100,72 @@
                "distance" : {
                   "text" : "6.5 mi",
                   "value" : 10514
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 671
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16323
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 963
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13725
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 792
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9586
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 614
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11910
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 744
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11057
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 596
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12289
                },
                "duration" : {
                   "text" : "11 mins",

@@ -5,16 +5,19 @@
       "60551 IN-13, Middlebury, IN 46540, USA",
       "60534 Co Rd 43, Middlebury, IN 46540, USA",
       "10645 W 200 S, Middlebury, IN 46540, USA",
+      "1555 S 900 W, Shipshewana, IN 46565, USA",
       "16425 Co Rd 20, Goshen, IN 46528, USA",
       "14538 Co Rd 22, Goshen, IN 46528, USA",
       "101 Joan Dr, Middlebury, IN 46540, USA",
       "10572 Co Rd 18, Middlebury, IN 46540, USA",
       "10755 W 050 N, Middlebury, IN 46540, USA",
+      "8820 W 050 N, Shipshewana, IN 46565, USA",
       "56998-56400 Co Rd 29, Goshen, IN 46528, USA",
       "56478 Ponderosa Path, Middlebury, IN 46540, USA",
       "106 E Warren St, Middlebury, IN 46540, USA",
       "10668 Co Rd 16, Middlebury, IN 46540, USA",
       "10725 W 250 N, Shipshewana, IN 46565, USA",
+      "8850 W 250 N, Shipshewana, IN 46565, USA",
       "16339 Co Rd 10, Bristol, IN 46507, USA",
       "54420 Co Rd 33, Middlebury, IN 46540, USA",
       "19 Co Rd 10, Middlebury, IN 46540, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16429
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 930
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.2 mi",
                   "value" : 10027
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13280
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9187
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 392
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 10026
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
                },
                "status" : "OK"
             },

@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "County Rd 640 N, Bloomfield, IN 47424, USA",
+      "3236 Pottawatomie Trail, Bloomfield, IN 47424, USA",
+      "County Rd 900 N, Worthington, IN 47471, USA",
+      "8964 County Rd 475 W, Worthington, IN 47471, USA",
+      "9384 IN-157, Worthington, IN 47471, USA",
+      "9485 N 60 W, Worthington, IN 47471, USA",
       "50 East St, Worthington, IN 47471, USA",
       "Co Rd 350, Bloomfield, IN 47424, USA",
       "2499-2001 E County Rd 1375 S, Coal City, IN 47427, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6139
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 555
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12484
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12372
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 721
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8301
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 532
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4892
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 418
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5596
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 278
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "4.5 mi",
@@ -49,11 +121,11 @@
             {
                "distance" : {
                   "text" : "7.3 mi",
-                  "value" : 11817
+                  "value" : 11818
                },
                "duration" : {
                   "text" : "12 mins",
-                  "value" : 708
+                  "value" : 709
                },
                "status" : "OK"
             },
@@ -71,7 +143,7 @@
             {
                "distance" : {
                   "text" : "6.0 mi",
-                  "value" : 9631
+                  "value" : 9630
                },
                "duration" : {
                   "text" : "9 mins",
@@ -81,12 +153,12 @@
             },
             {
                "distance" : {
-                  "text" : "6.3 mi",
-                  "value" : 10109
+                  "text" : "6.6 mi",
+                  "value" : 10570
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 534
+                  "text" : "10 mins",
+                  "value" : 573
                },
                "status" : "OK"
             },

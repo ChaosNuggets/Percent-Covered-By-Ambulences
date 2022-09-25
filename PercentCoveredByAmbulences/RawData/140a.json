@@ -5,16 +5,19 @@
       "14439-14999 N Gilead Church Rd, Macy, IN 46951, USA",
       "14735 N 400 E, Macy, IN 46951, USA",
       "600 E Vacant Land, Roann, IN 46974, USA",
+      "10501-10999 County Rd 700 W, Roann, IN 46974, USA",
       "7729-7201 E 350 S, Akron, IN 46910, USA",
       "2964 S 900 E, Akron, IN 46910, USA",
       "3131 S 1075 E, Akron, IN 46910, USA",
       "3075 S 1300 E, Akron, IN 46910, USA",
       "County Rd 1475 E, Akron, IN 46910, USA",
+      "12495 N 700 W, North Manchester, IN 46962, USA",
       "930-1498 S 700 E, Akron, IN 46910, USA",
       "9158 IN-14, Akron, IN 46910, USA",
       "11005 E State Rd 14, Akron, IN 46910, USA",
       "1150 S 1325 E, Akron, IN 46910, USA",
       "1312 S 1500 E, Akron, IN 46910, USA",
+      "14460 N 700 W, Silver Lake, IN 46982, USA",
       "7059 E 100 N, Rochester, IN 46975, USA",
       "100 N 900 E, Akron, IN 46910, USA",
       "997 State Rte 19, Akron, IN 46910, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12384
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 601
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.5 mi",
                   "value" : 10481
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11505
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 567
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9149
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 422
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10086
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 606
                },
                "status" : "OK"
             },

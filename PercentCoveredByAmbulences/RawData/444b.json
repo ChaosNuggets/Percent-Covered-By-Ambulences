@@ -7,7 +7,13 @@
       "S Walton Dr, Chicago, IL 60617, USA",
       "Lake County, IN, USA",
       "Lake County, IN, USA",
-      "41.73321,-87.396399999999971"
+      "41.73321,-87.396399999999971",
+      "7309 S Constance Ave, Chicago, IL 60649, USA",
+      "Unnamed Road, Chicago, IL 60649, USA",
+      "Cook County, IL, USA",
+      "41.76215,-87.469859999999954",
+      "41.76215,-87.433129999999949",
+      "41.76215,-87.396399999999943"
    ],
    "origin_addresses" : [ "1914 Schrage Ave, Whiting, IN 46394, USA" ],
    "rows" : [
@@ -15,23 +21,23 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "7.8 mi",
-                  "value" : 12554
+                  "text" : "7.7 mi",
+                  "value" : 12419
                },
                "duration" : {
                   "text" : "23 mins",
-                  "value" : 1392
+                  "value" : 1380
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "8.2 mi",
-                  "value" : 13203
+                  "text" : "8.1 mi",
+                  "value" : 13068
                },
                "duration" : {
                   "text" : "25 mins",
-                  "value" : 1498
+                  "value" : 1486
                },
                "status" : "OK"
             },
@@ -81,14 +87,56 @@
             },
             {
                "distance" : {
-                  "text" : "7.8 mi",
-                  "value" : 12543
+                  "text" : "7.7 mi",
+                  "value" : 12409
                },
                "duration" : {
                   "text" : "23 mins",
-                  "value" : 1390
+                  "value" : 1378
                },
                "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13396
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1038
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11470
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1187
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10438
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1161
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
             },
             {
                "status" : "ZERO_RESULTS"

@@ -1,16 +1,115 @@
 {
    "destination_addresses" : [
+      "216 S Greenlawn Ave, South Bend, IN 46617, USA",
+      "1615 N Main St, Mishawaka, IN 46545, USA",
+      "1614 N Home St, Mishawaka, IN 46545, USA",
+      "25825 Longwood Ct, South Bend, IN 46628, USA",
+      "24045 US-20, South Bend, IN 46628, USA",
+      "1976-2298 N Bendix Dr, South Bend, IN 46628, USA",
+      "1891 Riverside Dr, South Bend, IN 46616, USA",
+      "18223 Bulla Rd, South Bend, IN 46637, USA",
       "5225 Edison Lakes Pkwy, Mishawaka, IN 46545, USA",
+      "14432 Phoenix Dr, Mishawaka, IN 46545, USA",
+      "52280 Primrose Rd, South Bend, IN 46628, USA",
       "4444 Ameritech Dr, South Bend, IN 46628, USA",
       "3315 William Richardson Dr, South Bend, IN 46628, USA",
       "52260 Oakland Ave, South Bend, IN 46637, USA",
       "52536 Heatherfield Dr, South Bend, IN 46637, USA",
-      "52347 Silverleaf Ct, Granger, IN 46530, USA"
+      "52347 Silverleaf Ct, Granger, IN 46530, USA",
+      "3221 Beacon Pkwy, Granger, IN 46530, USA"
    ],
    "origin_addresses" : [ "701 W Sample St, South Bend, IN 46601, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4456
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 433
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7563
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 795
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10539
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 979
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15429
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1111
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8863
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6418
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 605
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6174
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 688
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6959
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 688
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.3 mi",
@@ -19,6 +118,28 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13198
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1262
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14667
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1085
                },
                "status" : "OK"
             },
@@ -74,6 +195,17 @@
                "duration" : {
                   "text" : "17 mins",
                   "value" : 1042
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14178
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1237
                },
                "status" : "OK"
             }

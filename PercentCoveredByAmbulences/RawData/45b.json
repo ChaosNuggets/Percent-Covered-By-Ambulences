@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "10680-10000 County Rd E 100 N, Greentown, IN 46936, USA",
+      "750 1250 E, Greentown, IN 46936, USA",
+      "3163 County Rd N 300 E, Kokomo, IN 46901, USA",
+      "4802 E 250 N, Kokomo, IN 46901, USA",
+      "675 N 300 E, Kokomo, IN 46901, USA",
+      "875 County Rd East 250 N, Greentown, IN 46936, USA",
+      "1150 County Rd 300 N, Greentown, IN 46936, USA",
       "1050 E 200 N, Greentown, IN 46936, USA",
+      "300 N 480 W, Kokomo, IN 46901, USA",
       "4768 450 E, Kokomo, IN 46901, USA",
       "6505 Co Rd E 500 N, Kokomo, IN 46901, USA",
       "500 N 850 E, Kokomo, IN 46901, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4891
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 267
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7664
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 429
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12861
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 666
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10526
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 561
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7668
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 428
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4353
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 248
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8504
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 493
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11173
                },
                "duration" : {
                   "text" : "9 mins",
                   "value" : 566
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17093
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 842
                },
                "status" : "OK"
             },

@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "County Rd 1200 E, Upland, IN 46989, USA",
+      "2137 W 250 N, Hartford City, IN 47348, USA",
+      "2394 S 400 E, Marion, IN 46953, USA",
+      "2439 S 600 E, Marion, IN 46953, USA",
+      "8999-8051 County Rd 200 S, Marion, IN 46953, USA",
+      "10665 E 300 S, Upland, IN 46989, USA",
+      "11720 E 250 S, Upland, IN 46989, USA",
       "4750 N 200 W, Hartford City, IN 47348, USA",
+      "519 S 400 E, Marion, IN 46953, USA",
       "481-223 S 600 E, Marion, IN 46953, USA",
       "7512-8842 IN-18, Marion, IN 46952, USA",
       "558 S 1000 E, Marion, IN 46953, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5810
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 307
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8403
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 477
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14623
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 717
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9945
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 521
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7694
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 357
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5745
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 359
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9058
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.7 mi",
                   "value" : 12407
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16409
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 817
                },
                "status" : "OK"
             },

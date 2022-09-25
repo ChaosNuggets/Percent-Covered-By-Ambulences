@@ -5,16 +5,19 @@
       "535 E 200 S, Albion, IN 46701, USA",
       "Unnamed Road, Albion, IN 46701, USA",
       "1606 S 400 E, Albion, IN 46701, USA",
+      "1625 S 600 E-57, Avilla, IN 46710, USA",
       "3173 W Third Dr, Albion, IN 46701, USA",
       "542 N Wolf Lake Rd, Albion, IN 46701, USA",
       "311 N 75 E, Albion, IN 46701, USA",
       "2449 E Baseline Rd, Albion, IN 46701, USA",
       "4414-4432 E Baseline Rd, Albion, IN 46701, USA",
+      "427-341 N 600 E, Avilla, IN 46710, USA",
       "3411-3059 W 200 N, Albion, IN 46701, USA",
       "1360 W River Rd N, Albion, IN 46701, USA",
       "2237-1917 N 75 E, Albion, IN 46701, USA",
       "2376-2442 N 225 E, Albion, IN 46701, USA",
       "2511-2207 N 400 E, Albion, IN 46701, USA",
+      "2200 N 600 E, Avilla, IN 46710, USA",
       "4178-5248 N 350 W, Albion, IN 46701, USA",
       "1473 W 450 N, Albion, IN 46701, USA",
       "527-713 E 400 N, Albion, IN 46701, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17364
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 972
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.5 mi",
                   "value" : 10501
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12827
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 664
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8138
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 379
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10223
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 556
                },
                "status" : "OK"
             },

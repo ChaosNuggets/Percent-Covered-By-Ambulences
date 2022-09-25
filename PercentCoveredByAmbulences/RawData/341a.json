@@ -5,16 +5,19 @@
       "418 425 S, Rockville, IN 47872, USA",
       "4173 County Rd 130 E, Judson, IN 47872, USA",
       "4261 Hook Rd, Rockville, IN 47872, USA",
+      "4783-4637 Shorter Rd, Rockville, IN 47872, USA",
       "2309 McAdams Rd, Rockville, IN 47872, USA",
       "US Hwy 41, Rockville, IN 47872, USA",
       "Co Rd 85, Rockville, IN 47872, USA",
       "2302 Bridgeton Rd, Rockville, IN 47872, USA",
       "3288 New Discovery Rd, Rockville, IN 47872, USA",
+      "County Rd 500 E, Rockville, IN 47872, USA",
       "Arabia Rd, Rockville, IN 47872, USA",
       "2129 US-36, Rockville, IN 47872, USA",
       "615 US-36, Rockville, IN 47872, USA",
       "215 Dormeyer Ave, Rockville, IN 47872, USA",
       "US-36, Rockville, IN 47872, USA",
+      "281 N 500, Judson, IN 47872, USA",
       "4486 Strawberry Rd, Montezuma, IN 47862, USA",
       "2606 Strawberry Rd, Rockville, IN 47872, USA",
       "Unnamed Road, Rockville, IN 47872, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17198
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1177
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.1 mi",
                   "value" : 11365
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12084
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10323
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 579
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10553
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 727
                },
                "status" : "OK"
             },

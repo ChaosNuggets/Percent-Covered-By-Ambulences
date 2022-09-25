@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "10787 County Rd 1000 W, Arlington, IN 46104, USA",
+      "4642 N 800 W, Arlington, IN 46104, USA",
+      "46173, 5513 S 100 E, Fountaintown, IN 46130, USA",
+      "5561 S 300 E, Greenfield, IN 46140, USA",
+      "5411 S 500 E, Morristown, IN 46161, USA",
+      "6974 E 550S, Morristown, IN 46161, USA",
       "8888 E 550S, Morristown, IN 46161, USA",
+      "6853 N 800 W, Carthage, IN 46104, USA",
       "3420 S 100 E, Greenfield, IN 46140, USA",
       "3500-3998 S 300E, Greenfield, IN 46140, USA",
       "3389 S 500 E, Greenfield, IN 46140, USA",
       "3439 S 700E, Greenfield, IN 46140, USA",
-      "3470 County Rd 900 E, Carthage, IN 46115, USA"
+      "3470 County Rd 900 E, Carthage, IN 46115, USA",
+      "8583 N 800 W, Carthage, IN 46115, USA"
    ],
    "origin_addresses" : [ "228 W Main St, Greenfield, IN 46140, USA" ],
    "rows" : [
@@ -13,8 +21,74 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8675
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 464
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13219
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8817
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 483
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6404
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 374
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5036
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 359
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5708
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 371
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.9 mi",
-                  "value" : 9463
+                  "value" : 9461
                },
                "duration" : {
                   "text" : "9 mins",
@@ -24,8 +98,19 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12717
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 724
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.6 mi",
-                  "value" : 12218
+                  "value" : 12217
                },
                "duration" : {
                   "text" : "10 mins",
@@ -47,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.4 mi",
-                  "value" : 8650
+                  "value" : 8649
                },
                "duration" : {
                   "text" : "8 mins",
@@ -58,7 +143,7 @@
             {
                "distance" : {
                   "text" : "5.8 mi",
-                  "value" : 9300
+                  "value" : 9299
                },
                "duration" : {
                   "text" : "9 mins",
@@ -69,11 +154,22 @@
             {
                "distance" : {
                   "text" : "7.9 mi",
-                  "value" : 12681
+                  "value" : 12680
                },
                "duration" : {
                   "text" : "12 mins",
                   "value" : 724
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15955
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 930
                },
                "status" : "OK"
             }

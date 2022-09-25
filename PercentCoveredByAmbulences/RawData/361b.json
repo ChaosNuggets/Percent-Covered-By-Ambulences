@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "996 S County Rd 400 E, Seymour, IN 47274, USA",
       "5498-4818 E County Rd 100 S, Seymour, IN 47274, USA",
+      "3879 W County Rd 150 N, Brownstown, IN 47220, USA",
       "1500-2482 W County Rd 100 N, Freetown, IN 47235, USA",
       "28 E County Rd 100 N, Brownstown, IN 47220, USA",
       "1945 US-50, Brownstown, IN 47220, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7836
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 428
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11074
                },
                "duration" : {
                   "text" : "9 mins",
                   "value" : 525
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13821
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 707
                },
                "status" : "OK"
             },

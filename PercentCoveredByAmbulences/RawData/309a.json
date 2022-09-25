@@ -14,7 +14,11 @@
       "1224 Bradley Dr, Evansville, IN 47710, USA",
       "1040 E Mt Pleasant Rd, Evansville, IN 47725, USA",
       "8720 Hedden Rd, Evansville, IN 47725, USA",
-      "11900-11998 Ayrshire Rd, Chandler, IN 47610, USA"
+      "11900-11998 Ayrshire Rd, Chandler, IN 47610, USA",
+      "3443 Orchard Rd, Evansville, IN 47720, USA",
+      "2255 Dress Ln, Evansville, IN 47725, USA",
+      "1012 Campbell Rd, Evansville, IN 47725, USA",
+      "3410 E Boonville-New Harmony Rd, Evansville, IN 47725, USA"
    ],
    "origin_addresses" : [ "3500 N Harlan Ave, Evansville, IN 47711, USA" ],
    "rows" : [
@@ -182,6 +186,50 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13741
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1047
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11913
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 757
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9930
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 670
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12305
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 741
                },
                "status" : "OK"
             }

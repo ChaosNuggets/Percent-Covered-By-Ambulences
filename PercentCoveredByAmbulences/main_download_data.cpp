@@ -8,17 +8,16 @@
 //#include <chrono>
 //#include <thread>
 //
-//long double speedToCircleRadius(long double speed)
-//{
-//    return speed * (MAX_TIME / MINUTES_IN_1_HOUR);
-//}
-//
-//std::vector<std::pair<double, double>> getDestinations(const int stationNum, const double circleRadius, const bool firstHalf)
+//static std::vector<std::pair<double, double>> getDestinations(const int stationNum, const bool firstHalf)
 //{
 //    // Create box and extract data
-//    const auto [lowCorner, highCorner] = getTestIndexBounds(stationCoordinates[stationNum], circleRadius);
-//    auto [lowLatIndex, lowLongIndex] = lowCorner;
-//    auto [highLatIndex, highLongIndex] = highCorner;
+//    const auto [lowCorner, highCorner] = getTestIndexBounds(stationCoordinates[stationNum], BOX_RADIUS);
+//    const auto [lowLatIndex, lowLongIndex] = lowCorner;
+//    const auto [highLatIndex, highLongIndex] = highCorner;
+//
+//    std::cout << stationNum << '\n';
+//    std::cout << lowLatIndex << ' ' << highLatIndex << '\n';
+//    std::cout << lowLongIndex << ' ' << highLongIndex << "\n\n";
 //
 //    bool shouldBreak = false;
 //    bool firstIteration = true;
@@ -57,7 +56,7 @@
 //    return destinations;
 //}
 //
-//std::string generateFilePath(const int stationNum, const bool firstHalf)
+//static std::string generateFilePath(const int stationNum, const bool firstHalf)
 //{
 //    std::string filePath = "RawData/";
 //    filePath.append(std::to_string(stationNum));
@@ -67,26 +66,26 @@
 //    return filePath;
 //}
 //
-//bool downloadFirstHalf(const std::string& apiKey, const int stationNum, const int circleRadius, const bool firstHalf = true)
+//static bool downloadFirstHalf(const std::string& apiKey, const int stationNum, const bool firstHalf = true)
 //{
-//    const std::vector<std::pair<double, double>> destinations = getDestinations(stationNum, circleRadius, firstHalf);
+//    const std::vector<std::pair<double, double>> destinations = getDestinations(stationNum, firstHalf);
 //    
-//    std::string destinationsStr = destinationsToString(destinations);
-//    std::string originStr = originsToString({ stationCoordinates[stationNum] });
-//    std::string URL = generateURL(destinationsStr, originStr, apiKey);
-//    
-//    std::string filePath = generateFilePath(stationNum, firstHalf);
-//    bool curlSuccess = doCurlStuff(URL, filePath);
-//    if (!curlSuccess)
-//    {
-//        return false;
-//    }
+//    //std::string destinationsStr = destinationsToString(destinations);
+//    //std::string originStr = originsToString({ stationCoordinates[stationNum] });
+//    //std::string URL = generateURL(destinationsStr, originStr, apiKey);
+//    //
+//    //std::string filePath = generateFilePath(stationNum, firstHalf);
+//    //bool curlSuccess = doCurlStuff(URL, filePath);
+//    //if (!curlSuccess)
+//    //{
+//    //    return false;
+//    //}
 //    return true;
 //}
 //
-//bool downloadSecondHalf(const std::string& apiKey, const int stationNum, const int circleRadius)
+//static bool downloadSecondHalf(const std::string& apiKey, const int stationNum)
 //{
-//    return downloadFirstHalf(apiKey, stationNum, circleRadius, false);
+//    return downloadFirstHalf(apiKey, stationNum, false);
 //}
 //
 //int main(void)
@@ -94,16 +93,15 @@
 //    std::string apiKey;
 //    promptForAPIKey(apiKey);
 //
-//    double circleRadius = speedToCircleRadius(70);
 //    for (int i = 0; i < stationCoordinates.size(); i++)
 //    {
 //        std::cout << "Downloading file " << (i + 1) * 2 << " / " << stationCoordinates.size() * 2 << '\n';
-//        const bool downloadSuccess1 = downloadFirstHalf(apiKey, i, circleRadius);
+//        const bool downloadSuccess1 = downloadFirstHalf(apiKey, i);
 //        if (!downloadSuccess1)
 //        {
 //            return 1;
 //        }
-//        const bool downloadSuccess2 = downloadSecondHalf(apiKey, i, circleRadius);
+//        const bool downloadSuccess2 = downloadSecondHalf(apiKey, i);
 //        if (!downloadSuccess2)
 //        {
 //            return 1;

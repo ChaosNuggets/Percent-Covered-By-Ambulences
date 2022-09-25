@@ -7,7 +7,13 @@
       "10515 1100E, Shirley, IN 47384, USA",
       "509-417 N Mechanicsburg Rd, Shirley, IN 47384, USA",
       "423 N Kennard Rd W, New Castle, IN 47362, USA",
-      "999-1 N County Rd 500 W, New Castle, IN 47362, USA"
+      "999-1 N County Rd 500 W, New Castle, IN 47362, USA",
+      "1-205 County Rd 900 S, Pendleton, IN 46064, USA",
+      "9532 IN-109, Markleville, IN 46056, USA",
+      "3916 E 950 S, Markleville, IN 46056, USA",
+      "9126 W St Rd 38, Shirley, IN 47384, USA",
+      "7499-6501 W County Rd 275 N, Middletown, IN 47356, USA",
+      "5310 W County Rd 200 N, New Castle, IN 47362, USA"
    ],
    "origin_addresses" : [ "212 Main St, Shirley, IN 47384, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 725
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16385
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 880
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13157
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10410
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10271
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 551
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14267
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 752
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18422
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 952
                },
                "status" : "OK"
             }

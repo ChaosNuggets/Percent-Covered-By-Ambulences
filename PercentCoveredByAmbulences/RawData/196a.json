@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "Lincoln Hwy, Mishawaka, IN 46544, USA",
       "US-20, Elkhart, IN 46517, USA",
       "60248 State Rte 19, Elkhart, IN 46517, USA",
       "25789 Co Rd 28, Goshen, IN 46526, USA",
       "24064 Co Rd 126, Goshen, IN 46526, USA",
       "22060 Co Rd 45, Goshen, IN 46528, USA",
+      "58301 S Apple Rd, Osceola, IN 46561, USA",
       "29799 Co Rd 118, Elkhart, IN 46517, USA",
       "3614 S Nappanee St, Elkhart, IN 46517, USA",
       "58386 Co Rd 9, Elkhart, IN 46517, USA",
       "23932 Dahlia Ct, Elkhart, IN 46516, USA",
       "18487 County Rd 126, Goshen, IN 46528, USA",
+      "56059 Eastvue Dr, Osceola, IN 46561, USA",
       "56426 45th St, Elkhart, IN 46516, USA",
       "1411 Waurika St, Elkhart, IN 46516, USA",
       "1244 Eden St, Elkhart, IN 46516, USA",
       "2125 Toledo Rd, Elkhart, IN 46516, USA",
       "5150 Verdant St, Elkhart, IN 46516, USA",
+      "54380 Adrian Ct, Osceola, IN 46561, USA",
       "29746 Roscommon Dr, Elkhart, IN 46514, USA",
       "27852 Westwood Dr, Elkhart, IN 46514, USA",
-      "54397 Conn Ave, Elkhart, IN 46514, USA",
-      "1534 Jeanwood Dr, Elkhart, IN 46514, USA"
+      "54397 Conn Ave, Elkhart, IN 46514, USA"
    ],
    "origin_addresses" : [ "315 S 2nd St, Elkhart, IN 46516, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13563
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 908
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.9 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 911
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10621
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 876
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8706
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.8 mi",
                   "value" : 6061
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10535
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 929
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7534
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 445
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.4 mi",
-                  "value" : 5534
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 590
                },
                "status" : "OK"
             }

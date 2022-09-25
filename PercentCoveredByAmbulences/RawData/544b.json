@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "4236 S State Rd 39, North Judson, IN 46366, USA",
       "4215 S Range Rd, North Judson, IN 46366, USA",
+      "9684-9222 W 2300 S, La Crosse, IN 46348, USA",
       "7699-7279 E 250 S, North Judson, IN 46366, USA",
       "10 Mile Rd, North Judson, IN 46366, USA",
       "S 400 W, North Judson, IN 46366, USA",
       "2140 S State Rd 39, North Judson, IN 46366, USA",
-      "2322-2000 S Range Rd, Knox, IN 46534, USA"
+      "2322-2000 S Range Rd, Knox, IN 46534, USA",
+      "9998-9010 W 2100 S, La Crosse, IN 46348, USA",
+      "7009-8235 W 2100 S, La Crosse, IN 46348, USA",
+      "5527-5999 W 2100 S, La Crosse, IN 46348, USA",
+      "Ten Mile Rd, Knox, IN 46534, USA",
+      "IN-39, Knox, IN 46534, USA",
+      "215 S Range Rd, Knox, IN 46534, USA"
    ],
    "origin_addresses" : [ "206 Keller Ave, North Judson, IN 46366, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6296
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 350
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.9 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 501
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17031
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 770
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 685
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.6 mi",
+                  "value" : 20277
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 885
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.5 mi",
+                  "value" : 23346
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1064
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13882
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 899
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18384
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1184
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12734
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 594
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15963
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
                },
                "status" : "OK"
             }

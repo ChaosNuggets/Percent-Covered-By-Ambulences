@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "10109 S Rangeline Rd, Clinton, IN 47842, USA",
       "1783 E 1050, Hillsdale, IN 47854, USA",
       "10500 IN-63, Clinton, IN 47842, USA",
       "600 W, Montezuma, IN 47862, USA",
       "2309 McAdams Rd, Rockville, IN 47872, USA",
       "US Hwy 41, Rockville, IN 47872, USA",
+      "6913 S 50 W, Dana, IN 47847, USA",
       "2028-1592 E County Rd 800 S, Hillsdale, IN 47854, USA",
       "Unnamed Road, Hillsdale, IN 47854, USA",
       "Canal Rd, Montezuma, IN 47862, USA",
       "Arabia Rd, Rockville, IN 47872, USA",
       "2129 US-36, Rockville, IN 47872, USA",
+      "499-1 County Rd 600 S, Dana, IN 47847, USA",
       "1846-1998 500 S, Dana, IN 47847, USA",
       "3575 E 600 S, Hillsdale, IN 47854, USA",
       "US-36, Montezuma, IN 47862, USA",
       "4486 Strawberry Rd, Montezuma, IN 47862, USA",
       "2606 Strawberry Rd, Rockville, IN 47872, USA",
+      "County Rd 50 W, Dana, IN 47847, USA",
       "1535 E 400 S, Dana, IN 47847, USA",
       "Unnamed Road, Hillsdale, IN 47854, USA",
-      "4250 River Rd, Montezuma, IN 47862, USA",
-      "4769 Rohr Rd, Montezuma, IN 47862, USA"
+      "4250 River Rd, Montezuma, IN 47862, USA"
    ],
    "origin_addresses" : [ "272 Crawford St, Montezuma, IN 47862, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14160
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 890
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.6 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 692
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10668
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 638
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9038
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 393
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.4 mi",
                   "value" : 5476
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11161
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 571
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9289
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 264
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.4 mi",
-                  "value" : 7107
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 484
                },
                "status" : "OK"
             }

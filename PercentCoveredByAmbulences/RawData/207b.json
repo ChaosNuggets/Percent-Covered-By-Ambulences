@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "4320 N 725-750 W, Kimmell, IN 46760, USA",
+      "4359 N 500 W, Ligonier, IN 46767, USA",
+      "72801-72999 Co Rd 137, Syracuse, IN 46567, USA",
+      "72648 Co Rd 43, Syracuse, IN 46567, USA",
+      "1752-1798 Blue Rd, Ligonier, IN 46767, USA",
+      "1839-1005 Townline Rd, Ligonier, IN 46767, USA",
       "7101 W 650 N, Ligonier, IN 46767, USA",
       "6364 N 525 W, Wawaka, IN 46794, USA",
       "70646-70600 Lincoln Hwy, Syracuse, IN 46567, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6629
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 441
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10695
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11148
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 654
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9286
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 521
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6081
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 436
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6572
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 444
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.0 mi",

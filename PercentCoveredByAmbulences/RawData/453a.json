@@ -1,29 +1,98 @@
 {
    "destination_addresses" : [
+      "6400 Kentucky Pl, Merrillville, IN 46410, USA",
+      "6550 Clay St, Merrillville, IN 46410, USA",
+      "7237 Bracken Pkwy, Hobart, IN 46342, USA",
+      "759 W 450 N, Hobart, IN 46342, USA",
+      "569 W 450 N, Hobart, IN 46342, USA",
+      "375-1 IN-130, Valparaiso, IN 46385, USA",
       "4831 Vermont Pl, Gary, IN 46409, USA",
       "420 Softwood Dr, Hobart, IN 46342, USA",
       "500 S Linda St, Hobart, IN 46342, USA",
       "Unnamed Road, Hobart, IN 46342, USA",
       "565-599 W 700 N, Hobart, IN 46342, USA",
+      "652 Dearborn Rd, Valparaiso, IN 46385, USA",
       "1101-1119 E 32nd Ct, Gary, IN 46409, USA",
       "3150 Arizona St, Gary, IN 46405, USA",
       "31 Miami St, Lake Station, IN 46405, USA",
       "3192 Evelyn St, Portage, IN 46368, USA",
       "6182 Oglethorpe Ave, Portage, IN 46368, USA",
+      "378-374 Robbins Rd, Valparaiso, IN 46385, USA",
       "1137 Central Ave, Gary, IN 46407, USA",
       "4045 E 14th Pl, Gary, IN 46403, USA",
       "7000 Old Hobart Rd, Lake Station, IN 46405, USA",
-      "2225 Locust St, Portage, IN 46368, USA",
-      "6196 Federal Ave, Portage, IN 46368, USA",
-      "200 Martin Luther King Dr, Gary, IN 46402, USA",
-      "Unnamed Road, Gary, IN 46403, USA",
-      "7330-34 Indian Boundary, Gary, IN 46403, USA",
-      "W Beach Rd, Gary, IN 46403, USA"
+      "2225 Locust St, Portage, IN 46368, USA"
    ],
    "origin_addresses" : [ "3629 Central Ave, Gary, IN 46405, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14860
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 782
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11243
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 950
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9226
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 896
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10175
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 744
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12893
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14539
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 982
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.7 mi",
@@ -76,6 +145,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 693
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12944
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 969
                },
                "status" : "OK"
             },
@@ -136,6 +216,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10154
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7620
                },
@@ -175,61 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 376
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6577
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 578
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "9.7 mi",
-                  "value" : 15680
-               },
-               "duration" : {
-                  "text" : "17 mins",
-                  "value" : 997
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "11.2 mi",
-                  "value" : 18042
-               },
-               "duration" : {
-                  "text" : "22 mins",
-                  "value" : 1332
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6921
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 632
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6986
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 648
                },
                "status" : "OK"
             }

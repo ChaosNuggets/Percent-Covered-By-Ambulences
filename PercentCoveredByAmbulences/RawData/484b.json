@@ -7,7 +7,13 @@
       "9247 S 950 E, Amboy, IN 46911, USA",
       "900 W 500 N 27, Converse, IN 46919, USA",
       "7585 W 600 N 27, Converse, IN 46919, USA",
-      "5372-5782 W 600 N, Marion, IN 46952, USA"
+      "5372-5782 W 600 N, Marion, IN 46952, USA",
+      "5641 E 700 S, Peru, IN 46970, USA",
+      "Unnamed Road, Amboy, IN 46911, USA",
+      "5445 County Rd 1100 S, Amboy, IN 46911, USA",
+      "300 W, Converse, IN 46919, USA",
+      "1320-1396 W Old Slocum Trail, La Fontaine, IN 46940, USA",
+      "1-281 E Old Slocum Trail, La Fontaine, IN 46940, USA"
    ],
    "origin_addresses" : [
       "Converse Junction Trail, 210 N Jefferson St, Converse, IN 46919, USA"
@@ -100,6 +106,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 699
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16761
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13676
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10625
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 588
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11752
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 735
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15436
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17173
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 881
                },
                "status" : "OK"
             }

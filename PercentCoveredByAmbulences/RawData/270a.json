@@ -5,16 +5,19 @@
       "5441 E 19th Pl, Indianapolis, IN 46218, USA",
       "1917 Arlene Dr, Indianapolis, IN 46219, USA",
       "1919 Shenandoah Pl, Indianapolis, IN 46229, USA",
+      "11377 Shady Hollow Ln, Indianapolis, IN 46229, USA",
       "555 E 37th St, Indianapolis, IN 46205, USA",
       "3123 E 37th St, Indianapolis, IN 46218, USA",
       "3631 N Whittier Pl, Indianapolis, IN 46218, USA",
       "3691 N Sadlier Dr, Indianapolis, IN 46226, USA",
       "9501 E 36th Pl, Indianapolis, IN 46235, USA",
+      "3549 Black Locust Dr, Indianapolis, IN 46235, USA",
       "5425 Broadway St, Indianapolis, IN 46220, USA",
       "5400 Allisonville Rd, Indianapolis, IN 46220, USA",
       "5520 Roxbury Terrace, Indianapolis, IN 46226, USA",
       "5450 N Richardt Ave, Indianapolis, IN 46226, USA",
       "5402 Wheel Estates E Dr, West, IN 46236, USA",
+      "5415 Shamus Dr, Indianapolis, IN 46235, USA",
       "6933 N Park Ave, Indianapolis, IN 46220, USA",
       "3319 E 69th St, Indianapolis, IN 46220, USA",
       "6872 Hawthorn Park Dr, Indianapolis, IN 46220, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15362
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1050
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9273
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11725
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 959
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 7971
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 696
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10125
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 976
                },
                "status" : "OK"
             },

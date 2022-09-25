@@ -5,16 +5,19 @@
       "20208 Ritter Ave, South Bend, IN 46614, USA",
       "1810 Elizabethan Ct, South Bend, IN 46614, USA",
       "16450 Jackson Rd, Mishawaka, IN 46544, USA",
+      "Bodnar Blvd, Mishawaka, IN 46544, USA",
       "24000 Railroad Trail, South Bend, IN 46619, USA",
       "22027 IN-23, South Bend, IN 46614, USA",
       "2500 Green Tech Dr, South Bend, IN 46613, USA",
       "2740 Southeast Dr, South Bend, IN 46614, USA",
       "1615 S Spring St, Mishawaka, IN 46544, USA",
+      "1801 Crystal Ct, Mishawaka, IN 46544, USA",
       "56249 Oak Rd, South Bend, IN 46619, USA",
       "18 100 Blk Iowa, South Bend, IN 46619, USA",
       "620 W Washington St, South Bend, IN 46601, USA",
       "216 S Greenlawn Ave, South Bend, IN 46617, USA",
       "1615 N Main St, Mishawaka, IN 46545, USA",
+      "1614 N Home St, Mishawaka, IN 46545, USA",
       "24045 US-20, South Bend, IN 46628, USA",
       "1976-2298 N Bendix Dr, South Bend, IN 46628, USA",
       "1891 Riverside Dr, South Bend, IN 46616, USA",
@@ -59,12 +62,12 @@
             },
             {
                "distance" : {
-                  "text" : "5.5 mi",
-                  "value" : 8804
+                  "text" : "5.7 mi",
+                  "value" : 9157
                },
                "duration" : {
-                  "text" : "15 mins",
-                  "value" : 877
+                  "text" : "16 mins",
+                  "value" : 935
                },
                "status" : "OK"
             },
@@ -76,6 +79,17 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 951
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13946
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1183
                },
                "status" : "OK"
             },
@@ -136,12 +150,23 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11782
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1098
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
-                  "value" : 7107
+                  "value" : 7145
                },
                "duration" : {
                   "text" : "11 mins",
-                  "value" : 684
+                  "value" : 652
                },
                "status" : "OK"
             },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9332
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 933
                },
                "status" : "OK"
             },

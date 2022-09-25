@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "233 Woody Farm Rd, Bedford, IN 47421, USA",
+      "321-339 Glenview Dr, Bedford, IN 47421, USA",
+      "2139 Tripleton Pike, Bedford, IN 47421, USA",
+      "428 Patton Hill Rd, Bedford, IN 47421, USA",
+      "468 E Oolitic Rd, Bedford, IN 47421, USA",
+      "129-65 Anderson Ln, Bedford, IN 47421, USA",
+      "590 Bartlettsville Rd, Bedford, IN 47421, USA",
       "2832 E State Rd 58, Bedford, IN 47421, USA",
+      "6022 W State Rd 54, Springville, IN 47462, USA",
       "948 N Pike Rd, Springville, IN 47462, USA",
       "4114 Peerless Rd, Bedford, IN 47421, USA",
       "4613 Judah Logan Rd, Bedford, IN 47421, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4137
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 329
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8117
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 511
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13221
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 938
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.1 mi",
-                  "value" : 9811
+                  "value" : 9786
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 728
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6357
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 547
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5843
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7122
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 481
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9812
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 636
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13878
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 881
                },
                "status" : "OK"
             },
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.7 mi",
-                  "value" : 9102
+                  "value" : 9103
                },
                "duration" : {
                   "text" : "13 mins",
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "6.4 mi",
-                  "value" : 10341
+                  "value" : 10340
                },
                "duration" : {
                   "text" : "11 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.3 mi",
-                  "value" : 13371
+                  "value" : 13372
                },
                "duration" : {
                   "text" : "14 mins",

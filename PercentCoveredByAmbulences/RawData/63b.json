@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "310 S Ritter Ave, Indianapolis, IN 46219, USA",
+      "7401 Forest Lake Rd, Indianapolis, IN 46219, USA",
+      "2027 N Rochester Ave, Indianapolis, IN 46222, USA",
+      "1232 W 19th St, Indianapolis, IN 46202, USA",
+      "547 E 20th St, Indianapolis, IN 46202, USA",
+      "1952 Lasalle St, Indianapolis, IN 46218, USA",
       "5441 E 19th Pl, Indianapolis, IN 46218, USA",
+      "1917 Arlene Dr, Indianapolis, IN 46219, USA",
       "3542 Sherburne Ln, Indianapolis, IN 46222, USA",
       "1212 Golden Hill Dr, Indianapolis, IN 46208, USA",
       "555 E 37th St, Indianapolis, IN 46205, USA",
       "3123 E 37th St, Indianapolis, IN 46218, USA",
-      "3631 N Whittier Pl, Indianapolis, IN 46218, USA"
+      "3613 N Whittier Pl, Indianapolis, IN 46218, USA",
+      "3691 N Sadlier Dr, Indianapolis, IN 46226, USA"
    ],
    "origin_addresses" : [ "1150 Shelby St, Indianapolis, IN 46203, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7502
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 806
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10973
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1145
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16505
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1333
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7732
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1222
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5777
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 992
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7207
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 960
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.5 mi",
@@ -25,7 +99,18 @@
             {
                "distance" : {
                   "text" : "9.4 mi",
-                  "value" : 15157
+                  "value" : 15174
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1325
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15156
                },
                "duration" : {
                   "text" : "24 mins",
@@ -47,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.8 mi",
-                  "value" : 9383
+                  "value" : 9382
                },
                "duration" : {
                   "text" : "22 mins",
@@ -69,11 +154,22 @@
             {
                "distance" : {
                   "text" : "8.7 mi",
-                  "value" : 14043
+                  "value" : 14042
                },
                "duration" : {
                   "text" : "24 mins",
                   "value" : 1448
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15185
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1567
                },
                "status" : "OK"
             }

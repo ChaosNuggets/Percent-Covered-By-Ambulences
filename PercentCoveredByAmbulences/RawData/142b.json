@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "103 N Fruitridge Ave, Terre Haute, IN 47803, USA",
+      "Rose Hulman Institute Rd, Terre Haute, IN 47803, USA",
+      "3098 Lower Sandford Rd, West Terre Haute, IN 47885, USA",
+      "3163 N Howe Pl, West Terre Haute, IN 47885, USA",
+      "3090 Barnhardt Rd, West Terre Haute, IN 47885, USA",
+      "3105 N 13th 1/2 St, Terre Haute, IN 47804, USA",
       "3181 N Fruitridge Ave, Terre Haute, IN 47804, USA",
       "6050 E Old Fort Harrison Ave, Terre Haute, IN 47805, USA",
       "5298-5146 N Porter Pl, West Terre Haute, IN 47885, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6562
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 755
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10287
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1054
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10995
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 801
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8400
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 640
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6599
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 520
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6254
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 578
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.7 mi",

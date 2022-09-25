@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "262-236 N 600 E, Valparaiso, IN 46383, USA",
+      "1150 S W, Union Mills, IN 46382, USA",
       "3701 Brigata Dr, Valparaiso, IN 46385, USA",
       "356 Meadow Ln Dr, Valparaiso, IN 46383, USA",
       "2501 Country Club Rd, Valparaiso, IN 46383, USA",
       "464 N 400 E, Valparaiso, IN 46383, USA",
-      "459-499 N 575 E, Valparaiso, IN 46383, USA"
+      "459-499 N 575 E, Valparaiso, IN 46383, USA",
+      "1100 S Creekside Ct, Westville, IN 46391, USA"
    ],
    "origin_addresses" : [ "2755 IN-49, Valparaiso, IN 46383, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 686
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14822
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 809
                },
                "status" : "OK"
             },
@@ -62,7 +75,7 @@
                },
                "duration" : {
                   "text" : "10 mins",
-                  "value" : 623
+                  "value" : 624
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14332
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 824
                },
                "status" : "OK"
             }

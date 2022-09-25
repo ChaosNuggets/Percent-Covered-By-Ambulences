@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "S 400 E-57, Churubusco, IN 46723, USA",
       "6202 E 350 S, Laotto, IN 46763, USA",
       "Unnamed Road, Avilla, IN 46710, USA",
       "10121 E 400 S, Laotto, IN 46763, USA",
       "IN-3, Laotto, IN 46763, USA",
       "899-613 Co Rd 62, Garrett, IN 46738, USA",
+      "1606 S 400 E, Albion, IN 46701, USA",
       "1625 S 600 E-57, Avilla, IN 46710, USA",
       "1634 S 825 E, Avilla, IN 46710, USA",
       "1380 Old State Rd 3, Avilla, IN 46710, USA",
       "195-1 W County Rd 56, Laotto, IN 46763, USA",
       "824 Co Rd 54, Garrett, IN 46738, USA",
+      "4414-4432 E Baseline Rd, Albion, IN 46701, USA",
       "427-341 N 600 E, Avilla, IN 46710, USA",
       "294-490 N 800 E, Avilla, IN 46710, USA",
       "401 Progress Way, Avilla, IN 46710, USA",
       "283-1 W County Rd 48, Avilla, IN 46710, USA",
       "4826 Co Rd 7, Garrett, IN 46738, USA",
+      "2511-2207 N 400 E, Albion, IN 46701, USA",
       "2200 N 600 E, Avilla, IN 46710, USA",
       "2524 N 800 E, Avilla, IN 46710, USA",
-      "2340 N 1000 E, Avilla, IN 46710, USA",
-      "181-1 W County Rd 40, Avilla, IN 46710, USA"
+      "2340 N 1000 E, Avilla, IN 46710, USA"
    ],
    "origin_addresses" : [ "117 S Main St, Avilla, IN 46710, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17189
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 898
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.6 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 654
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13230
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 757
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10968
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 563
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.3 mi",
                   "value" : 6939
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13210
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 671
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8354
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 272
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5663
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 357
                },
                "status" : "OK"
             }

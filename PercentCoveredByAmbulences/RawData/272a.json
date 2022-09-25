@@ -5,16 +5,19 @@
       "16331 Grabill Rd, Grabill, IN 46741, USA",
       "19110 IN-37, Harlan, IN 46743, USA",
       "22001 Knouse Rd, Grabill, IN 46741, USA",
+      "13016-13398 Scipio Rd, Harlan, IN 46743, USA",
       "16717 Lochner Rd, Spencerville, IN 46788, USA",
       "16905 Van Zile Rd, Grabill, IN 46741, USA",
       "16400 Hurshtown Rd, Spencerville, IN 46788, USA",
       "19217 Hurshtown Rd, Grabill, IN 46741, USA",
       "21800-22998 Hurshtown Rd, Grabill, IN 46741, USA",
+      "25025 Hurshtown Rd, Harlan, IN 46743, USA",
       "3827 Co Rd 72, Auburn, IN 46706, USA",
       "7252 Co Rd 45, Spencerville, IN 46788, USA",
       "6986-7214 IN-1, Spencerville, IN 46788, USA",
       "7246 Co Rd 61, Spencerville, IN 46788, USA",
       "22348 N County Line Rd E, Spencerville, IN 46788, USA",
+      "7621 Co Rd 72, Harlan, IN 46743, USA",
       "3999-3685 Co Rd 64, Auburn, IN 46706, USA",
       "6427 Co Rd 45, St Joe, IN 46785, USA",
       "5487 Co Rd 64, Spencerville, IN 46788, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16233
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 792
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.9 mi",
                   "value" : 9519
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13580
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 712
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8495
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 371
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10174
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 581
                },
                "status" : "OK"
             },

@@ -1,16 +1,31 @@
 {
    "destination_addresses" : [
+      "1730 N Allen Chapel Rd, Kendallville, IN 46755, USA",
       "1561 County Line Rd, Corunna, IN 46730, USA",
+      "1545 IN-327, Corunna, IN 46730, USA",
+      "10092-10246 Kelly St, Rome City, IN 46784, USA",
       "4299 E Northport Rd, Rome City, IN 46784, USA",
       "6621-6155 E 1000 N, Kendallville, IN 46755, USA",
       "8184 E Cree Lake Dr S, Kendallville, IN 46755, USA",
       "County Rd 1000 E, Kendallville, IN 46755, USA",
-      "755 County Rd 00N, Corunna, IN 46730, USA"
+      "755 County Rd 00N, Corunna, IN 46730, USA",
+      "750 IN-327, Corunna, IN 46730, USA"
    ],
    "origin_addresses" : [ "234 S Main St, Kendallville, IN 46755, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6128
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 482
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.1 mi",
@@ -19,6 +34,28 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 640
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13882
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 775
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15344
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 865
                },
                "status" : "OK"
             },
@@ -74,6 +111,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17098
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 900
                },
                "status" : "OK"
             }

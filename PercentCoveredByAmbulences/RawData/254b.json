@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "547-1297 N 250 E, La Porte, IN 46350, USA",
+      "1404-1408 N Scholl Rd, Rolling Prairie, IN 46371, USA",
+      "2696 N Jongkind Park Rd, La Porte, IN 46350, USA",
+      "I-90, La Porte, IN 46350, USA",
+      "2749 N St Rd 39, La Porte, IN 46350, USA",
+      "303 E 250 N, La Porte, IN 46350, USA",
       "2534-2150 N 150 E, La Porte, IN 46350, USA",
       "2601 N 350 E, Rolling Prairie, IN 46371, USA",
       "4691 N Maplewood Dr, La Porte, IN 46350, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6531
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9685
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 745
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9958
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "19.4 mi",
+                  "value" : 31197
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1657
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5393
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 508
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 6026
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "4.2 mi",

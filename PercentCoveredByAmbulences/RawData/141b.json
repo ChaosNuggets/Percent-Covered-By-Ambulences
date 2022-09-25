@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "6764-6256 E Swope Ave, Terre Haute, IN 47805, USA",
       "8488 E Kyle Ave, Terre Haute, IN 47805, USA",
+      "445 W 1800 S, Clinton, IN 47842, USA",
       "11 Timberline Rd, Clinton, IN 47842, USA",
       "350 W South St, Clinton, IN 47842, USA",
       "10200 South 625, West, IN 47874, USA",
       "4441 1000 S, Rosedale, IN 47874, USA",
-      "178 South St, Rosedale, IN 47874, USA"
+      "178 South St, Rosedale, IN 47874, USA",
+      "Unnamed Road, Clinton, IN 47842, USA",
+      "1978-1800 E Hazel Bluff Rd, Clinton, IN 47842, USA",
+      "1123 S Main St, Clinton, IN 47842, USA",
+      "County Rd 625 W, Rosedale, IN 47874, USA",
+      "8514 450 W, Rosedale, IN 47874, USA",
+      "Coxville Rd, Rosedale, IN 47874, USA"
    ],
    "origin_addresses" : [ "8727 N 30th St, Terre Haute, IN 47805, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5479
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 408
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.4 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 615
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.8 mi",
+                  "value" : 22265
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1331
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 668
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.2 mi",
+                  "value" : 21268
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1604
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15507
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 840
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12629
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 619
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10088
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 555
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12658
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 663
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15938
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
                },
                "status" : "OK"
             }

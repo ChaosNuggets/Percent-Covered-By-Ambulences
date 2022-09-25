@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "13195 Olive Branch Rd, Hagerstown, IN 47346, USA",
       "8098-7100 Manning Rd, Economy, IN 47339, USA",
+      "2468 N County Rd 600 E, Mooreland, IN 47360, USA",
       "Unnamed Road, Mooreland, IN 47360, USA",
       "9570 Franklin Rd, Hagerstown, IN 47346, USA",
       "14883 Nobblett Rd, Hagerstown, IN 47346, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6489
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8813
                },
                "duration" : {
                   "text" : "11 mins",
-                  "value" : 668
+                  "value" : 674
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15220
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 849
                },
                "status" : "OK"
             },
@@ -51,7 +75,7 @@
                },
                "duration" : {
                   "text" : "8 mins",
-                  "value" : 501
+                  "value" : 508
                },
                "status" : "OK"
             },
@@ -62,7 +86,7 @@
                },
                "duration" : {
                   "text" : "11 mins",
-                  "value" : 633
+                  "value" : 639
                },
                "status" : "OK"
             },
@@ -73,7 +97,7 @@
                },
                "duration" : {
                   "text" : "14 mins",
-                  "value" : 823
+                  "value" : 829
                },
                "status" : "OK"
             }

@@ -5,7 +5,12 @@
       "6006 E County Rd 900 N, Seymour, IN 47274, USA",
       "2514-2544 Hwy 11, Seymour, IN 47274, USA",
       "10000 E County Rd 900 N, Seymour, IN 47274, USA",
-      "11967 E 900, Seymour, IN 47274, USA"
+      "11967 E 900, Seymour, IN 47274, USA",
+      "3299 W 1050 S, Columbus, IN 47201, USA",
+      "284 W 1100 S, Seymour, IN 47274, USA",
+      "8081 E County Rd 1100 N, Seymour, IN 47274, USA",
+      "1100 N, Seymour, IN 47274, USA",
+      "10885 N County Rd 1200 E, Seymour, IN 47274, USA"
    ],
    "origin_addresses" : [ "220 N Chestnut St, Seymour, IN 47274, USA" ],
    "rows" : [
@@ -74,6 +79,61 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 773
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15886
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 994
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13246
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 764
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10063
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 585
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 12990
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 904
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15598
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 889
                },
                "status" : "OK"
             }

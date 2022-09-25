@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "1601 E Sycamore St, Kokomo, IN 46901, USA",
+      "50 N 280 E, Kokomo, IN 46901, USA",
+      "300 N 685 W, Kokomo, IN 46901, USA",
+      "5055 W 300 N, Kokomo, IN 46901, USA",
+      "300 W 275 N, Kokomo, IN 46901, USA",
+      "1159 County Rd 300 N, Kokomo, IN 46901, USA",
+      "2336-2964 Busby Rd, Kokomo, IN 46901, USA",
       "3163 County Rd N 300 E, Kokomo, IN 46901, USA",
+      "6898 W 500 N, Kokomo, IN 46901, USA",
       "4870 N 500 W, Kokomo, IN 46901, USA",
       "4500-4998 County Rd 300 W, Kokomo, IN 46901, USA",
       "4871 County Rd North 100 W, Kokomo, IN 46901, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4990
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 502
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8048
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 748
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13128
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 786
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9966
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7019
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 514
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6292
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 509
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8527
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.9 mi",
                   "value" : 11069
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 868
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16364
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 933
                },
                "status" : "OK"
             },

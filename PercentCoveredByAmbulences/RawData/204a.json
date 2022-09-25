@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "8008 Dark Star Dr, Indianapolis, IN 46217, USA",
       "539 E Stop 11 Rd, Indianapolis, IN 46227, USA",
       "3210 McFarland Way, Indianapolis, IN 46227, USA",
       "5502 Ashview Dr, Indianapolis, IN 46237, USA",
       "7341 E Stop 11 Rd, Indianapolis, IN 46259, USA",
       "9526 Maze Rd, Indianapolis, IN 46259, USA",
-      "541 E Edgewood Ave, Indianapolis, IN 46227, USA",
+      "1319 W Edgewood Ave, Indianapolis, IN 46217, USA",
+      "535 E Edgewood Ave, Indianapolis, IN 46227, USA",
       "3010 Locust Dr, Indianapolis, IN 46227, USA",
       "6157 Arctic Cir, Indianapolis, IN 46237, USA",
       "6291 Five Points Rd, Indianapolis, IN 46259, USA",
       "9401 E Edgewood Ave, Indianapolis, IN 46239, USA",
+      "1405 W Hanna Ave, Indianapolis, IN 46217, USA",
       "4015 S East St, Indianapolis, IN 46227, USA",
       "4000 Creek Way, Indianapolis, IN 46227, USA",
       "4133 Cashard Ave, Indianapolis, IN 46203, USA",
       "7323 E Hanna Ave, Indianapolis, IN 46239, USA",
       "9421 Northeastern Ave, Indianapolis, IN 46239, USA",
+      "Eagle Creek Greenway, Indianapolis, IN 46221, USA",
       "Ellis Shelter, 2231-2249,2230, 2248 S Garfield Dr, Indianapolis, IN 46203, USA",
       "3103 E Tabor St, Indianapolis, IN 46203, USA",
-      "2340 S Ritter Ave, Indianapolis, IN 46203, USA",
-      "7421 E Raymond St, Indianapolis, IN 46239, USA"
+      "2340 S Ritter Ave, Indianapolis, IN 46203, USA"
    ],
    "origin_addresses" : [ "340e Churchman Ave, Beech Grove, IN 46107, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16421
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1198
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "9.0 mi",
@@ -60,7 +74,7 @@
             {
                "distance" : {
                   "text" : "6.3 mi",
-                  "value" : 10133
+                  "value" : 10132
                },
                "duration" : {
                   "text" : "14 mins",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 893
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13477
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 972
                },
                "status" : "OK"
             },
@@ -104,7 +129,7 @@
             {
                "distance" : {
                   "text" : "4.1 mi",
-                  "value" : 6568
+                  "value" : 6567
                },
                "duration" : {
                   "text" : "9 mins",
@@ -115,7 +140,7 @@
             {
                "distance" : {
                   "text" : "5.1 mi",
-                  "value" : 8158
+                  "value" : 8159
                },
                "duration" : {
                   "text" : "11 mins",
@@ -131,6 +156,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 799
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12673
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 788
                },
                "status" : "OK"
             },
@@ -181,7 +217,7 @@
             {
                "distance" : {
                   "text" : "4.7 mi",
-                  "value" : 7544
+                  "value" : 7543
                },
                "duration" : {
                   "text" : "11 mins",
@@ -191,8 +227,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15490
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 969
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
-                  "value" : 8575
+                  "value" : 8574
                },
                "duration" : {
                   "text" : "13 mins",
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 320
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6844
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 511
                },
                "status" : "OK"
             }

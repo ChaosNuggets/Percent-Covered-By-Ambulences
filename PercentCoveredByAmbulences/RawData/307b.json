@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "10066 Fisherville Rd, Elberfeld, IN 47613, USA",
       "County Rd 750 W, Chandler, IN 47610, USA",
+      "1530 Nuebling Rd, Evansville, IN 47725, USA",
       "1033 Frost Dr, Evansville, IN 47725, USA",
       "15138 Cemetery Rd, Evansville, IN 47725, USA",
       "5766 E County Line Rd, Chandler, IN 47610, USA",
       "5999 N Newmaster Lake Rd, Elberfeld, IN 47613, USA",
-      "Wasson Rd, Elberfeld, IN 47613, USA"
+      "Wasson Rd, Elberfeld, IN 47613, USA",
+      "19801 Darmstadt Rd, Evansville, IN 47725, USA",
+      "18200 Korff Rd, Evansville, IN 47725, USA",
+      "3055 Volkman Rd, Evansville, IN 47725, USA",
+      "6498-6400 7 Hills Rd, Elberfeld, IN 47613, USA",
+      "10444 7 Hills Rd, Elberfeld, IN 47613, USA",
+      "County Rd 750 N, Elberfeld, IN 47613, USA"
    ],
    "origin_addresses" : [ "5730 Kansas Rd, Evansville, IN 47725, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10404
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 578
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.6 mi",
@@ -24,8 +43,19 @@
             },
             {
                "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13470
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 908
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.6 mi",
-                  "value" : 13862
+                  "value" : 13861
                },
                "duration" : {
                   "text" : "13 mins",
@@ -36,7 +66,7 @@
             {
                "distance" : {
                   "text" : "5.1 mi",
-                  "value" : 8271
+                  "value" : 8272
                },
                "duration" : {
                   "text" : "9 mins",
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 783
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18284
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1059
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15327
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12115
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15439
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 932
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14755
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 817
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.2 mi",
+                  "value" : 17976
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1041
                },
                "status" : "OK"
             }

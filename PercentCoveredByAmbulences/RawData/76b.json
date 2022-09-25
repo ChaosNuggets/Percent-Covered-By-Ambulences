@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "Unnamed Road, West Baden Springs, IN 47469, USA",
+      "1453 275 W, Paoli, IN 47454, USA",
       "12307 US-150, Shoals, IN 47581, USA",
       "375 N, West Baden Springs, IN 47469, USA",
       "8494 W County Rd 325 N, West Baden Springs, IN 47469, USA",
       "7023 W Co Rd 350 N, West Baden Springs, IN 47469, USA",
-      "4976 Orangeville Rd, West Baden Springs, IN 47469, USA"
+      "4976 Orangeville Rd, West Baden Springs, IN 47469, USA",
+      "2970 W County Rd 325 N, West Baden Springs, IN 47469, USA"
    ],
    "origin_addresses" : [ "546 S Indiana Ave, French Lick, IN 47432, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 848
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15144
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 850
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 855
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15962
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1006
                },
                "status" : "OK"
             }

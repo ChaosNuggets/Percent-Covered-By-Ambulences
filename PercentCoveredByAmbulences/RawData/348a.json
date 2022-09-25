@@ -1,29 +1,109 @@
 {
    "destination_addresses" : [
+      "7101 E Co Rd 550 S, Muncie, IN 47302, USA",
+      "9698-8100 S 600 E Rd, Selma, IN 47383, USA",
+      "12901-13699 E Co Rd 575 S, Selma, IN 47383, USA",
+      "11000-11750 County Rd 400 S, Parker City, IN 47368, USA",
+      "3384 S 900 W, Farmland, IN 47340, USA",
+      "3586 S 750 W, Farmland, IN 47340, USA",
+      "5701 S 475 E Rd, Selma, IN 47383, USA",
       "9101-11299 E County Rd 400 S, Selma, IN 47383, USA",
       "5825 S County Rd 800 E, Selma, IN 47383, USA",
       "1545 S 1150 W, Parker City, IN 47368, USA",
       "9434 W 150 S, Farmland, IN 47340, USA",
       "1573 S 750 W, Farmland, IN 47340, USA",
+      "7305 E Smithfield Pike, Muncie, IN 47302, USA",
       "2512 S Co Rd 625 E, Selma, IN 47383, USA",
       "13331 E Co Rd 150 S, Selma, IN 47383, USA",
       "50 W North St, Parker City, IN 47368, USA",
       "9400-9498 County Rd 950 W, Farmland, IN 47340, USA",
       "7341 IN-32, Farmland, IN 47340, USA",
+      "700 N Cook Rd, Muncie, IN 47303, USA",
       "504 N 650 E Rd, Selma, IN 47383, USA",
       "13530 E Jackson St, Parker City, IN 47368, USA",
-      "11000-11414 County Rd 200 N, Parker City, IN 47368, USA",
-      "1999 N 950 W, Parker City, IN 47368, USA",
-      "407-309 New York St, Farmland, IN 47340, USA",
-      "4205 N 650 E Rd, Albany, IN 47320, USA",
-      "13440 E Orr Rd, Parker City, IN 47368, USA",
-      "4426-4300 County Rd 1100 W, Parker City, IN 47368, USA",
-      "4401-4999 IN-1, Farmland, IN 47340, USA"
+      "11000-11414 County Rd 200 N, Parker City, IN 47368, USA"
    ],
    "origin_addresses" : [ "147 W Washington St, Parker City, IN 47368, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15624
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 990
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13275
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 801
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11044
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10429
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12449
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17097
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 926
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12461
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.4 mi",
@@ -76,6 +156,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 777
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11776
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 678
                },
                "status" : "OK"
             },
@@ -136,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9710
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 529
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.7 mi",
                   "value" : 6032
                },
@@ -164,72 +266,6 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 187
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.3 mi",
-                  "value" : 5277
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 378
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.9 mi",
-                  "value" : 7951
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 513
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.7 mi",
-                  "value" : 9249
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 515
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.8 mi",
-                  "value" : 7677
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 507
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6156
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 402
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.8 mi",
-                  "value" : 9400
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 520
                },
                "status" : "OK"
             }

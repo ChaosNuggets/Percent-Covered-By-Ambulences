@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "14422 Wicker Ave, Cedar Lake, IN 46303, USA",
       "8199-8001 W 146th Ave, Cedar Lake, IN 46303, USA",
       "14101 Reeder Rd, Crown Point, IN 46307, USA",
       "2415 W 141st Ave, Crown Point, IN 46307, USA",
       "1954-1108 E 145th Ave, Crown Point, IN 46307, USA",
       "14168-14498 Arizona St, Crown Point, IN 46307, USA",
+      "12815 Wicker Ave, Cedar Lake, IN 46303, USA",
       "12809 Foster St, Cedar Lake, IN 46303, USA",
       "12710 Clark St, Crown Point, IN 46307, USA",
       "1500 N Main St, Crown Point, IN 46307, USA",
       "12800 Mississippi Pkwy, Crown Point, IN 46307, USA",
       "4023-4777 E 129th Ave, Winfield, IN 46307, USA",
+      "12285 Wicker Ave, Cedar Lake, IN 46303, USA",
       "11214 S Cline Ave, Crown Point, IN 46307, USA",
       "5205 W 112th Ave, Crown Point, IN 46307, USA",
       "234 Pettibone Ave, Crown Point, IN 46307, USA",
       "812 E 113th Ave, Crown Point, IN 46307, USA",
       "11188 State St, Crown Point, IN 46307, USA",
+      "9623 Wicker Ave, St John, IN 46373, USA",
       "9632 Dewey Pl, St John, IN 46373, USA",
       "9730 Clark Rd, Crown Point, IN 46307, USA",
-      "9544 Cleveland St, Crown Point, IN 46307, USA",
-      "9820 Georgia St, Crown Point, IN 46307, USA"
+      "9544 Cleveland St, Crown Point, IN 46307, USA"
    ],
    "origin_addresses" : [ "124 N East St, Crown Point, IN 46307, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16313
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1029
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.3 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 665
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13104
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 887
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9902
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6656
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11680
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8199
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 396
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6185
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 597
                },
                "status" : "OK"
             }

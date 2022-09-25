@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "2319 N Fulton Ave, Evansville, IN 47710, USA",
       "City of Evansville - Park Maintenance, 1126 E Diamond Ave, Evansville, IN 47711, USA",
       "3500 Joan Ave, Evansville, IN 47715, USA",
       "2516 Arbors Dr, Evansville, IN 47715, USA",
       "Epworth Rd, Chandler, IN 47610, USA",
       "8144 Angel Dr, Newburgh, IN 47630, USA",
+      "5400 N First Ave, Evansville, IN 47710, USA",
       "1120 St George Rd, Evansville, IN 47711, USA",
       "3535 Keystone Hills Dr, Evansville, IN 47711, USA",
       "6900 Olmstead Rd, Evansville, IN 47715, USA",
       "9988 Boonville Hwy, Chandler, IN 47610, USA",
       "8055 IN-62, Chandler, IN 47610, USA",
+      "1224 Bradley Dr, Evansville, IN 47710, USA",
       "1040 E Mt Pleasant Rd, Evansville, IN 47725, USA",
       "8720 Hedden Rd, Evansville, IN 47725, USA",
       "11900-11998 Ayrshire Rd, Chandler, IN 47610, USA",
       "Ayrshire Rd, Chandler, IN 47610, USA",
       "1500 Tow Path Rd, Chandler, IN 47610, USA",
+      "2255 Dress Ln, Evansville, IN 47725, USA",
       "1012 Campbell Rd, Evansville, IN 47725, USA",
       "3410 E Boonville-New Harmony Rd, Evansville, IN 47725, USA",
-      "11699 E Boonville-New Harmony Rd, Elberfeld, IN 47613, USA",
-      "10066 Fisherville Rd, Elberfeld, IN 47613, USA"
+      "11699 E Boonville-New Harmony Rd, Elberfeld, IN 47613, USA"
    ],
    "origin_addresses" : [ "5730 Kansas Rd, Evansville, IN 47725, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15631
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1143
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 964
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12760
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 906
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10681
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 776
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7099
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13708
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 814
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11725
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 317
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.5 mi",
-                  "value" : 10404
-               },
-               "duration" : {
-                  "text" : "10 mins",
-                  "value" : 578
                },
                "status" : "OK"
             }

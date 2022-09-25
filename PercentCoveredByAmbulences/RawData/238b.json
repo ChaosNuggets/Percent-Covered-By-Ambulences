@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "2087 Autumn Faith Way, Avon, IN 46123, USA",
       "2034 Sea Hero Ct, Indianapolis, IN 46234, USA",
+      "1-691 E County Rd 450 N, Pittsboro, IN 46167, USA",
       "3198-2500 E County Rd 450 N, Pittsboro, IN 46167, USA",
       "4164 N County Rd 500 E, Danville, IN 46122, USA",
       "1472 Hideaway Cir, Brownsburg, IN 46112, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7060
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 602
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10070
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 806
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.3 mi",
+                  "value" : 16554
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 978
                },
                "status" : "OK"
             },

@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "4088 Heppner Rd, Batesville, IN 47006, USA",
       "4124 Pipe Creek Rd, Batesville, IN 47006, USA",
+      "3390 N Co Rd 950 E, Greensburg, IN 47240, USA",
       "6221 N Hamburg Rd, Oldenburg, IN 47036, USA",
       "24158 Hilltop Rd, Oldenburg, IN 47036, USA",
       "22298-22280 Peters Rd, Oldenburg, IN 47036, USA",
       "20084 Wilderness Dr, Batesville, IN 47006, USA",
-      "18060 Streetcar Rd, Batesville, IN 47006, USA"
+      "18060 Streetcar Rd, Batesville, IN 47006, USA",
+      "1283-1399 NE Kiowa Trail, Greensburg, IN 47240, USA",
+      "8063-8547 Hamburg Rd, Laurel, IN 47024, USA",
+      "24064 Mdw Ln Rd, Oldenburg, IN 47036, USA",
+      "22778-22506 Whistle Creek Rd, Metamora, IN 47030, USA",
+      "8129 Big Woods Rd, Metamora, IN 47030, USA",
+      "7255 Pipe Creek Rd, Metamora, IN 47030, USA"
    ],
    "origin_addresses" : [ "22118 Water St, Oldenburg, IN 47036, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5670
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 401
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.2 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 731
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14964
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1019
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 931
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.5 mi",
+                  "value" : 21714
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1712
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13713
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 926
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16959
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1114
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13079
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13929
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14768
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 965
                },
                "status" : "OK"
             }

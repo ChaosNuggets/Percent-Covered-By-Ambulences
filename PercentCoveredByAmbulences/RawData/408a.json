@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "County Rd 1080 W, Brook, IN 47922, USA",
       "8775 IN-16, Rensselaer, IN 47978, USA",
       "6800-7004 IN-16, Rensselaer, IN 47978, USA",
       "4833 IN-16, Rensselaer, IN 47978, USA",
       "280 South St, Rensselaer, IN 47978, USA",
       "Culp Farms Airport-4IN8, 10098 County Rd 80 W, Rensselaer, IN 47978, USA",
+      "Unnamed Road, Brook, IN 47922, USA",
       "8499-8001 S 880 W, Rensselaer, IN 47978, USA",
       "8072 County Rd 650 W, Collegeville, IN 47978, USA",
       "8090 S 480 W, Rensselaer, IN 47978, USA",
       "2828 West County Road 800, South, IN 47978, USA",
       "8889-7987 County Rd 30 W, Rensselaer, IN 47978, USA",
+      "Bunkum Rd, Rensselaer, IN 47978, USA",
       "I-65, Rensselaer, IN 47978, USA",
       "1901 W Daugherty Rd, Rensselaer, IN 47978, USA",
       "1401 S Melville St, Rensselaer, IN 47978, USA",
       "2843-2727 W McCoysburg Rd, Rensselaer, IN 47978, USA",
       "5500-5998 S 150 W, Rensselaer, IN 47978, USA",
+      "10634-10904 W 400 S, Rensselaer, IN 47978, USA",
       "4645-4105 County Rd 850 W, Rensselaer, IN 47978, USA",
       "757-1745 County Rd 700 W, Rensselaer, IN 47978, USA",
-      "1144 County Rd 500 W, Rensselaer, IN 47978, USA",
-      "E Wood Rd, Rensselaer, IN 47978, USA"
+      "1144 County Rd 500 W, Rensselaer, IN 47978, USA"
    ],
    "origin_addresses" : [ "116 S Van Rensselaer St, Rensselaer, IN 47978, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16123
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 775
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14396
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 907
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10922
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 720
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.7 mi",
                   "value" : 5917
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10372
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 652
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6571
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 282
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6660
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 438
                },
                "status" : "OK"
             }

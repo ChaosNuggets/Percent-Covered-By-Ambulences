@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "9499-9101 N Texas Ridge Rd, Gosport, IN 47433, USA",
       "6350 W Brighton Rd, Gosport, IN 47433, USA",
       "9744 N Bowman Rd, Gosport, IN 47433, USA",
       "1989 W Burma Rd, Gosport, IN 47433, USA",
       "9502-9584 I-69, Bloomington, IN 47404, USA",
       "6399-6381 N Old State Rd 37, Martinsville, IN 46151, USA",
+      "5760 Lingle Rd, Gosport, IN 47433, USA",
       "4170-4498 S Lingle Rd, Gosport, IN 47433, USA",
       "5232-5244 Burton Rd, Gosport, IN 47433, USA",
       "4550 S Salem Rd, Gosport, IN 47433, USA",
       "5090 W Paragon Rd, Martinsville, IN 46151, USA",
       "4810 E Hacker Creek Rd, Martinsville, IN 46151, USA",
+      "6999-5801 Jones Rd, Gosport, IN 47433, USA",
       "2702 S Vickrey Rd, Gosport, IN 47433, USA",
       "8698 Old State Rd 67, Paragon, IN 46166, USA",
       "Friendship Dr, Paragon, IN 46166, USA",
       "1700-1998 County Rd 500 W, Martinsville, IN 46151, USA",
       "2170 Deer Lake Dr, Martinsville, IN 46151, USA",
+      "8600-9294 Jones Rd, Gosport, IN 47433, USA",
       "554 S Waggoner Rd, Paragon, IN 46166, USA",
       "628-910 S Denny Hill Rd, Paragon, IN 46166, USA",
-      "Duckworth Rd, Martinsville, IN 46151, USA",
-      "3563 Buffalo Dr, Martinsville, IN 46151, USA"
+      "Duckworth Rd, Martinsville, IN 46151, USA"
    ],
    "origin_addresses" : [ "209 W Union St, Paragon, IN 46166, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15097
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 813
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.7 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1137
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9894
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 461
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13690
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 687
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7404
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16906
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 864
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.0 mi",
                   "value" : 9586
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 321
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.9 mi",
-                  "value" : 6270
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 336
                },
                "status" : "OK"
             }

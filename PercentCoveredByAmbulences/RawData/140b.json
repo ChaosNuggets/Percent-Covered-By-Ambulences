@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "11001-11499 S 700 W, Akron, IN 46910, USA",
+      "11237 S 500 W, Silver Lake, IN 46982, USA",
       "7315 E 300 N, Rochester, IN 46975, USA",
       "2998-2104 N 900 E, Akron, IN 46910, USA",
       "9163 State Rte 19, Akron, IN 46910, USA",
       "9998-9000 S 900 W, Akron, IN 46910, USA",
-      "6401-10013 S 675 W, Silver Lake, IN 46982, USA"
+      "6401-10013 S 675 W, Silver Lake, IN 46982, USA",
+      "9498-9000 S 500 W, Silver Lake, IN 46982, USA"
    ],
    "origin_addresses" : [ "204 W Rochester St, Akron, IN 46910, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12794
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 637
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 675
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15077
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 780
                },
                "status" : "OK"
             }

@@ -5,16 +5,19 @@
       "N Co Rd 50 W, Petersburg, IN 47567, USA",
       "1506 E Campbell Heights Rd, Petersburg, IN 47567, USA",
       "Unnamed Road, Petersburg, IN 47567, USA",
+      "5129-5499 IN-56, Winslow, IN 47598, USA",
       "4739-4305 W Co Rd 300 N, Petersburg, IN 47567, USA",
       "2734 N CountyRoad 250 W, Petersburg, IN 47567, USA",
       "705 County Rd 300 N, Petersburg, IN 47567, USA",
       "1510 County Rd 300, Petersburg, IN 47567, USA",
       "Grapevine Rd, Petersburg, IN 47567, USA",
+      "5398-5104 E Co Rd 300 N, Petersburg, IN 47567, USA",
       "4749-3751 IN-56, Petersburg, IN 47567, USA",
       "4052-5298 County Rd 250 W, Petersburg, IN 47567, USA",
       "310 Spruce St, Petersburg, IN 47567, USA",
       "1415 Alford Rd, Petersburg, IN 47567, USA",
       "3659-3407 E County Rd 475 N, Petersburg, IN 47567, USA",
+      "4747 N Co Rd 575 E, Petersburg, IN 47567, USA",
       "Unnamed Road, Petersburg, IN 47567, USA",
       "2276 River Rd, Petersburg, IN 47567, USA",
       "10562 IN-61, Monroe City, IN 47557, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13806
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 710
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8855
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12058
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 768
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7618
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 475
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10448
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 577
                },
                "status" : "OK"
             },

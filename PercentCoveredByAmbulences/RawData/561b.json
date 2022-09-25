@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "3999-3501 IN-205, Columbia City, IN 46725, USA",
+      "1788 W Keiser Rd, Columbia City, IN 46725, USA",
+      "6998 E 750 S, Pierceton, IN 46562, USA",
+      "950 W 270 S-57, Larwill, IN 46764, USA",
+      "2571 IN-5, Larwill, IN 46764, USA",
+      "2515 N 575 W, South Whitley, IN 46787, USA",
       "2540 S 350 W, Columbia City, IN 46725, USA",
+      "2093-1057 W Dowell Rd, Columbia City, IN 46725, USA",
       "5503 S 700 E, Pierceton, IN 46562, USA",
       "493 S 950 W, Larwill, IN 46764, USA",
       "431 IN-5, Larwill, IN 46764, USA",
       "5479-5159 County Rd 50 S, Larwill, IN 46764, USA",
-      "3500-3926 W Old Trail Rd, Columbia City, IN 46725, USA"
+      "3500-3926 W Old Trail Rd, Columbia City, IN 46725, USA",
+      "1730 W Old Trail Rd, Columbia City, IN 46725, USA"
    ],
    "origin_addresses" : [ "118 E Front St, South Whitley, IN 46787, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6857
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 356
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10880
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 582
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11147
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 649
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8282
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4897
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 328
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7553
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 475
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.3 mi",
@@ -19,6 +93,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13205
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 657
                },
                "status" : "OK"
             },
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 705
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15121
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 801
                },
                "status" : "OK"
             }

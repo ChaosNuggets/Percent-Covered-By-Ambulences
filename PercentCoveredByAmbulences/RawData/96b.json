@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "5551-4233 Ernie Pyle Memorial Hwy, Bainbridge, IN 46105, USA",
+      "6307 US-36, Bainbridge, IN 46105, USA",
+      "9023 N Co Rd 400 W, Roachdale, IN 46172, USA",
+      "1843 W County Rd 900 N, Roachdale, IN 46172, USA",
+      "9073 N Meridian Line Rd, Roachdale, IN 46172, USA",
+      "2499-2059 E County Rd 900 N, Roachdale, IN 46172, USA",
+      "4605 E County Rd 900 N, Roachdale, IN 46172, USA",
       "6397 E County Rd 900 N, Roachdale, IN 46172, USA",
+      "3989 W County Rd 1100 N, Roachdale, IN 46172, USA",
       "4 Winds Aerodrome-IN45, W County Rd 1100 N, Roachdale, IN 46172, USA",
       "131 E County Rd 1100 N, Roachdale, IN 46172, USA",
       "2153 E County Rd 1100 N, Roachdale, IN 46172, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3546
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 183
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6863
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 343
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12327
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 688
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9472
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 624
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7640
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 469
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4611
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 313
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8017
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.7 mi",
                   "value" : 10731
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 652
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15205
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 718
                },
                "status" : "OK"
             },
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "9.1 mi",
-                  "value" : 14566
+                  "value" : 14565
                },
                "duration" : {
                   "text" : "15 mins",

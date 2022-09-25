@@ -1,16 +1,90 @@
 {
    "destination_addresses" : [
+      "Montgomery Rd, Ghent, KY 41045, USA",
+      "1315 KY-184, Ghent, KY 41045, USA",
+      "6610 Arnett Rd, Vevay, IN 47043, USA",
+      "51-1 Hastings Rd, Vevay, IN 47043, USA",
+      "6578 Posten Rd, Vevay, IN 47043, USA",
+      "8731 Cogley Cole Rd, Vevay, IN 47043, USA",
       "199-167 Hunts Creek Rd, Vevay, IN 47043, USA",
+      "12867 IN-156, Florence, IN 47020, USA",
       "2606 Smith Ridge Rd, Vevay, IN 47043, USA",
       "4857 Brown Rd, Vevay, IN 47043, USA",
       "7048 Campbell Rd, Vevay, IN 47043, USA",
       "406-578 Plum Creek Rd, Vevay, IN 47043, USA",
-      "168-298 Popcorn Ridge Rd, Vevay, IN 47043, USA"
+      "168-298 Popcorn Ridge Rd, Vevay, IN 47043, USA",
+      "12870 Beatty Ridge Rd, Florence, IN 47020, USA"
    ],
    "origin_addresses" : [ "112 W Pike St, Vevay, IN 47043, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17122
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15073
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 801
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12033
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 750
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12696
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 884
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6607
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5057
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 381
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "4.2 mi",
@@ -19,6 +93,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 585
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9721
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 513
                },
                "status" : "OK"
             },
@@ -36,7 +121,7 @@
             {
                "distance" : {
                   "text" : "6.7 mi",
-                  "value" : 10855
+                  "value" : 10854
                },
                "duration" : {
                   "text" : "12 mins",
@@ -47,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.5 mi",
-                  "value" : 8829
+                  "value" : 8830
                },
                "duration" : {
                   "text" : "9 mins",
@@ -58,7 +143,7 @@
             {
                "distance" : {
                   "text" : "5.6 mi",
-                  "value" : 9054
+                  "value" : 9053
                },
                "duration" : {
                   "text" : "11 mins",
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 766
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 12990
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 839
                },
                "status" : "OK"
             }

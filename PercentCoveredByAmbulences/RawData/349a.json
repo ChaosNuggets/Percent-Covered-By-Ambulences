@@ -3,18 +3,23 @@
       "1627 S 400 E, Union City, IN 47390, USA",
       "2189-1287 650 E, Union City, IN 47390, USA",
       "1701 IN-227, Union City, IN 47390, USA",
+      "7692 Springhill Rd, Union City, OH 45390, USA",
       "434 N 400 E, Union City, IN 47390, USA",
       "202 N 625 E, Union City, IN 47390, USA",
       "235 IN-227, Union City, IN 47390, USA",
+      "8535-8907 Springhill Rd, Union City, OH 45390, USA",
       "2321 N 400 E, Winchester, IN 47394, USA",
       "600 N East St, Winchester, IN 47394, USA",
       "1410 W Oak St, Union City, IN 47390, USA",
+      "29 RR Sec, Union City, OH 45390, USA",
       "4472 N 400 E, Winchester, IN 47394, USA",
       "N 600 E, Union City, IN 47390, USA",
       "4183 N 800 E, Union City, IN 47390, USA",
+      "Township Hwy 220, Union City, OH 45390, USA",
       "400 E N Alley, Union City, IN 47390, USA",
       "6251-6999 N 600 E, Union City, IN 47390, USA",
-      "6368 N 800 E, Union City, IN 47390, USA"
+      "6368 N 800 E, Union City, IN 47390, USA",
+      "317-613 Washington Rd, Union City, OH 45390, USA"
    ],
    "origin_addresses" : [ "309 W Pearl St, Union City, IN 47390, USA" ],
    "rows" : [
@@ -55,6 +60,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8126
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 542
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10267
                },
@@ -83,6 +99,17 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 303
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4867
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 388
                },
                "status" : "OK"
             },
@@ -121,6 +148,17 @@
             },
             {
                "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2931
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 347
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.8 mi",
                   "value" : 10875
                },
@@ -154,6 +192,17 @@
             },
             {
                "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4476
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 333
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.8 mi",
                   "value" : 10933
                },
@@ -182,6 +231,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 448
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7569
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 497
                },
                "status" : "OK"
             }

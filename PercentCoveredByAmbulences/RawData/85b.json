@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "S 850 W, Cynthiana, IN 47612, USA",
       "10300 S S R 65, Owensville, IN 47665, USA",
+      "County Rd 1300 N, Griffin, IN 47616, USA",
       "Gibson County Line Rd, Poseyville, IN 47633, USA",
       "850 S 1250 W, Owensville, IN 47665, USA",
       "10688 850 S, Owensville, IN 47665, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7936
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 487
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10075
                },
                "duration" : {
                   "text" : "9 mins",
                   "value" : 554
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14046
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 763
                },
                "status" : "OK"
             },

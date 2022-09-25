@@ -5,16 +5,19 @@
       "13604-14398 Winchester Rd, Fort Wayne, IN 46819, USA",
       "4103 Gibson Rd, Fort Wayne, IN 46816, USA",
       "7135 Hoagland Rd, Hoagland, IN 46745, USA",
+      "9735 Hoagland Rd, Hoagland, IN 46745, USA",
       "4401 Altitude Dr, Fort Wayne, IN 46809, USA",
       "1606 Winters Rd, Fort Wayne, IN 46819, USA",
       "1113 Dodane Rd, Fort Wayne, IN 46819, USA",
       "4200 Bostick Rd, Fort Wayne, IN 46816, USA",
       "11510 Emanuel Rd, Hoagland, IN 46745, USA",
+      "9800 Monroeville Rd, Fort Wayne, IN 46816, USA",
       "4531 Lower Huntington Rd, Fort Wayne, IN 46809, USA",
       "8000 Airport Expy, Fort Wayne, IN 46809, USA",
       "1270 S Phoenix Pkwy, Fort Wayne, IN 46816, USA",
       "8200 Trentman Rd, Fort Wayne, IN 46816, USA",
       "7201 Maples Rd, Fort Wayne, IN 46816, USA",
+      "10001 Maples Rd, Fort Wayne, IN 46816, USA",
       "4107 Elmcrest Dr, Fort Wayne, IN 46809, USA",
       "1307 W Sherwood Terrace, Fort Wayne, IN 46807, USA",
       "4910 Bowser Ave, Fort Wayne, IN 46806, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14573
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 814
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.9 mi",
                   "value" : 12647
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11439
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 571
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8392
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 398
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11102
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 649
                },
                "status" : "OK"
             },

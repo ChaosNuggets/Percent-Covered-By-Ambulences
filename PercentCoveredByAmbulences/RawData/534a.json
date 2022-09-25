@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "60250 Crumstown Hwy, North Liberty, IN 46554, USA",
+      "60001 Peach Rd, North Liberty, IN 46614, USA",
+      "24360 IN-23, South Bend, IN 46614, USA",
+      "22302 Johnson Rd, South Bend, IN 46614, USA",
+      "20208 Ritter Ave, South Bend, IN 46614, USA",
+      "1810 Elizabethan Ct, South Bend, IN 46614, USA",
       "27760 Harrison Rd, South Bend, IN 46619, USA",
       "25855 Northwood Dr, South Bend, IN 46619, USA",
       "24000 Railroad Trail, South Bend, IN 46619, USA",
@@ -15,18 +21,78 @@
       "54101-54499 Rose Rd, South Bend, IN 46628, USA",
       "25825 Longwood Ct, South Bend, IN 46628, USA",
       "24045 US-20, South Bend, IN 46628, USA",
-      "1976-2298 N Bendix Dr, South Bend, IN 46628, USA",
-      "1891 Riverside Dr, South Bend, IN 46616, USA",
-      "18223 Bulla Rd, South Bend, IN 46637, USA",
-      "27947 Darden Rd, New Carlisle, IN 46552, USA",
-      "52280 Primrose Rd, South Bend, IN 46628, USA",
-      "4444 Ameritech Dr, South Bend, IN 46628, USA",
-      "3315 William Richardson Dr, South Bend, IN 46628, USA"
+      "1976-2298 N Bendix Dr, South Bend, IN 46628, USA"
    ],
    "origin_addresses" : [ "4817 Lincoln Way W, South Bend, IN 46628, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14316
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 885
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12302
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 831
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11130
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 833
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12411
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 964
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15253
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1050
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18178
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1125
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.9 mi",
@@ -200,72 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 337
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.5 mi",
-                  "value" : 8844
-               },
-               "duration" : {
-                  "text" : "15 mins",
-                  "value" : 878
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.5 mi",
-                  "value" : 10476
-               },
-               "duration" : {
-                  "text" : "18 mins",
-                  "value" : 1068
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.0 mi",
-                  "value" : 11214
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 651
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.1 mi",
-                  "value" : 8229
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 539
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.0 mi",
-                  "value" : 7974
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 528
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.4 mi",
-                  "value" : 7079
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 694
                },
                "status" : "OK"
             }

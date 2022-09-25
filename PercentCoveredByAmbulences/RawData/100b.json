@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "17586 Palmer Rd, Moores Hill, IN 47032, USA",
+      "12123 N Hogan Rd, Aurora, IN 47001, USA",
+      "5679 N 200, Osgood, IN 47037, USA",
+      "3656 E Prattsburg Rd, Sunman, IN 47041, USA",
+      "5721 550 N, Milan, IN 47031, USA",
+      "5941-5585 N County Rd 800 E, Milan, IN 47031, USA",
+      "14159 Schwipps Rd, Milan, IN 47031, USA",
       "12229 White Plains Rd, Milan, IN 47031, USA",
+      "7639 N County Rd 200 E, Osgood, IN 47037, USA",
       "7547 N Old Milan Rd, Sunman, IN 47041, USA",
       "5860 E CountyRoad 750 N, Milan, IN 47031, USA",
       "7451 N County Rd 800 E, Milan, IN 47031, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6301
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12616
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 771
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13740
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10546
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 711
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6054
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 450
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5628
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8442
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "9.2 mi",
                   "value" : 14826
                },
                "duration" : {
                   "text" : "15 mins",
                   "value" : 919
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14486
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 812
                },
                "status" : "OK"
             },

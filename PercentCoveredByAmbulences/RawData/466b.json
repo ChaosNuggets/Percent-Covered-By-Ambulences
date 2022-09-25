@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "357 Elm Rd, Bremen, IN 46506, USA",
+      "2612 B Rd, Bremen, IN 46506, USA",
+      "68409 U.S.31, Lakeville, IN 46536, USA",
+      "68361 Kenilworth Rd, Lakeville, IN 46536, USA",
+      "18282 Riley Rd, Bremen, IN 46506, USA",
+      "16001-16519 Riley Rd, Bremen, IN 46506, USA",
+      "14956-14358 Riley Rd, Bremen, IN 46506, USA",
       "68001-68443 Dogwood Rd, Nappanee, IN 46550, USA",
+      "22001-22137 Pierce Rd, Lakeville, IN 46536, USA",
       "66293 Kenilworth Rd, Lakeville, IN 46536, USA",
       "18266 Pierce Rd, Lakeville, IN 46536, USA",
       "66361 Gumwood Rd, Bremen, IN 46506, USA",
@@ -11,6 +19,83 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5549
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 360
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9066
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 406
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16332
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10304
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6524
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 471
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6450
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 325
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9373
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 431
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.3 mi",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15700
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 797
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.0 mi",
-                  "value" : 12821
+                  "value" : 12822
                },
                "duration" : {
                   "text" : "11 mins",
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "6.1 mi",
-                  "value" : 9792
+                  "value" : 9790
                },
                "duration" : {
                   "text" : "9 mins",

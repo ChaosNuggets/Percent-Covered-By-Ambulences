@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
       "4901-6499 S 550 W Rd, Yorktown, IN 47396, USA",
+      "5701 S Co Rd 325 W, Muncie, IN 47302, USA",
       "3220 Arthur Blvd, Anderson, IN 46012, USA",
       "4029 450 N, Anderson, IN 46012, USA",
       "14900 W Burkmill Rd, Daleville, IN 47334, USA",
       "2090 S Co Rd 700 W, Yorktown, IN 47396, USA",
-      "8520 W Cornbread Rd, Yorktown, IN 47396, USA"
+      "8520 W Cornbread Rd, Yorktown, IN 47396, USA",
+      "5670 W Cornbread Rd, Yorktown, IN 47396, USA",
+      "6480 N Cord 200, Alexandria, IN 46001, USA",
+      "6362 N Lunar Ln, Alexandria, IN 46001, USA",
+      "I-69, Daleville, IN 47334, USA",
+      "790 N Co Rd 725 W, Yorktown, IN 47396, USA",
+      "8604 W Tulip Tree Dr, Muncie, IN 47304, USA",
+      "Deerbrook, 5508 W Autumn Springs Ct, Muncie, IN 47304, USA"
    ],
    "origin_addresses" : [ "8019 S Walnut St, Daleville, IN 47334, USA" ],
    "rows" : [
@@ -19,6 +27,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 452
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11352
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 665
                },
                "status" : "OK"
             },
@@ -74,6 +93,83 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 590
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12810
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 802
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15218
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 925
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12933
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 877
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10340
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 478
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10137
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 622
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13204
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 880
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16066
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1092
                },
                "status" : "OK"
             }

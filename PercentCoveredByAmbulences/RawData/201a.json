@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "5359 W 450 S, Portland, IN 47371, USA",
       "4777-4577 S Mt Pleasant Rd, Portland, IN 47371, USA",
       "1608 W 450 S, Portland, IN 47371, USA",
       "397 E 450 S, Portland, IN 47371, USA",
       "2334-2000 500S, Portland, IN 47371, USA",
       "4076 500S, Portland, IN 47371, USA",
+      "2999-2001 S 500 W, Portland, IN 47371, USA",
       "2000-2998 125 S, Portland, IN 47371, USA",
       "1399-1201 W Deer Haven Dr, Portland, IN 47371, USA",
       "2342-2998 S 50 E, Portland, IN 47371, USA",
       "2390-1000 300 S, Portland, IN 47371, USA",
       "400 E 300 S, Portland, IN 47371, USA",
+      "5493-5001 W 50 S, Portland, IN 47371, USA",
       "300 S 75 E, Portland, IN 47371, USA",
       "1494 W Tyson Rd, Portland, IN 47371, USA",
       "419 E 1st St, Portland, IN 47371, USA",
       "2379 IN-26, Portland, IN 47371, USA",
       "100 IN-26, Portland, IN 47371, USA",
+      "1295 E 500 N, Portland, IN 47371, USA",
       "1451 N 350 W, Portland, IN 47371, USA",
       "1550 W 100 N, Portland, IN 47371, USA",
-      "196 White Oak, Wayne Township, IN 47371, USA",
-      "1455 N 200 E, Portland, IN 47371, USA"
+      "196 White Oak, Wayne Township, IN 47371, USA"
    ],
    "origin_addresses" : [ "319 N Meridian St, Portland, IN 47371, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13846
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 753
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.7 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 725
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11149
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11175
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 614
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.5 mi",
                   "value" : 7295
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13016
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 772
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8212
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 342
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6150
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 487
                },
                "status" : "OK"
             }

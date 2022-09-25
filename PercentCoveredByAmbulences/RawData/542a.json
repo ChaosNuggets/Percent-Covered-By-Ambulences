@@ -5,16 +5,19 @@
       "3835 E 400 S, Knox, IN 46534, USA",
       "4229-4499 S 550 E, Knox, IN 46534, USA",
       "4156 S 750 E, Knox, IN 46534, USA",
+      "E 400 S, Culver, IN 46511, USA",
       "2322-2000 S Range Rd, Knox, IN 46534, USA",
       "2055 S 200 E, Knox, IN 46534, USA",
       "3800 E Mae Delano Dr, Knox, IN 46534, USA",
       "5701 E 200 S, Knox, IN 46534, USA",
       "7501-7999 E 200 S, Knox, IN 46534, USA",
+      "9420 E 225 S, Knox, IN 46534, USA",
       "215 S Range Rd, Knox, IN 46534, USA",
       "S 200 E, Ober, IN 46534, USA",
       "105 W Washington St, Knox, IN 46534, USA",
       "600 E, Knox, IN 46534, USA",
       "7998-7540 E 50 S, Knox, IN 46534, USA",
+      "9660 E 50 S, Knox, IN 46534, USA",
       "1624-1998 N Range Rd, Knox, IN 46534, USA",
       "1793 N 200 E, Knox, IN 46534, USA",
       "1761-1501 US-35, Knox, IN 46534, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15258
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.3 mi",
                   "value" : 13435
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12394
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 682
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.3 mi",
                   "value" : 10216
                },
@@ -181,11 +206,22 @@
             {
                "distance" : {
                   "text" : "5.0 mi",
-                  "value" : 8112
+                  "value" : 8113
                },
                "duration" : {
                   "text" : "8 mins",
                   "value" : 504
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11980
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 755
                },
                "status" : "OK"
             },

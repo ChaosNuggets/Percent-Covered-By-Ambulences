@@ -7,7 +7,13 @@
       "I-69, Bloomington, IN 47404, USA",
       "1812 E Bethel Ln, Bloomington, IN 47408, USA",
       "4127 E Bethel Ln, Bloomington, IN 47408, USA",
-      "4600 N Benton Dr, Bloomington, IN 47408, USA"
+      "4600 N Benton Dr, Bloomington, IN 47408, USA",
+      "6818 W Maple Grove Rd, Ellettsville, IN 47429, USA",
+      "3951 W Maple Grove Rd, Bloomington, IN 47404, USA",
+      "5564-5854 N Bottom Rd, Bloomington, IN 47404, USA",
+      "2150 E Dolan Rd, Bloomington, IN 47408, USA",
+      "4288 E Robinson Rd, Bloomington, IN 47408, USA",
+      "6699 N Utt Dr, Bloomington, IN 47408, USA"
    ],
    "origin_addresses" : [ "122 S Walnut St, Bloomington, IN 47404, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1110
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14190
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 992
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12652
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 904
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10287
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 11020
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 980
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11651
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 886
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16373
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1238
                },
                "status" : "OK"
             }

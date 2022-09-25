@@ -1,25 +1,43 @@
 {
    "destination_addresses" : [
+      "574 Railroad Ave, Michigan City, IN 46360, USA",
       "116 Pheasant Run Dr, Michigan City, IN 46360, USA",
       "9454 W Pahs Rd, Michigan City, IN 46360, USA",
       "4664 Johnson Rd, Michigan City, IN 46360, USA",
       "4691 N Maplewood Dr, La Porte, IN 46350, USA",
       "3641 W 450 Rd N, La Porte, IN 46350, USA",
+      "E Lake Front Dr, Pine Township, IN 46360, USA",
       "306 Woodlawn Ave, Michigan City, IN 46360, USA",
       "153 Tilden Ave, Michigan City, IN 46360, USA",
       "3700 E Michigan Blvd, Michigan City, IN 46360, USA",
       "5624 Warnke Rd, Michigan City, IN 46360, USA",
       "400 North St, La Porte, IN 46350, USA",
+      "Porter County, IN, USA",
       "On the Lake, Michigan City, IN 46360, USA",
       "1405 Lake Shore Dr, Michigan City, IN 46360, USA",
       "276 Twin Rd, Michigan City, IN 46360, USA",
       "5371-5939 W 900 N, Michigan City, IN 46360, USA",
-      "8998-8000 N 400 W, Michigan City, IN 46360, USA"
+      "8998-8000 N 400 W, Michigan City, IN 46360, USA",
+      "41.76215,-86.955629999999914",
+      "Berrien County, MI, USA",
+      "Berrien County, MI, USA",
+      "3001-3099 Lake Shore Dr, Long Beach, IN 46360, USA"
    ],
    "origin_addresses" : [ "2400 Oriole Trail, Long Beach, IN 46360, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14777
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1152
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.6 mi",
@@ -77,6 +95,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13675
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1108
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.5 mi",
                   "value" : 8887
                },
@@ -126,7 +155,18 @@
                },
                "duration" : {
                   "text" : "14 mins",
-                  "value" : 823
+                  "value" : 833
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11431
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 911
                },
                "status" : "OK"
             },
@@ -182,6 +222,42 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 661
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5510
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1385
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 195
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1714
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 225
                },
                "status" : "OK"
             }

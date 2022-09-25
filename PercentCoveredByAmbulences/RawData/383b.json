@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "789 E 190 N, Jasper, IN 47546, USA",
+      "2926-3248 E Jasper Dubois Rd, Jasper, IN 47546, USA",
+      "4305-4189 N 600 W, Jasper, IN 47546, USA",
+      "3471 N 500 W, Jasper, IN 47546, USA",
+      "1358 W Ann Ln, Jasper, IN 47546, USA",
+      "798-200 400 N, Jasper, IN 47546, USA",
+      "3848 125 E, Jasper, IN 47546, USA",
       "300 N, Jasper, IN 47546, USA",
+      "6788 W 580 N, Jasper, IN 47546, USA",
       "W 570 N, Jasper, IN 47546, USA",
       "2998-2234 W 600 N, Jasper, IN 47546, USA",
       "5870 US-231, Jasper, IN 47546, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5764
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 543
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9026
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 611
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11239
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 793
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9270
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6254
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 647
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6132
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 500
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8054
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 600
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.6 mi",
                   "value" : 10651
                },
                "duration" : {
                   "text" : "12 mins",
                   "value" : 745
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15206
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 984
                },
                "status" : "OK"
             },

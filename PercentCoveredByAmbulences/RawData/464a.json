@@ -1,29 +1,46 @@
 {
    "destination_addresses" : [
+      "10312 6B Rd, Plymouth, IN 46563, USA",
       "8280 6B Rd, Plymouth, IN 46563, USA",
       "6757 6A Rd, Plymouth, IN 46563, USA",
       "4626-4998 6th Rd, Bremen, IN 46506, USA",
       "2400-2998 6B Rd, Bremen, IN 46506, USA",
       "679 6th Rd, Bourbon, IN 46504, USA",
+      "9916 W 1050 N, Nappanee, IN 46550, USA",
+      "10252 4B Rd, Bremen, IN 46506, USA",
       "4427 E Shore Dr, Bremen, IN 46506, USA",
       "4379 Grape Rd, Bremen, IN 46506, USA",
       "4788-4752 Fir Rd, Bremen, IN 46506, USA",
       "4772-4000 IN-331, Bremen, IN 46506, USA",
       "1249-1 4B Rd, Nappanee, IN 46550, USA",
+      "9999-9501 W Hepton Rd, Nappanee, IN 46550, USA",
+      "2570-2294 Kenilworth Rd, Bremen, IN 46506, USA",
       "8285 US-6, Bremen, IN 46506, USA",
       "6324 Plymouth Goshen Trail, Bremen, IN 46506, USA",
       "410 S Jackson St, Bremen, IN 46506, USA",
       "2616 2 B Rd, Bremen, IN 46506, USA",
       "748 2 B Rd, Nappanee, IN 46550, USA",
+      "29819 Co Rd 56, Nappanee, IN 46550, USA",
+      "532-234 King Rd, Bremen, IN 46506, USA",
       "293-499 Ironwood Rd, Bremen, IN 46506, USA",
       "824-250 Gumwood Rd, Bremen, IN 46506, USA",
-      "357 Elm Rd, Bremen, IN 46506, USA",
-      "2612 B Rd, Bremen, IN 46506, USA"
+      "357 Elm Rd, Bremen, IN 46506, USA"
    ],
    "origin_addresses" : [ "123 S Center St, Bremen, IN 46506, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14128
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 877
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.4 mi",
@@ -76,6 +93,28 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 717
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15469
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 888
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14194
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 838
                },
                "status" : "OK"
             },
@@ -136,6 +175,28 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11672
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 717
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9633
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 597
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6433
                },
@@ -191,6 +252,28 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10197
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 514
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12419
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 737
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.4 mi",
                   "value" : 8620
                },
@@ -217,19 +300,8 @@
                   "value" : 3362
                },
                "duration" : {
-                  "text" : "6 mins",
-                  "value" : 346
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.7 mi",
-                  "value" : 5876
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 374
+                  "text" : "7 mins",
+                  "value" : 401
                },
                "status" : "OK"
             }

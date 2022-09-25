@@ -5,16 +5,19 @@
       "8875 Borden Greenville Rd, Borden, IN 47106, USA",
       "1025 Seelye Rd, Borden, IN 47106, USA",
       "11008 Starlight Rd, Floyds Knobs, IN 47119, USA",
+      "5416 Wieska Knob Rd, Floyds Knobs, IN 47119, USA",
       "3958 E Wetzel Rd, Palmyra, IN 47164, USA",
       "5706 E Mann Rd, New Pekin, IN 47165, USA",
       "22510 Conway Rd, Borden, IN 47106, USA",
       "19321 Dow Knob Rd, Borden, IN 47106, USA",
       "17271-17299 Persimmon Run Rd, Borden, IN 47106, USA",
+      "2018 Southern Hills Dr, Borden, IN 47106, USA",
       "9440-9376 Bush Rd Jackson Twp, New Pekin, IN 47165, USA",
       "9336 S Voyles Rd, New Pekin, IN 47165, USA",
       "21119 Martinsburg Rd, Borden, IN 47106, USA",
       "19407 Hayes Rd, Borden, IN 47106, USA",
       "Unnamed Road, Borden, IN 47106, USA",
+      "4308 Wilson Switch Rd, Borden, IN 47106, USA",
       "7367-7767 Martinsburg Rd, New Pekin, IN 47165, USA",
       "374 S Voyles Rd, New Pekin, IN 47165, USA",
       "7822 S Packwood Branch Rd, New Pekin, IN 47165, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15226
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 998
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10291
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10172
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 627
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.6 mi",
                   "value" : 12254
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 870
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11092
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
                },
                "status" : "OK"
             },

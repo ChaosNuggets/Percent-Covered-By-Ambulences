@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "2354 E 415 N, Albion, IN 46701, USA",
       "4165 E 415 N, Kendallville, IN 46755, USA",
+      "6364 N 525 W, Wawaka, IN 46794, USA",
       "6589-6273 N 350 W, Wawaka, IN 46794, USA",
       "1665-1687 West 600 North, Albion, IN 46701, USA",
       "2-998 E 600 N, Albion, IN 46701, USA",
       "600 W E Dr, Albion, IN 46701, USA",
-      "6300-6510 N 400 E, Kendallville, IN 46755, USA"
+      "6300-6510 N 400 E, Kendallville, IN 46755, USA",
+      "5545 W 850 N, Ligonier, IN 46767, USA",
+      "8328-8496 N 300 W, Wawaka, IN 46794, USA",
+      "1340 W 800 N, Wawaka, IN 46794, USA",
+      "E 850 N, Wawaka, IN 46794, USA",
+      "2590 E 850 N, Rome City, IN 46784, USA",
+      "8397 N 450 E, Kendallville, IN 46755, USA"
    ],
    "origin_addresses" : [ "110 S Orange St, Albion, IN 46701, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6173
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 381
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.5 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 474
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12499
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 696
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 632
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16765
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 795
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13201
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10261
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 512
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10817
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 584
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 12998
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 690
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16155
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
                },
                "status" : "OK"
             }

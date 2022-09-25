@@ -5,16 +5,19 @@
       "303 S Jefferson St, Silver Lake, IN 46982, USA",
       "11434 S 100 W, Silver Lake, IN 46982, USA",
       "11349 S 100 E, Claypool, IN 46510, USA",
+      "11001-11999 S 300 E, Claypool, IN 46510, USA",
       "6401-10013 S 675 W, Silver Lake, IN 46982, USA",
       "9498-9000 S 500 W, Silver Lake, IN 46982, USA",
       "9188 IN-15, Silver Lake, IN 46982, USA",
       "999-1 W 900 S, Silver Lake, IN 46982, USA",
       "9998-9208 S 100 E, Claypool, IN 46510, USA",
+      "3998-2000 E 900 S, Claypool, IN 46510, USA",
       "7256 S 700 W, Claypool, IN 46510, USA",
       "5335 W 700 S, Claypool, IN 46510, USA",
       "7344 IN-15, Claypool, IN 46510, USA",
       "7473 S 100 W, Claypool, IN 46510, USA",
       "7636-7000 S 100 E, Claypool, IN 46510, USA",
+      "7410 S 300 E, Claypool, IN 46510, USA",
       "5256 S 700 W, Mentone, IN 46539, USA",
       "4913 W 525 S, Claypool, IN 46510, USA",
       "2844 W 550 S, Claypool, IN 46510, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15742
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 868
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.2 mi",
                   "value" : 13263
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11920
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 713
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.9 mi",
                   "value" : 12637
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 434
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9255
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 608
                },
                "status" : "OK"
             },

@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "County Rd 275 E, Bloomfield, IN 47424, USA",
       "5130 IN-54, Bloomfield, IN 47424, USA",
+      "3170 North 475, West, IN 47471, USA",
       "25 County Rd 250 W, Switz City, IN 47465, USA",
       "County Rd 100 W, Bloomfield, IN 47424, USA",
       "1262 E Tulip Rd, Bloomfield, IN 47424, USA",
       "Richland Township, IN 47424, USA",
-      "County Rd 480 E, Bloomfield, IN 47424, USA"
+      "County Rd 480 E, Bloomfield, IN 47424, USA",
+      "4959 N 475 W, Worthington, IN 47471, USA",
+      "IN-67, Worthington, IN 47471, USA",
+      "5823 IN-157, Bloomfield, IN 47424, USA",
+      "1075 Union Valley Rd, Bloomfield, IN 47424, USA",
+      "3241 E Beechwood Lake Rd, Bloomfield, IN 47424, USA",
+      "500 N, Bloomfield, IN 47424, USA"
    ],
    "origin_addresses" : [ "105 70 E, Bloomfield, IN 47424, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7648
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 472
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.1 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 388
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13543
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 785
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "17 mins",
                   "value" : 1017
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16431
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 941
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15731
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 789
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13452
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 794
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9854
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 543
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11187
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 761
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13687
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 965
                },
                "status" : "OK"
             }

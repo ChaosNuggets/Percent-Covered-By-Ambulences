@@ -7,7 +7,13 @@
       "14173 6th Rd, Plymouth, IN 46563, USA",
       "6417 Lilac Rd, Plymouth, IN 46563, USA",
       "10312 6B Rd, Plymouth, IN 46563, USA",
-      "8280 6B Rd, Plymouth, IN 46563, USA"
+      "8280 6B Rd, Plymouth, IN 46563, USA",
+      "4210 N Sycamore Rd, Walkerton, IN 46574, USA",
+      "16080 4B Rd, Plymouth, IN 46563, USA",
+      "4 Tahoe Trail, Plymouth, IN 46563, USA",
+      "12279 4A Rd, Plymouth, IN 46563, USA",
+      "10252 4B Rd, Bremen, IN 46506, USA",
+      "4427 E Shore Dr, Bremen, IN 46506, USA"
    ],
    "origin_addresses" : [ "215 W Washington St, Plymouth, IN 46563, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 839
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14100
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 968
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12874
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 870
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10345
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 719
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10104
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12641
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 819
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15764
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1066
                },
                "status" : "OK"
             }

@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "13530 E Jackson St, Parker City, IN 47368, USA",
+      "11000-11414 County Rd 200 N, Parker City, IN 47368, USA",
+      "900 Blk E Riggin Rd, Muncie, IN 47303, USA",
+      "IN-3, Muncie, IN 47303, USA",
+      "7215 E Co Rd 275 N, Muncie, IN 47303, USA",
+      "4205 N 650 E Rd, Albany, IN 47320, USA",
+      "13440 E Orr Rd, Parker City, IN 47368, USA",
       "4426-4300 County Rd 1100 W, Parker City, IN 47368, USA",
+      "1031 E Royerton Rd, Muncie, IN 47303, USA",
       "4108 450 N, Muncie, IN 47303, USA",
       "7298-6726 E Co Rd 481 N, Albany, IN 47320, USA",
       "7300 N 650 E Rd, Albany, IN 47320, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4448
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 351
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6733
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 409
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13030
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 792
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9758
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 506
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8062
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4549
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 314
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7566
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 502
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.0 mi",
-                  "value" : 11302
+                  "value" : 11300
                },
                "duration" : {
                   "text" : "10 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13995
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 725
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.6 mi",
-                  "value" : 13909
+                  "value" : 13908
                },
                "duration" : {
                   "text" : "11 mins",
@@ -47,18 +143,18 @@
             {
                "distance" : {
                   "text" : "4.8 mi",
-                  "value" : 7768
+                  "value" : 7766
                },
                "duration" : {
                   "text" : "8 mins",
-                  "value" : 482
+                  "value" : 481
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "6.8 mi",
-                  "value" : 10913
+                  "value" : 10912
                },
                "duration" : {
                   "text" : "11 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.5 mi",
-                  "value" : 13696
+                  "value" : 13695
                },
                "duration" : {
                   "text" : "13 mins",

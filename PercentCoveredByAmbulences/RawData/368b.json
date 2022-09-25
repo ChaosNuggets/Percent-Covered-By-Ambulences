@@ -7,7 +7,13 @@
       "9000-9998 S 400 W, Poneto, IN 46781, USA",
       "2001-2999 W 950 S, Poneto, IN 46781, USA",
       "9501 S 50 W, Keystone, IN 46759, USA",
-      "1518 E 900 S, Keystone, IN 46759, USA"
+      "1518 E 900 S, Keystone, IN 46759, USA",
+      "8998-8000 W 750 S, Warren, IN 46792, USA",
+      "6120 W 700 S-90, Warren, IN 46792, USA",
+      "7859-7001 S 450 W, Poneto, IN 46781, USA",
+      "7282 S 200 W, Poneto, IN 46781, USA",
+      "7000-7992 Meridian Rd, Poneto, IN 46781, USA",
+      "7594 S 150 E, Poneto, IN 46781, USA"
    ],
    "origin_addresses" : [ "405 W Huntington St, Montpelier, IN 47359, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 740
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16663
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 761
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13410
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 646
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11528
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10806
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 574
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14008
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 726
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16379
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 963
                },
                "status" : "OK"
             }

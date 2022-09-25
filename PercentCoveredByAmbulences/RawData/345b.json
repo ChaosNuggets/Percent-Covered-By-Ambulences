@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "US-36, Lynn, IN 47355, USA",
+      "7674 S Arba Pike, Lynn, IN 47355, USA",
+      "5902-5998 S 400 W, Modoc, IN 47358, USA",
+      "5251 S 200 W, Winchester, IN 47394, USA",
+      "5610-5764 E Base Rd, Winchester, IN 47394, USA",
+      "5465 US-27, Winchester, IN 47394, USA",
+      "5999-5303 County Rd 400 E, Lynn, IN 47355, USA",
       "E 600 S, Lynn, IN 47355, USA",
+      "Unnamed Road, Winchester, IN 47394, USA",
       "1941-1585 W 400 S, Winchester, IN 47394, USA",
       "3707-3475 S Base Rd, Winchester, IN 47394, USA",
       "3000-3866 S 200 E, Winchester, IN 47394, USA",
@@ -11,6 +19,83 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4299
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 213
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7859
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 359
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13081
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 600
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11194
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7953
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 418
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.4 mi",
+                  "value" : 3862
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 193
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7049
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 408
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.2 mi",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16885
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 807
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "9.0 mi",
-                  "value" : 14406
+                  "value" : 14405
                },
                "duration" : {
                   "text" : "11 mins",
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "6.9 mi",
-                  "value" : 11055
+                  "value" : 11057
                },
                "duration" : {
                   "text" : "9 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "4.4 mi",
-                  "value" : 7100
+                  "value" : 7099
                },
                "duration" : {
                   "text" : "6 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "8.0 mi",
-                  "value" : 12952
+                  "value" : 12950
                },
                "duration" : {
                   "text" : "10 mins",

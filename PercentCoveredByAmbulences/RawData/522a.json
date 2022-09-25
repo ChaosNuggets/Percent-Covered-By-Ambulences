@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6182 Oglethorpe Ave, Portage, IN 46368, USA",
       "378-374 Robbins Rd, Valparaiso, IN 46385, USA",
       "858 N 200 W, Valparaiso, IN 46385, USA",
       "878 Timberland Farms Dr, Valparaiso, IN 46383, USA",
       "188 E Tratebas Rd, Valparaiso, IN 46383, USA",
       "873 Cain Dr, Valparaiso, IN 46383, USA",
+      "6196 Federal Ave, Portage, IN 46368, USA",
       "Imagination Glen - Outback Trail, 2130 McCool Rd, Portage, IN 46368, USA",
       "175 W 1050 N, Chesterton, IN 46304, USA",
       "2125 S 11th St, Chesterton, IN 46304, USA",
       "1058 N 200 E, Chesterton, IN 46304, USA",
       "1066 N 400 E, Chesterton, IN 46304, USA",
+      "6159 S Dune Harbor Dr, Portage, IN 46368, USA",
       "361 Shadyside Rd, Chesterton, IN 46304, USA",
       "1803 W Beam St, Porter, IN 46304, USA",
       "100 Woodlawn Ave, Porter, IN 46304, USA",
       "1569 Indian Boundary Rd, Chesterton, IN 46304, USA",
       "N 375 E, Porter, IN 46304, USA",
+      "Midwest Steel Hwy, Portage, IN 46368, USA",
       "Mittal Steel, Burns Harbor, IN, USA",
       "23 Summit Dr, Porter, IN 46304, USA",
-      "Waverly Rd, Porter, IN 46304, USA",
-      "1465 N 200 E, Chesterton, IN 46304, USA"
+      "Waverly Rd, Porter, IN 46304, USA"
    ],
    "origin_addresses" : [ "50 Francis St, Porter, IN 46304, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14149
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1089
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "17 mins",
                   "value" : 1021
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10899
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 730
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10920
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 737
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8207
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12760
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 974
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
                   "value" : 9248
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 366
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.8 mi",
-                  "value" : 6153
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 471
                },
                "status" : "OK"
             }

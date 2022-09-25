@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "11101 Black Chapel Rd, Poseyville, IN 47633, USA",
       "1075 W 1050 S, Owensville, IN 47665, USA",
       "S 850 W, Cynthiana, IN 47612, USA",
       "10300 S S R 65, Owensville, IN 47665, USA",
       "10134 County Rd 450 W, Cynthiana, IN 47612, USA",
       "2588 IN-68, Haubstadt, IN 47639, USA",
+      "850 S 1250 W, Owensville, IN 47665, USA",
       "10688 850 S, Owensville, IN 47665, USA",
       "8541 850 S, Cynthiana, IN 47612, USA",
       "IN-65, Owensville, IN 47665, USA",
       "4477 W 850 S, Fort Branch, IN 47648, USA",
       "County Rd 850 S, Fort Branch, IN 47648, USA",
+      "650 S 1275 W, Owensville, IN 47665, USA",
       "10561 IN-165, Owensville, IN 47665, USA",
       "650 S 850 W, Owensville, IN 47665, USA",
       "6498-6448 IN-65, Owensville, IN 47665, USA",
       "4467 IN-168, Owensville, IN 47665, USA",
       "County Rd 625 S, Fort Branch, IN 47648, USA",
+      "S 1300 W, Owensville, IN 47665, USA",
       "10572 County Rd 450 S, Owensville, IN 47665, USA",
       "4477 S 850 W, Owensville, IN 47665, USA",
-      "6700 450 S, Owensville, IN 47665, USA",
-      "County Rd 450 W, Owensville, IN 47665, USA"
+      "6700 450 S, Owensville, IN 47665, USA"
    ],
    "origin_addresses" : [ "510 W Brummitt St, Owensville, IN 47665, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.2 mi",
+                  "value" : 18040
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 920
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "10.9 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 718
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14762
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 662
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12669
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 611
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 8030
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11181
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 737
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.5 mi",
                   "value" : 7214
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "3 mins",
                   "value" : 200
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6592
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 458
                },
                "status" : "OK"
             }

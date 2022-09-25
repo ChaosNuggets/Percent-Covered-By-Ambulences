@@ -1,24 +1,27 @@
 {
    "destination_addresses" : [
+      "5211 Harmony Springfield Rd, New Harmony, IN 47631, USA",
       "4430 Romaine Rd, Poseyville, IN 47633, USA",
       "6120-6100 IN-66, Poseyville, IN 47633, USA",
       "7729 Shireman Rd, Poseyville, IN 47633, USA",
       "10330 John Will Rd, Wadesville, IN 47638, USA",
       "14727 N Posey County Line Rd, Evansville, IN 47720, USA",
+      "1821-1823 IN-68, New Harmony, IN 47631, USA",
       "7201 Blaylock Rd, New Harmony, IN 47631, USA",
       "5800 High School Rd, Poseyville, IN 47633, USA",
       "County Rd 775 E, Poseyville, IN 47633, USA",
       "10001 County Rd 725 N, Poseyville, IN 47633, USA",
       "7252 N Posey County Line Rd, Poseyville, IN 47633, USA",
+      "9012-8900 Somers Rd, New Harmony, IN 47631, USA",
       "8921 Blaylock Rd, Poseyville, IN 47633, USA",
       "County Rd 950 N, Poseyville, IN 47633, USA",
       "7900 IN-68, Poseyville, IN 47633, USA",
       "9600 IN-68, Cynthiana, IN 47612, USA",
       "Posey County Line Rd, Evansville, IN 47711, USA",
+      "2045 Overton Rd, New Harmony, IN 47631, USA",
       "11101 Waller Hill Rd, Poseyville, IN 47633, USA",
       "11101 Black Chapel Rd, Poseyville, IN 47633, USA",
-      "1075 W 1050 S, Owensville, IN 47665, USA",
-      "S 850 W, Cynthiana, IN 47612, USA"
+      "1075 W 1050 S, Owensville, IN 47665, USA"
    ],
    "origin_addresses" : [ "113 N St Francis St, Poseyville, IN 47633, USA" ],
    "rows" : [
@@ -26,12 +29,23 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17139
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.9 mi",
                   "value" : 12640
                },
                "duration" : {
                   "text" : "13 mins",
-                  "value" : 751
+                  "value" : 753
                },
                "status" : "OK"
             },
@@ -42,7 +56,7 @@
                },
                "duration" : {
                   "text" : "8 mins",
-                  "value" : 468
+                  "value" : 470
                },
                "status" : "OK"
             },
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "17 mins",
                   "value" : 1023
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10109
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 622
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11195
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 729
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.1 mi",
                   "value" : 6665
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13237
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 945
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9269
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 284
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.9 mi",
-                  "value" : 7934
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 487
                },
                "status" : "OK"
             }

@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "913 N 900 W, Tipton, IN 46072, USA",
       "720 N 700 W, Tipton, IN 46072, USA",
+      "9001-9557 E Co Rd 400 N, Forest, IN 46039, USA",
       "11365 E Co Rd 400 N, Forest, IN 46039, USA",
       "13498-12500 E Co Rd 400 N, Forest, IN 46039, USA",
       "2905 N 1100 W, Kempton, IN 46049, USA",
@@ -11,6 +13,17 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6831
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 382
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "6.2 mi",
@@ -24,8 +37,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15489
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 824
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.7 mi",
-                  "value" : 12344
+                  "value" : 12346
                },
                "duration" : {
                   "text" : "11 mins",
@@ -36,7 +60,7 @@
             {
                "distance" : {
                   "text" : "7.2 mi",
-                  "value" : 11520
+                  "value" : 11519
                },
                "duration" : {
                   "text" : "10 mins",
@@ -47,7 +71,7 @@
             {
                "distance" : {
                   "text" : "4.3 mi",
-                  "value" : 6914
+                  "value" : 6913
                },
                "duration" : {
                   "text" : "8 mins",

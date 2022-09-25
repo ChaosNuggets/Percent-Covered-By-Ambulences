@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "2400-2998 6B Rd, Bremen, IN 46506, USA",
       "679 6th Rd, Bourbon, IN 46504, USA",
       "9916 W 1050 N, Nappanee, IN 46550, USA",
       "10751 State Rte 19, Nappanee, IN 46550, USA",
       "6005 W 1100 N, Milford, IN 46542, USA",
       "4278 W 1050 N, Milford, IN 46542, USA",
+      "4772-4000 IN-331, Bremen, IN 46506, USA",
       "1249-1 4B Rd, Nappanee, IN 46550, USA",
       "9999-9501 W Hepton Rd, Nappanee, IN 46550, USA",
       "12666 State Rte 19, Nappanee, IN 46550, USA",
       "12500-12998 N 600 W, Nappanee, IN 46550, USA",
       "12711 N 400 W, Milford, IN 46542, USA",
+      "2616 2 B Rd, Bremen, IN 46506, USA",
       "748 2 B Rd, Nappanee, IN 46550, USA",
       "29819 Co Rd 56, Nappanee, IN 46550, USA",
       "108 E Walnut St, Nappanee, IN 46550, USA",
       "72449 Co Rd 9, Nappanee, IN 46550, USA",
       "24126 US-6, Nappanee, IN 46550, USA",
+      "2612 B Rd, Bremen, IN 46506, USA",
       "512-424 Beech Rd, Bremen, IN 46506, USA",
       "29828 Co Rd 50, Nappanee, IN 46550, USA",
-      "27891 Co Rd 50, Nappanee, IN 46550, USA",
-      "25951 Co Rd 50, Nappanee, IN 46550, USA"
+      "27891 Co Rd 50, Nappanee, IN 46550, USA"
    ],
    "origin_addresses" : [ "301 W Lincoln St, Nappanee, IN 46550, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18164
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 937
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.5 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 752
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14128
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 715
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9486
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 542
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.8 mi",
                   "value" : 6173
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12384
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 9067
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 359
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6883
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 502
                },
                "status" : "OK"
             }

@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "25951 Co Rd 50, Nappanee, IN 46550, USA",
       "24097 Co Rd 50, Nappanee, IN 46550, USA",
+      "68001-68443 Dogwood Rd, Nappanee, IN 46550, USA",
       "68998-68000 S Beech Rd, Nappanee, IN 46550, USA",
       "68362 Co Rd 1, Wakarusa, IN 46573, USA",
       "68458 State Rte 19, Nappanee, IN 46550, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6884
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 503
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10323
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15102
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
                },
                "status" : "OK"
             },

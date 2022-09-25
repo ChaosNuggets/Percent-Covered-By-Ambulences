@@ -5,16 +5,19 @@
       "County Rd 400 W, Austin, IN 47102, USA",
       "2000-2618 N Boatman Rd, Austin, IN 47102, USA",
       "31HWY North St, Austin, IN 47102, USA",
+      "2103 County Rd 200 E, Scottsburg, IN 47170, USA",
       "8000 IN-39, Crothersville, IN 47229, USA",
       "8000 Block South County Rd 825 E, Crothersville, IN 47229, USA",
       "8000 S County Rd 1025 E, Crothersville, IN 47229, USA",
       "4301-3983 Christie Rd Rd, Austin, IN 47102, USA",
       "3847-3501 Jack Morgan Rd, Austin, IN 47102, USA",
+      "4073 County Rd 200 E, Austin, IN 47102, USA",
       "5908 E County Rd 700 S, Crothersville, IN 47229, USA",
       "E County Rd 700 S, Crothersville, IN 47229, USA",
       "9887 700 S, Crothersville, IN 47229, USA",
       "Unnamed Road, Crothersville, IN 47229, USA",
       "6092 County Rd 50 W, Austin, IN 47102, USA",
+      "6183 County Rd 200 E, Austin, IN 47102, USA",
       "5998-5658 E County Rd 500 S, Crothersville, IN 47229, USA",
       "4000 S County Rd 800 E, Crothersville, IN 47229, USA",
       "9986 E County Rd 500 S, Crothersville, IN 47229, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14072
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 784
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.3 mi",
                   "value" : 11726
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13669
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
                   "value" : 9279
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 493
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10206
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 673
                },
                "status" : "OK"
             },

@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "1328 Shenandoah Dr, Lafayette, IN 47905, USA",
+      "5000 Dunbar Dr, Lafayette, IN 47905, USA",
+      "2715 N 475 W, West Lafayette, IN 47906, USA",
+      "2800 Horizon Dr, West Lafayette, IN 47906, USA",
+      "1051 Cumberland Ave, West Lafayette, IN 47906, USA",
+      "Wabash Heritage Trail, Lafayette, IN 47904, USA",
+      "2894 Old State Rd 25, Lafayette, IN 47905, USA",
       "5070 Marian Dale St, Lafayette, IN 47905, USA",
+      "4300-4998 W 500 N, West Lafayette, IN 47906, USA",
       "4948 Taft Rd, West Lafayette, IN 47906, USA",
       "4913 Hawthorne Ridge Dr, West Lafayette, IN 47906, USA",
       "1307 E 500 N, West Lafayette, IN 47906, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5692
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 577
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9915
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 982
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12523
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 770
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11861
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 769
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6577
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 797
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4991
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 427
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7082
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 598
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.6 mi",
                   "value" : 10635
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 823
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16870
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1028
                },
                "status" : "OK"
             },
@@ -68,12 +164,12 @@
             },
             {
                "distance" : {
-                  "text" : "7.8 mi",
-                  "value" : 12559
+                  "text" : "7.7 mi",
+                  "value" : 12368
                },
                "duration" : {
                   "text" : "15 mins",
-                  "value" : 917
+                  "value" : 915
                },
                "status" : "OK"
             }

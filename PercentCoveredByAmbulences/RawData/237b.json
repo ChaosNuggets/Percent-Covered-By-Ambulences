@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "8817 Dewey Dr, Lafayette, IN 47905, USA",
       "10998-10620 E 100 S, Lafayette, IN 47905, USA",
+      "1315 N 14th St, Lafayette, IN 47904, USA",
       "1328 Shenandoah Dr, Lafayette, IN 47905, USA",
       "5000 Dunbar Dr, Lafayette, IN 47905, USA",
       "6901 E 100 N, Lafayette, IN 47905, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13281
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 848
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "10.0 mi",
                   "value" : 16094
                },
                "duration" : {
                   "text" : "17 mins",
                   "value" : 994
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15614
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 931
                },
                "status" : "OK"
             },

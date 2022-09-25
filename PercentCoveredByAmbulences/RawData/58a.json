@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "3120 Ridge Rd, Williams, IN 47470, USA",
       "Fayetteville Coxton Rd, Williams, IN 47470, USA",
       "1 Old State Rd 450, Fort Ritner, IN 47421, USA",
       "3619 Austin Dr, Bedford, IN 47421, USA",
       "3000 I St, Bedford, IN 47421, USA",
       "Virgil I Grissom Muni-Bfr, 3213 Tunnelton Rd, Bedford, IN 47421, USA",
+      "3445-3401 IN-158, Bedford, IN 47421, USA",
       "374 Johnson Ln, Bedford, IN 47421, USA",
       "2 S Hill Dr, Bedford, IN 47421, USA",
       "3230 John A Williams Blvd, Bedford, IN 47421, USA",
       "904 Summit Ln, Bedford, IN 47421, USA",
       "233 Woody Farm Rd, Bedford, IN 47421, USA",
+      "679 Maul Ridge Rd, Bedford, IN 47421, USA",
       "2139 Tripleton Pike, Bedford, IN 47421, USA",
       "428 Patton Hill Rd, Bedford, IN 47421, USA",
       "468 E Oolitic Rd, Bedford, IN 47421, USA",
       "129-65 Anderson Ln, Bedford, IN 47421, USA",
       "590 Bartlettsville Rd, Bedford, IN 47421, USA",
+      "4239-4121 W State Rd 54, Springville, IN 47462, USA",
       "6022 W State Rd 54, Springville, IN 47462, USA",
       "948 N Pike Rd, Springville, IN 47462, USA",
-      "4114 Peerless Rd, Bedford, IN 47421, USA",
-      "4613 Judah Logan Rd, Bedford, IN 47421, USA"
+      "4114 Peerless Rd, Bedford, IN 47421, USA"
    ],
    "origin_addresses" : [ "109 Main St, Oolitic, IN 47451, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.3 mi",
+                  "value" : 14942
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.2 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 895
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13597
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 915
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10854
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 890
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "3.6 mi",
                   "value" : 5801
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9940
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 506
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6440
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 476
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "7.4 mi",
-                  "value" : 11870
-               },
-               "duration" : {
-                  "text" : "13 mins",
-                  "value" : 780
                },
                "status" : "OK"
             }

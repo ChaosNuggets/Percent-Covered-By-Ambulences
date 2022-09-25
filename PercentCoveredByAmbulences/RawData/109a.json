@@ -5,16 +5,19 @@
       "5750 S Walnut St, Muncie, IN 47302, USA",
       "3855 E Co Rd 350 S, Muncie, IN 47302, USA",
       "5701 S 475 E Rd, Selma, IN 47383, USA",
+      "9101-11299 E County Rd 400 S, Selma, IN 47383, USA",
       "5670 W Cornbread Rd, Yorktown, IN 47396, USA",
       "2101 W Cornbread Rd, Muncie, IN 47302, USA",
       "921 E 20th St, Muncie, IN 47302, USA",
       "4301 E Maple Manor Pkwy, Muncie, IN 47302, USA",
       "7305 E Smithfield Pike, Muncie, IN 47302, USA",
+      "2512 S Co Rd 625 E, Selma, IN 47383, USA",
       "Deerbrook, 5508 W Autumn Springs Ct, Muncie, IN 47304, USA",
       "Central Chilling Plant, 2306 W University Ave, Muncie, IN 47306, USA",
       "E McCulloch Blvd, Muncie, IN 47303, USA",
       "607 N Eastwood Ave, Muncie, IN 47303, USA",
       "700 N Cook Rd, Muncie, IN 47303, USA",
+      "504 N 650 E Rd, Selma, IN 47383, USA",
       "5510 W Bethel Ave, Muncie, IN 47304, USA",
       "2301 W Sheffield Dr, Muncie, IN 47304, USA",
       "900 Blk E Riggin Rd, Muncie, IN 47303, USA",
@@ -81,12 +84,23 @@
             },
             {
                "distance" : {
-                  "text" : "5.9 mi",
-                  "value" : 9442
+                  "text" : "11.3 mi",
+                  "value" : 18210
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1037
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9585
                },
                "duration" : {
                   "text" : "14 mins",
-                  "value" : 820
+                  "value" : 869
                },
                "status" : "OK"
             },
@@ -131,6 +145,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 647
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11869
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 762
                },
                "status" : "OK"
             },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 502
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10280
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 585
                },
                "status" : "OK"
             },

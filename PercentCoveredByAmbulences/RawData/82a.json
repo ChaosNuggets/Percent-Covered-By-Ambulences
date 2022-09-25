@@ -2,7 +2,8 @@
    "destination_addresses" : [
       "333-719 Copperline Rd, Mt Vernon, IN 47620, USA",
       "2880 Stevens Rd, Mt Vernon, IN 47620, USA",
-      "2601 Blackburn Rd, Mt Vernon, IN 47620, USA"
+      "2601 Blackburn Rd, Mt Vernon, IN 47620, USA",
+      "2299-2639 Menikheim Rd, Mt Vernon, IN 47620, USA"
    ],
    "origin_addresses" : [ "526 Main St, Mt Vernon, IN 47620, USA" ],
    "rows" : [
@@ -38,6 +39,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 740
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15110
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 968
                },
                "status" : "OK"
             }

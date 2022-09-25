@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "4170-4498 S Lingle Rd, Gosport, IN 47433, USA",
+      "5232-5244 Burton Rd, Gosport, IN 47433, USA",
+      "6739 Locust Lake Rd, Spencer, IN 47460, USA",
+      "McFarren Rd, Gosport, IN 47433, USA",
+      "6785 Stone Mount Rd, Gosport, IN 47433, USA",
+      "6999-5801 Jones Rd, Gosport, IN 47433, USA",
+      "2702 S Vickrey Rd, Gosport, IN 47433, USA",
       "8698 Old State Rd 67, Paragon, IN 46166, USA",
+      "273 S Cataract Rd, Spencer, IN 47460, USA",
       "8705 McFarren Rd, Quincy, IN 47456, USA",
       "8880 Stone Mount Rd, Gosport, IN 47433, USA",
       "8600-9294 Jones Rd, Gosport, IN 47433, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5718
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17322
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 991
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12432
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 679
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11177
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 727
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6987
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 573
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5204
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 451
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8358
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 560
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.7 mi",
-                  "value" : 9146
+                  "value" : 9145
                },
                "duration" : {
                   "text" : "9 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15187
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 833
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "10.5 mi",
-                  "value" : 16863
+                  "value" : 16864
                },
                "duration" : {
                   "text" : "15 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "5.2 mi",
-                  "value" : 8421
+                  "value" : 8420
                },
                "duration" : {
                   "text" : "10 mins",
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "8.2 mi",
-                  "value" : 13186
+                  "value" : 13187
                },
                "duration" : {
                   "text" : "15 mins",

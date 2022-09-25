@@ -1,11 +1,21 @@
 {
    "destination_addresses" : [
+      "2998 20 N, Angola, IN 46703, USA",
+      "999-131 N 475 E, Angola, IN 46703, USA",
+      "85 N 700 E, Angola, IN 46703, USA",
+      "8730 E 15 N, Angola, IN 46703, USA",
+      "15824 1-50 Rd, Edon, OH 43518, USA",
+      "2180 N 300 E, Fremont, IN 46737, USA",
       "2080 N 475 E, Fremont, IN 46737, USA",
       "2119 N 700 E, Fremont, IN 46737, USA",
       "2210 N Old State Rd 1, Angola, IN 46703, USA",
+      "1500-2498 Williams County Rd R, Edon, OH 43518, USA",
+      "400 E North St, Fremont, IN 46737, USA",
       "4823-4999 E 400 N, Fremont, IN 46737, USA",
       "6888 E 400 N, Fremont, IN 46737, USA",
-      "400 E North St, Fremont, IN 46737, USA",
+      "8900 E 400 N, Fremont, IN 46737, USA",
+      "9151 W Territorial Rd, Montgomery, MI 49255, USA",
+      "305 Coffin St, Fremont, IN 46737, USA",
       "5077-5285 IN-120, Fremont, IN 46737, USA",
       "6125 N 700 E, Fremont, IN 46737, USA",
       "616 E Clear Lake Dr, Fremont, IN 46737, USA"
@@ -16,8 +26,74 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "12.4 mi",
+                  "value" : 19920
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 988
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17555
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 932
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13305
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 774
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12410
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 751
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11837
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 606
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17368
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 857
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "9.0 mi",
-                  "value" : 14526
+                  "value" : 14525
                },
                "duration" : {
                   "text" : "12 mins",
@@ -28,7 +104,7 @@
             {
                "distance" : {
                   "text" : "6.5 mi",
-                  "value" : 10402
+                  "value" : 10403
                },
                "duration" : {
                   "text" : "9 mins",
@@ -39,11 +115,33 @@
             {
                "distance" : {
                   "text" : "5.0 mi",
-                  "value" : 7968
+                  "value" : 7967
                },
                "duration" : {
                   "text" : "7 mins",
                   "value" : 443
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8789
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 537
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14148
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 768
                },
                "status" : "OK"
             },
@@ -61,7 +159,7 @@
             {
                "distance" : {
                   "text" : "5.0 mi",
-                  "value" : 8108
+                  "value" : 8109
                },
                "duration" : {
                   "text" : "8 mins",
@@ -72,11 +170,33 @@
             {
                "distance" : {
                   "text" : "3.1 mi",
-                  "value" : 5058
+                  "value" : 5059
                },
                "duration" : {
                   "text" : "5 mins",
                   "value" : 311
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6113
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 359
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10844
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 610
                },
                "status" : "OK"
             },
@@ -94,7 +214,7 @@
             {
                "distance" : {
                   "text" : "2.8 mi",
-                  "value" : 4436
+                  "value" : 4435
                },
                "duration" : {
                   "text" : "4 mins",
@@ -105,7 +225,7 @@
             {
                "distance" : {
                   "text" : "0.2 mi",
-                  "value" : 360
+                  "value" : 359
                },
                "duration" : {
                   "text" : "1 min",

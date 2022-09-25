@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "285 N Thorn Rd, Walkerton, IN 46574, USA",
+      "380 N Sycamore Rd, Walkerton, IN 46574, USA",
+      "Unnamed Road, La Porte, IN 46350, USA",
+      "750 E 775 N, Walkerton, IN 46574, USA",
+      "68310 Poplar Rd, Walkerton, IN 46574, USA",
+      "68173 Walnut Rd, Walkerton, IN 46574, USA",
+      "29874 Riley Rd, North Liberty, IN 46554, USA",
       "68200 Sycamore Rd, North Liberty, IN 46554, USA",
+      "4599-4593 S 550 E, La Porte, IN 46350, USA",
       "7362-7790 State Rd 104, Walkerton, IN 46574, USA",
       "9404 E 525 S, Walkerton, IN 46574, USA",
       "66321 Walnut Rd, Walkerton, IN 46574, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4489
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 291
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10080
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 550
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.1 mi",
+                  "value" : 22629
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1645
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7077
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 456
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5676
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 457
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4193
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 245
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5581
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 309
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.8 mi",
-                  "value" : 9348
+                  "value" : 9349
                },
                "duration" : {
                   "text" : "8 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15670
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 894
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.0 mi",
-                  "value" : 9709
+                  "value" : 9708
                },
                "duration" : {
                   "text" : "8 mins",
@@ -36,7 +132,7 @@
             {
                "distance" : {
                   "text" : "8.1 mi",
-                  "value" : 13068
+                  "value" : 13067
                },
                "duration" : {
                   "text" : "11 mins",
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "4.6 mi",
-                  "value" : 7391
+                  "value" : 7390
                },
                "duration" : {
                   "text" : "7 mins",
@@ -69,7 +165,7 @@
             {
                "distance" : {
                   "text" : "7.1 mi",
-                  "value" : 11377
+                  "value" : 11378
                },
                "duration" : {
                   "text" : "10 mins",

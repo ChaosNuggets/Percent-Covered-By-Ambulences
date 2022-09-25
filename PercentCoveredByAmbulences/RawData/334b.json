@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
       "1163 N Fox Ridge Links Dr, Vincennes, IN 47591, USA",
+      "E Wheatland Rd, Vincennes, IN 47591, USA",
       "US-50, Lawrenceville, IL 62439, USA",
       "18322 Allison Ln, Lawrenceville, IL 62439, USA",
       "21798-21038 1040N, Lawrenceville, IL 62439, USA",
       "1799 E Deer Path Trail, Vincennes, IN 47591, USA",
-      "3385 N Smith Rd, Vincennes, IN 47591, USA"
+      "3385 N Smith Rd, Vincennes, IN 47591, USA",
+      "5550 Grundman Rd, Vincennes, IN 47591, USA",
+      "12500-13056 Tinker Ave, Lawrenceville, IL 62439, USA",
+      "17983 Gun Clb Ln, Lawrenceville, IL 62439, USA",
+      "19364-20298 Gun Clb Ln, Lawrenceville, IL 62439, USA",
+      "12200-12598 Cottonwood Rd, Lawrenceville, IL 62439, USA",
+      "5194 N Camp Arthur Rd, Bruceville, IN 47516, USA",
+      "4890 N Coon Hunter Rd, Bruceville, IN 47516, USA"
    ],
    "origin_addresses" : [ "501 Busseron St, Vincennes, IN 47591, USA" ],
    "rows" : [
@@ -19,6 +27,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 687
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9454
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 756
                },
                "status" : "OK"
             },
@@ -74,6 +93,83 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 587
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 11007
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 891
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13925
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 803
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11248
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 662
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10222
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 581
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11348
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 747
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11132
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 786
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12743
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 865
                },
                "status" : "OK"
             }

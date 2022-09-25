@@ -1,5 +1,10 @@
 {
    "destination_addresses" : [
+      "4357 W Moss Ln, Bloomington, IN 47403, USA",
+      "5220 S Production Dr, Bloomington, IN 47403, USA",
+      "1630 E Moffett Ln, Bloomington, IN 47401, USA",
+      "3752 Mesa Ln, Bloomington, IN 47401, USA",
+      "Pate Hollow Trail, Bloomington, IN 47401, USA",
       "3500 S Violet Ln, Bloomington, IN 47403, USA",
       "3631 S Glasgow Cir, Bloomington, IN 47403, USA",
       "3825 S Linda's Way, Bloomington, IN 47401, USA",
@@ -13,17 +18,67 @@
       "4554 W Vernal Pike, Bloomington, IN 47404, USA",
       "1307 W Gourley Pike, Bloomington, IN 47404, USA",
       "1612 E Matlock Rd, Bloomington, IN 47408, USA",
-      "2290 N Russell Rd, Bloomington, IN 47408, USA",
-      "6225 E Collins Ln, Bloomington, IN 47408, USA",
-      "4360 N Castlewood Ct, Bloomington, IN 47404, USA",
-      "I-69, Bloomington, IN 47404, USA",
-      "1812 E Bethel Ln, Bloomington, IN 47408, USA",
-      "4127 E Bethel Ln, Bloomington, IN 47408, USA"
+      "2290 N Russell Rd, Bloomington, IN 47408, USA"
    ],
    "origin_addresses" : [ "801 N Jordan Ave, Bloomington, IN 47405, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16699
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1046
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18244
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1141
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9835
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1055
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 12964
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1155
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13484
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 923
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.4 mi",
@@ -175,61 +230,6 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 517
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.8 mi",
-                  "value" : 7780
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 670
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.8 mi",
-                  "value" : 9359
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 697
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.7 mi",
-                  "value" : 7594
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 526
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6552
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 567
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.9 mi",
-                  "value" : 9511
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 727
                },
                "status" : "OK"
             }

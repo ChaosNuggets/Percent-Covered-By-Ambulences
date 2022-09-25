@@ -5,16 +5,19 @@
       "Co Rd 250W, Kingman, IN 47952, USA",
       "US Hwy 41, Bloomingdale, IN 47832, USA",
       "11775 E 1000 N, Bloomingdale, IN 47832, USA",
+      "10504-10500 Henley Rd, Marshall, IN 47859, USA",
       "W 1200 N, Kingman, IN 47952, USA",
       "W 1200 N, Kingman, IN 47952, USA",
       "Bdale Rd, Bloomingdale, IN 47832, USA",
       "County Rd 1200 N, Bloomingdale, IN 47832, USA",
       "1577 County Rd 1200 N, Bloomingdale, IN 47832, USA",
+      "3135 County Rd 1200 N, Marshall, IN 47859, USA",
       "4471-4273 S 500 W, Kingman, IN 47952, USA",
       "4842-4822 Tangier Rd, Kingman, IN 47952, USA",
       "414 W State St, Kingman, IN 47952, USA",
       "412-222 E State Rd 234, Kingman, IN 47952, USA",
       "1023 E State Rd 234, Kingman, IN 47952, USA",
+      "1825 E State Rd 234, Kingman, IN 47952, USA",
       "2077 Clark Rd, Kingman, IN 47952, USA",
       "1297-1221 W 900 S, Kingman, IN 47952, USA",
       "524-698 E 900 S, Kingman, IN 47952, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "11.9 mi",
+                  "value" : 19181
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1003
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.0 mi",
                   "value" : 9630
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11479
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.9 mi",
                   "value" : 7833
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 276
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8704
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 403
                },
                "status" : "OK"
             },

@@ -5,16 +5,19 @@
       "75 W South St, Jasper, IN 47546, USA",
       "6349-6361 S 100 W, Jasper, IN 47546, USA",
       "1172-1258 E 230S, Huntingburg, IN 47542, USA",
+      "2435 S St Anthony Rd N, St Anthony, IN 47575, USA",
       "901 S 650 W, Jasper, IN 47546, USA",
       "4800 W Division Rd, Jasper, IN 47546, USA",
       "265 S Old Huntingburg Rd, Jasper, IN 47546, USA",
       "820 Church Ave, Jasper, IN 47546, USA",
       "200-486 N 100 E, Jasper, IN 47546, USA",
+      "281 S 330 E, Jasper, IN 47546, USA",
       "6257-6859 W 200 N, Jasper, IN 47546, USA",
       "4897 W 150 N, Jasper, IN 47546, USA",
       "1910 Cobblestone Rd, Jasper, IN 47546, USA",
       "2200-2386 Cathy Ln, Jasper, IN 47546, USA",
       "789 E 190 N, Jasper, IN 47546, USA",
+      "2926-3248 E Jasper Dubois Rd, Jasper, IN 47546, USA",
       "4305-4189 N 600 W, Jasper, IN 47546, USA",
       "3471 N 500 W, Jasper, IN 47546, USA",
       "1358 W Ann Ln, Jasper, IN 47546, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12799
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 865
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.4 mi",
                   "value" : 13547
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11989
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 776
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.5 mi",
                   "value" : 10450
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 516
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10574
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 727
                },
                "status" : "OK"
             },

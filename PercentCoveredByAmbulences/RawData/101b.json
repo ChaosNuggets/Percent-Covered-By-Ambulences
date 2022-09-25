@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
+      "N County Rd 600 E, Batesville, IN 47006, USA",
+      "7885 E Co Rd 1575 N, Sunman, IN 47041, USA",
+      "9750 E Base Rd, Greensburg, IN 47240, USA",
+      "2126 Clems Way, Batesville, IN 47006, USA",
+      "23731-24439 Vote Rd, Batesville, IN 47006, USA",
+      "2218 Sawmill Rd, Batesville, IN 47006, USA",
       "2032 Lovers Rd, Batesville, IN 47006, USA",
+      "2664-2348 County Rd 500 W, Batesville, IN 47006, USA",
       "9638 E Co Rd 150 N, Greensburg, IN 47240, USA",
       "25197 Giesting Rd, Oldenburg, IN 47036, USA",
       "4148 Forest Rd, Batesville, IN 47006, USA",
       "22320-22084 Lamping Rd, Batesville, IN 47006, USA",
-      "4088 Heppner Rd, Batesville, IN 47006, USA"
+      "4088 Heppner Rd, Batesville, IN 47006, USA",
+      "4124 Pipe Creek Rd, Batesville, IN 47006, USA"
    ],
    "origin_addresses" : [ "132 S Main St, Batesville, IN 47006, USA" ],
    "rows" : [
@@ -13,8 +21,74 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7620
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 565
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11708
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 885
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11716
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6871
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 575
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6173
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5861
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 528
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.8 mi",
-                  "value" : 10956
+                  "value" : 10957
                },
                "duration" : {
                   "text" : "14 mins",
@@ -24,8 +98,19 @@
             },
             {
                "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13983
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 978
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "9.2 mi",
-                  "value" : 14868
+                  "value" : 14869
                },
                "duration" : {
                   "text" : "17 mins",
@@ -47,7 +132,7 @@
             {
                "distance" : {
                   "text" : "5.5 mi",
-                  "value" : 8795
+                  "value" : 8794
                },
                "duration" : {
                   "text" : "12 mins",
@@ -74,6 +159,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 878
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.0 mi",
+                  "value" : 17750
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1219
                },
                "status" : "OK"
             }

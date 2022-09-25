@@ -1,29 +1,46 @@
 {
    "destination_addresses" : [
+      "5660 S 500 W, Topeka, IN 46571, USA",
       "3001-3369 W 550 S, Topeka, IN 46571, USA",
       "1460 W 550 S, Wolcottville, IN 46795, USA",
       "460 E 550 S, Wolcottville, IN 46795, USA",
       "2645 E 585 S, Wolcottville, IN 46795, USA",
       "5775 S 450 E, Wolcottville, IN 46795, USA",
+      "6551-6287 E 600 S, Wolcottville, IN 46795, USA",
+      "3680 S 500 W, Topeka, IN 46571, USA",
       "3910 S 300 W, LaGrange, IN 46761, USA",
       "3575 S 150 W, LaGrange, IN 46761, USA",
       "3500-4056 S 100 E, LaGrange, IN 46761, USA",
       "2649-2401 E 400 S, LaGrange, IN 46761, USA",
       "3999-3495 S 500 E, Wolcottville, IN 46795, USA",
+      "6335 E 400 S, Wolcottville, IN 46795, USA",
+      "1500-1998 S 500 W, LaGrange, IN 46761, USA",
       "1610 S 300 W, LaGrange, IN 46761, USA",
       "1255 W 200 S, LaGrange, IN 46761, USA",
       "1630 IN-9, LaGrange, IN 46761, USA",
       "2318-2998 E 200 S, LaGrange, IN 46761, USA",
       "4450 E 160 S, LaGrange, IN 46761, USA",
+      "6312-6488 E 200 S, Wolcottville, IN 46795, USA",
+      "5001-5925 US-20, LaGrange, IN 46761, USA",
       "3000 W 050 N, LaGrange, IN 46761, USA",
       "1215 W 050 N, LaGrange, IN 46761, USA",
-      "311 N Canal St, LaGrange, IN 46761, USA",
-      "3003-2427 E 050 N, LaGrange, IN 46761, USA"
+      "311 N Canal St, LaGrange, IN 46761, USA"
    ],
    "origin_addresses" : [ "875 IN-9, LaGrange, IN 46761, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15488
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 910
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.0 mi",
@@ -76,6 +93,28 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 586
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14772
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 758
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12593
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
                },
                "status" : "OK"
             },
@@ -136,6 +175,28 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13826
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 716
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10709
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 580
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.6 mi",
                   "value" : 7446
                },
@@ -191,6 +252,28 @@
             },
             {
                "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11782
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 670
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10079
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 510
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7753
                },
@@ -219,17 +302,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 218
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.5 mi",
-                  "value" : 5629
-               },
-               "duration" : {
-                  "text" : "6 mins",
-                  "value" : 355
                },
                "status" : "OK"
             }

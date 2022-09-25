@@ -1,16 +1,35 @@
 {
    "destination_addresses" : [
+      "3139-2893 W 1600 S, Remington, IN 47977, USA",
       "10001-10999 W 200 N, Wolcott, IN 47995, USA",
+      "14999-14001 County Rd 1080 W, Goodland, IN 47948, USA",
       "14000-14328 County Rd 880 W, Remington, IN 47977, USA",
       "14724 S 680 W, Remington, IN 47977, USA",
       "4811 W County Rd 1400 S, Remington, IN 47977, USA",
       "S 280 W, Remington, IN 47977, USA",
-      "3001-3999 N 1000 W, Wolcott, IN 47995, USA"
+      "3001-3999 N 1000 W, Wolcott, IN 47995, USA",
+      "12000-12186 County Rd 1080 W, Goodland, IN 47948, USA",
+      "11660-12252 County Rd 880 W, Goodland, IN 47948, USA",
+      "I-65 Jordan, Rensselaer, IN 47978, USA",
+      "12206 S 480 W, Remington, IN 47977, USA",
+      "3138-2800 County Rd 1200 S, Remington, IN 47977, USA",
+      "10080-10000 W 600 N, Rensselaer, IN 47978, USA"
    ],
    "origin_addresses" : [ "1 N Ohio St, Remington, IN 47977, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6709
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.8 mi",
@@ -19,6 +38,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 585
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13441
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 638
                },
                "status" : "OK"
             },
@@ -74,6 +104,72 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 790
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16659
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 776
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13690
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 706
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10549
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 563
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10552
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 598
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13111
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 697
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15875
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 886
                },
                "status" : "OK"
             }

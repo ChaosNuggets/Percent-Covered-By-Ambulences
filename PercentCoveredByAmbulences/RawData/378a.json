@@ -5,16 +5,19 @@
       "380 E County Rd 500 S, Logansport, IN 46947, USA",
       "2358 East 500 South, Logansport, IN 46947, USA",
       "5123 S Co Rd 400 E, Walton, IN 46994, USA",
+      "500 S County Rd 600 E, Logansport, IN 46947, USA",
       "3047-3440 W County Rd 300 S, Logansport, IN 46947, USA",
       "3498-3000 S Co Rd 175 W, Logansport, IN 46947, USA",
       "408 E County Rd 300 S, Logansport, IN 46947, USA",
       "3499-3065 S Co Rd 200 E, Logansport, IN 46947, USA",
       "4150 E 300, Logansport, IN 46947, USA",
+      "6172 E County Rd 300 S, Logansport, IN 46947, USA",
       "3395 W South River Rd, Logansport, IN 46947, USA",
       "1761 W 50 S, Logansport, IN 46947, USA",
       "225 W Cliff Dr, Logansport, IN 46947, USA",
       "1 Berry Ln, Logansport, IN 46947, USA",
       "4913 Miami Bend Rd, Logansport, IN 46947, USA",
+      "643 S County Rd 600 E, Logansport, IN 46947, USA",
       "925 N 350, Logansport, IN 46947, USA",
       "100 N Royal Center Pike, Logansport, IN 46947, USA",
       "178 E 100, Logansport, IN 46947, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13803
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 757
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.2 mi",
                   "value" : 8446
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11227
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 707
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7571
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 722
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11920
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 683
                },
                "status" : "OK"
             },

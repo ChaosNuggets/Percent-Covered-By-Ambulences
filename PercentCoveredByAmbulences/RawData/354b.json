@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "Tow Path Rd, Kingman, IN 47952, USA",
       "County Rd 80 N, Kingman, IN 47952, USA",
+      "2000-2450 W County Rd 200 N, Dana, IN 47847, USA",
       "15-423 E County Rd 175 N, Cayuga, IN 47928, USA",
       "1998-1566 E County Rd 200 N, Cayuga, IN 47928, USA",
       "County Rd 249, Kingman, IN 47952, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "15.6 mi",
+                  "value" : 25118
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1404
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "16.5 mi",
                   "value" : 26632
                },
                "duration" : {
                   "text" : "26 mins",
                   "value" : 1557
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15628
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 851
                },
                "status" : "OK"
             },

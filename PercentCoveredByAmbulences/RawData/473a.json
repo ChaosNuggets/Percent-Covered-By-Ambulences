@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "10492-10842 N 600 E, Morristown, IN 46161, USA",
       "10787 County Rd 1000 W, Arlington, IN 46104, USA",
       "4642 N 800 W, Arlington, IN 46104, USA",
       "550 W North St, Arlington, IN 46104, USA",
       "4501 N 400 W, Rushville, IN 46173, USA",
       "4750 E 225 N, Rushville, IN 46173, USA",
+      "6974 E 550S, Morristown, IN 46161, USA",
       "8888 E 550S, Morristown, IN 46161, USA",
       "6853 N 800 W, Carthage, IN 46104, USA",
       "6093-5501 W 700 N, Arlington, IN 46104, USA",
       "6999-6401 N 400 W, Carthage, IN 46115, USA",
       "2898-2000 W 650 N, Carthage, IN 46115, USA",
+      "3439 S 700E, Greenfield, IN 46140, USA",
       "3470 County Rd 900 E, Carthage, IN 46115, USA",
       "8583 N 800 W, Carthage, IN 46115, USA",
       "5812 W 850 N, Carthage, IN 46115, USA",
       "8480 N 400 W, Carthage, IN 46115, USA",
       "8507 N 200 W, Rushville, IN 46173, USA",
+      "1719-1271 S 675E, Greenfield, IN 46140, USA",
       "9986 W 1050 N, Greenfield, IN 46140, USA",
       "10999-10315 N 800 W, Carthage, IN 46115, USA",
-      "10658 N Goose Rd, Carthage, IN 46115, USA",
-      "10091 N 400 W, Carthage, IN 46115, USA"
+      "10658 N Goose Rd, Carthage, IN 46115, USA"
    ],
    "origin_addresses" : [ "6 1st St, Carthage, IN 46115, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15224
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 859
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 892
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11653
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9752
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 591
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6429
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11838
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 774
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.1 mi",
                   "value" : 8238
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 374
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.2 mi",
-                  "value" : 8420
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 490
                },
                "status" : "OK"
             }

@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "55 N 600 W, Valparaiso, IN 46385, USA",
       "60 Carmen Dr, Valparaiso, IN 46385, USA",
+      "1307 E 79th Ave, Merrillville, IN 46410, USA",
       "8035 Underwood Dr, Hobart, IN 46342, USA",
       "7200 W Lincoln Hwy, Crown Point, IN 46307, USA",
       "760 Joliet Rd, Valparaiso, IN 46385, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6960
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12097
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14590
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 824
                },
                "status" : "OK"
             },

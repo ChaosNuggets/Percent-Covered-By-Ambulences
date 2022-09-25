@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "10472 S 475 E, Ferdinand, IN 47532, USA",
+      "26975 County Rd Chickadee, Ferdinand, IN 47532, USA",
+      "8296 US-231, Huntingburg, IN 47542, USA",
+      "8038 S 100 W, Ferdinand, IN 47532, USA",
+      "994 E Holiday Lake Rd, Ferdinand, IN 47532, USA",
+      "3011 E 825 S, Ferdinand, IN 47532, USA",
+      "8239 S 500 E, Ferdinand, IN 47532, USA",
       "Unnamed Road, Birdseye, IN 47513, USA",
+      "222 S Main St, Huntingburg, IN 47542, USA",
       "6070 S 75 W, Ferdinand, IN 47532, USA",
       "6009 S Oak Ln, Huntingburg, IN 47542, USA",
       "3070 E 600 S, Huntingburg, IN 47542, USA",
@@ -13,8 +21,85 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5967
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 468
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10901
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 713
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13468
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7352
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 533
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5050
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 302
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5209
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7822
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 526
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.8 mi",
-                  "value" : 12537
+                  "value" : 12538
                },
                "duration" : {
                   "text" : "14 mins",
@@ -24,8 +109,19 @@
             },
             {
                "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13816
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 848
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.6 mi",
-                  "value" : 10611
+                  "value" : 10610
                },
                "duration" : {
                   "text" : "11 mins",
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "7.0 mi",
-                  "value" : 11265
+                  "value" : 11263
                },
                "duration" : {
                   "text" : "12 mins",

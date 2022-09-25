@@ -5,16 +5,19 @@
       "9515 W Division Rd, Dunkirk, IN 47336, USA",
       "2-350 S Como Rd, Portland, IN 47371, USA",
       "5493-5001 W 50 S, Portland, IN 47371, USA",
+      "300 S 75 E, Portland, IN 47371, USA",
       "7999-7257 E 100 N, Hartford City, IN 47348, USA",
       "1998-1582 N 1100 W, Dunkirk, IN 47336, USA",
       "1974-1690 IN-1, Pennville, IN 47369, USA",
       "7138 W 150 N, Portland, IN 47371, USA",
       "1295 E 500 N, Portland, IN 47371, USA",
+      "1451 N 350 W, Portland, IN 47371, USA",
       "7559 County Rd 250 N, Hartford City, IN 47348, USA",
       "11311-11001 W 350 N, Pennville, IN 47369, USA",
       "9047 W 350 N, Pennville, IN 47369, USA",
       "3628-3430 N 750 W, Pennville, IN 47369, USA",
       "3998-3318 N 550 W, Pennville, IN 47369, USA",
+      "3633 N 350 W, Portland, IN 47371, USA",
       "7627-7619 Godfrey Rd, Montpelier, IN 47359, USA",
       "10966 W 550 N, Pennville, IN 47369, USA",
       "9082 W 550 N, Pennville, IN 47369, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16074
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 789
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.6 mi",
                   "value" : 10631
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11905
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7630
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 353
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9415
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 471
                },
                "status" : "OK"
             },

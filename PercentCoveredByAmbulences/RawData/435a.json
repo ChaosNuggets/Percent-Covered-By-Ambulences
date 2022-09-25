@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "1954-1108 E 145th Ave, Crown Point, IN 46307, USA",
       "14168-14498 Arizona St, Crown Point, IN 46307, USA",
       "7010 E 145th Ave, Hebron, IN 46341, USA",
       "14420-14480 County Line Rd, Hebron, IN 46341, USA",
       "500-548 S 600 W, Hebron, IN 46341, USA",
       "373 W 550 S, Valparaiso, IN 46385, USA",
+      "12800 Mississippi Pkwy, Crown Point, IN 46307, USA",
       "4023-4777 E 129th Ave, Winfield, IN 46307, USA",
       "6720 E 129th Ave, Crown Point, IN 46307, USA",
       "761 W 350 S, Hebron, IN 46341, USA",
       "579 W 350 S, Hebron, IN 46341, USA",
       "339-337 S 350 W, Valparaiso, IN 46385, USA",
+      "812 E 113th Ave, Crown Point, IN 46307, USA",
       "11188 State St, Crown Point, IN 46307, USA",
       "7135 E 112th Ave, Crown Point, IN 46307, USA",
       "1559 Happy Valley Rd, Crown Point, IN 46307, USA",
       "581 W 138 S, Hebron, IN 46341, USA",
       "158-198 IN-2, Valparaiso, IN 46385, USA",
+      "9820 Georgia St, Crown Point, IN 46307, USA",
       "4000 E 97th Ave, Crown Point, IN 46307, USA",
       "7220 E 97th Ave, Crown Point, IN 46307, USA",
-      "52 N 750 W, Valparaiso, IN 46385, USA",
-      "55 N 600 W, Valparaiso, IN 46385, USA"
+      "52 N 750 W, Valparaiso, IN 46385, USA"
    ],
    "origin_addresses" : [ "1048 N Lakeshore Dr, Crown Point, IN 46307, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.8 mi",
+                  "value" : 17330
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1088
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.8 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 898
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13595
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 928
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9657
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 676
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6388
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12021
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 830
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.3 mi",
                   "value" : 8519
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 425
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6960
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 531
                },
                "status" : "OK"
             }

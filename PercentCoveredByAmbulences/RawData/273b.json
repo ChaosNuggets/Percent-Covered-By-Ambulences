@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "Unnamed Road, Nineveh, IN 46164, USA",
+      "Unnamed Road, Nineveh, IN 46164, USA",
+      "6730 N Horseshoe Rd, Morgantown, IN 46160, USA",
+      "7700 Timber Cliff Ln, Trafalgar, IN 46181, USA",
+      "2425 County Rd 750 S, Trafalgar, IN 46181, USA",
+      "8045 Dyson Dr, Nineveh, IN 46164, USA",
+      "Lincoln Rd, Trafalgar, IN 46181, USA",
       "9X57+JG, Franklin, IN 46131, USA",
+      "6228 W 600 S, Trafalgar, IN 46181, USA",
       "5769 S 450 W, Trafalgar, IN 46181, USA",
       "Unnamed Road, Trafalgar, IN 46181, USA",
       "5833 S 50 W, Trafalgar, IN 46181, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13505
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1216
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15515
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1189
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.0 mi",
+                  "value" : 19257
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1473
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17935
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1342
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10373
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 780
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7800
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 675
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9511
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 772
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.5 mi",
                   "value" : 12134
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 848
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.7 mi",
+                  "value" : 22027
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1359
                },
                "status" : "OK"
             },

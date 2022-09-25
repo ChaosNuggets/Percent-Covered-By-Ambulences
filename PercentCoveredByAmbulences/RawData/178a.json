@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "4641 W 450 S, Crawfordsville, IN 47933, USA",
+      "2742 Westchester Dr, Crawfordsville, IN 47933, USA",
+      "4904 S 100 W, Crawfordsville, IN 47933, USA",
+      "1174 E County Rd 500 S, Crawfordsville, IN 47933, USA",
+      "3147 E Ladoga Rd, Crawfordsville, IN 47933, USA",
+      "4998 E Ladoga Rd, New Ross, IN 47968, USA",
       "3995 Offield Monument Rd, Crawfordsville, IN 47933, USA",
       "2648 300 S, Crawfordsville, IN 47933, USA",
       "2945 Shadows Run Ln, Crawfordsville, IN 47933, USA",
@@ -15,18 +21,78 @@
       "4326-4764 W 100 N, Crawfordsville, IN 47933, USA",
       "2684 Black Creek Valley Rd, Crawfordsville, IN 47933, USA",
       "805 Oak Hill Rd, Crawfordsville, IN 47933, USA",
-      "914 Memorial Dr, Crawfordsville, IN 47933, USA",
-      "250 Banjo Dr, Crawfordsville, IN 47933, USA",
-      "4999 E 150 N, Darlington, IN 47933, USA",
-      "4696 W 300 N, Crawfordsville, IN 47933, USA",
-      "2975 N 275 W, Crawfordsville, IN 47933, USA",
-      "I-74, Crawfordsville, IN 47933, USA",
-      "Unnamed Road, Crawfordsville, IN 47933, USA"
+      "914 Memorial Dr, Crawfordsville, IN 47933, USA"
    ],
    "origin_addresses" : [ "100 S Water St, Crawfordsville, IN 47933, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13842
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 924
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13323
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 835
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9846
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 629
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10307
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 718
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10159
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 685
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13379
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 843
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "7.7 mi",
@@ -200,72 +266,6 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 292
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.4 mi",
-                  "value" : 5423
-               },
-               "duration" : {
-                  "text" : "7 mins",
-                  "value" : 422
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "5.6 mi",
-                  "value" : 8952
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 743
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "6.8 mi",
-                  "value" : 10985
-               },
-               "duration" : {
-                  "text" : "12 mins",
-                  "value" : 702
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.8 mi",
-                  "value" : 7733
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 544
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "19.3 mi",
-                  "value" : 31053
-               },
-               "duration" : {
-                  "text" : "24 mins",
-                  "value" : 1428
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6624
-               },
-               "duration" : {
-                  "text" : "9 mins",
-                  "value" : 521
                },
                "status" : "OK"
             }

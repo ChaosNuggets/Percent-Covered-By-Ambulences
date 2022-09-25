@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "5505 S 200 E, Berne, IN 46711, USA",
+      "5800 S 400 E, Berne, IN 46711, USA",
+      "5677-5803 W 350 S, Berne, IN 46711, USA",
+      "3923 W 350 S, Berne, IN 46711, USA",
+      "3833 S 200 W, Berne, IN 46711, USA",
+      "3701 S 000 Rd, Berne, IN 46711, USA",
       "3873 S 200 E, Monroe, IN 46772, USA",
       "3863 E 400 S, Monroe, IN 46772, USA",
       "1887-1367 S 600 W, Bluffton, IN 46714, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5145
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 309
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8326
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 449
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12209
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 684
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9112
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 536
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5972
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 408
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5160
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.2 mi",

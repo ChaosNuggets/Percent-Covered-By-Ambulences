@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "17001 345 N, Gaston, IN 47342, USA",
       "7484 W County Rd 750 N, Gaston, IN 47342, USA",
+      "17902-18598 N 450 E, Summitville, IN 46070, USA",
       "20333 N Co Rd 900 W, Gaston, IN 47342, USA",
       "8505-8011 W County Rd 1300 N, Gaston, IN 47342, USA",
       "20200 N Jonesboro Rd, Gaston, IN 47342, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7888
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 551
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.4 mi",
                   "value" : 10300
                },
                "duration" : {
                   "text" : "11 mins",
                   "value" : 676
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13783
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 675
                },
                "status" : "OK"
             },

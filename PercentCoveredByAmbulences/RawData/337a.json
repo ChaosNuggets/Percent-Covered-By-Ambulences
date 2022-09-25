@@ -5,16 +5,19 @@
       "7861 US-231, Loogootee, IN 47553, USA",
       "7422 Co Rd 31, Loogootee, IN 47553, USA",
       "Unnamed Road, Shoals, IN 47581, USA",
+      "Abel Hill Rd, Shoals, IN 47581, USA",
       "W 150 S, Cannelburg, IN 47519, USA",
       "County Rd 1100 E, Cannelburg, IN 47519, USA",
       "9193 US-231, Loogootee, IN 47553, USA",
       "9316 Wininger Rd, Shoals, IN 47581, USA",
       "4161 IN-550, Shoals, IN 47581, USA",
+      "6088 IN-550, Shoals, IN 47581, USA",
       "9883 US-50, Cannelburg, IN 47519, USA",
       "11179 US-50, Loogootee, IN 47553, USA",
       "521 J Strange Ave, Loogootee, IN 47553, USA",
       "11075 Hart St, Loogootee, IN 47553, USA",
       "11511 Tedrow Ln, Shoals, IN 47581, USA",
+      "S Railroad St, Shoals, IN 47581, USA",
       "County Rd 950 E, Loogootee, IN 47553, USA",
       "275 North Street, Loogootee, IN 47553, USA",
       "13566 US-231, Loogootee, IN 47553, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16691
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1102
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.7 mi",
                   "value" : 12467
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13041
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 815
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 8096
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 857
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12928
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 779
                },
                "status" : "OK"
             },

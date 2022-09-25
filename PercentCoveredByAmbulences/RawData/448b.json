@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "Carmeuse Ln, Gary, IN 46406, USA",
       "Lake County, IN, USA",
+      "11841 S Burley Ave, Chicago, IL 60633, USA",
+      "2108 Stanton Ave, Whiting, IN 46394, USA",
+      "Access Rd, Whiting, IN 46394, USA",
+      "Rt 54, East Chicago, IN 46312, USA",
+      "Unnamed Road, East Chicago, IN 46312, USA",
+      "Lake County, IN, USA",
+      "10530 S Calumet River St, Chicago, IL 60617, USA",
       "Unnamed Road, Hammond, IN 46320, USA",
       "Lake County, IN, USA",
       "Unnamed Road, East Chicago, IN 46312, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5859
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 800
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.8 mi",
+                  "value" : 14090
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1193
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.0 mi",
+                  "value" : 14439
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1219
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8474
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8308
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7270
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 821
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8190
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 716
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.5 mi",
                   "value" : 7175
                },
                "duration" : {
                   "text" : "10 mins",
                   "value" : 614
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13543
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1269
                },
                "status" : "OK"
             },

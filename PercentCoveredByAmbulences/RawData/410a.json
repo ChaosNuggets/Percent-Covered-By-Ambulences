@@ -5,16 +5,19 @@
       "7298-7180 N 100 W, Rensselaer, IN 47978, USA",
       "821 E 800 N, Wheatfield, IN 46392, USA",
       "2763 E 800 N, Wheatfield, IN 46392, USA",
+      "7721-7891 County Rd 500 E, Wheatfield, IN 46392, USA",
       "9799 N 500 W, Wheatfield, IN 46392, USA",
       "300W, Wheatfield, IN 46392, USA",
       "9652 N 100 W, Wheatfield, IN 46392, USA",
       "808 E County Rd 950 N, Wheatfield, IN 46392, USA",
       "9860 County Rd 300 E, Wheatfield, IN 46392, USA",
+      "Unnamed Road, Wheatfield, IN 46392, USA",
       "4907 IN-10, Wheatfield, IN 46392, USA",
       "Unnamed Road, Wheatfield, IN 46392, USA",
       "1209-975 IN-10, Wheatfield, IN 46392, USA",
       "11846 100 E, Wheatfield, IN 46392, USA",
       "300 IN-10, Wheatfield, IN 46392, USA",
+      "4665 IN-10, San Pierre, IN 46374, USA",
       "County Rd 500 W, Wheatfield, IN 46392, USA",
       "13401-13499 Whippoorwill Ln, Wheatfield, IN 46392, USA",
       "13013-13759 County Rd 100 W, Wheatfield, IN 46392, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16181
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 889
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "8.2 mi",
                   "value" : 13158
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13699
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1056
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.8 mi",
                   "value" : 7698
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 337
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9148
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 492
                },
                "status" : "OK"
             },

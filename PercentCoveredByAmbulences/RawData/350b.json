@@ -7,7 +7,13 @@
       "3941-3251 W 650 S, Portland, IN 47371, USA",
       "1661 W 650 S, Portland, IN 47371, USA",
       "226 E 650 S, Portland, IN 47371, USA",
-      "2035 E 650 S, Portland, IN 47371, USA"
+      "2035 E 650 S, Portland, IN 47371, USA",
+      "4444-4714 S 700 W, Portland, IN 47371, USA",
+      "5359 W 450 S, Portland, IN 47371, USA",
+      "4777-4577 S Mt Pleasant Rd, Portland, IN 47371, USA",
+      "1608 W 450 S, Portland, IN 47371, USA",
+      "397 E 450 S, Portland, IN 47371, USA",
+      "2334-2000 500S, Portland, IN 47371, USA"
    ],
    "origin_addresses" : [ "102 N Walnut St, Ridgeville, IN 47380, USA" ],
    "rows" : [
@@ -98,6 +104,72 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 721
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16014
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 845
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10734
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 641
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10735
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 591
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11312
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 716
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16432
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.6 mi",
+                  "value" : 18732
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 892
                },
                "status" : "OK"
             }

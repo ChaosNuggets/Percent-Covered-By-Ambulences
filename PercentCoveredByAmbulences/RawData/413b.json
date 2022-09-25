@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "2225 Somerset Dr, Franklin, IN 46131, USA",
       "5798-4954 E 200 N, Franklin, IN 46131, USA",
+      "4353 W Co Rd 144, Bargersville, IN 46106, USA",
       "4000 N 200 W, Franklin, IN 46131, USA",
       "3813 75 W, Franklin, IN 46131, USA",
       "3865 N Morton St, Franklin, IN 46131, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5947
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 634
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.9 mi",
                   "value" : 9544
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 808
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12412
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 819
                },
                "status" : "OK"
             },

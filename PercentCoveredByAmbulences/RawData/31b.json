@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "700 N Cook Rd, Muncie, IN 47303, USA",
+      "901 N 650 E Rd, Selma, IN 47383, USA",
       "5510 W Bethel Ave, Muncie, IN 47304, USA",
       "2301 W Sheffield Dr, Muncie, IN 47304, USA",
       "900 Blk E Riggin Rd, Muncie, IN 47303, USA",
       "IN-3, Muncie, IN 47303, USA",
-      "7215 E Co Rd 275 N, Muncie, IN 47303, USA"
+      "7215 E Co Rd 275 N, Muncie, IN 47303, USA",
+      "4205 N 650 E Rd, Albany, IN 47320, USA"
    ],
    "origin_addresses" : [ "1008 E 20th St, Muncie, IN 47302, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 669
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12842
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 751
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 812
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16059
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 928
                },
                "status" : "OK"
             }

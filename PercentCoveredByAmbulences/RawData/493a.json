@@ -5,16 +5,19 @@
       "5220 S Production Dr, Bloomington, IN 47403, USA",
       "1630 E Moffett Ln, Bloomington, IN 47401, USA",
       "3752 Mesa Ln, Bloomington, IN 47401, USA",
+      "Pate Hollow Trail, Bloomington, IN 47401, USA",
       "3706-3770 S Eastmont Ave, Bloomington, IN 47403, USA",
       "3500 S Violet Ln, Bloomington, IN 47403, USA",
       "3631 S Glasgow Cir, Bloomington, IN 47403, USA",
       "3825 S Linda's Way, Bloomington, IN 47401, USA",
       "Hughes Ln, Bloomington, IN 47401, USA",
+      "3476 S Knightridge Rd, Bloomington, IN 47401, USA",
       "593 S Cave Rd, Bloomington, IN 47403, USA",
       "1078 S Sugar Maple Pl, Bloomington, IN 47403, USA",
       "708 S Adams St, Bloomington, IN 47403, USA",
       "908 S Sheridan Dr, Bloomington, IN 47401, USA",
       "925 S Brighton Crst Rd, Bloomington, IN 47401, USA",
+      "299 Arbutus Rd, Bloomington, IN 47401, USA",
       "6675 W Vernal Pike, Bloomington, IN 47404, USA",
       "4554 W Vernal Pike, Bloomington, IN 47404, USA",
       "1307 W Gourley Pike, Bloomington, IN 47404, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "9.1 mi",
+                  "value" : 14590
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1096
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.9 mi",
                   "value" : 9561
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11229
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 975
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.6 mi",
                   "value" : 9046
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 801
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8918
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 940
                },
                "status" : "OK"
             },

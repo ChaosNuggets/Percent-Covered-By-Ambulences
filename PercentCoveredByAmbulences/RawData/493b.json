@@ -1,11 +1,19 @@
 {
    "destination_addresses" : [
       "2290 N Russell Rd, Bloomington, IN 47408, USA",
+      "6225 E Collins Ln, Bloomington, IN 47408, USA",
       "4560 Sapphire Dr, Bloomington, IN 47404, USA",
       "4360 N Castlewood Ct, Bloomington, IN 47404, USA",
       "I-69, Bloomington, IN 47404, USA",
       "1812 E Bethel Ln, Bloomington, IN 47408, USA",
-      "4127 E Bethel Ln, Bloomington, IN 47408, USA"
+      "4127 E Bethel Ln, Bloomington, IN 47408, USA",
+      "4600 N Benton Dr, Bloomington, IN 47408, USA",
+      "6818 W Maple Grove Rd, Ellettsville, IN 47429, USA",
+      "3951 W Maple Grove Rd, Bloomington, IN 47404, USA",
+      "5564-5854 N Bottom Rd, Bloomington, IN 47404, USA",
+      "2150 E Dolan Rd, Bloomington, IN 47408, USA",
+      "4288 E Robinson Rd, Bloomington, IN 47408, USA",
+      "6699 N Utt Dr, Bloomington, IN 47408, USA"
    ],
    "origin_addresses" : [ "505 W 4th St, Bloomington, IN 47404, USA" ],
    "rows" : [
@@ -19,6 +27,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 856
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12668
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1009
                },
                "status" : "OK"
             },
@@ -74,6 +93,83 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 824
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15578
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1150
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13699
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 943
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.6 mi",
+                  "value" : 12161
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 855
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9934
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 807
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11377
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1005
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12008
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 912
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16730
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1263
                },
                "status" : "OK"
             }

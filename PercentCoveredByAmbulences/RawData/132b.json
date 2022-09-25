@@ -1,5 +1,11 @@
 {
    "destination_addresses" : [
+      "1827 Caboose Ln, Auburn, IN 46706, USA",
+      "801 Griswold Ct, Auburn, IN 46706, USA",
+      "2340 N 1000 E, Avilla, IN 46710, USA",
+      "181-1 W County Rd 40, Avilla, IN 46710, USA",
+      "3969 Co Rd 7, Avilla, IN 46710, USA",
+      "3956 Co Rd 15, Auburn, IN 46706, USA",
       "2315 Co Rd 40, Auburn, IN 46706, USA",
       "2003 Approach Dr, Auburn, IN 46706, USA",
       "10063 E 415 N, Kendallville, IN 46755, USA",
@@ -13,6 +19,72 @@
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6973
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 576
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9189
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 735
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11541
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 630
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8481
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 573
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5752
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 406
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5738
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 413
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "5.8 mi",

@@ -5,16 +5,19 @@
       "479-383 N County Rd 300 W, New Castle, IN 47362, USA",
       "482 N Sulphur Springs Rd, New Castle, IN 47362, USA",
       "Wilbur Wright Trail, New Castle, IN 47362, USA",
+      "3326 Brown St, New Castle, IN 47362, USA",
       "7499-6501 W County Rd 275 N, Middletown, IN 47356, USA",
       "5310 W County Rd 200 N, New Castle, IN 47362, USA",
       "2561 N County Rd 300 W, New Castle, IN 47362, USA",
       "2999-2237 N County Rd 125 W, New Castle, IN 47362, USA",
       "2755 N County Rd 50 E, New Castle, IN 47362, USA",
+      "2285 E County Rd 250 N, New Castle, IN 47362, USA",
       "4641 N County Rd 700 W, Middletown, IN 47356, USA",
       "4495 N County Rd 500 W, Middletown, IN 47356, USA",
       "4447 N County Rd 300 W, Middletown, IN 47356, USA",
       "4487 N County Rd 125 W, New Castle, IN 47362, USA",
       "IN-3, New Castle, IN 47362, USA",
+      "4400 IN-103, New Castle, IN 47362, USA",
       "6609 N Rick James Dr, Middletown, IN 47356, USA",
       "6353 N County Rd 525 W, Middletown, IN 47356, USA",
       "3380 W County Rd 650 N, Middletown, IN 47356, USA",
@@ -81,6 +84,17 @@
             },
             {
                "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17283
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 988
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.2 mi",
                   "value" : 11598
                },
@@ -136,6 +150,17 @@
             },
             {
                "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13932
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 682
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.7 mi",
                   "value" : 7591
                },
@@ -186,6 +211,17 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 442
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9751
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 481
                },
                "status" : "OK"
             },

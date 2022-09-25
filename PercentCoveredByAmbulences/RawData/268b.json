@@ -1,6 +1,8 @@
 {
    "destination_addresses" : [
+      "Deerbrook, 5508 W Autumn Springs Ct, Muncie, IN 47304, USA",
       "Central Chilling Plant, 2306 W University Ave, Muncie, IN 47306, USA",
+      "8199-8999 N 425 E, Alexandria, IN 46001, USA",
       "I-69, Yorktown, IN 47396, USA",
       "4209 N 700 W Rd, Yorktown, IN 47396, USA",
       "3822-4998 N 500 W Rd, Muncie, IN 47304, USA",
@@ -13,12 +15,34 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 7978
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 653
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "6.1 mi",
                   "value" : 9852
                },
                "duration" : {
                   "text" : "13 mins",
                   "value" : 786
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.4 mi",
+                  "value" : 16789
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 979
                },
                "status" : "OK"
             },
@@ -46,34 +70,34 @@
             },
             {
                "distance" : {
-                  "text" : "5.0 mi",
-                  "value" : 8079
+                  "text" : "5.5 mi",
+                  "value" : 8888
                },
                "duration" : {
-                  "text" : "10 mins",
-                  "value" : 610
+                  "text" : "11 mins",
+                  "value" : 630
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "6.2 mi",
-                  "value" : 9949
+                  "text" : "7.2 mi",
+                  "value" : 11655
                },
                "duration" : {
-                  "text" : "12 mins",
-                  "value" : 722
+                  "text" : "14 mins",
+                  "value" : 830
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "8.5 mi",
-                  "value" : 13746
+                  "text" : "8.4 mi",
+                  "value" : 13592
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1017
+                  "text" : "19 mins",
+                  "value" : 1111
                },
                "status" : "OK"
             }

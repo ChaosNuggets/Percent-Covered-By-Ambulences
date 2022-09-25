@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "6649 W 450 S, Huntingburg, IN 47542, USA",
       "Unnamed Road, Huntingburg, IN 47542, USA",
       "407 E 22nd St, Huntingburg, IN 47542, USA",
       "75 Villa Dr, Huntingburg, IN 47542, USA",
       "Unnamed Road, Huntingburg, IN 47542, USA",
       "3700-3720 E 450 S, Huntingburg, IN 47542, USA",
+      "2227 S 650 W, Jasper, IN 47546, USA",
       "W 150 S, Jasper, IN 47546, USA",
       "75 W South St, Jasper, IN 47546, USA",
       "6349-6361 S 100 W, Jasper, IN 47546, USA",
       "1172-1258 E 230S, Huntingburg, IN 47542, USA",
       "2435 S St Anthony Rd N, St Anthony, IN 47575, USA",
+      "901 S 650 W, Jasper, IN 47546, USA",
       "4800 W Division Rd, Jasper, IN 47546, USA",
       "265 S Old Huntingburg Rd, Jasper, IN 47546, USA",
       "820 Church Ave, Jasper, IN 47546, USA",
       "200-486 N 100 E, Jasper, IN 47546, USA",
       "281 S 330 E, Jasper, IN 47546, USA",
+      "6257-6859 W 200 N, Jasper, IN 47546, USA",
       "4897 W 150 N, Jasper, IN 47546, USA",
       "1910 Cobblestone Rd, Jasper, IN 47546, USA",
-      "2200-2386 Cathy Ln, Jasper, IN 47546, USA",
-      "789 E 190 N, Jasper, IN 47546, USA"
+      "2200-2386 Cathy Ln, Jasper, IN 47546, USA"
    ],
    "origin_addresses" : [ "255 Brucke Strasse, Jasper, IN 47546, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17245
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1107
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.4 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 824
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 14057
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1068
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12443
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 940
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.3 mi",
                   "value" : 6944
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12094
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 839
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "5.0 mi",
                   "value" : 7987
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "7 mins",
                   "value" : 402
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "3.7 mi",
-                  "value" : 5939
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 456
                },
                "status" : "OK"
             }

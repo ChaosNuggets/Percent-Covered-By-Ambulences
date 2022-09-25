@@ -1,6 +1,14 @@
 {
    "destination_addresses" : [
+      "1743 Knowles Dr, Spencer, IN 47460, USA",
+      "768 Concord Rd, Gosport, IN 47433, USA",
+      "6275 IN-46, Poland, IN 47868, USA",
+      "2968-3260 Fish Creek Rd, Poland, IN 47868, USA",
+      "2294 County Rd 275 N, Spencer, IN 47460, USA",
+      "2941 Rocky Hill Rd, Spencer, IN 47460, USA",
+      "2760 Country Club Rd, Spencer, IN 47460, USA",
       "3925 County Rd 250 N, Gosport, IN 47433, USA",
+      "4642 Jordan Village Rd, Poland, IN 47868, USA",
       "4001 Weilhamer Rd, Poland, IN 47868, USA",
       "2497-2807 County Rd 460 N, Spencer, IN 47460, USA",
       "235 W Keeler Rd, Spencer, IN 47460, USA",
@@ -13,12 +21,100 @@
          "elements" : [
             {
                "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4318
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 398
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8809
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 587
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11203
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9088
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 511
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7222
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 615
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6623
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 480
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9167
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 685
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "7.6 mi",
                   "value" : 12152
                },
                "duration" : {
                   "text" : "14 mins",
                   "value" : 820
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.6 mi",
+                  "value" : 15387
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 804
                },
                "status" : "OK"
             },
@@ -47,7 +143,7 @@
             {
                "distance" : {
                   "text" : "6.2 mi",
-                  "value" : 9985
+                  "value" : 9984
                },
                "duration" : {
                   "text" : "12 mins",
@@ -58,7 +154,7 @@
             {
                "distance" : {
                   "text" : "6.6 mi",
-                  "value" : 10673
+                  "value" : 10672
                },
                "duration" : {
                   "text" : "10 mins",

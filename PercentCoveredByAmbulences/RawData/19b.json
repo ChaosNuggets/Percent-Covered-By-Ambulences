@@ -1,11 +1,13 @@
 {
    "destination_addresses" : [
       "6001-7499 US-231, West Lafayette, IN 47906, USA",
+      "6910 N 450 W, West Lafayette, IN 47906, USA",
       "4000-4514 750 E, Oxford, IN 47971, USA",
       "4485-4001 S 975 E, Otterbein, IN 47970, USA",
       "11999-11239 E 400 S, Otterbein, IN 47970, USA",
       "7500-8998 W 900 N, West Lafayette, IN 47906, USA",
-      "8998-8500 US-231, West Lafayette, IN 47906, USA"
+      "8998-8500 US-231, West Lafayette, IN 47906, USA",
+      "9445-8501 N 450 W, West Lafayette, IN 47906, USA"
    ],
    "origin_addresses" : [ "104 2nd St, Otterbein, IN 47970, USA" ],
    "rows" : [
@@ -19,6 +21,17 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 493
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11986
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 652
                },
                "status" : "OK"
             },
@@ -74,6 +87,17 @@
                "duration" : {
                   "text" : "10 mins",
                   "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15205
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 866
                },
                "status" : "OK"
             }

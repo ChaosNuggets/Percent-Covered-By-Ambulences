@@ -1,29 +1,43 @@
 {
    "destination_addresses" : [
+      "5998-5000 N 400 E, Fowler, IN 47944, USA",
       "600 N 600 E, Fowler, IN 47944, USA",
       "800 E North St, Remington, IN 47977, USA",
       "9999-9001 E 600 N, Remington, IN 47977, USA",
       "5736 N 1200 E, Remington, IN 47977, USA",
       "10001-10475 W 400 S, Wolcott, IN 47995, USA",
+      "7807 N 400 E, Goodland, IN 47948, USA",
       "5854 E 800 N, Remington, IN 47977, USA",
       "7936 N 800 E, Remington, IN 47977, USA",
       "7794 N 1000 E, Remington, IN 47977, USA",
       "11999-11033 E 800 N, Remington, IN 47977, USA",
       "10351 W 200 S, Wolcott, IN 47995, USA",
+      "18221 County Rd 1080 W, Goodland, IN 47948, USA",
       "8855 W County Rd 1800 S, Remington, IN 47977, USA",
       "6800-7304 County Rd 1800 S, Remington, IN 47977, USA",
       "4855 W 1800 S, Remington, IN 47977, USA",
       "2971 W 1800 S, Remington, IN 47977, USA",
       "10094 W Division Rd, Wolcott, IN 47995, USA",
+      "16160 County Rd 1080 W, Goodland, IN 47948, USA",
       "16250 County Rd 880 W, Goodland, IN 47948, USA",
       "16170 County Rd 680 W, Remington, IN 47977, USA",
-      "1600 S 480 W, Remington, IN 47977, USA",
-      "3139-2893 W 1600 S, Remington, IN 47977, USA"
+      "1600 S 480 W, Remington, IN 47977, USA"
    ],
    "origin_addresses" : [ "1 N Ohio St, Remington, IN 47977, USA" ],
    "rows" : [
       {
          "elements" : [
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16103
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 834
+               },
+               "status" : "OK"
+            },
             {
                "distance" : {
                   "text" : "8.0 mi",
@@ -76,6 +90,17 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13907
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 781
                },
                "status" : "OK"
             },
@@ -136,6 +161,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10689
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 568
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.0 mi",
                   "value" : 6368
                },
@@ -191,6 +227,17 @@
             },
             {
                "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10222
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 504
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
                   "text" : "4.4 mi",
                   "value" : 7003
                },
@@ -219,17 +266,6 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 258
-               },
-               "status" : "OK"
-            },
-            {
-               "distance" : {
-                  "text" : "4.2 mi",
-                  "value" : 6709
-               },
-               "duration" : {
-                  "text" : "8 mins",
-                  "value" : 486
                },
                "status" : "OK"
             }
