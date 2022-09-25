@@ -15,10 +15,6 @@
 //    const auto [lowLatIndex, lowLongIndex] = lowCorner;
 //    const auto [highLatIndex, highLongIndex] = highCorner;
 //
-//    std::cout << stationNum << '\n';
-//    std::cout << lowLatIndex << ' ' << highLatIndex << '\n';
-//    std::cout << lowLongIndex << ' ' << highLongIndex << "\n\n";
-//
 //    bool shouldBreak = false;
 //    bool firstIteration = true;
 //    std::vector<std::pair<double, double>> destinations;
@@ -70,16 +66,16 @@
 //{
 //    const std::vector<std::pair<double, double>> destinations = getDestinations(stationNum, firstHalf);
 //    
-//    //std::string destinationsStr = destinationsToString(destinations);
-//    //std::string originStr = originsToString({ stationCoordinates[stationNum] });
-//    //std::string URL = generateURL(destinationsStr, originStr, apiKey);
-//    //
-//    //std::string filePath = generateFilePath(stationNum, firstHalf);
-//    //bool curlSuccess = doCurlStuff(URL, filePath);
-//    //if (!curlSuccess)
-//    //{
-//    //    return false;
-//    //}
+//    std::string destinationsStr = destinationsToString(destinations);
+//    std::string originStr = originsToString({ stationCoordinates[stationNum] });
+//    std::string URL = generateURL(destinationsStr, originStr, apiKey);
+//    
+//    std::string filePath = generateFilePath(stationNum, firstHalf);
+//    bool curlSuccess = doCurlStuff(URL, filePath);
+//    if (!curlSuccess)
+//    {
+//        return false;
+//    }
 //    return true;
 //}
 //
