@@ -52,7 +52,7 @@ This program gets the number of points that are covered by creating a point map 
 
 
 ## Result
-The output of the calculate coverage program was "Coverage: 15.35374868% (1454/9470)". Therefore, about 15% of Indiana can be reached by driving 5 minutes, starting from all police stations.
+The output of the calculate coverage program was "Coverage: 15.35374868% (1454/9470)". Therefore, about 15% of Indiana can be reached by driving 5 minutes from all police stations.
 
 
 
