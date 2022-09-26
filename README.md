@@ -1,7 +1,7 @@
 # PercentCoveredByAmbulences
 Ok I know I misspelled ambulances but I'm too lazy to fix it.
 
-### Table of Contents  
+## Table of Contents  
 1. [How the Programs Work](#how-the-programs-work)
 2. [Result](#result)
 3. [Usage](#usage)
