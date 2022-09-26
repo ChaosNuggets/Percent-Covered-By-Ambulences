@@ -13,7 +13,7 @@ Ok I know I misspelled ambulances but I'm too lazy to fix it.
 ## How the Programs Work
 
 ### Overview
-This is split into 3 programs: download data, organize data, and calculate coverage. The reason I wrote 3 programs as opposed to 1 or 2 is because I wanted to keep each program as simple as possible, especially when dealing with something that could cost me money if I'm not careful (the google maps api is free up until a certain limit). Also this program uses police stations as ambulance locations which is a little scuffed but it's tough to find out the locations of all ambulances in Indiana.
+This is split into 3 programs: download data, organize data, and calculate coverage. The reason I wrote 3 programs as opposed to 1 or 2 is because I wanted to keep each program as simple as possible, especially when dealing with something that could cost me money if I'm not careful (the google maps api is free up until a certain limit).
 
 ### Download Data
 This program downloads the data from the google maps api and saves it to json file inside of the folder RawData. Here is a flowchart of this program:
