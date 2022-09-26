@@ -1,4 +1,4 @@
-# PercentCoveredByAmbulences
+# Percent Covered By Ambulences
 Ok I know I misspelled ambulances but I'm too lazy to fix it.
 
 ## Table of Contents  
