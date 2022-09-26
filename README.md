@@ -11,10 +11,6 @@ Ok I know I misspelled ambulances but I'm too lazy to fix it.
 
 
 ## How the Programs Work
-1. [Overview](#overview)
-2. [Download Data](#download-data)
-3. [Organize Data](#organize-data)
-4. [Calculate Coverage](#calculate-coverage)
 
 ### Overview
 This is split into 3 programs: download data, organize data, and calculate coverage. The reason I wrote 3 programs as opposed to 1 or 2 is because I wanted to keep each program as simple as possible, especially when dealing with something that could cost me money if I'm not careful (the google maps api is free up until a certain limit). Also this program uses police stations as ambulance locations which is a little scuffed but it's tough to find out the locations of all ambulances in Indiana.
@@ -48,11 +44,6 @@ The output of the calculate coverage program was "Coverage: 15.35374868% (1454/9
 
 
 ## Usage
-1. [Overview](#overview-1)
-2. [Download Data](#download-data-1)
-3. [Organize Data](#organize-data-1)
-4. [Calculate Coverage](#calculate-coverage-1)
-5. [Compiling It Yourself](#compiling-it-yourself)
 
 ### Overview
 There are three .exe files in the PercentCoveredByAmbulences folder: download_data.exe, organize_data.exe, and calculate_coverage.exe. These are the three programs I mentioned in [How the Programs Work](#how-the-programs-work). For more info on each of them, check out [that section](#how-the-programs-work).
