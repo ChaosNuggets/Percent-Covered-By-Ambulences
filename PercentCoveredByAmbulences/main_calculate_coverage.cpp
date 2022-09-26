@@ -1,3 +1,4 @@
+// Uses the data in the TravelTimes folder to calculate the coverage
 #include <iostream>
 #include <iomanip>
 #include <fstream>
