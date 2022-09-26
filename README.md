@@ -15,21 +15,21 @@ Ok I know I misspelled ambulances but I'm too lazy to fix it.
 ### Overview
 This is split into 3 programs: download data, organize data, and calculate coverage. The reason I wrote 3 programs as opposed to 1 or 2 is because I wanted to keep each program as simple as possible, especially when dealing with something that could cost me money if I'm not careful (the google maps api is free up until a certain limit).
 
-### Download Data
+### Program #1: Download Data
 This program downloads the data from the google maps api and saves it to json file inside of the folder RawData. Here is a flowchart of this program:
 
 ![Download Data Flowchart](Flowcharts/download_data.png)
 
 If you look inside of PercentCoveredByAmbulences/RawData, all the files are named in the format \[police station number\]\[a or b\].json. Inside of station_coordinates.cpp there is an array of all the police station coordinates. The police station number is just the index of which that police station's coordinate is listed inside of this array. The reason I have two files for each police station (hence the a or b) is because the google maps api only allows 25 coordinates per request, and some boxes contain more than 25 points, so I have to split it up into two requests.
 
-### Organize Data
+### Program #2: Organize Data
 This is a very simple program which extracts the travel times from the json files and outputs them to a txt file inside of the folder PercentCoveredByAmbulences/TravelTimes. Flowchart of this program:
 
 ![Organize Data Flowchart](Flowcharts/organize_data.png)
 
 Each of the text files are named in the format \[police station number\].txt.
 
-### Calculate Coverage
+### Program #3: Calculate Coverage
 Calculates the number of points that are covered over the total points. Points that are covered are points that the ambulance can drive to within 5 minutes. Flowchart:
 
 ![Calculate Coverage](Flowcharts/calculate_coverage.png)
@@ -48,19 +48,19 @@ The output of the calculate coverage program was "Coverage: 15.35374868% (1454/9
 ### Overview
 There are three .exe files in the PercentCoveredByAmbulences folder: download_data.exe, organize_data.exe, and calculate_coverage.exe. These are the three programs I mentioned in [How the Programs Work](#how-the-programs-work). For more info on each of them, check out [that section](#how-the-programs-work).
 
-### Download Data
+### Program #1: Download Data
 **WARNING: RUNNING THE DOWNLOAD DATA PROGRAM TOO MANY TIMES IS NOT FREE.** You get $200 of free credit each month but if you go over that you will have to pay. This program will make about 1100 api requests, which for me used $96 - $98 of my credit.
 
 The first thing you need to do to run this program is to get a google maps api key. Go to https://developers.google.com/maps/documentation/distance-matrix/get-api-key for instructions on how to get one.
 
 Next, you can run download_data.exe. The program will prompt you for your api key, and when you enter it it will start downloading the files. Make sure there is a folder called RawData in the same directory as your .exe file or it will not work.
 
-### Organize Data
+### Program #2: Organize Data
 Make sure organize_data.exe is in the same directory as your RawData folder. You will also have to have another folder called TravelTimes in the same directory.
 
 Once you've made sure that's fine you can run organize_data.exe.
 
-### Calculate Coverage
+### Program #3: Calculate Coverage
 Make sure calculate_coverage.exe is in the same directory as your TravelTimes folder. Then you can run it.
 
 ### Compiling It Yourself
