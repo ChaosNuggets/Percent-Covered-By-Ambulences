@@ -18,7 +18,7 @@ This is split into 3 programs: download data, organize data, and calculate cover
 ### Program #1: Download Data
 This program downloads the data from the google maps api and saves it to json file inside of the folder RawData. Here is a flowchart of this program:
 
-<img src="Flowcharts/download_data.png" alt="Download Data Flowchart" width="200"/>
+<img src="Flowcharts/download_data.png" alt="Download Data Flowchart" width="700"/>
 
 If you look inside of PercentCoveredByAmbulences/RawData, all the files are named in the format \[police station number\]\[a or b\].json. Inside of station_coordinates.cpp there is an array of all the police station coordinates. The police station number is just the index of which that police station's coordinate is listed inside of this array. The reason I have two files for each police station (hence the a or b) is because the google maps api only allows 25 coordinates per request, and some boxes contain more than 25 points, so I have to split it up into two requests.
 
@@ -32,7 +32,7 @@ Each of the text files are named in the format \[police station number\].txt.
 ### Program #3: Calculate Coverage
 Calculates the number of points that are covered over the total points. Points that are covered are points that the ambulance can drive to within 5 minutes. Flowchart:
 
-<img src="Flowcharts/calculate_coverage.png" alt="Calculate Coverage" width="200"/>
+<img src="Flowcharts/calculate_coverage.png" alt="Calculate Coverage" width="700"/>
 
 This program gets the number of points that are covered by creating a point map of Indiana, initializing each point as true, and then setting each point to false if the point is covered.
 
