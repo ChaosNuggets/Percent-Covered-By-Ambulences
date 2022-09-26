@@ -3,18 +3,9 @@ Ok I know I misspelled ambulances but I'm too lazy to fix it.
 
 ### Table of Contents  
 1. [How the Programs Work](#how-the-programs-work)
-    1. [Overview](#overview)
-    2. [Download Data](#download-data)
-    3. [Organize Data](#organize-data)
-    4. [Calculate Coverage](#calculate-coverage)
 2. [Result](#result)
 3. [Usage](#usage)
-    1. [Overview](#overview-1)
-    2. [Download Data](#download-data-1)
-    3. [Organize Data](#organize-data-1)
-    4. [Calculate Coverage](#calculate-coverage-1)
-    5. [Compiling It Yourself](#compiling-it-yourself)
-4. [Flaws]()
+4. [Flaws](#flaws)
 5. [Tools I Used](#tools-i-used)
 
 
