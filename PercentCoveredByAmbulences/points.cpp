@@ -1,18 +1,23 @@
 #define _USE_MATH_DEFINES
 #include "points.h"
 #include "constants.h"
+#include "get_test_bounds.h"
+#include "calculate_distance.h"
 #include <cmath>
+
+
+#include <iostream>
 
 std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
 int totalPoints; // The total number of points in Indiana
 
-std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, funcPtr roundFunc = round)
+std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, funcPtr roundFunc)
 {
-    const auto [latitude, longitude] = coordinate; // Extract data
+    const auto& [latitude, longitude] = coordinate; // Extract data
 
     // Calculate the coordinate's difference in miles from LOWEST_LAT and LOWEST_LONG
     const double latMileDifference = (latitude - LOWEST_LAT) / LAT_IN_1_MILE;
-    const double longMileDifference = (longitude - LOWEST_LONG) / LONG_IN_1_MILE;
+    const double longMileDifference = calculateDistance({ latitude, LOWEST_LONG }, coordinate);
 
     // Round the difference so it's an integer
     int latIndex = roundFunc(latMileDifference / MILES_BETWEEN_POINTS); // Also why is round not constexpr aaaaa
@@ -26,13 +31,13 @@ std::pair<double, double> indexToCoord(const std::pair<int, int>& index)
     const auto [latIndex, longIndex] = index; // Extract data
 
     // Do the conversion
-    const double latitude = latIndex * LAT_IN_1_MILE * MILES_BETWEEN_POINTS + LOWEST_LAT;
-    const double longitude = longIndex * LONG_IN_1_MILE * MILES_BETWEEN_POINTS + LOWEST_LONG;
+    const double latitude = calcCoordLat({ LOWEST_LAT, 0 }, latIndex * MILES_BETWEEN_POINTS);
+    const double longitude = calcCoordLong({ latitude, LOWEST_LONG }, longIndex * MILES_BETWEEN_POINTS);
 
     return { latitude, longitude };
 }
 
-void fillPoints(bool countPoints = false)
+void fillPoints(bool countPoints)
 {
     // Resizes points to be a 2d matrix of points of size latSize by longSize
     points.resize(LAT_SIZE, std::vector<bool>(LONG_SIZE, false));

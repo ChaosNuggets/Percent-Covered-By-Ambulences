@@ -5,7 +5,7 @@
 #include "angle_conversions.h"
 #include "get_test_bounds.h"
 
-static double calcCoordLong(const std::pair<double, double>& coordinate, const double distance)
+double calcCoordLong(const std::pair<double, double>& coordinate, const double distance)
 {
     auto [latitude, longitude] = coordinate; // Extract latitude and longitude from coordinate
 
@@ -22,7 +22,7 @@ static double calcCoordLong(const std::pair<double, double>& coordinate, const d
     return toDegrees(longitude + difference);
 }
 
-static constexpr double calcCoordLat(const std::pair<double, double>& coordinate, const double distance)
+constexpr double calcCoordLat(const std::pair<double, double>& coordinate, const double distance)
 {
     const double latitude = coordinate.first; // Extract latitude from coordinate
     const double difference = distance * LAT_IN_1_MILE; // Not stupid formula
