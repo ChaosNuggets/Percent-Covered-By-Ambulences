@@ -3,9 +3,10 @@
 
 #include <utility>
 #include "point.h"
+#include "index.h"
 
 double calcCoordLong(const Point& coordinate, const double distance);
 constexpr double calcCoordLat(const Point& coordinate, const double distance);
-std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const Point& stationCoordinate, const double boxRadius);
+std::pair<Index, Index> getTestIndexBounds(const Point& stationCoordinate, const double boxRadius);
 
 #endif

@@ -9,7 +9,7 @@
 std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
 int totalPoints; // The total number of points in Indiana
 
-std::pair<int, int> coordToIndex(const Point& coordinate, funcPtr roundFunc)
+Index coordToIndex(const Point& coordinate, funcPtr roundFunc)
 {
     const auto& [latitude, longitude] = coordinate; // Extract data
 
@@ -24,7 +24,7 @@ std::pair<int, int> coordToIndex(const Point& coordinate, funcPtr roundFunc)
     return { latIndex, longIndex };
 }
 
-Point indexToCoord(const std::pair<int, int>& index)
+Point indexToCoord(const Index& index)
 {
     const auto [latIndex, longIndex] = index; // Extract data
 

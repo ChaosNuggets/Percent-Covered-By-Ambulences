@@ -38,7 +38,7 @@ static std::pair<Point, Point> getTestCoordinateBounds(const Point& stationCoord
 }
 
 // Returns the corners of the rectangles of the indexes you should test
-std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const Point& stationCoordinate, const double boxRadius)
+std::pair<Index, Index> getTestIndexBounds(const Point& stationCoordinate, const double boxRadius)
 {
     //Extract the corners from the coordinate bounds
     const auto [lowCorner, highCorner] = getTestCoordinateBounds(stationCoordinate, boxRadius);
