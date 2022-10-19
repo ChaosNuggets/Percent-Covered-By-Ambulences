@@ -1,6 +1,6 @@
 #include "station_coordinates.h"
 
-const std::vector<std::pair<double, double>> stationCoordinates =
+const std::vector<Point> stationCoordinates =
 {
     {40.3439096, -86.6664305},
     {39.8111812, -86.1159345},

@@ -41,5 +41,5 @@ long double calculateDistance(const std::pair<long double, long double>& coord1,
 	return ans;
 }
 
-// This code is contributed
+// This code was written
 // by Aayush Chaturvedi

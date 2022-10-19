@@ -10,7 +10,7 @@ typedef double (*funcPtr)(double);
 extern std::vector<std::vector<bool>> points;
 extern int totalPoints;
 
-std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, funcPtr roundFunc = round);
+std::pair<int, int> coordToIndex(const Point& coordinate, funcPtr roundFunc = round);
 Point indexToCoord(const std::pair<int, int>& index);
 void fillPoints(bool countPoints = false);
 

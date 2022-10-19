@@ -96,3 +96,6 @@ bool checkIfInside(const std::vector<Point>& poly, const Point p)
 	// When count is odd
 	return count & 1;
 }
+
+// This code was written
+// by Aarti Rathi

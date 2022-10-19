@@ -5,7 +5,7 @@
 #include "angle_conversions.h"
 #include "get_test_bounds.h"
 
-double calcCoordLong(const std::pair<double, double>& coordinate, const double distance)
+double calcCoordLong(const Point& coordinate, const double distance)
 {
     auto [latitude, longitude] = coordinate; // Extract latitude and longitude from coordinate
 
@@ -22,14 +22,13 @@ double calcCoordLong(const std::pair<double, double>& coordinate, const double d
     return toDegrees(longitude + difference);
 }
 
-constexpr double calcCoordLat(const std::pair<double, double>& coordinate, const double distance)
+constexpr double calcCoordLat(const Point& coordinate, const double distance)
 {
-    const double latitude = coordinate.first; // Extract latitude from coordinate
     const double difference = distance * LAT_IN_1_MILE; // Not stupid formula
-    return latitude + difference;
+    return coordinate.lat + difference;
 }
 
-static std::pair<std::pair<double, double>, std::pair<double, double>> getTestCoordinateBounds(const std::pair<double, double>& stationCoordinate, const double boxRadius)
+static std::pair<Point, Point> getTestCoordinateBounds(const Point& stationCoordinate, const double boxRadius)
 {
     const double highLat = calcCoordLat(stationCoordinate, boxRadius);
     const double lowLat = calcCoordLat(stationCoordinate, -boxRadius);
@@ -39,7 +38,7 @@ static std::pair<std::pair<double, double>, std::pair<double, double>> getTestCo
 }
 
 // Returns the corners of the rectangles of the indexes you should test
-std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const std::pair<double, double>& stationCoordinate, const double boxRadius)
+std::pair<std::pair<int, int>, std::pair<int, int>> getTestIndexBounds(const Point& stationCoordinate, const double boxRadius)
 {
     //Extract the corners from the coordinate bounds
     const auto [lowCorner, highCorner] = getTestCoordinateBounds(stationCoordinate, boxRadius);

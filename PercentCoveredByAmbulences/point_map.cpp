@@ -10,13 +10,13 @@
 std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
 int totalPoints; // The total number of points in Indiana
 
-std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, funcPtr roundFunc)
+std::pair<int, int> coordToIndex(const Point& coordinate, funcPtr roundFunc)
 {
     const auto& [latitude, longitude] = coordinate; // Extract data
 
     // Calculate the coordinate's difference in miles from LOWEST_LAT and LOWEST_LONG
     const double latMileDifference = (latitude - LOWEST_LAT) / LAT_IN_1_MILE;
-    const double longMileDifference = calculateDistance({ latitude, LOWEST_LONG }, coordinate);
+    const double longMileDifference = calculateDistance({ latitude, LOWEST_LONG }, {latitude, longitude});
 
     // Round the difference so it's an integer
     int latIndex = roundFunc(latMileDifference / MILES_BETWEEN_POINTS); // Also why is round not constexpr aaaaa

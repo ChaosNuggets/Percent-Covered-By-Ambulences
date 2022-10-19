@@ -1,9 +1,9 @@
 #ifndef STATION_COORDINATES_H
 #define STATION_COORDINATES_H
 
-#include <utility>
+#include "point_struct.h"
 #include <vector>
 
-const extern std::vector<std::pair<double, double>> stationCoordinates;
+const extern std::vector<Point> stationCoordinates;
 
 #endif
