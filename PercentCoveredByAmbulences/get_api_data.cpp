@@ -68,13 +68,13 @@ static std::string encode(const double number)
     return returnString;
 }
 
-static std::string generatePolyline(const std::string& prefix, const std::string& suffix, const std::vector<std::pair<double, double>>& coordinates)
+static std::string generatePolyline(const std::string& prefix, const std::string& suffix, const std::vector<Point>& coordinates)
 {
     std::string returnString = prefix;
     for (int i = 0; i < coordinates.size(); i++)
     {
         auto [currentLat, currentLong] = coordinates[i];
-        auto [previousLat, previousLong] = i > 0 ? coordinates[i - 1] : std::pair<double, double>{ 0, 0 };
+        auto [previousLat, previousLong] = i > 0 ? coordinates[i - 1] : Point{ 0, 0 };
         double latDifference = currentLat - previousLat;
         double longDifference = currentLong - previousLong;
 
@@ -86,12 +86,12 @@ static std::string generatePolyline(const std::string& prefix, const std::string
     return returnString;
 }
 
-std::string destinationsToString(const std::vector<std::pair<double, double>>& coordinates)
+std::string destinationsToString(const std::vector<Point>& coordinates)
 {
     return generatePolyline("?destinations=enc:", ":", coordinates);
 }
 
-std::string originsToString(const std::vector<std::pair<double, double>>& coordinates)
+std::string originsToString(const std::vector<Point>& coordinates)
 {
     return generatePolyline("&origins=enc:", ":", coordinates);
 }

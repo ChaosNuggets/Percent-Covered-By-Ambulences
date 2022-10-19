@@ -77,7 +77,10 @@
     <ClInclude Include="check_if_inside.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="point_struct.h">
+    <ClInclude Include="point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="index.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

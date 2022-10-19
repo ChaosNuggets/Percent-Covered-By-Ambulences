@@ -4,7 +4,6 @@
 #include "get_test_bounds.h"
 #include "calculate_distance.h"
 #include "check_if_inside.h"
-#include "point_struct.h"
 #include <cmath>
 
 std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)

@@ -159,7 +159,8 @@
     <ClInclude Include="angle_conversions.h" />
     <ClInclude Include="calculate_distance.h" />
     <ClInclude Include="check_if_inside.h" />
-    <ClInclude Include="point_struct.h" />
+    <ClInclude Include="index.h" />
+    <ClInclude Include="point.h" />
     <ClInclude Include="station_coordinates.h" />
     <ClInclude Include="point_map.h" />
   </ItemGroup>
