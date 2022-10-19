@@ -1,6 +1,6 @@
 //// Program to get the api data
 //#include "get_api_data.h"
-//#include "points.h"
+//#include "point_map.h"
 //#include "constants.h"
 //#include "station_coordinates.h"
 //#include "get_test_bounds.h"

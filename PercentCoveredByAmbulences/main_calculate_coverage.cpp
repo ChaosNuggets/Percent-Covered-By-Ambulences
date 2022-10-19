@@ -6,7 +6,7 @@
 //#include "station_coordinates.h"
 //#include "get_test_bounds.h"
 //#include "constants.h"
-//#include "points.h"
+//#include "point_map.h"
 //
 //std::string generateFilePath(const int stationNum)
 //{

@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="get_api_data.cpp" />
-    <ClCompile Include="points.cpp" />
+    <ClCompile Include="point_map.cpp" />
     <ClCompile Include="constants.cpp" />
     <ClCompile Include="main_download_data.cpp" />
     <ClCompile Include="get_test_bounds.cpp" />
@@ -149,6 +149,7 @@
     <ClCompile Include="main_calculate_coverage.cpp" />
     <ClCompile Include="calculate_distance.cpp" />
     <ClCompile Include="main_test.cpp" />
+    <ClCompile Include="check_if_inside.cpp" />
     <ClCompile Include="station_coordinates.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -157,8 +158,10 @@
     <ClInclude Include="get_test_bounds.h" />
     <ClInclude Include="angle_conversions.h" />
     <ClInclude Include="calculate_distance.h" />
+    <ClInclude Include="check_if_inside.h" />
+    <ClInclude Include="point_struct.h" />
     <ClInclude Include="station_coordinates.h" />
-    <ClInclude Include="points.h" />
+    <ClInclude Include="point_map.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

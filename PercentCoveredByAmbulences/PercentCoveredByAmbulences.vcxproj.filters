@@ -18,7 +18,7 @@
     <ClCompile Include="get_api_data.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="points.cpp">
+    <ClCompile Include="point_map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="constants.cpp">
@@ -48,12 +48,15 @@
     <ClCompile Include="main_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="check_if_inside.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="points.h">
+    <ClInclude Include="point_map.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="get_api_data.h">
@@ -69,6 +72,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="calculate_distance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check_if_inside.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="point_struct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

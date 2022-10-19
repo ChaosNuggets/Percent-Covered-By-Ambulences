@@ -1,6 +1,6 @@
 #define _USE_MATH_DEFINES
 #include <cmath>
-#include "points.h"
+#include "point_map.h"
 #include "constants.h"
 #include "angle_conversions.h"
 #include "get_test_bounds.h"

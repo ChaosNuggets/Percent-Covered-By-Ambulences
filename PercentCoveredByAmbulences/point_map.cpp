@@ -1,8 +1,10 @@
 #define _USE_MATH_DEFINES
-#include "points.h"
+#include "point_map.h"
 #include "constants.h"
 #include "get_test_bounds.h"
 #include "calculate_distance.h"
+#include "check_if_inside.h"
+#include "point_struct.h"
 #include <cmath>
 
 std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
@@ -23,13 +25,22 @@ std::pair<int, int> coordToIndex(const std::pair<double, double>& coordinate, fu
     return { latIndex, longIndex };
 }
 
-std::pair<double, double> indexToCoord(const std::pair<int, int>& index)
+Point indexToCoord(const std::pair<int, int>& index)
 {
     const auto [latIndex, longIndex] = index; // Extract data
 
     // Do the conversion
     const double latitude = calcCoordLat({ LOWEST_LAT, 0 }, latIndex * MILES_BETWEEN_POINTS);
-    const double longitude = calcCoordLong({ latitude, LOWEST_LONG }, longIndex * MILES_BETWEEN_POINTS);
+    
+    double longitude;
+    if (longIndex == 0)
+    {
+        longitude = LOWEST_LONG;
+    }
+    else
+    {
+        longitude = calcCoordLong({ latitude, LOWEST_LONG }, longIndex * MILES_BETWEEN_POINTS);
+    }
 
     return { latitude, longitude };
 }
@@ -43,8 +54,9 @@ void fillPoints(bool countPoints)
     {
         totalPoints = 0;
     }
+
     // These are the coordinates of vertexes of the polygon that make up the Indiana border
-    const std::vector<std::pair<double, double>> indianaBorder =
+    const std::vector<Point> indianaBorder =
     {
         {41.712028, -87.524126},
         {41.690771, -87.400318},
@@ -65,35 +77,24 @@ void fillPoints(bool countPoints)
         {38.266599, -87.977350},
         {38.755578, -87.498621},
         {39.136105, -87.658967},
-        {39.371112, -87.531690},
-        {41.712028, -87.524126}
+        {39.371112, -87.531690}
     };
-
-    // Make 2 for loops which go from LOWEST_LAT and LOWEST_LONG to HIGHEST_LAT and HIGHEST_LONG
-    // If the point is inside the polyline border, set it to true
-
-    //for (auto& rectangleCornerSet : rectangleCorners)
-    //{
-    //    // Extract data
-    //    const double lowLat = rectangleCornerSet.first.first;
-    //    const double highLat = rectangleCornerSet.second.first;
-    //    const double lowLong = rectangleCornerSet.first.second;
-    //    const double highLong = rectangleCornerSet.second.second;
-
-    //    const auto [lowLatIndex, lowLongIndex] = coordToIndex({ lowLat, lowLong });
-    //    const auto [highLatIndex, highLongIndex] = coordToIndex({ highLat, highLong });
-    //    
-    //    // Fill the points to be spaced less than MILES_BETWEEN_POINTS apart
-    //    for (int i = lowLatIndex; i <= highLatIndex; i++)
-    //    {
-    //        for (int j = lowLongIndex; j <= highLongIndex; j++)
-    //        {
-    //            if (countPoints)
-    //            {   
-    //                totalPoints++;
-    //            }
-    //            points[i][j] = true;
-    //        }
-    //    }
-    //}
+    
+    // Fill the points to be spaced less than MILES_BETWEEN_POINTS apart
+    for (int i = 0; i < LAT_SIZE; i++)
+    {
+        for (int j = 0; j < LONG_SIZE; j++)
+        {
+            // If the point is inside the polyline border, set it to true
+            const Point p = indexToCoord({i, j});
+            if (checkIfInside(indianaBorder, p))
+            {
+                points[i][j] = true;
+                if (countPoints)
+                {
+                    totalPoints++;
+                }
+            }
+        }
+    }
 }
