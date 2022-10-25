@@ -8,99 +8,16 @@ void promptForAPIKey(std::string& apiKey)
 {
     std::cout << "Enter API key: ";
     std::getline(std::cin, apiKey);
-    apiKey.insert(0, "&key=");
+    apiKey.insert(0, "&access_token=");
 }
 
-static std::string encode(const double number)
+std::string generateURL(const Point& coordinate, const int maxTime, const std::string& apiKey)
 {
-    // Take the decimal value and multiply it by 1e5, rounding the result:
-    int intCoord = round(number * 1e5);
-
-    // Left-shift the binary value one bit:
-    intCoord = intCoord << 1;
-
-    // If the original decimal value is negative, invert this encoding:
-    if (number < 0)
-    {
-        intCoord = ~intCoord;
-    }
-
-    // Break the binary value out into 5-bit chunks:
-    std::vector<int> chunks;
-    const int CHUNKSIZE = 5;
-    bool removeZeroChunks = true;
-    for (int i = (sizeof(intCoord) * 8 / CHUNKSIZE) - 1; i >= 0; i--)
-    {
-        int chunk = (intCoord >> i * CHUNKSIZE) & 0b11111;
-        if (removeZeroChunks)
-        {
-            if (chunk != 0 || i == 0)
-            {
-                removeZeroChunks = false;
-            }
-            else
-            {
-                continue;
-            }
-        }
-        chunks.push_back(chunk);
-    }
-
-    // Place the 5-bit chunks into reverse order:
-    std::reverse(chunks.begin(), chunks.end());
-
-    // OR each value with 0x20 if another bit chunk follows:
-    for (int i = 0; i < chunks.size() - 1; i++)
-    {
-        chunks[i] = chunks[i] | 0x20;
-    }
-
-    std::string returnString = "";
-    for (int& chunk : chunks)
-    {
-        // Add 63 to each value:
-        chunk += 63;
-
-        // Convert each value to its ASCII equivalent and append it to the string:
-        returnString.push_back(chunk);
-    }
-
-    return returnString;
-}
-
-static std::string generatePolyline(const std::string& prefix, const std::string& suffix, const std::vector<Point>& coordinates)
-{
-    std::string returnString = prefix;
-    for (int i = 0; i < coordinates.size(); i++)
-    {
-        auto [currentLat, currentLong] = coordinates[i];
-        auto [previousLat, previousLong] = i > 0 ? coordinates[i - 1] : Point{ 0, 0 };
-        double latDifference = currentLat - previousLat;
-        double longDifference = currentLong - previousLong;
-
-        returnString.append(encode(latDifference));
-
-        returnString.append(encode(longDifference));
-    }
-    returnString.append(suffix);
-    return returnString;
-}
-
-std::string destinationsToString(const std::vector<Point>& coordinates)
-{
-    return generatePolyline("?destinations=enc:", ":", coordinates);
-}
-
-std::string originsToString(const std::vector<Point>& coordinates)
-{
-    return generatePolyline("&origins=enc:", ":", coordinates);
-}
-
-std::string generateURL(const std::string& destinations, const std::string& origins, const std::string& apiKey)
-{
-    std::string api = "https://maps.googleapis.com/maps/api/distancematrix/json";
-    std::string units = "&units=imperial";
-    std::string URL = api + destinations + origins + units + apiKey;
+    std::string api = "https://api.mapbox.com/isochrone/v1/mapbox/driving/";
+    std::string coordStr = std::to_string(coordinate.lon) + ',' + std::to_string(coordinate.lat);
+    std::string time = "?contours_minutes=" + std::to_string(maxTime);
+    std::string denoise = "&denoise=0.0";
+    std::string URL = api + coordStr + time + denoise + apiKey;
     return URL;
 }
 
