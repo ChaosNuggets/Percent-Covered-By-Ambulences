@@ -16,8 +16,7 @@ std::string generateURL(const Point& coordinate, const int maxTime, const std::s
     std::string api = "https://api.mapbox.com/isochrone/v1/mapbox/driving/";
     std::string coordStr = std::to_string(coordinate.lon) + ',' + std::to_string(coordinate.lat);
     std::string time = "?contours_minutes=" + std::to_string(maxTime);
-    std::string denoise = "&denoise=0.0";
-    std::string URL = api + coordStr + time + denoise + apiKey;
+    std::string URL = api + coordStr + time + apiKey;
     return URL;
 }
 
