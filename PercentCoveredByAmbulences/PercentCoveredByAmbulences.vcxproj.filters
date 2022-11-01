@@ -36,7 +36,7 @@
     <ClCompile Include="angle_conversions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main_organize_data.cpp">
+    <ClCompile Include="extract_polygons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main_calculate_coverage.cpp">
@@ -81,6 +81,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="extract_polygons.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
