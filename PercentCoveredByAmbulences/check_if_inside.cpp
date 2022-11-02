@@ -1,7 +1,14 @@
 #include "check_if_inside.h"
 #include <algorithm>
 
-static const double SMOL = 0.000001;
+
+
+
+
+#include <iostream>
+
+
+
 
 static struct Line {
 	Point p1, p2;
@@ -11,9 +18,9 @@ static bool onLine(const Line l1, const Point p)
 {
 	// Check whether p is on the line or not
 	if (p.lon <= std::max(l1.p1.lon, l1.p2.lon)
-		&& p.lon >= std::min(l1.p1.lon, l1.p2.lon)
+		&& p.lon <= std::min(l1.p1.lon, l1.p2.lon)
 		&& (p.lat <= std::max(l1.p1.lat, l1.p2.lat)
-			&& p.lat >= std::min(l1.p1.lat, l1.p2.lat)))
+			&& p.lat <= std::min(l1.p1.lat, l1.p2.lat)))
 		return true;
 
 	return false;
@@ -24,12 +31,12 @@ static int direction(const Point a, const Point b, const Point c)
 	double val = (b.lat - a.lat) * (c.lon - b.lon)
 		- (b.lon - a.lon) * (c.lat - b.lat);
 
-	if (val < SMOL && val > -SMOL)
+	if (val < 0.000001 && val > -0.000001)
 
 		// Colinear
 		return 0;
 
-	else if (val <= -SMOL)
+	else if (val <= -0.000001)
 
 		// Anti-clockwise direction
 		return 2;
@@ -71,6 +78,7 @@ static bool isIntersect(const Line l1, const Line l2)
 
 bool checkIfInside(const Polygon& poly, const Point p)
 {
+
 	// When polygon has less than 3 edges, it is not a polygon
 	if (poly.size() < 3)
 		return false;
@@ -80,10 +88,12 @@ bool checkIfInside(const Polygon& poly, const Point p)
 	int count = 0;
 	int i = 0;
 	do {
+
 		// Forming a line from two consecutive points of
 		// poly
 		Line side = { poly[i], poly[(i + 1) % poly.size()]};
 		if (isIntersect(side, exline)) {
+			std::cout << i << '\n';
 			// If side is intersects exline
 			if (direction(side.p1, p, side.p2) == 0)
 				return onLine(side, p);
