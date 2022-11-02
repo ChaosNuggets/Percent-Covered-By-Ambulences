@@ -160,6 +160,7 @@
     <ClInclude Include="calculate_distance.h" />
     <ClInclude Include="check_if_inside.h" />
     <ClInclude Include="extract_polygons.h" />
+    <ClInclude Include="polygon.h" />
     <ClInclude Include="index.h" />
     <ClInclude Include="point.h" />
     <ClInclude Include="station_coordinates.h" />

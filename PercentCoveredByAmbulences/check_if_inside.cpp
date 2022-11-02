@@ -1,6 +1,15 @@
 #include "check_if_inside.h"
 #include <algorithm>
 
+
+
+
+
+#include <iostream>
+
+
+
+
 static struct Line {
 	Point p1, p2;
 };
@@ -67,7 +76,7 @@ static bool isIntersect(const Line l1, const Line l2)
 	return false;
 }
 
-bool checkIfInside(const std::vector<Point>& poly, const Point p)
+bool checkIfInside(const Polygon& poly, const Point p)
 {
 
 	// When polygon has less than 3 edges, it is not a polygon
@@ -75,7 +84,7 @@ bool checkIfInside(const std::vector<Point>& poly, const Point p)
 		return false;
 
 	// Create a point at infinity, y is same as point p
-	Line exline = { p, { 9999, p.lat } };
+	Line exline = { p, { 0, p.lat } };
 	int count = 0;
 	int i = 0;
 	do {
@@ -84,7 +93,7 @@ bool checkIfInside(const std::vector<Point>& poly, const Point p)
 		// poly
 		Line side = { poly[i], poly[(i + 1) % poly.size()]};
 		if (isIntersect(side, exline)) {
-
+			std::cout << i << '\n';
 			// If side is intersects exline
 			if (direction(side.p1, p, side.p2) == 0)
 				return onLine(side, p);

@@ -6,8 +6,12 @@
 #include "check_if_inside.h"
 #include <cmath>
 
-std::vector<std::vector<bool>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
+std::vector<std::vector<uint8_t>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
 int totalPoints; // The total number of points in Indiana
+
+const int OUTSIDE = 0;
+const int NOT_COVERED = 1;
+const int COVERED = 2;
 
 Index coordToIndex(const Point& coordinate, funcPtr roundFunc)
 {
@@ -47,7 +51,7 @@ Point indexToCoord(const Index& index)
 void fillPoints(bool countPoints)
 {
     // Resizes points to be a 2d matrix of points of size latSize by longSize
-    points.resize(LAT_SIZE, std::vector<bool>(LONG_SIZE, false));
+    points.resize(LAT_SIZE, std::vector<uint8_t>(LONG_SIZE, OUTSIDE));
     
     if (countPoints)
     {
@@ -55,7 +59,7 @@ void fillPoints(bool countPoints)
     }
 
     // These are the coordinates of vertexes of the polygon that make up the Indiana border
-    const std::vector<Point> indianaBorder =
+    const Polygon indianaBorder =
     {
         {41.712028, -87.524126},
         {41.690771, -87.400318},
@@ -88,7 +92,7 @@ void fillPoints(bool countPoints)
             const Point p = indexToCoord({i, j});
             if (checkIfInside(indianaBorder, p))
             {
-                points[i][j] = true;
+                points[i][j] = NOT_COVERED;
                 if (countPoints)
                 {
                     totalPoints++;

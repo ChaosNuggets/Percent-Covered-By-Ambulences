@@ -86,5 +86,8 @@
     <ClInclude Include="extract_polygons.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="polygon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -3,8 +3,8 @@
 
 #include <vector>
 #include "point.h"
+#include "polygon.h"
 
-typedef std::vector<Point> Polygon;
 extern std::vector<Polygon> isochrones;
 void extractPolygons();
 
