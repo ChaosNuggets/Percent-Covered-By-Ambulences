@@ -65,14 +65,6 @@ static Polygon extractPolygon(std::ifstream& fin)
 	return getVertexes(line, start);
 }
 
-static void writeDurations(std::ofstream& fout, const std::vector<int>& durations)
-{
-	for (int duration : durations)
-	{
-		fout << duration << '\n';
-	}
-}
-
 static Polygon extractPolygon(const int stationNum)
 {
 	const std::string readFilePath = generateReadFilePath(stationNum);

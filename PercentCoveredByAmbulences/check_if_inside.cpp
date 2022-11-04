@@ -1,8 +1,6 @@
 #include "check_if_inside.h"
 #include <algorithm>
 
-static const double SMOL = 0.000001;
-
 static struct Line {
 	Point p1, p2;
 };
@@ -19,17 +17,17 @@ static bool onLine(const Line l1, const Point p)
 	return false;
 }
 
-static int direction(const Point a, const Point b, const Point c)
+int calculateDirection(const Point a, const Point b, const Point c)
 {
 	double val = (b.lat - a.lat) * (c.lon - b.lon)
 		- (b.lon - a.lon) * (c.lat - b.lat);
 
-	if (val < SMOL && val > -SMOL)
+	if (val == 0)
 
 		// Colinear
 		return 0;
 
-	else if (val <= -SMOL)
+	else if (val < 0)
 
 		// Anti-clockwise direction
 		return 2;
@@ -41,10 +39,10 @@ static int direction(const Point a, const Point b, const Point c)
 static bool isIntersect(const Line l1, const Line l2)
 {
 	// Four direction for two lines and points of other line
-	int dir1 = direction(l1.p1, l1.p2, l2.p1);
-	int dir2 = direction(l1.p1, l1.p2, l2.p2);
-	int dir3 = direction(l2.p1, l2.p2, l1.p1);
-	int dir4 = direction(l2.p1, l2.p2, l1.p2);
+	int dir1 = calculateDirection(l1.p1, l1.p2, l2.p1);
+	int dir2 = calculateDirection(l1.p1, l1.p2, l2.p2);
+	int dir3 = calculateDirection(l2.p1, l2.p2, l1.p1);
+	int dir4 = calculateDirection(l2.p1, l2.p2, l1.p2);
 
 	// When intersecting
 	if (dir1 != dir2 && dir3 != dir4)
@@ -76,7 +74,7 @@ bool checkIfInside(const Polygon& poly, const Point p)
 		return false;
 
 	// Create a point at infinity, y is same as point p
-	Line exline = { p, { 0, p.lat } };
+	Line exline = { p, { 181, p.lat } };
 	int count = 0;
 	int i = 0;
 	do {
@@ -85,7 +83,7 @@ bool checkIfInside(const Polygon& poly, const Point p)
 		Line side = { poly[i], poly[(i + 1) % poly.size()]};
 		if (isIntersect(side, exline)) {
 			// If side is intersects exline
-			if (direction(side.p1, p, side.p2) == 0)
+			if (calculateDirection(side.p1, p, side.p2) == 0)
 				return onLine(side, p);
 			count++;
 		}

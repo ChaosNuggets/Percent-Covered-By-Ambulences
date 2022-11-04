@@ -55,7 +55,7 @@ static std::pair<long double, int> calculateCoverage()
 
 int main()
 {
-    fillPoints(true);
+    fillPoints();
     extractPolygons();
 
     for (int i = 0; i < stationCoordinates.size(); i++)
@@ -71,26 +71,26 @@ int main()
     std::cout << std::setprecision(10);
     std::cout << "Coverage: " << coverage * 100 << "% (" << pointsCovered << '/' << totalPoints << ")\n";
 
-    //// Print Indiana point map
-    //for (int i = points.size() - 1; i >= 0; i--)
-    //{
-    //    for (uint8_t point : points[i])
-    //    {
-    //        if (point == 1)
-    //        {
-    //            std::cout << 'O';
-    //        }
-    //        else if (point == 2)
-    //        {
-    //            std::cout << '.';
-    //        }
-    //        else
-    //        {
-    //            std::cout << ' ';
-    //        }
-    //    }
-    //    std::cout << '\n';
-    //}
+    // Print Indiana point map
+    for (int i = points.size() - 1; i >= 0; i--)
+    {
+        for (uint8_t point : points[i])
+        {
+            if (point == 1)
+            {
+                std::cout << 'O';
+            }
+            else if (point == 2)
+            {
+                std::cout << '.';
+            }
+            else
+            {
+                std::cout << ' ';
+            }
+        }
+        std::cout << '\n';
+    }
 
     std::cout << "Press enter to exit";
     std::cin.ignore();

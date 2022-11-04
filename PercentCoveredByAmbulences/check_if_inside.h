@@ -5,6 +5,7 @@
 #include "polygon.h"
 #include <vector>
 
+int calculateDirection(const Point a, const Point b, const Point c);
 bool checkIfInside(const Polygon& poly, const Point p);
 
 #endif

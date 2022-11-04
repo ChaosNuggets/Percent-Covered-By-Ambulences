@@ -7,8 +7,8 @@
 #include <cmath>
 
 std::vector<std::vector<uint8_t>> points; // The point map, true if active and false if not active (all the points in Indiana start as true)
-int totalPoints; // The total number of points in Indiana
 
+// What a value represents in the point map
 const int OUTSIDE = 0;
 const int NOT_COVERED = 1;
 const int COVERED = 2;
@@ -48,7 +48,7 @@ Point indexToCoord(const Index& index)
     return { latitude, longitude };
 }
 
-void fillPoints(bool countPoints)
+void fillPoints()
 {
     // Resizes points to be a 2d matrix of points of size latSize by longSize
     points.resize(LAT_SIZE, std::vector<uint8_t>(LONG_SIZE, OUTSIDE));
@@ -93,10 +93,6 @@ void fillPoints(bool countPoints)
             if (checkIfInside(indianaBorder, p))
             {
                 points[i][j] = NOT_COVERED;
-                if (countPoints)
-                {
-                    totalPoints++;
-                }
             }
         }
     }
