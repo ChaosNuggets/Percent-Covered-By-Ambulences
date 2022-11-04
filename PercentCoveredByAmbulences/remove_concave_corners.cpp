@@ -60,13 +60,6 @@ void removeConcaveCorners(Polygon& polygon)
 		{
 			polygon.erase(polygon.begin() + indexesToRemove[i]);
 		}
-
-		for (const Point& point : polygon)
-		{
-			std::cout << '[' << point.lon << ',' << point.lat << "],";
-		}
-		std::cout << "\n\n";
-
 	} while (!isConvex);
 }
 
