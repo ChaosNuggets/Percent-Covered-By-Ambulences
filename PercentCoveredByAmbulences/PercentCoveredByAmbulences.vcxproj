@@ -150,7 +150,7 @@
     <ClCompile Include="calculate_distance.cpp" />
     <ClCompile Include="main_test.cpp" />
     <ClCompile Include="check_if_inside.cpp" />
-    <ClCompile Include="remove_inside_corners.cpp" />
+    <ClCompile Include="remove_concave_corners.cpp" />
     <ClCompile Include="station_coordinates.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -164,7 +164,7 @@
     <ClInclude Include="polygon.h" />
     <ClInclude Include="index.h" />
     <ClInclude Include="point.h" />
-    <ClInclude Include="remove_inside_corners.h" />
+    <ClInclude Include="remove_concave_corners.h" />
     <ClInclude Include="station_coordinates.h" />
     <ClInclude Include="point_map.h" />
   </ItemGroup>

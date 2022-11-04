@@ -52,11 +52,6 @@ void fillPoints()
 {
     // Resizes points to be a 2d matrix of points of size latSize by longSize
     points.resize(LAT_SIZE, std::vector<uint8_t>(LONG_SIZE, OUTSIDE));
-    
-    if (countPoints)
-    {
-        totalPoints = 0;
-    }
 
     // These are the coordinates of vertexes of the polygon that make up the Indiana border
     const Polygon indianaBorder =
