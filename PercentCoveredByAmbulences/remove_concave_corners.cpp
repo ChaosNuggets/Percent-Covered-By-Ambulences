@@ -49,7 +49,7 @@ void removeConcaveCorners(Polygon& polygon)
 			const int startInd = prevIndex(i, polygon.size()); // The index of the point before i
 			const int endInd = nextIndex(i, polygon.size()); // The index of the point after i
 			const int pointDirection = calculateDirection(polygon[startInd], polygon[i], polygon[endInd]);
-			if (pointDirection != polygonDirection)
+			if (pointDirection != polygonDirection && pointDirection != 0)
 			{
 				indexesToRemove.push_back(i);
 				isConvex = false;

@@ -1,1 +1,33 @@
-{"features":[{"properties":{"fill":"#bf4040","fillOpacity":0.33,"fill-opacity":0.33,"fillColor":"#bf4040","color":"#bf4040","contour":5,"opacity":0.33,"metric":"time"},"geometry":{"coordinates":[[-86.6674,40.3759],[-86.7044,40.3732],[-86.7308,40.3673],[-86.7314,40.3669],[-86.7145,40.3449],[-86.6806,40.3159],[-86.6744,40.3127],[-86.6404,40.3116],[-86.5965,40.3439],[-86.5984,40.3452],[-86.6364,40.3632],[-86.6554,40.3714]],"type":"LineString"},"type":"Feature"}],"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "properties": {
+        "fill": "#bf4040",
+        "fillOpacity": 0.33,
+        "fill-opacity": 0.33,
+        "fillColor": "#bf4040",
+        "color": "#bf4040",
+        "contour": 5,
+        "opacity": 0.33,
+        "metric": "time"
+      },
+      "geometry": {
+        "coordinates": [
+          [ -86.6644, 40.3869 ],
+          [ -86.7308, 40.3673 ],
+          [ -86.7314, 40.3669 ],
+          [ -86.7145, 40.3449 ],
+          [ -86.6806, 40.3159 ],
+          [ -86.6744, 40.3127 ],
+          [ -86.6404, 40.3116 ],
+          [ -86.5965, 40.3439 ],
+          [ -86.5984, 40.3452 ],
+          [ -86.6644, 40.3869 ]
+        ],
+        "type": "LineString"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
