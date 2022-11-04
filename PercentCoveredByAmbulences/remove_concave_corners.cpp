@@ -28,12 +28,6 @@ static int calculateDirection(const Polygon& polygon)
 
 void removeConcaveCorners(Polygon& polygon)
 {
-	// If the polygon has less than 4 vertexes then it already has all the inside corners removed
-	if (polygon.size() < 4)
-	{
-		return;
-	}
-
 	int polygonDirection = calculateDirection(polygon);
 	if (polygonDirection == 0)
 	{
