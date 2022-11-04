@@ -65,7 +65,7 @@ void removeConcaveCorners(Polygon& polygon)
 			middleInd = prevIndex(middleInd, polygon.size());
 			pointDirection = calculateDirection(polygon[startInd], polygon[middleInd], polygon[endInd]);
 		}
-		int startRemove = middleInd;
+		int startRemove = nextIndex(middleInd, polygon.size());
 
 		startInd = prevIndex(i, polygon.size()); // The index of the point before i
 		middleInd = i; // The index of the point at i
