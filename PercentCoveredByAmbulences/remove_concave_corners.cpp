@@ -26,20 +26,6 @@ static int calculateDirection(const Polygon& polygon)
 	return 1; // CW
 }
 
-
-static void removeIndexes(Polygon& polygon, const int start, const int end)
-{
-	if (start < end)
-	{
-		polygon.erase(polygon.begin() + start, polygon.begin() + end);
-	}
-	else
-	{
-		polygon.erase(polygon.begin() + start, polygon.end());
-		polygon.erase(polygon.begin(), polygon.begin() + end);
-	}
-}
-
 void removeConcaveCorners(Polygon& polygon)
 {
 	// If the polygon has less than 4 vertexes then it already has all the inside corners removed
@@ -53,38 +39,22 @@ void removeConcaveCorners(Polygon& polygon)
 	{
 		throw std::runtime_error("The polygon is colinear????");
 	}
-	for (int i = 0; i < 3/*polygon.size()*/; i++)
+	bool isConvex;
+	do
 	{
-		int startInd = prevIndex(i, polygon.size()); // The index of the point before i
-		int middleInd = i; // The index of the point at i
-		int endInd = nextIndex(i, polygon.size()); // The index of the point after i
-		int pointDirection = calculateDirection(polygon[startInd], polygon[middleInd], polygon[endInd]);
-		while (pointDirection != polygonDirection)
+		isConvex = true;
+		for (int i = 0; i < polygon.size(); i++)
 		{
-			startInd = prevIndex(startInd, polygon.size());
-			middleInd = prevIndex(middleInd, polygon.size());
-			pointDirection = calculateDirection(polygon[startInd], polygon[middleInd], polygon[endInd]);
+			const int startInd = prevIndex(i, polygon.size()); // The index of the point before i
+			const int endInd = nextIndex(i, polygon.size()); // The index of the point after i
+			const int pointDirection = calculateDirection(polygon[startInd], polygon[i], polygon[endInd]);
+			if (pointDirection != polygonDirection)
+			{
+				polygon.erase(polygon.begin() + i);
+				isConvex = false;
+			}
 		}
-		int startRemove = nextIndex(middleInd, polygon.size());
-
-		startInd = prevIndex(i, polygon.size()); // The index of the point before i
-		middleInd = i; // The index of the point at i
-		endInd = nextIndex(i, polygon.size()); // The index of the point after i
-		pointDirection = calculateDirection(polygon[startInd], polygon[middleInd], polygon[endInd]);
-		while (pointDirection != polygonDirection)
-		{
-			middleInd = nextIndex(middleInd, polygon.size());
-			endInd = nextIndex(endInd, polygon.size());
-			pointDirection = calculateDirection(polygon[startInd], polygon[middleInd], polygon[endInd]);
-		}
-		int endRemove = middleInd;
-
-		std::cout << "removing: " << startRemove << " to " << endRemove << '\n';
-		std::cout << "startRemove: " << polygon[startRemove].lat << ',' << polygon[startRemove].lon << '\n';
-		std::cout << "endRemove: " << polygon[endRemove].lat << ',' << polygon[endRemove].lon << '\n';
-
-		removeIndexes(polygon, startRemove, endRemove);
-	}
+	} while (!isConvex);
 }
 
 void removeConcaveCorners(std::vector<Polygon>& polygons)
