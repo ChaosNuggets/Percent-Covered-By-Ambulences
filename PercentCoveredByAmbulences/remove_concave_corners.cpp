@@ -51,6 +51,7 @@ void removeConcaveCorners(Polygon& polygon)
 			if (pointDirection != polygonDirection)
 			{
 				polygon.erase(polygon.begin() + i);
+				i--;
 				isConvex = false;
 			}
 		}
