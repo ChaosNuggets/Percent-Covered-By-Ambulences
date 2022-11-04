@@ -3,7 +3,6 @@
 
 #include "polygon.h"
 
-void removeConcaveCorners(std::vector<Polygon>& polygons);
 void removeConcaveCorners(Polygon& polygon);
 
 #endif
