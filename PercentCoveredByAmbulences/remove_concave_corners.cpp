@@ -53,7 +53,7 @@ void removeConcaveCorners(Polygon& polygon)
 	{
 		throw std::runtime_error("The polygon is colinear????");
 	}
-	for (int i = 0; i < polygon.size(); i++)
+	for (int i = 0; i < 1/*polygon.size()*/; i++)
 	{
 		int startInd = prevIndex(i, polygon.size()); // The index of the point before i
 		int middleInd = i; // The index of the point at i
@@ -77,7 +77,11 @@ void removeConcaveCorners(Polygon& polygon)
 			endInd = nextIndex(endInd, polygon.size());
 			pointDirection = calculateDirection(polygon[startInd], polygon[middleInd], polygon[endInd]);
 		}
-		int endRemove = endInd;
+		int endRemove = middleInd;
+
+		std::cout << "removing: " << startRemove << " to " << endRemove << '\n';
+		std::cout << "startRemove: " << polygon[startRemove].lat << ',' << polygon[startRemove].lon << '\n';
+		std::cout << "endRemove: " << polygon[endRemove].lat << ',' << polygon[endRemove].lon << '\n';
 
 		removeIndexes(polygon, startRemove, endRemove);
 	}
