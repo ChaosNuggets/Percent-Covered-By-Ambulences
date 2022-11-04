@@ -43,6 +43,7 @@ void removeConcaveCorners(Polygon& polygon)
 	do
 	{
 		isConvex = true;
+		std::vector<int> indexesToRemove;
 		for (int i = 0; i < polygon.size(); i++)
 		{
 			const int startInd = prevIndex(i, polygon.size()); // The index of the point before i
@@ -50,10 +51,14 @@ void removeConcaveCorners(Polygon& polygon)
 			const int pointDirection = calculateDirection(polygon[startInd], polygon[i], polygon[endInd]);
 			if (pointDirection != polygonDirection)
 			{
-				polygon.erase(polygon.begin() + i);
-				i--;
+				indexesToRemove.push_back(i);
 				isConvex = false;
 			}
+		}
+
+		for (int i = indexesToRemove.size() - 1; i >= 0; i--)
+		{
+			polygon.erase(polygon.begin() + indexesToRemove[i]);
 		}
 
 		for (const Point& point : polygon)
