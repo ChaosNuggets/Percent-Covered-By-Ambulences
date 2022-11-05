@@ -1,7 +1,6 @@
 #include "remove_concave_corners.h"
 #include "check_if_inside.h"
-
-#include <iostream>
+#include <stdexcept>
 
 static constexpr int prevIndex(const int index, const int size)
 {
@@ -26,7 +25,7 @@ static int calculateDirection(const Polygon& polygon)
 	return 1; // CW
 }
 
-void removeConcaveCorners(Polygon& polygon)
+static void removeConcaveCorners(Polygon& polygon)
 {
 	int polygonDirection = calculateDirection(polygon);
 	if (polygonDirection == 0)

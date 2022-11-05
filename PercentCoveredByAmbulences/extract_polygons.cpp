@@ -1,10 +1,9 @@
 // This program extracts data from the json files
 #include <fstream>
 #include "station_coordinates.h"
-#include <string>
-#include <iostream>
 #include <vector>
 #include <ctype.h>
+#include <string>
 #include "extract_polygons.h"
 
 std::vector<Polygon> isochrones;
