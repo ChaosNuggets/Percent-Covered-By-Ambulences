@@ -17,9 +17,13 @@ static void writePolygons()
     {
         std::ofstream fout(generateFilePath(i));
         fout << "{\"features\":[{\"properties\":{\"fill\":\"#bf4040\",\"fillOpacity\":0.33,\"fill - opacity\":0.33,\"fillColor\":\"#bf4040\",\"color\":\"#bf4040\",\"contour\":5,\"opacity\":0.33,\"metric\":\"time\"},\"geometry\":{\"coordinates\":[";
-        for (const Point& point : isochrones[i])
+        for (int j = 0; j < isochrones[i].size(); j++)
         {
-            fout << '[' << point.lon << ',' << point.lat << "],";
+            fout << '[' << isochrones[i][j].lon << ',' << isochrones[i][j].lat << ']';
+            if (j < isochrones[i].size() - 1)
+            {
+                fout << ',';
+            }
         }
         fout << "],\"type\":\"LineString\"},\"type\":\"Feature\"}],\"type\":\"FeatureCollection\"}";
         fout.close();
