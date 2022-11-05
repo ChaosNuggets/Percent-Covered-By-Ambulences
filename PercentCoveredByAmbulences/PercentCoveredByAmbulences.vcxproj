@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="get_api_data.cpp" />
+    <ClCompile Include="main_clean_isochrones.cpp" />
     <ClCompile Include="point_map.cpp" />
     <ClCompile Include="constants.cpp" />
     <ClCompile Include="main_download_data.cpp" />

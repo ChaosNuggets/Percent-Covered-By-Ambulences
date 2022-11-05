@@ -54,6 +54,9 @@
     <ClCompile Include="remove_concave_corners.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main_clean_isochrones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h">
