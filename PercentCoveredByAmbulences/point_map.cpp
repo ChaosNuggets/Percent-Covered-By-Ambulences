@@ -11,7 +11,7 @@ std::vector<std::vector<uint8_t>> points; // The point map, true if active and f
 // What a value represents in the point map
 const int OUTSIDE = 0;
 const int NOT_COVERED = 1;
-const int COVERED = 2;
+const int COVERED_BY_AMBULANCE = 2;
 
 Index coordToIndex(const Point& coordinate, funcPtr roundFunc)
 {
@@ -19,7 +19,9 @@ Index coordToIndex(const Point& coordinate, funcPtr roundFunc)
 
     // Calculate the coordinate's difference in miles from LOWEST_LAT and LOWEST_LONG
     const double latMileDifference = (latitude - LOWEST_LAT) / LAT_IN_1_MILE;
-    const double longMileDifference = calculateDistance({ latitude, LOWEST_LONG }, {latitude, longitude});
+    double longMileDifference = calculateDistance({ latitude, LOWEST_LONG }, {latitude, longitude});
+
+    if (longitude < LOWEST_LONG) longMileDifference *= -1;
 
     // Round the difference so it's an integer
     int latIndex = roundFunc(latMileDifference / MILES_BETWEEN_POINTS); // Also why is round not constexpr aaaaa

@@ -10,10 +10,10 @@
 #include "check_if_inside.h"
 #include "remove_concave_corners.h"
 
-static bool setPoints(const int stationNum)
+static void changePointsAmbulance(const int stationNum)
 {
     // Extract the indexes of the box corners
-    const auto [lowCorner, highCorner] = getTestIndexBounds(stationCoordinates[stationNum], BOX_RADIUS);
+    const auto [lowCorner, highCorner] = getTestIndexBounds(stationCoordinates[stationNum], AMBULANCE_BOX_RADIUS);
     const auto [lowLatIndex, lowLongIndex] = lowCorner;
     const auto [highLatIndex, highLongIndex] = highCorner;
 
@@ -21,14 +21,27 @@ static bool setPoints(const int stationNum)
     {
         for (int j = lowLongIndex; j <= highLongIndex; j++)
         {
+            if (points[i][j] == OUTSIDE)
+            {
+                continue;
+            }
+
             Point testPoint = indexToCoord({ i, j });
+
             if (checkIfInside(isochrones[stationNum], testPoint))
             {
-                points[i][j] = COVERED;
+                points[i][j] = COVERED_BY_AMBULANCE;
             }
         }
     }
-    return true;
+}
+
+static void changePointsAmbulance()
+{
+    for (int i = 0; i < stationCoordinates.size(); i++)
+    {
+        changePointsAmbulance(i);
+    }
 }
 
 static std::tuple<long double, int, int> calculateCoverage()
@@ -39,13 +52,13 @@ static std::tuple<long double, int, int> calculateCoverage()
     {
         for (int j = 0; j < LONG_SIZE; j++)
         {
-            if (points[i][j] == COVERED)
+            if (points[i][j] == NOT_COVERED)
             {
-                pointsCovered++;
                 pointsTotal++;
             }
-            else if (points[i][j] == NOT_COVERED)
+            else if (points[i][j] == COVERED_BY_AMBULANCE)
             {
+                pointsCovered++;
                 pointsTotal++;
             }
         }
@@ -54,47 +67,48 @@ static std::tuple<long double, int, int> calculateCoverage()
     return { coverage, pointsCovered, pointsTotal };
 }
 
+static void printCoverage(const long double coverage, const int pointsCovered, const int pointsTotal)
+{
+    std::cout << std::setprecision(10);
+    std::cout << "Coverage: " << coverage * 100 << '%';
+    std::cout << " (" << pointsCovered << '/' << pointsTotal << ')';
+    std::cout << '\n';
+}
+
+static void printPointMap()
+{
+    for (int i = points.size() - 1; i >= 0; i--)
+    {
+        for (uint8_t point : points[i])
+        {
+            if (point == NOT_COVERED)
+            {
+                std::cout << 'O';
+            }
+            else if (point == COVERED_BY_AMBULANCE)
+            {
+                std::cout << '.';
+            }
+            else
+            {
+                std::cout << ' ';
+            }
+        }
+        std::cout << '\n';
+    }
+}
+
 int main()
 {
-    fillPoints();
     extractPolygons();
     removeConcaveCorners(isochrones);
+    fillPoints();
 
-    for (int i = 0; i < stationCoordinates.size(); i++)
-    {
-        bool success = setPoints(i);
-        if (!success)
-        {
-            return 1;
-        }
-	}
-    // Calculate and print coverage
-    auto [coverage, pointsCovered, pointsTotal] = calculateCoverage();
-    std::cout << std::setprecision(10);
-    std::cout << "Coverage: " << coverage * 100 << "% (" << pointsCovered << '/' << pointsTotal << ")\n";
+    changePointsAmbulance();
+    const auto [coverage, pointsCovered, pointsTotal] = calculateCoverage();
 
-    //// Print Indiana point map
-    //for (int i = points.size() - 1; i >= 0; i--)
-    //{
-    //    for (uint8_t point : points[i])
-    //    {
-    //        if (point == 1)
-    //        {
-    //            std::cout << 'O';
-    //        }
-    //        else if (point == 2)
-    //        {
-    //            std::cout << '.';
-    //        }
-    //        else
-    //        {
-    //            std::cout << ' ';
-    //        }
-    //    }
-    //    std::cout << '\n';
-    //}
+    printCoverage(coverage, pointsCovered, pointsTotal);
+    printPointMap();
 
-    std::cout << "Press enter to exit";
-    std::cin.ignore();
     return 0;
 }
